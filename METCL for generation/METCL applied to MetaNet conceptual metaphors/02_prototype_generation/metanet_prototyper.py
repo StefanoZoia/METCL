@@ -9,6 +9,8 @@ import math
 import os
 import json
 from nltk.stem import WordNetLemmatizer
+import nltk
+nltk.download('wordnet')
 
 
 # compute a score for the relation

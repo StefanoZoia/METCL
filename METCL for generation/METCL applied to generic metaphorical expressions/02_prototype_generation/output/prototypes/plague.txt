@@ -1,0 +1,8 @@
+epidemic_disease: 0.903
+calamity: 0.841
+bacterial_infection: 0.838
+annoyance: 0.815
+disease: 0.81
+kill_large_numbers_of_civilians: 0.802
+pathology: 0.766
+deadly_desease: 0.758

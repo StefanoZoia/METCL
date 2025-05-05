@@ -1,0 +1,8 @@
+-need: 0.879
+demand: 0.856
+be: 0.839
+miss: 0.828
+search: 0.818
+buy_for_loved_one: 0.756
+-refuse: 0.756
+mining: 0.742

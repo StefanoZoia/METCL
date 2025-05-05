@@ -1,0 +1,8 @@
+virus: 0.881
+cause_person_to_hoarse: 0.846
+happen_to_animal: 0.842
+suffering: 0.838
+defectiveness: 0.834
+-health: 0.809
+-healthiness: 0.765
+-healthy: 0.737

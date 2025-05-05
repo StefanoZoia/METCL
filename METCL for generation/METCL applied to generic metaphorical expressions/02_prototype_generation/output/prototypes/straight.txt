@@ -1,0 +1,8 @@
+-crooked: 0.826
+-turn: 0.817
+-gay: 0.806
+poker_hand: 0.805
+-curved: 0.797
+-bent: 0.779
+-sinuous: 0.771
+fashion: 0.767

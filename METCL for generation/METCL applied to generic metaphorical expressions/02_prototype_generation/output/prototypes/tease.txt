@@ -1,0 +1,8 @@
+disappoint: 0.882
+arouse: 0.868
+brush: 0.859
+ridicule: 0.85
+torment: 0.847
+mock: 0.844
+comb: 0.83
+disentangle: 0.825

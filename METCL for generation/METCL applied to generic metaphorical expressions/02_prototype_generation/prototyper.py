@@ -8,6 +8,8 @@ import cn_rel_getter as rel
 import math
 import os
 from nltk.stem import WordNetLemmatizer
+import nltk
+nltk.download('wordnet')
 
 
 # compute a score for the relation

@@ -1,0 +1,8 @@
+attacker: 0.819
+corner: 0.812
+push_around: 0.806
+call_names: 0.804
+hood: 0.799
+school: 0.795
+person: 0.791
+needle_weakling: 0.79

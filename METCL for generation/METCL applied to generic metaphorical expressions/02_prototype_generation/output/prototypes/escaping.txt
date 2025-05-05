@@ -1,0 +1,4 @@
+avoiding_undesirable_consequences: 0.883
+jumping_out_of_window: 0.775
+departure: 0.76
+running: 0.743

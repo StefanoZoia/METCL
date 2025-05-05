@@ -1,0 +1,8 @@
+shackle: 0.8001
+padlock: 0.783
+restrain: 0.7794
+-unshackle: 0.7704
+fetter: 0.7659
+restraint: 0.7595999999999999
+bar: 0.7551
+-free: 0.7110000000000001

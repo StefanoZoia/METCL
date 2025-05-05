@@ -7,7 +7,7 @@ from scipy import stats
 import os
 import json
 
-FOLDERS = ["lexicalized_metaphors/04_evaluation/output", "conceptual_metaphors/04_evaluation/output"]
+FOLDERS = ["Conceptual metaphors version results/output", "Lexicalized metaphors version results/output"]
 
 # read the overall.json files of the specified folders
 def read_from_folders(folders_list):

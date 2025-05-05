@@ -1,0 +1,8 @@
+ride: 0.911
+riding: 0.892
+horse: 0.89
+saddlery: 0.881
+riding_horses: 0.862
+riding_horse: 0.862
+riding_donkey: 0.862
+mule: 0.855

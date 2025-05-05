@@ -45,11 +45,11 @@ Prototypes of each concept involved in some metaphor
 
 ### How to run
 
-To run the retrieval of relation from ConceptNet: python3 metanet_cn_rel.py
+To run the retrieval of relation from ConceptNet: python metanet_cn_rel.py
 
 - please, note that the execution may require some time, needed to query the ConceptNet Knowledge Base
 
-To run the generation of prototypes of concepts: python3 metanet_prototyper.py
+To run the generation of prototypes of concepts: python metanet_prototyper.py
 
 ### Configuration
 
@@ -58,7 +58,7 @@ In particular, the configuration for metanet_prototyper.py specifies how to filt
 
 ### Libraries
 
-nltk is used for lemmatization
+nltk is used for lemmatization, requests is used to query ConceptNet
 
 ---
 
@@ -82,11 +82,11 @@ Prototypes of the combined metaphorical concepts.
 
 ### How to run
 
-To run the generation of the input file for METCL: python3 cocos_preprocessing.py
+To run the generation of the input file for METCL: python cocos_preprocessing.py
 
 - the preprocessing step writes the prototypes of each couple of concepts involved in a metaphor into a suitable file
 
-To run the conceptual combination with METCL: python3 cocos.py
+To run the conceptual combination with METCL: python cocos.py
 
 - This runs the combination on all the files in a specified folder.
 - To run on a single file, simply call the cocos() function. The function takes the file name as the first parameter and the maximum number of properties in the resulting concept as a second (optional) parameter.

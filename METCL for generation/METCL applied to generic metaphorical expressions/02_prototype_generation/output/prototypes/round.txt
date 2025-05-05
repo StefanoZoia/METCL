@@ -1,0 +1,8 @@
+planet_earth: 0.878
+dartboards: 0.847
+shape: 0.839
+applause: 0.838
+circles: 0.835
+circle: 0.833
+ammunition: 0.833
+form: 0.821

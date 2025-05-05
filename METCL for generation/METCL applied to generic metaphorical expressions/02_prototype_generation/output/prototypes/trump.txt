@@ -1,0 +1,8 @@
+suit: 0.833
+card_game: 0.83
+announce: 0.808
+playing_card: 0.807
+cards: 0.804
+sound: 0.803
+move: 0.788
+childish: 0.761

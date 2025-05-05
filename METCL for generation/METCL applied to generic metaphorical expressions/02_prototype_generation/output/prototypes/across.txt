@@ -1,0 +1,8 @@
+crosswords: 0.813
+-along: 0.792
+-down: 0.775
+southern_us: 0.758
+-parallel: 0.753
+-crossword_down: 0.723
+-crossword: 0.723
+-diagonal: 0.682

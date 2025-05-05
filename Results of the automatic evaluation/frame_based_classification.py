@@ -6,9 +6,9 @@ from nltk.stem import WordNetLemmatizer
 CORPUS = "metanet_examples"
 # CORPUS = "nn450"
 BATCH_START = 0
-BATCH_END = 100
+BATCH_END = 853
 
-OUTPUT_FILE_NAME = f"output/{CORPUS}_frame_based_{BATCH_START}_{BATCH_END}"
+OUTPUT_FILE_NAME = f"frame-based-baseline-out/{CORPUS}_frame_based_{BATCH_START}_{BATCH_END}"
 
 
 # Data retrieval
@@ -78,7 +78,7 @@ def retrieve_lus(frame, max_depth=1):
     return lex_units_set
 
 def load_mn_data():
-    frames_evoked_by = dict()    #TODO: trattare correttamente parentesi quadre/tonde e LUs con più termini (e quindi più POS tags)
+    frames_evoked_by = dict()   
     metaphors_with_frame = {
         "source": dict(),
         "target": dict()

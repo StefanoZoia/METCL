@@ -1,0 +1,6 @@
+beat: 0.856
+-underpower: 0.803
+-counterbalance: 0.782
+conquer_nation: 0.759
+video_games: 0.735
+destroy_enemy: 0.705

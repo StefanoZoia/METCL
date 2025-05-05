@@ -25,8 +25,7 @@ In the second main folder of the repository "Results of the automatic evaluation
 1. Inside the METCL for generation folder, create a python venv with `python -m venv .venv`
 2. If the venv is not already active, activate it with `.venv/Scripts/activate`
 3. Install the required dependencies with `pip install -r requirements.txt`
-4. Open the file you wanna run. At the top, there should be some global variables with the indication "CHANGE HERE". Set the values of those variables to decide what the script will do. Each file contains all the necessesary informations.
-5. Run the desidered file with `py [desiderd_file_name].py`
+4. You can now run METCL
 
 ### Contacts
 

@@ -1,0 +1,8 @@
+fighting: 0.941
+fight: 0.917
+battle: 0.915
+war: 0.895
+fighting_war: 0.89
+fight_between_enemies: 0.861
+winning_war: 0.858
+battlefield: 0.839

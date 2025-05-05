@@ -1,0 +1,8 @@
+squash: 0.8513999999999999
+squash_court: 0.7731
+sport: 0.7713
+vegetable: 0.7704
+edible: 0.7497
+farmer's_market: 0.7398
+vine: 0.7353
+press: 0.7281000000000001

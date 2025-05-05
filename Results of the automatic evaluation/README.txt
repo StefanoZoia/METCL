@@ -37,7 +37,7 @@ under the "Parameters Setting" comment. The parameters defined there specify:
 - BATCH_START and BATCH_END: the indexes of the sentences to classify. The default values are 0 and 450 for NN450; 0 and 853 for MetaNet examples.
 
 Run using the command:
-python3 zero_shot_classify.py
+python zero_shot_classify.py
 
 For the few-shot classification, the H_TEMPLATE parameter id substituted by:
 - TEMPLATE: the template of the prompt given to the model. Leave unchanged if you want to repeat the experiment.
@@ -46,7 +46,7 @@ The other parameters are used as in the zero-shot setting, except for:
 - TOKEN: your HuggingFace token (required to access some models)
 
 In this case, run using the command:
-python3 prompt_classify.py
+python prompt_classify.py
 
 
 

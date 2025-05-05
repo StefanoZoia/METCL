@@ -1,0 +1,8 @@
+footrace: 0.898
+race: 0.847
+endurance_event: 0.846
+one_kind_of_human_competition: 0.822
+undertaking: 0.818
+greece: 0.802
+olympic_event: 0.795
+great_distance: 0.791
