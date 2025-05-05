@@ -2,11 +2,11 @@
 
 ### Description
 
-This repository contains the data and the code described in the paper ["The Delta of Thought: Channeling Rivers of Commonsense Knowledge in the Sea of Metaphorical Interpretations"](https://github.com/StefanoZoia/METCL/blob/main/IJCAI__25_Lieto_Pozzato_Zoia.pdf) by Lieto, Pozzato and Zoia, to appear in Proceedings of the 34th International Joint Conference on Artificial Intelligence (IJCAI 2025), 16-22 August, Montreal, Canada. 
+This repository contains the data and the code described in the paper ["The Delta of Thought: Channeling Rivers of Commonsense Knowledge in the Sea of Metaphorical Interpretations"](https://github.com/StefanoZoia/METCL/blob/main/IJCAI__25_Lieto_Pozzato_Zoia.pdf) by Antonio Lieto, Gian Luca Pozzato and Stefano Zoia, to appear in Proceedings of the 34th International Joint Conference on Artificial Intelligence (IJCAI 2025), 16-22 August, Montreal, Canada. 
 
 ### Directory structure
 
-You find two main folders called: "METCL for generation" and "Results of the automatic evaluation"
+Once dowloaded the repositoty, you will find two main folders called: "METCL for generation" and "Results of the automatic evaluation"
 
 In the folder "METCL for generation", you can download and run the 2 versions of the METCL system used for the generation of metaphorical concepts by using the TCL reasoning framework by Lieto and Pozzato: https://www.tandfonline.com/doi/abs/10.1080/0952813X.2019.1672799. In both versions (described below), there are three modules: Dataset building, Prototype generation and Concept combination that need to be executed to run the system. Each version is provided with a dedicated README file that describes in detail how to run each step of the pipeline.
 
