@@ -1,0 +1,29 @@
+Title: legislation-prune
+
+Head Concept Name: legislation
+Modifier Concept Name: prune
+
+
+
+
+
+T(modifier), dried_plum, 0.918
+T(modifier), dried_fruit, 0.859
+T(modifier), plum, 0.836
+T(modifier), dried_food, 0.816
+T(modifier), horticulture, 0.797
+T(modifier), fiber_rich_food, 0.751
+T(modifier), living_thing, 0.747
+T(modifier), slang, 0.744
+
+T(head), legislation, 0.946
+T(head), law, 0.888
+T(head), statute_book, 0.888
+T(head), government, 0.838
+T(head), civil_law, 0.833
+T(head), stop_pollution, 0.802
+T(head), -jury, 0.582
+
+
+Result: {"dried_plum": 0.918, "dried_fruit": 0.859, "plum": 0.836, "legislation": 0.946, "law": 0.888, "statute_book": 0.888, "government": 0.838, "civil_law": 0.833, "@scenario_probability": 0.001711446694736115}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0.001711446694736115]

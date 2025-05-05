@@ -1,0 +1,19 @@
+Title: imposing-undermine
+
+Head Concept Name: imposing
+Modifier Concept Name: undermine
+
+
+
+
+
+T(modifier), -undergird, 0.825
+T(modifier), -assure, 0.729
+
+T(head), -mediocre, 0.691
+T(head), -commonplace, 0.666
+T(head), mathematics, 0.665
+
+
+Result: {"-undergird": 0.825, "-assure": 0.729, "-mediocre": 0.691, "-commonplace": 0.666, "@scenario_probability": 9.272109683924999}
+Scenario: [1, 1, 1, 1, 0, 9.272109683924999]

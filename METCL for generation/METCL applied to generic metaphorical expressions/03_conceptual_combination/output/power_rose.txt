@@ -1,0 +1,30 @@
+Title: power-rose
+
+Head Concept Name: power
+Modifier Concept Name: rose
+
+
+
+
+
+T(modifier), pink, 0.868
+T(modifier), red, 0.86
+T(modifier), flower_room, 0.854
+T(modifier), thorns, 0.837
+T(modifier), flower, 0.827
+T(modifier), shrub, 0.826
+T(modifier), garden, 0.796
+T(modifier), smell_nice, 0.786
+
+T(head), fleeting, 0.831
+T(head), physics, 0.809
+T(head), battery, 0.798
+T(head), physical_phenomenon, 0.796
+T(head), provide, 0.793
+T(head), causal_agent, 0.791
+T(head), quality, 0.789
+T(head), -impotence, 0.772
+
+
+Result: {"pink": 0.868, "red": 0.86, "flower_room": 0.854, "thorns": 0.837, "flower": 0.827, "shrub": 0.826, "fleeting": 0.831, "physics": 0.809, "@scenario_probability": 9.174787598641656e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 9.174787598641656e-05]

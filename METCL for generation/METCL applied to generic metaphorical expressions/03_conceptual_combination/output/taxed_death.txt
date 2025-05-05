@@ -1,0 +1,30 @@
+Title: taxed-death
+
+Head Concept Name: taxed
+Modifier Concept Name: death
+
+
+
+
+
+T(modifier), homicide, 0.891
+T(modifier), murder, 0.89
+T(modifier), inevitable, 0.887
+T(modifier), suicide, 0.886
+T(modifier), tragic, 0.872
+T(modifier), dying_of_blo, 0.857
+T(modifier), cyanide, 0.853
+T(modifier), rebirth, 0.844
+
+T(head), -untaxed, 0.876
+T(head), levy, 0.801
+T(head), charge, 0.756
+T(head), -income, 0.726
+T(head), determine, 0.718
+T(head), -subsidy, 0.709
+T(head), -rebate, 0.707
+T(head), -refund, 0.7
+
+
+Result: {"homicide": 0.891, "murder": 0.89, "inevitable": 0.887, "suicide": 0.886, "tragic": 0.872, "dying_of_blo": 0.857, "cyanide": 0.853, "-untaxed": 0.876, "@scenario_probability": 0.0005209841764123909}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0.0005209841764123909]

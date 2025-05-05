@@ -1,0 +1,30 @@
+Title: business-grow
+
+Head Concept Name: business
+Modifier Concept Name: grow
+
+
+
+
+
+T(modifier), grow, 0.946
+T(modifier), cultivate, 0.872
+T(modifier), increase, 0.872
+T(modifier), wait, 0.834
+T(modifier), farming, 0.83
+T(modifier), anonymous, 0.821
+T(modifier), change, 0.817
+T(modifier), -shrink, 0.815
+
+T(head), business, 0.946
+T(head), enterprise, 0.886
+T(head), business_activity, 0.879
+T(head), opening_early, 0.867
+T(head), making_money, 0.846
+T(head), selling_product, 0.846
+T(head), sector, 0.844
+T(head), business_district, 0.839
+
+
+Result: {"grow": 0.946, "cultivate": 0.872, "increase": 0.872, "business": 0.946, "enterprise": 0.886, "business_activity": 0.879, "opening_early": 0.867, "selling_product": 0.846, "@scenario_probability": 2.5711733256268497e-05}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 1, 0, 0, 2.5711733256268497e-05]

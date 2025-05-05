@@ -1,0 +1,29 @@
+Title: influence-peak
+
+Head Concept Name: influence
+Modifier Concept Name: peak
+
+
+
+
+
+T(modifier), top_of_mountain, 0.819
+T(modifier), topographic_point, 0.818
+T(modifier), ski_area, 0.813
+T(modifier), mle, 0.767
+T(modifier), geography, 0.746
+T(modifier), nautical, 0.742
+T(modifier), mathematics, 0.722
+
+T(head), affect, 0.87
+T(head), power, 0.849
+T(head), determinant, 0.84
+T(head), consequence, 0.832
+T(head), causing, 0.803
+T(head), electricity, 0.742
+T(head), fighting_inflation, 0.676
+T(head), getting_money_from, 0.659
+
+
+Result: {"top_of_mountain": 0.819, "topographic_point": 0.818, "ski_area": 0.813, "affect": 0.87, "power": 0.849, "determinant": 0.84, "consequence": 0.832, "causing": 0.803, "@scenario_probability": 0.002731782296393641}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.002731782296393641]

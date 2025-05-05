@@ -1,0 +1,26 @@
+Title: vanity-drove
+
+Head Concept Name: vanity
+Modifier Concept Name: drove
+
+
+
+
+
+T(modifier), crowd, 0.836
+T(modifier), chisel, 0.81
+T(modifier), animal_group, 0.804
+T(modifier), collective, 0.762
+
+T(head), worthlessness, 0.839
+T(head), pride, 0.826
+T(head), accompanies_arrogance, 0.805
+T(head), admiration_of_oneself, 0.759
+T(head), act_of_being_vain, 0.755
+T(head), musical_artist, 0.708
+T(head), earring, 0.686
+T(head), groom, 0.686
+
+
+Result: {"crowd": 0.836, "chisel": 0.81, "animal_group": 0.804, "collective": 0.762, "worthlessness": 0.839, "pride": 0.826, "accompanies_arrogance": 0.805, "admiration_of_oneself": 0.759, "@scenario_probability": 0.12390539393022204}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0.12390539393022204]

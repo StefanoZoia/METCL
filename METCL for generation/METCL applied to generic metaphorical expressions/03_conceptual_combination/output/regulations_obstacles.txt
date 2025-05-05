@@ -1,0 +1,29 @@
+Title: regulations-obstacles
+
+Head Concept Name: regulations
+Modifier Concept Name: obstacles
+
+
+
+
+
+T(modifier), hindrance, 0.826
+T(modifier), obstruction, 0.803
+T(modifier), trip_person, 0.707
+T(modifier), enduring_thing_localized, 0.682
+T(modifier), tangible_thing, 0.679
+T(modifier), hexalateral_object, 0.657
+T(modifier), tactical_area, 0.652
+
+T(head), rule, 0.795
+T(head), control, 0.751
+T(head), dominance, 0.746
+T(head), embryology, 0.741
+T(head), organic_process, 0.72
+T(head), genetics, 0.696
+T(head), european_union_law, 0.692
+T(head), medicine, 0.679
+
+
+Result: {"hindrance": 0.826, "obstruction": 0.803, "trip_person": 0.707, "rule": 0.795, "control": 0.751, "dominance": 0.746, "embryology": 0.741, "organic_process": 0.72, "@scenario_probability": 0.004080810733598462}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.004080810733598462]

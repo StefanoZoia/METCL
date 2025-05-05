@@ -1,0 +1,30 @@
+Title: ideas-live
+
+Head Concept Name: ideas
+Modifier Concept Name: live
+
+
+
+
+
+T(modifier), breathe, 0.906
+T(modifier), born, 0.897
+T(modifier), eat, 0.893
+T(modifier), breath, 0.883
+T(modifier), eat_food, 0.88
+T(modifier), eat_healthy, 0.855
+T(modifier), breath_and_eat, 0.855
+T(modifier), eat_healthy_foods, 0.855
+
+T(head), brain, 0.843
+T(head), divide_countries, 0.84
+T(head), intangible, 0.838
+T(head), simple, 0.838
+T(head), complex, 0.824
+T(head), change_world, 0.821
+T(head), bridge_gap, 0.803
+T(head), divide_nation, 0.794
+
+
+Result: {"breathe": 0.906, "born": 0.897, "eat": 0.893, "breath": 0.883, "eat_food": 0.88, "breath_and_eat": 0.855, "eat_healthy_foods": 0.855, "brain": 0.843, "@scenario_probability": 2.705156771197969e-05}
+Scenario: [1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 2.705156771197969e-05]

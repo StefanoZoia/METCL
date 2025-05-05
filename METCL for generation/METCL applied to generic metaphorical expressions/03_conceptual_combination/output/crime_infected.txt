@@ -1,0 +1,30 @@
+Title: crime-infected
+
+Head Concept Name: crime
+Modifier Concept Name: infected
+
+
+
+
+
+T(modifier), pollute, 0.78
+T(modifier), virus, 0.77
+T(modifier), affect, 0.765
+T(modifier), corrupt, 0.75
+T(modifier), -disinfect, 0.743
+T(modifier), give, 0.724
+T(modifier), -pure, 0.698
+T(modifier), cockney_rhyming_slang, 0.695
+
+T(head), crime, 0.946
+T(head), criminal_law, 0.865
+T(head), increasing, 0.848
+T(head), hate_crime, 0.843
+T(head), transgression, 0.841
+T(head), result_in_punishment, 0.836
+T(head), -good, 0.828
+T(head), activity, 0.806
+
+
+Result: {"pollute": 0.78, "crime": 0.946, "criminal_law": 0.865, "increasing": 0.848, "hate_crime": 0.843, "transgression": 0.841, "result_in_punishment": 0.836, "-good": 0.828, "@scenario_probability": 0.0004549297182929847}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.0004549297182929847]

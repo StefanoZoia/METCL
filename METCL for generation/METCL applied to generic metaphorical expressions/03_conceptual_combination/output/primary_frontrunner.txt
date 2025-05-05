@@ -1,0 +1,30 @@
+Title: primary-frontrunner
+
+Head Concept Name: primary
+Modifier Concept Name: frontrunner
+
+
+
+
+
+T(modifier), -rear, 0.812
+T(modifier), running, 0.79
+T(modifier), rival, 0.783
+T(modifier), athlete, 0.78
+T(modifier), trip_over, 0.778
+T(modifier), trip_himself, 0.778
+T(modifier), gain_ground, 0.767
+T(modifier), -back, 0.766
+
+T(head), election, 0.846
+T(head), -secondary, 0.829
+T(head), flight_feather, 0.804
+T(head), astronomy, 0.792
+T(head), celestial_body, 0.787
+T(head), chemistry, 0.748
+T(head), us, 0.744
+T(head), medicine, 0.74
+
+
+Result: {"-rear": 0.812, "running": 0.79, "rival": 0.783, "election": 0.846, "-secondary": 0.829, "flight_feather": 0.804, "astronomy": 0.792, "celestial_body": 0.787, "@scenario_probability": 0.00017504108679124514}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.00017504108679124514]

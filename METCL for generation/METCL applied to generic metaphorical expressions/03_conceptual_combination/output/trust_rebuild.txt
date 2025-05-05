@@ -1,0 +1,25 @@
+Title: trust-rebuild
+
+Head Concept Name: trust
+Modifier Concept Name: rebuild
+
+
+
+
+
+T(modifier), construct, 0.868
+T(modifier), construction, 0.849
+T(modifier), -destroy, 0.766
+
+T(head), trust, 0.946
+T(head), believe, 0.866
+T(head), -untrust, 0.858
+T(head), faith, 0.843
+T(head), important_in_workplace, 0.831
+T(head), -distrust, 0.83
+T(head), -mistrust, 0.83
+T(head), lend, 0.822
+
+
+Result: {"construct": 0.868, "construction": 0.849, "trust": 0.946, "believe": 0.866, "-untrust": 0.858, "faith": 0.843, "important_in_workplace": 0.831, "-mistrust": 0.83, "@scenario_probability": 0.2132628474662431}
+Scenario: [1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 0, 0.2132628474662431]

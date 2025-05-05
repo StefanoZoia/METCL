@@ -1,0 +1,30 @@
+Title: motion-in
+
+Head Concept Name: motion
+Modifier Concept Name: in
+
+
+
+
+
+T(modifier), -out, 0.85
+T(modifier), proscribed, 0.806
+T(modifier), eye_dialect, 0.803
+T(modifier), legal, 0.751
+T(modifier), grammar, 0.749
+T(modifier), -e, 0.748
+T(modifier), -ex, 0.744
+T(modifier), place, 0.743
+
+T(head), proposal, 0.848
+T(head), energy, 0.818
+T(head), subject, 0.8
+T(head), state, 0.793
+T(head), -moving, 0.785
+T(head), locomotive, 0.772
+T(head), -standstill, 0.766
+T(head), law, 0.765
+
+
+Result: {"-out": 0.85, "proscribed": 0.806, "eye_dialect": 0.803, "proposal": 0.848, "energy": 0.818, "subject": 0.8, "state": 0.793, "-moving": 0.785, "@scenario_probability": 0.0002468975409483963}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.0002468975409483963]

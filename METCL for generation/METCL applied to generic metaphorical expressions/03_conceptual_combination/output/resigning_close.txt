@@ -1,0 +1,25 @@
+Title: resigning-close
+
+Head Concept Name: resigning
+Modifier Concept Name: close
+
+
+
+
+
+T(modifier), -open, 0.85
+T(modifier), end, 0.84
+T(modifier), approach, 0.838
+T(modifier), move, 0.823
+T(modifier), join, 0.819
+T(modifier), barricade, 0.81
+T(modifier), prosecute, 0.809
+T(modifier), trade, 0.808
+
+T(head), accept, 0.761
+T(head), job_was_impossible_to_do, 0.737
+T(head), proscribed, 0.668
+
+
+Result: {"-open": 0.85, "end": 0.84, "approach": 0.838, "move": 0.823, "join": 0.819, "barricade": 0.81, "prosecute": 0.809, "accept": 0.761, "@scenario_probability": 0.3371624690587201}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0.3371624690587201]

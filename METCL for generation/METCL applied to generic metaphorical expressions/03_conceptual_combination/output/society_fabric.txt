@@ -1,0 +1,30 @@
+Title: society-fabric
+
+Head Concept Name: society
+Modifier Concept Name: fabric
+
+
+
+
+
+T(modifier), clothing, 0.893
+T(modifier), sewing, 0.881
+T(modifier), curtains, 0.861
+T(modifier), fibers, 0.858
+T(modifier), fabric_store, 0.849
+T(modifier), manufactured_in_many_colors, 0.848
+T(modifier), fibreglass, 0.846
+T(modifier), clothing_as_well_as_drapes, 0.842
+
+T(head), club, 0.865
+T(head), social_group, 0.857
+T(head), elite, 0.844
+T(head), socialising, 0.835
+T(head), group_of_people, 0.829
+T(head), organization, 0.829
+T(head), governed_by_rules_or_laws, 0.825
+T(head), cooperation, 0.817
+
+
+Result: {"clothing": 0.893, "sewing": 0.881, "curtains": 0.861, "fibers": 0.858, "fabric_store": 0.849, "manufactured_in_many_colors": 0.848, "club": 0.865, "social_group": 0.857, "@scenario_probability": 1.8192232094147728e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1.8192232094147728e-05]

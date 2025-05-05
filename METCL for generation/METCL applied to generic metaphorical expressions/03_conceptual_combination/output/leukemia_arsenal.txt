@@ -1,0 +1,25 @@
+Title: leukemia-arsenal
+
+Head Concept Name: leukemia
+Modifier Concept Name: arsenal
+
+
+
+
+
+T(modifier), armament, 0.866
+T(modifier), military, 0.825
+T(modifier), military_installation, 0.801
+T(modifier), facility, 0.777
+T(modifier), shop, 0.774
+T(modifier), military_organization, 0.767
+T(modifier), tangible_thing, 0.765
+T(modifier), gun, 0.736
+
+T(head), cancer, 0.906
+T(head), disease, 0.81
+T(head), one_impairment_person_might, 0.675
+
+
+Result: {"armament": 0.866, "military": 0.825, "military_installation": 0.801, "facility": 0.777, "shop": 0.774, "military_organization": 0.767, "cancer": 0.906, "disease": 0.81, "@scenario_probability": 0.3905980463580227}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0.3905980463580227]

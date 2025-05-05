@@ -1,0 +1,28 @@
+Title: economy-navigate
+
+Head Concept Name: economy
+Modifier Concept Name: navigate
+
+
+
+
+
+T(modifier), steer, 0.867
+T(modifier), map, 0.753
+T(modifier), computing, 0.741
+T(modifier), vessel, 0.729
+T(modifier), landmark, 0.692
+T(modifier), underground_map, 0.689
+
+T(head), frugality, 0.864
+T(head), economic_action, 0.857
+T(head), efficiency, 0.832
+T(head), system, 0.816
+T(head), sector, 0.811
+T(head), heading_into_toilet, 0.804
+T(head), action, 0.79
+T(head), spending, 0.776
+
+
+Result: {"steer": 0.867, "frugality": 0.864, "economic_action": 0.857, "efficiency": 0.832, "system": 0.816, "sector": 0.811, "heading_into_toilet": 0.804, "action": 0.79, "@scenario_probability": 0.008351342080563057}
+Scenario: [1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.008351342080563057]

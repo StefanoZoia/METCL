@@ -1,0 +1,25 @@
+Title: tax-slaves
+
+Head Concept Name: tax
+Modifier Concept Name: slaves
+
+
+
+
+
+T(modifier), work_for_nothing, 0.856
+T(modifier), doing_housework, 0.7
+T(modifier), no_choice_or_freedom, 0.695
+
+T(head), levy, 0.89
+T(head), charge, 0.84
+T(head), -income, 0.807
+T(head), determine, 0.798
+T(head), -subsidy, 0.788
+T(head), -rebate, 0.785
+T(head), -refund, 0.778
+T(head), legalized_theft_by_government, 0.762
+
+
+Result: {"work_for_nothing": 0.856, "levy": 0.89, "charge": 0.84, "-income": 0.807, "determine": 0.798, "-subsidy": 0.788, "-rebate": 0.785, "-refund": 0.778, "@scenario_probability": 0.43190974782473773}
+Scenario: [1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.43190974782473773]

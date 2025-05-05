@@ -1,0 +1,30 @@
+Title: future-front
+
+Head Concept Name: future
+Modifier Concept Name: front
+
+
+
+
+
+T(modifier), -rear, 0.902
+T(modifier), -back, 0.851
+T(modifier), -behind, 0.842
+T(modifier), confront, 0.838
+T(modifier), appearance, 0.827
+T(modifier), position, 0.823
+T(modifier), atmospheric_phenomenon, 0.814
+T(modifier), lie, 0.812
+
+T(head), uncertain, 0.877
+T(head), -past, 0.85
+T(head), -now_for_people, 0.839
+T(head), unclear, 0.836
+T(head), tense, 0.823
+T(head), grow, 0.82
+T(head), time, 0.812
+T(head), grammar, 0.806
+
+
+Result: {"-rear": 0.902, "-back": 0.851, "-behind": 0.842, "confront": 0.838, "uncertain": 0.877, "-past": 0.85, "-now_for_people": 0.839, "unclear": 0.836, "@scenario_probability": 3.523501646180019e-05}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 3.523501646180019e-05]

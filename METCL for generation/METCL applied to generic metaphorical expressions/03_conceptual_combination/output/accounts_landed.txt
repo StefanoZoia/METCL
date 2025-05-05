@@ -1,0 +1,20 @@
+Title: accounts-landed
+
+Head Concept Name: accounts
+Modifier Concept Name: landed
+
+
+
+
+
+T(modifier), -landless, 0.807
+T(modifier), eagle, 0.704
+
+T(head), ledger, 0.785
+T(head), banks, 0.766
+T(head), settled_monthy, 0.761
+T(head), general_ledger, 0.675
+
+
+Result: {"-landless": 0.807, "eagle": 0.704, "ledger": 0.785, "banks": 0.766, "settled_monthy": 0.761, "@scenario_probability": 8.449142561745598}
+Scenario: [1, 1, 1, 1, 1, 0, 8.449142561745598]

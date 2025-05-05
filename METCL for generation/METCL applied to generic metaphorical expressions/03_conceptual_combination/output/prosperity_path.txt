@@ -1,0 +1,25 @@
+Title: prosperity-path
+
+Head Concept Name: prosperity
+Modifier Concept Name: path
+
+
+
+
+
+T(modifier), way, 0.877
+T(modifier), route, 0.869
+T(modifier), line, 0.836
+T(modifier), topology, 0.768
+T(modifier), medicine, 0.756
+T(modifier), paganism, 0.754
+T(modifier), graph_theory, 0.749
+T(modifier), computing, 0.738
+
+T(head), good_fortune, 0.833
+T(head), economic_condition, 0.815
+T(head), -poverty, 0.744
+
+
+Result: {"way": 0.877, "route": 0.869, "line": 0.836, "topology": 0.768, "medicine": 0.756, "paganism": 0.754, "good_fortune": 0.833, "economic_condition": 0.815, "@scenario_probability": 0.31878479363080736}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0.31878479363080736]

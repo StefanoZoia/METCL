@@ -1,0 +1,30 @@
+Title: course-led
+
+Head Concept Name: course
+Modifier Concept Name: led
+
+
+
+
+
+T(modifier), electronic_devices, 0.889
+T(modifier), light_emitting_diod, 0.875
+T(modifier), electronics, 0.843
+T(modifier), electronic_equipment, 0.842
+T(modifier), light_dark_space, 0.842
+T(modifier), display_panel, 0.83
+T(modifier), indicating_state, 0.823
+T(modifier), indicator_lights, 0.821
+
+T(head), coursework, 0.842
+T(head), education, 0.84
+T(head), direction, 0.835
+T(head), meal, 0.824
+T(head), series, 0.816
+T(head), action, 0.813
+T(head), traverse, 0.811
+T(head), nutriment, 0.809
+
+
+Result: {"electronic_devices": 0.889, "light_emitting_diod": 0.875, "electronics": 0.843, "electronic_equipment": 0.842, "light_dark_space": 0.842, "coursework": 0.842, "education": 0.84, "direction": 0.835, "@scenario_probability": 3.2328228877341483e-05}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 3.2328228877341483e-05]

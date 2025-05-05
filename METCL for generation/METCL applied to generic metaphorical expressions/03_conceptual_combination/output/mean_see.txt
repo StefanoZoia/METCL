@@ -1,0 +1,30 @@
+Title: mean-see
+
+Head Concept Name: mean
+Modifier Concept Name: see
+
+
+
+
+
+T(modifier), see, 0.946
+T(modifier), look, 0.877
+T(modifier), diocese, 0.829
+T(modifier), verify, 0.822
+T(modifier), bet, 0.819
+T(modifier), accompany, 0.814
+T(modifier), card_game, 0.793
+T(modifier), -hear, 0.79
+
+T(head), average, 0.86
+T(head), intend, 0.844
+T(head), statistics, 0.822
+T(head), convey, 0.822
+T(head), mean_cruel, 0.815
+T(head), clean_regardless_of_socialization_and_stereotypes, 0.793
+T(head), -kind, 0.777
+T(head), regional, 0.774
+
+
+Result: {"see": 0.946, "look": 0.877, "diocese": 0.829, "verify": 0.822, "average": 0.86, "intend": 0.844, "statistics": 0.822, "convey": 0.822, "@scenario_probability": 7.831377268175646e-05}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 7.831377268175646e-05]

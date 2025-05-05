@@ -1,0 +1,30 @@
+Title: bureaucracy-hum
+
+Head Concept Name: bureaucracy
+Modifier Concept Name: hum
+
+
+
+
+
+T(modifier), noise, 0.863
+T(modifier), sing, 0.847
+T(modifier), sound, 0.842
+T(modifier), make_noise, 0.802
+T(modifier), be, 0.8
+T(modifier), niš, 0.752
+T(modifier), british, 0.746
+T(modifier), uk, 0.736
+
+T(head), government, 0.866
+T(head), bureaucrats, 0.853
+T(head), government_officials, 0.834
+T(head), organization, 0.814
+T(head), system_of_running_bureaus, 0.783
+T(head), organizational_theory, 0.762
+T(head), university, 0.75
+T(head), agent_non_geographical, 0.749
+
+
+Result: {"noise": 0.863, "sing": 0.847, "sound": 0.842, "make_noise": 0.802, "government": 0.866, "bureaucrats": 0.853, "government_officials": 0.834, "organization": 0.814, "@scenario_probability": 0.00026681349122723534}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.00026681349122723534]

@@ -1,0 +1,24 @@
+Title: excitement-bursting
+
+Head Concept Name: excitement
+Modifier Concept Name: bursting
+
+
+
+
+
+T(modifier), breaking, 0.815
+T(modifier), becoming, 0.782
+
+T(head), emotional_arousal, 0.905
+T(head), emotion, 0.837
+T(head), -boredom, 0.766
+T(head), bungee_jump_from_high_bridge, 0.765
+T(head), seeing_band, 0.764
+T(head), climbing_mountain, 0.757
+T(head), library, 0.745
+T(head), hockey_game, 0.735
+
+
+Result: {"breaking": 0.815, "becoming": 0.782, "emotional_arousal": 0.905, "emotion": 0.837, "-boredom": 0.766, "bungee_jump_from_high_bridge": 0.765, "seeing_band": 0.764, "climbing_mountain": 0.757, "@scenario_probability": 1.1056149339118992}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1.1056149339118992]

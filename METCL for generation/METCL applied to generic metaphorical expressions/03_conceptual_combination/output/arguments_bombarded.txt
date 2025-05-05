@@ -1,0 +1,27 @@
+Title: arguments-bombarded
+
+Head Concept Name: arguments
+Modifier Concept Name: bombarded
+
+
+
+
+
+T(modifier), attack, 0.781
+T(modifier), irradiate, 0.75
+T(modifier), bomb, 0.746
+T(modifier), physics, 0.729
+T(modifier), music, 0.673
+
+T(head), persuade, 0.84
+T(head), evidence, 0.766
+T(head), variable, 0.743
+T(head), prove_to_valid, 0.742
+T(head), prove_point, 0.742
+T(head), summary, 0.74
+T(head), logic, 0.727
+T(head), result_in_bad_feelings, 0.716
+
+
+Result: {"attack": 0.781, "irradiate": 0.75, "bomb": 0.746, "persuade": 0.84, "evidence": 0.766, "variable": 0.743, "prove_to_valid": 0.742, "prove_point": 0.742, "@scenario_probability": 0.020545995248764687}
+Scenario: [1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.020545995248764687]

@@ -1,0 +1,26 @@
+Title: group-penetrated
+
+Head Concept Name: group
+Modifier Concept Name: penetrated
+
+
+
+
+
+T(modifier), enter, 0.776
+T(modifier), understand, 0.748
+T(modifier), insert, 0.738
+T(modifier), advance, 0.735
+
+T(head), group_theory, 0.836
+T(head), like_club_but_without_officers, 0.828
+T(head), honor_individual, 0.825
+T(head), set, 0.822
+T(head), classify, 0.821
+T(head), semigroup, 0.82
+T(head), molecule, 0.816
+T(head), include_individuals, 0.801
+
+
+Result: {"enter": 0.776, "group_theory": 0.836, "like_club_but_without_officers": 0.828, "honor_individual": 0.825, "set": 0.822, "classify": 0.821, "semigroup": 0.82, "molecule": 0.816, "@scenario_probability": 0.06967420985644442}
+Scenario: [1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.06967420985644442]

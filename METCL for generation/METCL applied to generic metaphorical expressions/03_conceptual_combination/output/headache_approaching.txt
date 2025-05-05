@@ -1,0 +1,30 @@
+Title: headache-approaching
+
+Head Concept Name: headache
+Modifier Concept Name: approaching
+
+
+
+
+
+T(modifier), advance, 0.763
+T(modifier), change_of_location, 0.747
+T(modifier), come, 0.743
+T(modifier), movement, 0.74
+T(modifier), address, 0.74
+T(modifier), conceptualization, 0.738
+T(modifier), golf, 0.724
+T(modifier), motion, 0.723
+
+T(head), ache, 0.868
+T(head), pain_person, 0.83
+T(head), ache_ailment_condition, 0.797
+T(head), make_person_crabby, 0.789
+T(head), pill, 0.728
+T(head), zack, 0.713
+T(head), impanel_jury, 0.684
+T(head), taking_bus, 0.651
+
+
+Result: {"advance": 0.763, "change_of_location": 0.747, "come": 0.743, "address": 0.74, "ache": 0.868, "pain_person": 0.83, "ache_ailment_condition": 0.797, "make_person_crabby": 0.789, "@scenario_probability": 0.0006365398774567302}
+Scenario: [1, 1, 1, 0, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.0006365398774567302]

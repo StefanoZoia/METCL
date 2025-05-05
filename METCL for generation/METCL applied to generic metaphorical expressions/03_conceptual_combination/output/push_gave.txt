@@ -1,0 +1,30 @@
+Title: push-gave
+
+Head Concept Name: push
+Modifier Concept Name: gave
+
+
+
+
+
+T(modifier), offer, 0.781
+T(modifier), -take, 0.771
+T(modifier), make, 0.757
+T(modifier), have, 0.751
+T(modifier), pass, 0.748
+T(modifier), submit, 0.748
+T(modifier), administer, 0.742
+T(modifier), distribute, 0.741
+
+T(head), press, 0.897
+T(head), move, 0.891
+T(head), urge, 0.857
+T(head), force, 0.845
+T(head), -pull, 0.84
+T(head), propulsion, 0.83
+T(head), progress, 0.829
+T(head), approach, 0.808
+
+
+Result: {"offer": 0.781, "press": 0.897, "move": 0.891, "urge": 0.857, "force": 0.845, "-pull": 0.84, "propulsion": 0.83, "progress": 0.829, "@scenario_probability": 0.00029493988336133994}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.00029493988336133994]

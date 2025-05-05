@@ -1,0 +1,30 @@
+Title: smile-get
+
+Head Concept Name: smile
+Modifier Concept Name: get
+
+
+
+
+
+T(modifier), get, 0.963
+T(modifier), buy, 0.902
+T(modifier), ask_for, 0.889
+T(modifier), have, 0.885
+T(modifier), reach_for, 0.871
+T(modifier), produce, 0.858
+T(modifier), calculate, 0.851
+T(modifier), ask_for_politely, 0.851
+
+T(head), facial_expression, 0.908
+T(head), grimace, 0.899
+T(head), happy, 0.892
+T(head), -frown, 0.879
+T(head), good_had_just_happened, 0.852
+T(head), warm_heart, 0.828
+T(head), light_up_room, 0.822
+T(head), please_another, 0.813
+
+
+Result: {"get": 0.963, "buy": 0.902, "ask_for": 0.889, "have": 0.885, "facial_expression": 0.908, "grimace": 0.899, "happy": 0.892, "-frown": 0.879, "@scenario_probability": 1.5072298574800062e-05}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1.5072298574800062e-05]

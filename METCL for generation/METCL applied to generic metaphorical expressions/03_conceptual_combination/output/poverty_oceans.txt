@@ -1,0 +1,30 @@
+Title: poverty-oceans
+
+Head Concept Name: poverty
+Modifier Concept Name: oceans
+
+
+
+
+
+T(modifier), deep, 0.904
+T(modifier), wet, 0.887
+T(modifier), very_deep, 0.865
+T(modifier), wide, 0.858
+T(modifier), saline_based, 0.845
+T(modifier), dry_up, 0.836
+T(modifier), include_seas, 0.808
+T(modifier), salt_water, 0.79
+
+T(head), financial_condition, 0.865
+T(head), undesirable, 0.833
+T(head), -wealth, 0.792
+T(head), drive_crime, 0.789
+T(head), situation, 0.763
+T(head), curse, 0.75
+T(head), get_money_from, 0.748
+T(head), mumbai, 0.747
+
+
+Result: {"deep": 0.904, "wet": 0.887, "very_deep": 0.865, "wide": 0.858, "saline_based": 0.845, "dry_up": 0.836, "financial_condition": 0.865, "undesirable": 0.833, "@scenario_probability": 0.00020248612588663576}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.00020248612588663576]

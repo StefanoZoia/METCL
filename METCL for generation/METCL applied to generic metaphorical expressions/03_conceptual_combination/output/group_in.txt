@@ -1,0 +1,30 @@
+Title: group-in
+
+Head Concept Name: group
+Modifier Concept Name: in
+
+
+
+
+
+T(modifier), -out, 0.85
+T(modifier), proscribed, 0.806
+T(modifier), eye_dialect, 0.803
+T(modifier), legal, 0.751
+T(modifier), grammar, 0.749
+T(modifier), -e, 0.748
+T(modifier), -ex, 0.744
+T(modifier), place, 0.743
+
+T(head), group_theory, 0.836
+T(head), like_club_but_without_officers, 0.828
+T(head), honor_individual, 0.825
+T(head), set, 0.822
+T(head), classify, 0.821
+T(head), semigroup, 0.82
+T(head), molecule, 0.816
+T(head), include_individuals, 0.801
+
+
+Result: {"-out": 0.85, "group_theory": 0.836, "like_club_but_without_officers": 0.828, "honor_individual": 0.825, "set": 0.822, "classify": 0.821, "semigroup": 0.82, "molecule": 0.816, "@scenario_probability": 0.00017274130840932574}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.00017274130840932574]

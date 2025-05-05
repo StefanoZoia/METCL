@@ -1,0 +1,25 @@
+Title: taxation-punishes
+
+Head Concept Name: taxation
+Modifier Concept Name: punishes
+
+
+
+
+
+T(modifier), spank, 0.801
+T(modifier), send_to_room, 0.794
+T(modifier), misbehaved, 0.782
+T(modifier), slap, 0.777
+T(modifier), teach_to_obey, 0.775
+T(modifier), vengeance, 0.768
+T(modifier), revenge, 0.766
+T(modifier), lied, 0.763
+
+T(head), imposition, 0.862
+T(head), process_results_in_taxes, 0.731
+T(head), activity_of_government, 0.721
+
+
+Result: {"spank": 0.801, "send_to_room": 0.794, "misbehaved": 0.782, "slap": 0.777, "teach_to_obey": 0.775, "vengeance": 0.768, "revenge": 0.766, "imposition": 0.862, "@scenario_probability": 0.2701373142075061}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0.2701373142075061]

@@ -1,0 +1,30 @@
+Title: temper-hot
+
+Head Concept Name: temper
+Modifier Concept Name: hot
+
+
+
+
+
+T(modifier), -cold, 0.926
+T(modifier), warm_colder_than, 0.844
+T(modifier), burn_hand, 0.82
+T(modifier), -cool, 0.814
+T(modifier), mean_sexy, 0.811
+T(modifier), stove, 0.806
+T(modifier), steam, 0.793
+T(modifier), boiling_water, 0.788
+
+T(head), adjust, 0.828
+T(head), ill_nature, 0.824
+T(head), feeling, 0.816
+T(head), elasticity, 0.816
+T(head), modify, 0.815
+T(head), -calm, 0.763
+T(head), sugar_manufacture, 0.76
+T(head), becoming, 0.76
+
+
+Result: {"-cold": 0.926, "warm_colder_than": 0.844, "burn_hand": 0.82, "adjust": 0.828, "ill_nature": 0.824, "feeling": 0.816, "elasticity": 0.816, "modify": 0.815, "@scenario_probability": 9.694295966000853e-05}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 9.694295966000853e-05]

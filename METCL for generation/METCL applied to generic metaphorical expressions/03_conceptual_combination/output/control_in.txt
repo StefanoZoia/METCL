@@ -1,0 +1,30 @@
+Title: control-in
+
+Head Concept Name: control
+Modifier Concept Name: in
+
+
+
+
+
+T(modifier), -out, 0.85
+T(modifier), proscribed, 0.806
+T(modifier), eye_dialect, 0.803
+T(modifier), legal, 0.751
+T(modifier), grammar, 0.749
+T(modifier), -e, 0.748
+T(modifier), -ex, 0.744
+T(modifier), place, 0.743
+
+T(head), mechanism, 0.833
+T(head), test, 0.822
+T(head), physiology, 0.814
+T(head), bodily_process, 0.809
+T(head), activity, 0.809
+T(head), relation, 0.806
+T(head), see, 0.796
+T(head), power, 0.794
+
+
+Result: {"-out": 0.85, "proscribed": 0.806, "mechanism": 0.833, "test": 0.822, "physiology": 0.814, "bodily_process": 0.809, "activity": 0.809, "relation": 0.806, "@scenario_probability": 0.0001727975530937877}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.0001727975530937877]

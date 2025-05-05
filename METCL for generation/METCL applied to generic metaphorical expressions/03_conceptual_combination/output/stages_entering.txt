@@ -1,0 +1,30 @@
+Title: stages-entering
+
+Head Concept Name: stages
+Modifier Concept Name: entering
+
+
+
+
+
+T(modifier), entrance, 0.852
+T(modifier), entranceway, 0.852
+T(modifier), entryway, 0.838
+T(modifier), enclosing, 0.82
+T(modifier), -egress, 0.796
+T(modifier), stage_door, 0.791
+T(modifier), passing_through, 0.752
+T(modifier), action, 0.739
+
+T(head), plays, 0.813
+T(head), performing_plays, 0.812
+T(head), staging_concerts, 0.796
+T(head), theatre, 0.786
+T(head), theater, 0.786
+T(head), perform_within_view_of_audience, 0.783
+T(head), actors_to_perform_on, 0.78
+T(head), performing_musical, 0.779
+
+
+Result: {"entrance": 0.852, "entranceway": 0.852, "entryway": 0.838, "enclosing": 0.82, "-egress": 0.796, "plays": 0.813, "performing_plays": 0.812, "staging_concerts": 0.796, "@scenario_probability": 0.00013637993533539695}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0.00013637993533539695]

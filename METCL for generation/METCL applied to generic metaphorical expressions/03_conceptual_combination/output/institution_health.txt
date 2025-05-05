@@ -1,0 +1,26 @@
+Title: institution-health
+
+Head Concept Name: institution
+Modifier Concept Name: health
+
+
+
+
+
+T(modifier), wellbeing, 0.903
+T(modifier), condition, 0.839
+T(modifier), good, 0.835
+T(modifier), important, 0.825
+T(modifier), eating_vegetables, 0.824
+T(modifier), eating_apple, 0.824
+T(modifier), -sickness, 0.809
+T(modifier), everyone, 0.801
+
+T(head), establishment, 0.878
+T(head), organization, 0.851
+T(head), custom, 0.806
+T(head), department, 0.744
+
+
+Result: {"wellbeing": 0.903, "condition": 0.839, "good": 0.835, "important": 0.825, "eating_vegetables": 0.824, "eating_apple": 0.824, "establishment": 0.878, "organization": 0.851, "@scenario_probability": 0.04998006003545985}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0.04998006003545985]

@@ -1,0 +1,30 @@
+Title: supervisor-top
+
+Head Concept Name: supervisor
+Modifier Concept Name: top
+
+
+
+
+
+T(modifier), -bottom, 0.875
+T(modifier), complete, 0.823
+T(modifier), hit, 0.817
+T(modifier), reach, 0.815
+T(modifier), inning, 0.815
+T(modifier), covering, 0.815
+T(modifier), spin, 0.81
+T(modifier), turn, 0.809
+
+T(head), superior, 0.822
+T(head), boss, 0.818
+T(head), management, 0.815
+T(head), fire_employee, 0.811
+T(head), colleague, 0.789
+T(head), group_projects, 0.785
+T(head), skilled_worker, 0.778
+T(head), person, 0.77
+
+
+Result: {"-bottom": 0.875, "complete": 0.823, "hit": 0.817, "inning": 0.815, "covering": 0.815, "superior": 0.822, "boss": 0.818, "management": 0.815, "@scenario_probability": 6.29433884423408e-05}
+Scenario: [1, 1, 1, 0, 1, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 6.29433884423408e-05]

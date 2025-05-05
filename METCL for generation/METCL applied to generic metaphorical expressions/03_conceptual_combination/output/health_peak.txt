@@ -1,0 +1,29 @@
+Title: health-peak
+
+Head Concept Name: health
+Modifier Concept Name: peak
+
+
+
+
+
+T(modifier), top_of_mountain, 0.819
+T(modifier), topographic_point, 0.818
+T(modifier), ski_area, 0.813
+T(modifier), mle, 0.767
+T(modifier), geography, 0.746
+T(modifier), nautical, 0.742
+T(modifier), mathematics, 0.722
+
+T(head), wellbeing, 0.903
+T(head), condition, 0.839
+T(head), good, 0.835
+T(head), important, 0.825
+T(head), eating_vegetables, 0.824
+T(head), eating_apple, 0.824
+T(head), -sickness, 0.809
+T(head), everyone, 0.801
+
+
+Result: {"top_of_mountain": 0.819, "topographic_point": 0.818, "wellbeing": 0.903, "condition": 0.839, "good": 0.835, "important": 0.825, "eating_vegetables": 0.824, "eating_apple": 0.824, "@scenario_probability": 0.0007162488764610833}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.0007162488764610833]

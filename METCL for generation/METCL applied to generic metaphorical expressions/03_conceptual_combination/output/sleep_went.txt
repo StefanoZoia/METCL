@@ -1,0 +1,27 @@
+Title: sleep-went
+
+Head Concept Name: sleep
+Modifier Concept Name: went
+
+
+
+
+
+T(modifier), -came, 0.815
+T(modifier), archaic, 0.77
+T(modifier), nonstandard, 0.763
+T(modifier), -arrived, 0.762
+T(modifier), -stay, 0.684
+
+T(head), lie_down_in_bed, 0.921
+T(head), lie_down_in_dark_room, 0.887
+T(head), turn_off_lights, 0.878
+T(head), go_to_bed, 0.873
+T(head), get_in_bed, 0.87
+T(head), get_into_bed, 0.87
+T(head), close_eyes, 0.869
+T(head), tired, 0.866
+
+
+Result: {"-came": 0.815, "lie_down_in_bed": 0.921, "lie_down_in_dark_room": 0.887, "turn_off_lights": 0.878, "go_to_bed": 0.873, "get_in_bed": 0.87, "get_into_bed": 0.87, "close_eyes": 0.869, "@scenario_probability": 0.018439660470812497}
+Scenario: [1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.018439660470812497]

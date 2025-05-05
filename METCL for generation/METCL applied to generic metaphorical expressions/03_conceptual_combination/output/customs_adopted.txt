@@ -1,0 +1,24 @@
+Title: customs-adopted
+
+Head Concept Name: customs
+Modifier Concept Name: adopted
+
+
+
+
+
+T(modifier), foster_kid, 0.795
+T(modifier), orphan, 0.773
+
+T(head), duty, 0.851
+T(head), indirect_tax, 0.787
+T(head), practice, 0.746
+T(head), work, 0.743
+T(head), social_control, 0.727
+T(head), -duty_free, 0.721
+T(head), trade, 0.72
+T(head), survival, 0.718
+
+
+Result: {"foster_kid": 0.795, "orphan": 0.773, "duty": 0.851, "indirect_tax": 0.787, "practice": 0.746, "work": 0.743, "social_control": 0.727, "-duty_free": 0.721, "@scenario_probability": 0.9441812494284342}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0.9441812494284342]

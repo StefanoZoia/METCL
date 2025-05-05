@@ -1,0 +1,24 @@
+Title: idea-resurrected
+
+Head Concept Name: idea
+Modifier Concept Name: resurrected
+
+
+
+
+
+T(modifier), resuscitate, 0.823
+T(modifier), return, 0.753
+
+T(head), opinion, 0.841
+T(head), plan_for_action, 0.814
+T(head), central_meaning_purpose_or_concept, 0.807
+T(head), save_project, 0.802
+T(head), content, 0.801
+T(head), power_revolution, 0.791
+T(head), bridge_difference_between_cultures, 0.787
+T(head), philosophy, 0.776
+
+
+Result: {"resuscitate": 0.823, "opinion": 0.841, "plan_for_action": 0.814, "central_meaning_purpose_or_concept": 0.807, "save_project": 0.802, "content": 0.801, "power_revolution": 0.791, "bridge_difference_between_cultures": 0.787, "@scenario_probability": 1.0059973632921717}
+Scenario: [1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1.0059973632921717]

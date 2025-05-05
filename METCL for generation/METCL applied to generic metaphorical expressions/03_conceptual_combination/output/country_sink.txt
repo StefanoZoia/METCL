@@ -1,0 +1,30 @@
+Title: country-sink
+
+Head Concept Name: country
+Modifier Concept Name: sink
+
+
+
+
+
+T(modifier), sink, 0.946
+T(modifier), brushing_teeth, 0.906
+T(modifier), drain_off_water, 0.892
+T(modifier), rinse_dishes, 0.878
+T(modifier), kitchen, 0.866
+T(modifier), bathroom_and_kitchen, 0.861
+T(modifier), soak_dishes, 0.86
+T(modifier), plumbing_fixture, 0.855
+
+T(head), a, 0.848
+T(head), world, 0.842
+T(head), america, 0.834
+T(head), region, 0.822
+T(head), honor_soldier, 0.81
+T(head), go_to_war_with_another_country, 0.8
+T(head), globe_map, 0.797
+T(head), asia, 0.797
+
+
+Result: {"sink": 0.946, "brushing_teeth": 0.906, "drain_off_water": 0.892, "rinse_dishes": 0.878, "kitchen": 0.866, "bathroom_and_kitchen": 0.861, "soak_dishes": 0.86, "a": 0.848, "@scenario_probability": 3.86921536131841e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 3.86921536131841e-05]

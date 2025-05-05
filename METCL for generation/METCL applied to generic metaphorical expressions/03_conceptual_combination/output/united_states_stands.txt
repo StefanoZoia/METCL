@@ -1,0 +1,19 @@
+Title: united_states-stands
+
+Head Concept Name: united_states
+Modifier Concept Name: stands
+
+
+
+
+
+T(modifier), stand, 0.851
+T(modifier), market, 0.831
+T(modifier), arise, 0.784
+T(modifier), table, 0.757
+T(modifier), stay, 0.752
+T(modifier), position, 0.752
+T(modifier), be, 0.751
+T(modifier), resist, 0.751
+
+

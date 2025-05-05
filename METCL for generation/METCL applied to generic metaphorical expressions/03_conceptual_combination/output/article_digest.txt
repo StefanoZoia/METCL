@@ -1,0 +1,30 @@
+Title: article-digest
+
+Head Concept Name: article
+Modifier Concept Name: digest
+
+
+
+
+
+T(modifier), consume, 0.873
+T(modifier), periodical, 0.857
+T(modifier), decompose, 0.846
+T(modifier), disintegrate, 0.82
+T(modifier), permit, 0.819
+T(modifier), process, 0.812
+T(modifier), abridge, 0.812
+T(modifier), get_picture, 0.803
+
+T(head), newspaper, 0.877
+T(head), writer, 0.87
+T(head), section, 0.868
+T(head), reading, 0.866
+T(head), magazine_in_stores, 0.864
+T(head), magazine_in_store, 0.864
+T(head), piece, 0.86
+T(head), newspaper_in_newspaper, 0.856
+
+
+Result: {"consume": 0.873, "newspaper": 0.877, "writer": 0.87, "section": 0.868, "reading": 0.866, "magazine_in_stores": 0.864, "magazine_in_store": 0.864, "piece": 0.86, "@scenario_probability": 2.3123251251458826e-05}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 2.3123251251458826e-05]

@@ -1,0 +1,28 @@
+Title: lies-feeding
+
+Head Concept Name: lies
+Modifier Concept Name: feeding
+
+
+
+
+
+T(modifier), provision, 0.831
+T(modifier), promoting, 0.798
+T(modifier), transferring_control, 0.798
+T(modifier), taking_care_of, 0.757
+T(modifier), directed_movement, 0.738
+T(modifier), making_grow, 0.726
+
+T(head), decieve_other_people, 0.882
+T(head), false, 0.871
+T(head), committing_perjury, 0.832
+T(head), unreliable_information, 0.831
+T(head), confuse, 0.818
+T(head), common_among_people, 0.817
+T(head), happening_without_being_recognized, 0.81
+T(head), destroy_reputation, 0.806
+
+
+Result: {"provision": 0.831, "decieve_other_people": 0.882, "false": 0.871, "committing_perjury": 0.832, "unreliable_information": 0.831, "confuse": 0.818, "common_among_people": 0.817, "happening_without_being_recognized": 0.81, "@scenario_probability": 0.0032994009084460606}
+Scenario: [1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.0032994009084460606]

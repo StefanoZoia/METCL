@@ -1,0 +1,30 @@
+Title: mind-racing
+
+Head Concept Name: mind
+Modifier Concept Name: racing
+
+
+
+
+
+T(modifier), sport, 0.86
+T(modifier), fun, 0.835
+T(modifier), bicycle, 0.799
+T(modifier), riding_bicycle, 0.747
+T(modifier), riding_bike, 0.747
+T(modifier), car, 0.746
+T(modifier), toy_car, 0.745
+T(modifier), taking_car_for_drive, 0.727
+
+T(head), thinking, 0.906
+T(head), subjective, 0.894
+T(head), cognition, 0.856
+T(head), think_about, 0.842
+T(head), remember, 0.842
+T(head), intelligence, 0.836
+T(head), recall, 0.827
+T(head), perceive_external_envrnment_and_recollect_data, 0.823
+
+
+Result: {"sport": 0.86, "fun": 0.835, "thinking": 0.906, "subjective": 0.894, "cognition": 0.856, "think_about": 0.842, "remember": 0.842, "intelligence": 0.836, "@scenario_probability": 0.00020556438897646073}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.00020556438897646073]

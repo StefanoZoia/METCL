@@ -1,0 +1,30 @@
+Title: status-fell
+
+Head Concept Name: status
+Modifier Concept Name: fell
+
+
+
+
+
+T(modifier), cut, 0.854
+T(modifier), descend, 0.842
+T(modifier), killing, 0.809
+T(modifier), sew, 0.789
+T(modifier), seam, 0.784
+T(modifier), -stood_up, 0.772
+T(modifier), -stood, 0.772
+T(modifier), -remained_standing, 0.766
+
+T(head), state, 0.843
+T(head), important_to_people, 0.821
+T(head), social_networking, 0.773
+T(head), legal, 0.765
+T(head), canada, 0.748
+T(head), almost_always_used_to_modify_another_noun, 0.736
+T(head), medicine, 0.733
+T(head), helping, 0.691
+
+
+Result: {"cut": 0.854, "descend": 0.842, "killing": 0.809, "sew": 0.789, "seam": 0.784, "state": 0.843, "important_to_people": 0.821, "social_networking": 0.773, "@scenario_probability": 0.0003020573427275924}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0.0003020573427275924]

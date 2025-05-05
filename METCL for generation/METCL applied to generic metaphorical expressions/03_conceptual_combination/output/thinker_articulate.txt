@@ -1,0 +1,25 @@
+Title: thinker-articulate
+
+Head Concept Name: thinker
+Modifier Concept Name: articulate
+
+
+
+
+
+T(modifier), -inarticulate, 0.853
+T(modifier), connect, 0.825
+T(modifier), state, 0.815
+T(modifier), anatomy, 0.764
+T(modifier), zoology, 0.761
+T(modifier), music, 0.739
+T(modifier), hands, 0.667
+
+T(head), intellectual, 0.874
+T(head), arrive_at_conclusion, 0.786
+T(head), thinking, 0.783
+T(head), -doer, 0.766
+
+
+Result: {"-inarticulate": 0.853, "connect": 0.825, "state": 0.815, "anatomy": 0.764, "zoology": 0.761, "intellectual": 0.874, "arrive_at_conclusion": 0.786, "thinking": 0.783, "@scenario_probability": 0.3647832957520974}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 0, 0.3647832957520974]

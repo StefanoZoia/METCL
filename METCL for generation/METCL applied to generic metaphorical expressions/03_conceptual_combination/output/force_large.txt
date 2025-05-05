@@ -1,0 +1,30 @@
+Title: force-large
+
+Head Concept Name: force
+Modifier Concept Name: large
+
+
+
+
+
+T(modifier), wide, 0.888
+T(modifier), -small, 0.875
+T(modifier), tall, 0.869
+T(modifier), -small_medium, 0.819
+T(modifier), -little, 0.783
+T(modifier), -tiny, 0.782
+T(modifier), -medium, 0.77
+T(modifier), planets, 0.768
+
+T(head), influence, 0.85
+T(head), thrust, 0.846
+T(head), act, 0.819
+T(head), intensity, 0.819
+T(head), organization, 0.813
+T(head), social_group, 0.81
+T(head), physical_phenomenon, 0.803
+T(head), mass, 0.774
+
+
+Result: {"wide": 0.888, "-small": 0.875, "tall": 0.869, "-small_medium": 0.819, "influence": 0.85, "thrust": 0.846, "act": 0.819, "intensity": 0.819, "@scenario_probability": 0.00010650836316609528}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.00010650836316609528]

@@ -1,0 +1,19 @@
+Title: jealousy-set_aside
+
+Head Concept Name: jealousy
+Modifier Concept Name: set_aside
+
+
+
+
+
+
+T(head), envy, 0.914
+T(head), emotion, 0.853
+T(head), resentment, 0.848
+T(head), watchfulness, 0.828
+T(head), destroy_relationship, 0.795
+T(head), distance_friends, 0.784
+T(head), deaths, 0.752
+T(head), archaic, 0.744
+

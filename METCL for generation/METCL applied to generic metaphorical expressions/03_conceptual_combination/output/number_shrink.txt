@@ -1,0 +1,30 @@
+Title: number-shrink
+
+Head Concept Name: number
+Modifier Concept Name: shrink
+
+
+
+
+
+T(modifier), shrink, 0.946
+T(modifier), decrease, 0.864
+T(modifier), -expand, 0.823
+T(modifier), -grow, 0.815
+T(modifier), -enlarge, 0.808
+T(modifier), -stretch, 0.789
+T(modifier), -increase, 0.769
+T(modifier), business, 0.756
+
+T(head), represent_order, 0.861
+T(head), identifying_house, 0.859
+T(head), phone_book, 0.858
+T(head), call_on_telephone, 0.846
+T(head), statistic, 0.841
+T(head), orginization, 0.839
+T(head), size, 0.837
+T(head), digit, 0.831
+
+
+Result: {"shrink": 0.946, "decrease": 0.864, "represent_order": 0.861, "identifying_house": 0.859, "phone_book": 0.858, "call_on_telephone": 0.846, "statistic": 0.841, "orginization": 0.839, "@scenario_probability": 6.377076042442003e-05}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 6.377076042442003e-05]

@@ -1,0 +1,29 @@
+Title: nation-contains
+
+Head Concept Name: nation
+Modifier Concept Name: contains
+
+
+
+
+
+T(modifier), be, 0.759
+T(modifier), arithmetic, 0.733
+T(modifier), -release, 0.696
+T(modifier), mathematics, 0.685
+T(modifier), -let, 0.615
+T(modifier), -let_go, 0.614
+T(modifier), -go, 0.603
+
+T(head), united_states, 0.857
+T(head), people, 0.836
+T(head), confederation, 0.831
+T(head), ready_troops, 0.808
+T(head), weather_storm_of_war, 0.789
+T(head), arm_citizens, 0.788
+T(head), -state, 0.787
+T(head), legal, 0.744
+
+
+Result: {"be": 0.759, "united_states": 0.857, "people": 0.836, "confederation": 0.831, "ready_troops": 0.808, "weather_storm_of_war": 0.789, "arm_citizens": 0.788, "-state": 0.787, "@scenario_probability": 0.006899110769863692}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.006899110769863692]

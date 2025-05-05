@@ -1,0 +1,30 @@
+Title: trust-foundations
+
+Head Concept Name: trust
+Modifier Concept Name: foundations
+
+
+
+
+
+T(modifier), build_house_on, 0.76
+T(modifier), support, 0.756
+T(modifier), education, 0.75
+T(modifier), structure, 0.74
+T(modifier), non_profit_organization, 0.738
+T(modifier), relation, 0.715
+T(modifier), closet, 0.707
+T(modifier), cosmetics_market_category, 0.707
+
+T(head), trust, 0.946
+T(head), believe, 0.866
+T(head), -untrust, 0.858
+T(head), faith, 0.843
+T(head), important_in_workplace, 0.831
+T(head), -distrust, 0.83
+T(head), -mistrust, 0.83
+T(head), lend, 0.822
+
+
+Result: {"build_house_on": 0.76, "trust": 0.946, "believe": 0.866, "-untrust": 0.858, "faith": 0.843, "important_in_workplace": 0.831, "-distrust": 0.83, "-mistrust": 0.83, "@scenario_probability": 0.0004665511551355277}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.0004665511551355277]

@@ -1,0 +1,19 @@
+Title: bank_account-size
+
+Head Concept Name: bank_account
+Modifier Concept Name: size
+
+
+
+
+
+T(modifier), how_big_or_small, 0.898
+T(modifier), magnitude, 0.883
+T(modifier), -bigness, 0.826
+T(modifier), important, 0.825
+T(modifier), change_magnitude, 0.816
+T(modifier), situation, 0.81
+T(modifier), classify, 0.808
+T(modifier), coat, 0.805
+
+

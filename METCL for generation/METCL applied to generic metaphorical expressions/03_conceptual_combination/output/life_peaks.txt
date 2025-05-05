@@ -1,0 +1,30 @@
+Title: life-peaks
+
+Head Concept Name: life
+Modifier Concept Name: peaks
+
+
+
+
+
+T(modifier), top_of_mountain, 0.737
+T(modifier), topographic_point, 0.736
+T(modifier), ski_area, 0.732
+T(modifier), mle, 0.69
+T(modifier), both_tents_and_mountains, 0.68
+T(modifier), geography, 0.671
+T(modifier), nautical, 0.668
+T(modifier), mathematics, 0.65
+
+T(head), living, 0.914
+T(head), finite, 0.886
+T(head), hard, 0.879
+T(head), good, 0.862
+T(head), unpredictable, 0.861
+T(head), water, 0.844
+T(head), absurd, 0.843
+T(head), full_of_chance, 0.841
+
+
+Result: {"top_of_mountain": 0.737, "living": 0.914, "finite": 0.886, "hard": 0.879, "good": 0.862, "unpredictable": 0.861, "water": 0.844, "absurd": 0.843, "@scenario_probability": 0.0011818606211174382}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.0011818606211174382]

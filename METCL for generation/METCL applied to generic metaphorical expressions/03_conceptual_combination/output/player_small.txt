@@ -1,0 +1,30 @@
+Title: player-small
+
+Head Concept Name: player
+Modifier Concept Name: small
+
+
+
+
+
+T(modifier), narrow, 0.879
+T(modifier), -large, 0.875
+T(modifier), size, 0.873
+T(modifier), -big, 0.856
+T(modifier), back, 0.801
+T(modifier), miniature, 0.785
+T(modifier), pocket_sized_notebook, 0.783
+T(modifier), needle, 0.775
+
+T(head), team, 0.856
+T(head), contestant, 0.832
+T(head), person, 0.825
+T(head), best_opponent, 0.825
+T(head), sporting_event, 0.816
+T(head), proud, 0.815
+T(head), head_ball, 0.813
+T(head), field_ball, 0.813
+
+
+Result: {"narrow": 0.879, "-large": 0.875, "size": 0.873, "-big": 0.856, "team": 0.856, "contestant": 0.832, "person": 0.825, "best_opponent": 0.825, "@scenario_probability": 6.927818119067582e-05}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 6.927818119067582e-05]

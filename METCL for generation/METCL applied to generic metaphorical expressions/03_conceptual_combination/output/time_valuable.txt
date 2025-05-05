@@ -1,0 +1,30 @@
+Title: time-valuable
+
+Head Concept Name: time
+Modifier Concept Name: valuable
+
+
+
+
+
+T(modifier), -worthless, 0.87
+T(modifier), treasure, 0.86
+T(modifier), -valueless, 0.838
+T(modifier), -useless, 0.821
+T(modifier), -waste, 0.742
+T(modifier), diamond, 0.721
+T(modifier), -vain, 0.708
+T(modifier), ideas_cheap_realization_of_ideas, 0.707
+
+T(head), time_period, 0.88
+T(head), moment, 0.878
+T(head), linear, 0.874
+T(head), running, 0.871
+T(head), finite, 0.851
+T(head), age, 0.843
+T(head), endless, 0.84
+T(head), absolute, 0.836
+
+
+Result: {"-worthless": 0.87, "treasure": 0.86, "time_period": 0.88, "moment": 0.878, "linear": 0.874, "running": 0.871, "finite": 0.851, "age": 0.843, "@scenario_probability": 0.00014794076889422427}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.00014794076889422427]

@@ -1,0 +1,30 @@
+Title: bureaucratic-maze
+
+Head Concept Name: bureaucratic
+Modifier Concept Name: maze
+
+
+
+
+
+T(modifier), system, 0.833
+T(modifier), increase_efficiency, 0.82
+T(modifier), maze, 0.811
+T(modifier), intricate, 0.79
+T(modifier), -untangle, 0.784
+T(modifier), complex, 0.772
+T(modifier), perplexity, 0.769
+T(modifier), method, 0.767
+
+T(head), government, 0.779
+T(head), official, 0.773
+T(head), bureaucrats, 0.768
+T(head), government_officials, 0.751
+T(head), organization, 0.733
+T(head), administrator, 0.724
+T(head), system_of_running_bureaus, 0.705
+T(head), organizational_theory, 0.686
+
+
+Result: {"system": 0.833, "increase_efficiency": 0.82, "maze": 0.811, "intricate": 0.79, "-untangle": 0.784, "complex": 0.772, "government": 0.779, "official": 0.773, "@scenario_probability": 0.0003385200172155122}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.0003385200172155122]

@@ -1,0 +1,30 @@
+Title: governor-race
+
+Head Concept Name: governor
+Modifier Concept Name: race
+
+
+
+
+
+T(modifier), contest, 0.859
+T(modifier), compete, 0.858
+T(modifier), significant_in_genetics, 0.829
+T(modifier), competition_in, 0.82
+T(modifier), group, 0.804
+T(modifier), act, 0.801
+T(modifier), cars, 0.801
+T(modifier), move, 0.788
+
+T(head), politician, 0.864
+T(head), control, 0.811
+T(head), limt_engines_speed, 0.802
+T(head), head_state, 0.8
+T(head), politics, 0.798
+T(head), free_criminals, 0.787
+T(head), executive, 0.779
+T(head), grammar, 0.758
+
+
+Result: {"contest": 0.859, "compete": 0.858, "significant_in_genetics": 0.829, "competition_in": 0.82, "group": 0.804, "politician": 0.864, "control": 0.811, "limt_engines_speed": 0.802, "@scenario_probability": 8.746302026794474e-05}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 8.746302026794474e-05]

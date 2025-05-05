@@ -1,0 +1,30 @@
+Title: command-high
+
+Head Concept Name: command
+Modifier Concept Name: high
+
+
+
+
+
+T(modifier), -low, 0.884
+T(modifier), anticyclone, 0.845
+T(modifier), elation, 0.822
+T(modifier), mean_several_different_things, 0.796
+T(modifier), topographic_point, 0.791
+T(modifier), -low_pitched, 0.79
+T(modifier), -deep, 0.786
+T(modifier), tall, 0.779
+
+T(head), order, 0.856
+T(head), military_unit, 0.851
+T(head), authority, 0.85
+T(head), military, 0.845
+T(head), dominate, 0.843
+T(head), status, 0.817
+T(head), demand, 0.815
+T(head), skillfulness, 0.81
+
+
+Result: {"-low": 0.884, "anticyclone": 0.845, "elation": 0.822, "order": 0.856, "military_unit": 0.851, "authority": 0.85, "military": 0.845, "dominate": 0.843, "@scenario_probability": 7.376758061219901e-05}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 7.376758061219901e-05]

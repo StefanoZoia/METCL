@@ -1,0 +1,24 @@
+Title: spirits-high
+
+Head Concept Name: spirits
+Modifier Concept Name: high
+
+
+
+
+
+T(modifier), -low, 0.884
+T(modifier), anticyclone, 0.845
+T(modifier), elation, 0.822
+T(modifier), mean_several_different_things, 0.796
+T(modifier), topographic_point, 0.791
+T(modifier), -low_pitched, 0.79
+T(modifier), -deep, 0.786
+T(modifier), tall, 0.779
+
+T(head), alcoholic_drink, 0.866
+T(head), bar, 0.831
+
+
+Result: {"-low": 0.884, "anticyclone": 0.845, "elation": 0.822, "mean_several_different_things": 0.796, "topographic_point": 0.791, "-low_pitched": 0.79, "-deep": 0.786, "alcoholic_drink": 0.866, "@scenario_probability": 0.7764560001882622}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0.7764560001882622]

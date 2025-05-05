@@ -1,0 +1,28 @@
+Title: nation-rouse
+
+Head Concept Name: nation
+Modifier Concept Name: rouse
+
+
+
+
+
+T(modifier), slang, 0.76
+T(modifier), when_followed_by_on, 0.752
+T(modifier), military, 0.74
+T(modifier), canada, 0.735
+T(modifier), nautical, 0.731
+T(modifier), british, 0.726
+
+T(head), united_states, 0.857
+T(head), people, 0.836
+T(head), confederation, 0.831
+T(head), ready_troops, 0.808
+T(head), weather_storm_of_war, 0.789
+T(head), arm_citizens, 0.788
+T(head), -state, 0.787
+T(head), legal, 0.744
+
+
+Result: {"slang": 0.76, "united_states": 0.857, "people": 0.836, "confederation": 0.831, "ready_troops": 0.808, "weather_storm_of_war": 0.789, "arm_citizens": 0.788, "-state": 0.787, "@scenario_probability": 0.005767727585722028}
+Scenario: [1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.005767727585722028]

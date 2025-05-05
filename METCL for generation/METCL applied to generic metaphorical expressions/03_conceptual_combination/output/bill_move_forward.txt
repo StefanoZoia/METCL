@@ -1,0 +1,19 @@
+Title: bill-move_forward
+
+Head Concept Name: bill
+Modifier Concept Name: move_forward
+
+
+
+
+
+
+T(head), -wanted, 0.864
+T(head), birds_to_eat_with, 0.86
+T(head), congress, 0.851
+T(head), wallet, 0.829
+T(head), singing_in_choir, 0.825
+T(head), pay_on_time, 0.822
+T(head), legal_document, 0.816
+T(head), brim, 0.816
+

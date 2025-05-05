@@ -1,0 +1,30 @@
+Title: government-loves
+
+Head Concept Name: government
+Modifier Concept Name: loves
+
+
+
+
+
+T(modifier), love, 0.851
+T(modifier), wonderful_and_frightening, 0.802
+T(modifier), blind, 0.796
+T(modifier), hard_work, 0.791
+T(modifier), contagious, 0.786
+T(modifier), painful, 0.78
+T(modifier), fix_many_problems, 0.778
+T(modifier), hurt, 0.773
+
+T(head), corrupt, 0.897
+T(head), govern_country, 0.896
+T(head), polity, 0.874
+T(head), country, 0.839
+T(head), force_citizens_to_comply, 0.833
+T(head), rule_people, 0.832
+T(head), -fun, 0.829
+T(head), jealous_of_power, 0.827
+
+
+Result: {"love": 0.851, "corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "country": 0.839, "force_citizens_to_comply": 0.833, "rule_people": 0.832, "-fun": 0.829, "@scenario_probability": 9.984568417275787e-05}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 9.984568417275787e-05]

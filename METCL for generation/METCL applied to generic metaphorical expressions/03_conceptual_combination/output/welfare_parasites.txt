@@ -1,0 +1,28 @@
+Title: welfare-parasites
+
+Head Concept Name: welfare
+Modifier Concept Name: parasites
+
+
+
+
+
+T(modifier), organism, 0.782
+T(modifier), -commensal, 0.734
+T(modifier), plant, 0.732
+T(modifier), giardia, 0.722
+T(modifier), -mutualism, 0.717
+T(modifier), heterotroph, 0.702
+T(modifier), biology, 0.689
+T(modifier), pejorative, 0.684
+
+T(head), effect_recipients_by_making_lazy, 0.807
+T(head), government_paid_service, 0.764
+T(head), -wofare, 0.753
+T(head), -woefare, 0.752
+T(head), us, 0.725
+T(head), funded_by_tax, 0.692
+
+
+Result: {"organism": 0.782, "-commensal": 0.734, "plant": 0.732, "effect_recipients_by_making_lazy": 0.807, "government_paid_service": 0.764, "-wofare": 0.753, "-woefare": 0.752, "us": 0.725, "@scenario_probability": 0.007547051166256856}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0.007547051166256856]

@@ -1,0 +1,29 @@
+Title: career-peak
+
+Head Concept Name: career
+Modifier Concept Name: peak
+
+
+
+
+
+T(modifier), top_of_mountain, 0.819
+T(modifier), topographic_point, 0.818
+T(modifier), ski_area, 0.813
+T(modifier), mle, 0.767
+T(modifier), geography, 0.746
+T(modifier), nautical, 0.742
+T(modifier), mathematics, 0.722
+
+T(head), occupation, 0.866
+T(head), travel, 0.81
+T(head), progress, 0.802
+T(head), falconry, 0.729
+T(head), -term, 0.705
+T(head), -short, 0.696
+T(head), -short_term, 0.696
+T(head), going_to_work, 0.642
+
+
+Result: {"top_of_mountain": 0.819, "topographic_point": 0.818, "ski_area": 0.813, "mle": 0.767, "geography": 0.746, "occupation": 0.866, "travel": 0.81, "progress": 0.802, "@scenario_probability": 0.0033260228170450415}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0.0033260228170450415]

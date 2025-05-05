@@ -1,0 +1,30 @@
+Title: life-traveled
+
+Head Concept Name: life
+Modifier Concept Name: traveled
+
+
+
+
+
+T(modifier), travel, 0.851
+T(modifier), pack, 0.794
+T(modifier), determine_destination, 0.788
+T(modifier), pack_suitcase, 0.787
+T(modifier), energy, 0.783
+T(modifier), save_money, 0.768
+T(modifier), go_somewhere, 0.768
+T(modifier), go_someplace, 0.768
+
+T(head), living, 0.914
+T(head), finite, 0.886
+T(head), hard, 0.879
+T(head), good, 0.862
+T(head), unpredictable, 0.861
+T(head), water, 0.844
+T(head), absurd, 0.843
+T(head), full_of_chance, 0.841
+
+
+Result: {"travel": 0.851, "living": 0.914, "finite": 0.886, "hard": 0.879, "good": 0.862, "unpredictable": 0.861, "water": 0.844, "absurd": 0.843, "@scenario_probability": 0.000128198306705746}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.000128198306705746]

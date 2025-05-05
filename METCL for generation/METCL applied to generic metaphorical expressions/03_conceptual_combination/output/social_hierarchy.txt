@@ -1,0 +1,28 @@
+Title: social-hierarchy
+
+Head Concept Name: social
+Modifier Concept Name: hierarchy
+
+
+
+
+
+T(modifier), organization, 0.838
+T(modifier), system, 0.829
+T(modifier), administration, 0.827
+T(modifier), series, 0.799
+T(modifier), agent_non_geographical, 0.725
+T(modifier), abstract_structure, 0.718
+
+T(head), -antisocial, 0.883
+T(head), social_occasion, 0.878
+T(head), -asocial, 0.859
+T(head), -unsocial, 0.853
+T(head), animal, 0.825
+T(head), internet, 0.795
+T(head), zoology, 0.752
+T(head), -introverted, 0.748
+
+
+Result: {"organization": 0.838, "system": 0.829, "administration": 0.827, "-antisocial": 0.883, "social_occasion": 0.878, "-asocial": 0.859, "-unsocial": 0.853, "animal": 0.825, "@scenario_probability": 0.00537699167405588}
+Scenario: [1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.00537699167405588]

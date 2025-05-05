@@ -1,0 +1,30 @@
+Title: goal-way
+
+Head Concept Name: goal
+Modifier Concept Name: way
+
+
+
+
+
+T(modifier), journey, 0.84
+T(modifier), path, 0.838
+T(modifier), course, 0.834
+T(modifier), choice, 0.834
+T(modifier), condition, 0.815
+T(modifier), transportation_system, 0.807
+T(modifier), distance, 0.804
+T(modifier), path_to_somewhere, 0.797
+
+T(head), score, 0.87
+T(head), goalpost, 0.858
+T(head), game_equipment, 0.827
+T(head), soccer_game, 0.814
+T(head), content, 0.811
+T(head), gaelic_football, 0.808
+T(head), equal_score, 0.803
+T(head), plan_of_action, 0.798
+
+
+Result: {"journey": 0.84, "path": 0.838, "course": 0.834, "choice": 0.834, "condition": 0.815, "score": 0.87, "goalpost": 0.858, "game_equipment": 0.827, "@scenario_probability": 5.0807526892972486e-05}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 5.0807526892972486e-05]

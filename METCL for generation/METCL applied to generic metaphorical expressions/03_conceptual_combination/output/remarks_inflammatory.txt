@@ -1,0 +1,20 @@
+Title: remarks-inflammatory
+
+Head Concept Name: remarks
+Modifier Concept Name: inflammatory
+
+
+
+
+
+T(modifier), -antiinflammatory, 0.795
+T(modifier), -level_headed, 0.667
+
+T(head), statement, 0.783
+T(head), notice, 0.767
+T(head), cause_response, 0.743
+T(head), engraving, 0.685
+
+
+Result: {"-antiinflammatory": 0.795, "-level_headed": 0.667, "statement": 0.783, "notice": 0.767, "cause_response": 0.743, "@scenario_probability": 7.453314654914991}
+Scenario: [1, 1, 1, 1, 1, 0, 7.453314654914991]

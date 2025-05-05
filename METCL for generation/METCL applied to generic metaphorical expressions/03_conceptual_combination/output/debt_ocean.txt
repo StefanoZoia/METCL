@@ -1,0 +1,30 @@
+Title: debt-ocean
+
+Head Concept Name: debt
+Modifier Concept Name: ocean
+
+
+
+
+
+T(modifier), sailing, 0.888
+T(modifier), sail, 0.887
+T(modifier), swimming, 0.885
+T(modifier), beach, 0.881
+T(modifier), diving, 0.878
+T(modifier), fish, 0.877
+T(modifier), swim_in, 0.873
+T(modifier), place_to_swim, 0.866
+
+T(head), indebtedness, 0.926
+T(head), liabilities, 0.907
+T(head), obligation, 0.873
+T(head), -credit, 0.823
+T(head), manageable_but_only_very_carefully, 0.812
+T(head), -payment, 0.775
+T(head), legal, 0.769
+T(head), -lend, 0.765
+
+
+Result: {"sailing": 0.888, "sail": 0.887, "swimming": 0.885, "beach": 0.881, "diving": 0.878, "fish": 0.877, "indebtedness": 0.926, "liabilities": 0.907, "@scenario_probability": 3.488782248522884e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 3.488782248522884e-05]

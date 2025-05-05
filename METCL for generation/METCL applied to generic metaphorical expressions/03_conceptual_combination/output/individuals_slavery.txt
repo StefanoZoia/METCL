@@ -1,0 +1,24 @@
+Title: individuals-slavery
+
+Head Concept Name: individuals
+Modifier Concept Name: slavery
+
+
+
+
+
+T(modifier), bad, 0.889
+T(modifier), considered_by_to_immoral, 0.824
+T(modifier), labor, 0.804
+T(modifier), practice, 0.799
+T(modifier), -freedom, 0.778
+T(modifier), coercion_and_immoral, 0.754
+T(modifier), coercion, 0.754
+T(modifier), -liberty, 0.745
+
+T(head), -group, 0.742
+T(head), singing, 0.701
+
+
+Result: {"bad": 0.889, "considered_by_to_immoral": 0.824, "labor": 0.804, "practice": 0.799, "-freedom": 0.778, "coercion_and_immoral": 0.754, "coercion": 0.754, "-group": 0.742, "@scenario_probability": 1.1775229044084037}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1.1775229044084037]

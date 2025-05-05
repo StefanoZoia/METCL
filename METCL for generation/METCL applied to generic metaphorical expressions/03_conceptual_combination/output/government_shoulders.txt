@@ -1,0 +1,30 @@
+Title: government-shoulders
+
+Head Concept Name: government
+Modifier Concept Name: shoulders
+
+
+
+
+
+T(modifier), rotator_cuff, 0.786
+T(modifier), torso, 0.775
+T(modifier), scapula, 0.76
+T(modifier), teres, 0.752
+T(modifier), road, 0.744
+T(modifier), body_part, 0.742
+T(modifier), garment, 0.741
+T(modifier), thrust, 0.733
+
+T(head), corrupt, 0.897
+T(head), govern_country, 0.896
+T(head), polity, 0.874
+T(head), country, 0.839
+T(head), force_citizens_to_comply, 0.833
+T(head), rule_people, 0.832
+T(head), -fun, 0.829
+T(head), jealous_of_power, 0.827
+
+
+Result: {"rotator_cuff": 0.786, "corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "country": 0.839, "force_citizens_to_comply": 0.833, "rule_people": 0.832, "-fun": 0.829, "@scenario_probability": 0.00028163167034034233}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.00028163167034034233]

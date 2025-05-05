@@ -1,0 +1,30 @@
+Title: coalition-weave
+
+Head Concept Name: coalition
+Modifier Concept Name: weave
+
+
+
+
+
+T(modifier), twist, 0.85
+T(modifier), handicraft, 0.836
+T(modifier), create_from_raw_material, 0.83
+T(modifier), warp, 0.82
+T(modifier), travel, 0.811
+T(modifier), design, 0.809
+T(modifier), woof, 0.801
+T(modifier), chine_cotton, 0.661
+
+T(head), union, 0.872
+T(head), coalition, 0.824
+T(head), collective_bargaining_unit, 0.78
+T(head), organization, 0.78
+T(head), protect_against_employer's_economic_power, 0.779
+T(head), protect_against_employer_manipulations, 0.779
+T(head), protect_yourself, 0.779
+T(head), demand_higher_wages, 0.769
+
+
+Result: {"twist": 0.85, "handicraft": 0.836, "create_from_raw_material": 0.83, "warp": 0.82, "travel": 0.811, "design": 0.809, "union": 0.872, "coalition": 0.824, "@scenario_probability": 0.00018561674714306413}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.00018561674714306413]

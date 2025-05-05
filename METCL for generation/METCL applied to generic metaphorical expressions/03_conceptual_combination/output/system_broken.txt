@@ -1,0 +1,30 @@
+Title: system-broken
+
+Head Concept Name: system
+Modifier Concept Name: broken
+
+
+
+
+
+T(modifier), repair_shop, 0.827
+T(modifier), meteorology, 0.814
+T(modifier), -unbroken, 0.813
+T(modifier), contract, 0.808
+T(modifier), promise_etc, 0.781
+T(modifier), repair_umbrella, 0.778
+T(modifier), -fix, 0.768
+T(modifier), line, 0.764
+
+T(head), increase_efficiency, 0.911
+T(head), method, 0.852
+T(head), compute_results, 0.841
+T(head), organizing_things, 0.839
+T(head), easy_to_abuse, 0.827
+T(head), organization, 0.823
+T(head), most_people_pay_bills, 0.821
+T(head), physical_chemistry, 0.82
+
+
+Result: {"repair_shop": 0.827, "increase_efficiency": 0.911, "method": 0.852, "compute_results": 0.841, "organizing_things": 0.839, "easy_to_abuse": 0.827, "organization": 0.823, "most_people_pay_bills": 0.821, "@scenario_probability": 8.0983268597482e-05}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 8.0983268597482e-05]

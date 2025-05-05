@@ -1,0 +1,30 @@
+Title: time-come
+
+Head Concept Name: time
+Modifier Concept Name: come
+
+
+
+
+
+T(modifier), arrive, 0.886
+T(modifier), happen, 0.859
+T(modifier), be, 0.856
+T(modifier), originate, 0.855
+T(modifier), exist, 0.834
+T(modifier), -go, 0.829
+T(modifier), become, 0.828
+T(modifier), result, 0.818
+
+T(head), time_period, 0.88
+T(head), moment, 0.878
+T(head), linear, 0.874
+T(head), running, 0.871
+T(head), finite, 0.851
+T(head), age, 0.843
+T(head), endless, 0.84
+T(head), absolute, 0.836
+
+
+Result: {"arrive": 0.886, "happen": 0.859, "be": 0.856, "originate": 0.855, "time_period": 0.88, "moment": 0.878, "linear": 0.874, "running": 0.871, "@scenario_probability": 1.7870114108379528e-05}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1.7870114108379528e-05]

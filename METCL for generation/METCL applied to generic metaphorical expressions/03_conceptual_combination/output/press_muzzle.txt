@@ -1,0 +1,30 @@
+Title: press-muzzle
+
+Head Concept Name: press
+Modifier Concept Name: muzzle
+
+
+
+
+
+T(modifier), snout, 0.849
+T(modifier), restraint, 0.832
+T(modifier), face, 0.829
+T(modifier), head, 0.826
+T(modifier), equip, 0.802
+T(modifier), animal_restraint, 0.763
+T(modifier), consumer_durable, 0.763
+T(modifier), non_powered_device, 0.755
+
+T(head), push, 0.861
+T(head), print_media, 0.852
+T(head), weightlifting, 0.839
+T(head), machine, 0.832
+T(head), flatten, 0.828
+T(head), press_corps, 0.825
+T(head), mass, 0.811
+T(head), wagering, 0.804
+
+
+Result: {"snout": 0.849, "restraint": 0.832, "face": 0.829, "push": 0.861, "print_media": 0.852, "weightlifting": 0.839, "machine": 0.832, "flatten": 0.828, "@scenario_probability": 7.630922737072666e-05}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 7.630922737072666e-05]

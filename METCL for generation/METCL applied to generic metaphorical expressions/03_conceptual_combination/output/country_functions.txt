@@ -1,0 +1,30 @@
+Title: country-functions
+
+Head Concept Name: country
+Modifier Concept Name: functions
+
+
+
+
+
+T(modifier), duty, 0.754
+T(modifier), utility, 0.748
+T(modifier), outsourced, 0.737
+T(modifier), relation, 0.73
+T(modifier), -dysfunction, 0.725
+T(modifier), mechanism, 0.724
+T(modifier), recursive_function, 0.724
+T(modifier), social_gathering, 0.721
+
+T(head), a, 0.848
+T(head), world, 0.842
+T(head), america, 0.834
+T(head), region, 0.822
+T(head), honor_soldier, 0.81
+T(head), go_to_war_with_another_country, 0.8
+T(head), globe_map, 0.797
+T(head), asia, 0.797
+
+
+Result: {"duty": 0.754, "a": 0.848, "world": 0.842, "america": 0.834, "region": 0.822, "honor_soldier": 0.81, "go_to_war_with_another_country": 0.8, "asia": 0.797, "@scenario_probability": 0.00040468922160237665}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 0.00040468922160237665]

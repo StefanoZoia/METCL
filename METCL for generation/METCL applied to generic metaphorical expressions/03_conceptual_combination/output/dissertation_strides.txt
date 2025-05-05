@@ -1,0 +1,21 @@
+Title: dissertation-strides
+
+Head Concept Name: dissertation
+Modifier Concept Name: strides
+
+
+
+
+
+T(modifier), australia, 0.762
+T(modifier), uk, 0.757
+
+T(head), thesis, 0.896
+T(head), treatise, 0.868
+T(head), published_work, 0.791
+T(head), document_type, 0.747
+T(head), long_term_study, 0.745
+
+
+Result: {"australia": 0.762, "uk": 0.757, "thesis": 0.896, "treatise": 0.868, "published_work": 0.791, "document_type": 0.747, "@scenario_probability": 6.759519907494156}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 6.759519907494156]

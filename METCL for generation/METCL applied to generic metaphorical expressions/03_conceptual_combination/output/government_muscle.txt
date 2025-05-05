@@ -1,0 +1,30 @@
+Title: government-muscle
+
+Head Concept Name: government
+Modifier Concept Name: muscle
+
+
+
+
+
+T(modifier), muscle, 0.915
+T(modifier), lift_weights, 0.913
+T(modifier), muscular_structure, 0.894
+T(modifier), flexion, 0.892
+T(modifier), muscle_magazine, 0.883
+T(modifier), contractile_organ, 0.875
+T(modifier), flexing_arm, 0.871
+T(modifier), flexing, 0.871
+
+T(head), corrupt, 0.897
+T(head), govern_country, 0.896
+T(head), polity, 0.874
+T(head), country, 0.839
+T(head), force_citizens_to_comply, 0.833
+T(head), rule_people, 0.832
+T(head), -fun, 0.829
+T(head), jealous_of_power, 0.827
+
+
+Result: {"muscle": 0.915, "lift_weights": 0.913, "muscular_structure": 0.894, "flexion": 0.892, "muscle_magazine": 0.883, "contractile_organ": 0.875, "corrupt": 0.897, "govern_country": 0.896, "@scenario_probability": 1.1590635867855036e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1.1590635867855036e-05]

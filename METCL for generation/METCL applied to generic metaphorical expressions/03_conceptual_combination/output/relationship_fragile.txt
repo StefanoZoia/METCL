@@ -1,0 +1,30 @@
+Title: relationship-fragile
+
+Head Concept Name: relationship
+Modifier Concept Name: fragile
+
+
+
+
+
+T(modifier), -unbreakable, 0.809
+T(modifier), -resilient, 0.804
+T(modifier), eggshells, 0.8
+T(modifier), -indestructible, 0.799
+T(modifier), -strong, 0.793
+T(modifier), -durable, 0.785
+T(modifier), -nonbreakable, 0.757
+T(modifier), porcelain, 0.737
+
+T(head), relation, 0.898
+T(head), ending_in_heartbreak, 0.838
+T(head), state, 0.811
+T(head), -affair, 0.799
+T(head), last_for_year, 0.793
+T(head), last_for_long_time, 0.793
+T(head), music, 0.757
+T(head), mathematics, 0.749
+
+
+Result: {"-unbreakable": 0.809, "-resilient": 0.804, "eggshells": 0.8, "-indestructible": 0.799, "relation": 0.898, "ending_in_heartbreak": 0.838, "state": 0.811, "-affair": 0.799, "@scenario_probability": 0.0001507026325798597}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.0001507026325798597]

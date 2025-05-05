@@ -1,0 +1,29 @@
+Title: trust-collapsed
+
+Head Concept Name: trust
+Modifier Concept Name: collapsed
+
+
+
+
+
+T(modifier), collapse, 0.851
+T(modifier), weaken, 0.752
+T(modifier), fold, 0.743
+T(modifier), happening, 0.735
+T(modifier), illness, 0.73
+T(modifier), change, 0.721
+T(modifier), cricket, 0.668
+
+T(head), trust, 0.946
+T(head), believe, 0.866
+T(head), -untrust, 0.858
+T(head), faith, 0.843
+T(head), important_in_workplace, 0.831
+T(head), -distrust, 0.83
+T(head), -mistrust, 0.83
+T(head), lend, 0.822
+
+
+Result: {"collapse": 0.851, "trust": 0.946, "believe": 0.866, "-untrust": 0.858, "faith": 0.843, "important_in_workplace": 0.831, "-distrust": 0.83, "-mistrust": 0.83, "@scenario_probability": 0.002170537987706378}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.002170537987706378]

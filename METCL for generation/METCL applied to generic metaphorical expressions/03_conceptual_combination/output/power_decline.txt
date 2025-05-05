@@ -1,0 +1,30 @@
+Title: power-decline
+
+Head Concept Name: power
+Modifier Concept Name: decline
+
+
+
+
+
+T(modifier), decrease, 0.887
+T(modifier), drop, 0.885
+T(modifier), descend, 0.841
+T(modifier), inflect, 0.841
+T(modifier), -increase, 0.82
+T(modifier), condition, 0.807
+T(modifier), -incline, 0.801
+T(modifier), -accept, 0.791
+
+T(head), fleeting, 0.831
+T(head), physics, 0.809
+T(head), battery, 0.798
+T(head), physical_phenomenon, 0.796
+T(head), provide, 0.793
+T(head), causal_agent, 0.791
+T(head), quality, 0.789
+T(head), -impotence, 0.772
+
+
+Result: {"decrease": 0.887, "drop": 0.885, "descend": 0.841, "inflect": 0.841, "-increase": 0.82, "condition": 0.807, "fleeting": 0.831, "physics": 0.809, "@scenario_probability": 8.810704745346062e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 8.810704745346062e-05]

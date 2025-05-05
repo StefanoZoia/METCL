@@ -1,0 +1,29 @@
+Title: debate-goalposts
+
+Head Concept Name: debate
+Modifier Concept Name: goalposts
+
+
+
+
+
+T(modifier), bowling, 0.809
+T(modifier), goal, 0.805
+T(modifier), crossbar, 0.773
+T(modifier), post, 0.762
+T(modifier), upright, 0.715
+T(modifier), sports, 0.704
+T(modifier), american_football, 0.67
+
+T(head), useful_in_developing_consensus, 0.839
+T(head), come_up_with_subject, 0.825
+T(head), good, 0.824
+T(head), consider, 0.819
+T(head), hash_out, 0.813
+T(head), public_speaking, 0.808
+T(head), frequently_in_french_form_débat, 0.756
+T(head), university, 0.741
+
+
+Result: {"bowling": 0.809, "goal": 0.805, "useful_in_developing_consensus": 0.839, "come_up_with_subject": 0.825, "good": 0.824, "consider": 0.819, "hash_out": 0.813, "public_speaking": 0.808, "@scenario_probability": 0.0018993991827276748}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.0018993991827276748]

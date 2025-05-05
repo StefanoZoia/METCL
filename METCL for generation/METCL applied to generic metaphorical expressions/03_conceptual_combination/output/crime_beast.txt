@@ -1,0 +1,30 @@
+Title: crime-beast
+
+Head Concept Name: crime
+Modifier Concept Name: beast
+
+
+
+
+
+T(modifier), attacker, 0.806
+T(modifier), -beauty, 0.784
+T(modifier), prisons, 0.771
+T(modifier), biblical, 0.766
+T(modifier), -tame, 0.753
+T(modifier), military, 0.739
+T(modifier), british, 0.738
+T(modifier), roller_coaster, 0.728
+
+T(head), crime, 0.946
+T(head), criminal_law, 0.865
+T(head), increasing, 0.848
+T(head), hate_crime, 0.843
+T(head), transgression, 0.841
+T(head), result_in_punishment, 0.836
+T(head), -good, 0.828
+T(head), activity, 0.806
+
+
+Result: {"attacker": 0.806, "crime": 0.946, "criminal_law": 0.865, "increasing": 0.848, "hate_crime": 0.843, "transgression": 0.841, "result_in_punishment": 0.836, "-good": 0.828, "@scenario_probability": 0.00028314754427125895}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.00028314754427125895]

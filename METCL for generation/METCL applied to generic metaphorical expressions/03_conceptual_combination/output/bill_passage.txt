@@ -1,0 +1,30 @@
+Title: bill-passage
+
+Head Concept Name: bill
+Modifier Concept Name: passage
+
+
+
+
+
+T(modifier), mean_section_of_text, 0.854
+T(modifier), direct_one's_location, 0.852
+T(modifier), way, 0.844
+T(modifier), read, 0.843
+T(modifier), journey, 0.84
+T(modifier), text, 0.83
+T(modifier), bible, 0.826
+T(modifier), getting_from_one_place_to_another, 0.819
+
+T(head), -wanted, 0.864
+T(head), birds_to_eat_with, 0.86
+T(head), congress, 0.851
+T(head), wallet, 0.829
+T(head), singing_in_choir, 0.825
+T(head), pay_on_time, 0.822
+T(head), legal_document, 0.816
+T(head), brim, 0.816
+
+
+Result: {"mean_section_of_text": 0.854, "direct_one's_location": 0.852, "way": 0.844, "read": 0.843, "journey": 0.84, "-wanted": 0.864, "birds_to_eat_with": 0.86, "congress": 0.851, "@scenario_probability": 2.6549422482586468e-05}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 2.6549422482586468e-05]

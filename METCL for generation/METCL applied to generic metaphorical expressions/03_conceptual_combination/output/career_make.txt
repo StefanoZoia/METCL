@@ -1,0 +1,30 @@
+Title: career-make
+
+Head Concept Name: career
+Modifier Concept Name: make
+
+
+
+
+
+T(modifier), create_from_raw_material, 0.857
+T(modifier), perpetrate, 0.84
+T(modifier), constitute, 0.834
+T(modifier), cause, 0.832
+T(modifier), guarantee, 0.826
+T(modifier), reach, 0.826
+T(modifier), develop, 0.824
+T(modifier), change, 0.822
+
+T(head), occupation, 0.866
+T(head), travel, 0.81
+T(head), progress, 0.802
+T(head), falconry, 0.729
+T(head), -term, 0.705
+T(head), -short, 0.696
+T(head), -short_term, 0.696
+T(head), going_to_work, 0.642
+
+
+Result: {"create_from_raw_material": 0.857, "perpetrate": 0.84, "constitute": 0.834, "cause": 0.832, "guarantee": 0.826, "reach": 0.826, "develop": 0.824, "occupation": 0.866, "@scenario_probability": 0.0004307397756407102}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0.0004307397756407102]

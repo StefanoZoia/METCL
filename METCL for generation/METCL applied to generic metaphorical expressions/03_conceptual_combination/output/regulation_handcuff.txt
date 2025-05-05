@@ -1,0 +1,27 @@
+Title: regulation-handcuff
+
+Head Concept Name: regulation
+Modifier Concept Name: handcuff
+
+
+
+
+
+T(modifier), shackle, 0.848
+T(modifier), fetter, 0.829
+T(modifier), tangible_thing, 0.754
+T(modifier), device, 0.746
+T(modifier), non_agentive_artifact, 0.737
+
+T(head), rule, 0.883
+T(head), control, 0.835
+T(head), dominance, 0.829
+T(head), embryology, 0.823
+T(head), organic_process, 0.8
+T(head), genetics, 0.773
+T(head), european_union_law, 0.769
+T(head), medicine, 0.755
+
+
+Result: {"shackle": 0.848, "fetter": 0.829, "rule": 0.883, "control": 0.835, "dominance": 0.829, "embryology": 0.823, "organic_process": 0.8, "genetics": 0.773, "@scenario_probability": 0.020338740021322896}
+Scenario: [1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.020338740021322896]

@@ -1,0 +1,24 @@
+Title: environmental-malaise
+
+Head Concept Name: environmental
+Modifier Concept Name: malaise
+
+
+
+
+
+T(modifier), discomfort, 0.875
+T(modifier), confusing_pain, 0.741
+
+T(head), situation, 0.752
+T(head), geographical_area, 0.73
+T(head), spatial_thing, 0.703
+T(head), computing, 0.698
+T(head), region, 0.695
+T(head), site, 0.687
+T(head), programming, 0.678
+T(head), delicate_balance_of_nature, 0.674
+
+
+Result: {"discomfort": 0.875, "confusing_pain": 0.741, "situation": 0.752, "geographical_area": 0.73, "spatial_thing": 0.703, "computing": 0.698, "region": 0.695, "site": 0.687, "@scenario_probability": 0.8753721446981206}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0.8753721446981206]

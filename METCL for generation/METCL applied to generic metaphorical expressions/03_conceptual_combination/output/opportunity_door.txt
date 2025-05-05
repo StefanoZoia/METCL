@@ -1,0 +1,30 @@
+Title: opportunity-door
+
+Head Concept Name: opportunity
+Modifier Concept Name: door
+
+
+
+
+
+T(modifier), doorway, 0.918
+T(modifier), open, 0.899
+T(modifier), opened_or_closed, 0.897
+T(modifier), open_or_closed, 0.877
+T(modifier), -window, 0.867
+T(modifier), doorknob, 0.863
+T(modifier), front_door, 0.863
+T(modifier), entree, 0.849
+
+T(head), possibility, 0.882
+T(head), situation, 0.785
+T(head), fork_in_road, 0.774
+T(head), nonstandard, 0.747
+T(head), jumping_at_chance, 0.742
+T(head), euro_english, 0.735
+T(head), -door, 0.705
+T(head), artificial_satellite, 0.698
+
+
+Result: {"doorway": 0.918, "open": 0.899, "opened_or_closed": 0.897, "open_or_closed": 0.877, "-window": 0.867, "doorknob": 0.863, "front_door": 0.863, "possibility": 0.882, "@scenario_probability": 0.0004180638250101178}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0.0004180638250101178]

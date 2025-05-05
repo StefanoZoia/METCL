@@ -1,0 +1,30 @@
+Title: mind-in
+
+Head Concept Name: mind
+Modifier Concept Name: in
+
+
+
+
+
+T(modifier), -out, 0.85
+T(modifier), proscribed, 0.806
+T(modifier), eye_dialect, 0.803
+T(modifier), legal, 0.751
+T(modifier), grammar, 0.749
+T(modifier), -e, 0.748
+T(modifier), -ex, 0.744
+T(modifier), place, 0.743
+
+T(head), thinking, 0.906
+T(head), subjective, 0.894
+T(head), cognition, 0.856
+T(head), think_about, 0.842
+T(head), remember, 0.842
+T(head), intelligence, 0.836
+T(head), recall, 0.827
+T(head), perceive_external_envrnment_and_recollect_data, 0.823
+
+
+Result: {"-out": 0.85, "thinking": 0.906, "subjective": 0.894, "cognition": 0.856, "think_about": 0.842, "remember": 0.842, "intelligence": 0.836, "recall": 0.827, "@scenario_probability": 0.00020248007700210378}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.00020248007700210378]

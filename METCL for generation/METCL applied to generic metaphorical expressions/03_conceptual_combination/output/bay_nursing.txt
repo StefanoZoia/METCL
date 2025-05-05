@@ -1,0 +1,30 @@
+Title: bay-nursing
+
+Head Concept Name: bay
+Modifier Concept Name: nursing
+
+
+
+
+
+T(modifier), care, 0.87
+T(modifier), health_profession, 0.857
+T(modifier), infant_feeding, 0.84
+T(modifier), feeding, 0.819
+T(modifier), caring_for_people, 0.814
+T(modifier), medical_treatment, 0.785
+T(modifier), taking_care_of, 0.744
+T(modifier), attention, 0.74
+
+T(head), sailing, 0.878
+T(head), fishing_in, 0.856
+T(head), inlet, 0.854
+T(head), sea, 0.853
+T(head), safe_harbor, 0.846
+T(head), lake, 0.845
+T(head), body_of_water, 0.834
+T(head), shoreline, 0.829
+
+
+Result: {"care": 0.87, "health_profession": 0.857, "sailing": 0.878, "fishing_in": 0.856, "inlet": 0.854, "sea": 0.853, "safe_harbor": 0.846, "lake": 0.845, "@scenario_probability": 6.385130860136783e-05}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 6.385130860136783e-05]

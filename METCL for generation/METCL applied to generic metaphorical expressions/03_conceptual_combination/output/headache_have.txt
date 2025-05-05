@@ -1,0 +1,30 @@
+Title: headache-have
+
+Head Concept Name: headache
+Modifier Concept Name: have
+
+
+
+
+
+T(modifier), -has, 0.816
+T(modifier), change, 0.811
+T(modifier), score, 0.803
+T(modifier), get, 0.802
+T(modifier), -possess, 0.801
+T(modifier), -need, 0.8
+T(modifier), interact, 0.79
+T(modifier), -lack, 0.779
+
+T(head), ache, 0.868
+T(head), pain_person, 0.83
+T(head), ache_ailment_condition, 0.797
+T(head), make_person_crabby, 0.789
+T(head), pill, 0.728
+T(head), zack, 0.713
+T(head), impanel_jury, 0.684
+T(head), taking_bus, 0.651
+
+
+Result: {"-has": 0.816, "change": 0.811, "score": 0.803, "get": 0.802, "-possess": 0.801, "-need": 0.8, "ache": 0.868, "pain_person": 0.83, "@scenario_probability": 0.0003367244243460061}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.0003367244243460061]

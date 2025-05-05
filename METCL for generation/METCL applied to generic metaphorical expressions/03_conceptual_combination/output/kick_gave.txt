@@ -1,0 +1,30 @@
+Title: kick-gave
+
+Head Concept Name: kick
+Modifier Concept Name: gave
+
+
+
+
+
+T(modifier), offer, 0.781
+T(modifier), -take, 0.771
+T(modifier), make, 0.757
+T(modifier), have, 0.751
+T(modifier), pass, 0.748
+T(modifier), submit, 0.748
+T(modifier), administer, 0.742
+T(modifier), distribute, 0.741
+
+T(head), football, 0.851
+T(head), move, 0.847
+T(head), score, 0.828
+T(head), blow, 0.825
+T(head), propel, 0.816
+T(head), stimulation, 0.812
+T(head), dance, 0.812
+T(head), sport, 0.81
+
+
+Result: {"offer": 0.781, "football": 0.851, "move": 0.847, "score": 0.828, "blow": 0.825, "propel": 0.816, "stimulation": 0.812, "dance": 0.812, "@scenario_probability": 0.000231135025672801}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.000231135025672801]

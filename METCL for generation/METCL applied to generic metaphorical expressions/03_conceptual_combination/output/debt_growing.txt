@@ -1,0 +1,30 @@
+Title: debt-growing
+
+Head Concept Name: debt
+Modifier Concept Name: growing
+
+
+
+
+
+T(modifier), -decreasing, 0.828
+T(modifier), production, 0.818
+T(modifier), enhanced_by_additives, 0.818
+T(modifier), digestive_system, 0.81
+T(modifier), electronics, 0.789
+T(modifier), living, 0.788
+T(modifier), learning, 0.745
+T(modifier), seeing_new, 0.733
+
+T(head), indebtedness, 0.926
+T(head), liabilities, 0.907
+T(head), obligation, 0.873
+T(head), -credit, 0.823
+T(head), manageable_but_only_very_carefully, 0.812
+T(head), -payment, 0.775
+T(head), legal, 0.769
+T(head), -lend, 0.765
+
+
+Result: {"-decreasing": 0.828, "production": 0.818, "enhanced_by_additives": 0.818, "indebtedness": 0.926, "liabilities": 0.907, "obligation": 0.873, "-credit": 0.823, "manageable_but_only_very_carefully": 0.812, "@scenario_probability": 0.00019187175382188266}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.00019187175382188266]

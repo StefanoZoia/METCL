@@ -1,0 +1,30 @@
+Title: money-dried
+
+Head Concept Name: money
+Modifier Concept Name: dried
+
+
+
+
+
+T(modifier), dry, 0.851
+T(modifier), -wet, 0.781
+T(modifier), -hydrated, 0.759
+T(modifier), -same_as_wet, 0.754
+T(modifier), chemistry, 0.742
+T(modifier), -moisturize, 0.726
+T(modifier), deserts, 0.723
+T(modifier), -wash, 0.711
+
+T(head), saving, 0.878
+T(head), pay_for, 0.874
+T(head), pay_for_sex, 0.874
+T(head), money_supply, 0.861
+T(head), currency, 0.858
+T(head), buy_food, 0.854
+T(head), value, 0.851
+T(head), banks, 0.851
+
+
+Result: {"dry": 0.851, "saving": 0.878, "pay_for": 0.874, "pay_for_sex": 0.874, "money_supply": 0.861, "currency": 0.858, "buy_food": 0.854, "banks": 0.851, "@scenario_probability": 0.0003354711866246073}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 0.0003354711866246073]

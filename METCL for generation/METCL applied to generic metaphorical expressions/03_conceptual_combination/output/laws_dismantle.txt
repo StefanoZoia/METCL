@@ -1,0 +1,29 @@
+Title: laws-dismantle
+
+Head Concept Name: laws
+Modifier Concept Name: dismantle
+
+
+
+
+
+T(modifier), destroy, 0.813
+T(modifier), grade, 0.785
+T(modifier), altitude, 0.76
+T(modifier), place, 0.749
+T(modifier), remove, 0.748
+T(modifier), -build, 0.743
+T(modifier), part, 0.742
+T(modifier), building, 0.737
+
+T(head), rules, 0.905
+T(head), rules_for_conduct, 0.889
+T(head), regulate_behavior, 0.844
+T(head), different_from_state_to_state, 0.834
+T(head), guides, 0.802
+T(head), read_by_humans, 0.672
+T(head), made_to_broken, 0.655
+
+
+Result: {"destroy": 0.813, "grade": 0.785, "altitude": 0.76, "rules": 0.905, "rules_for_conduct": 0.889, "regulate_behavior": 0.844, "different_from_state_to_state": 0.834, "guides": 0.802, "@scenario_probability": 0.002749683953123703}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0.002749683953123703]

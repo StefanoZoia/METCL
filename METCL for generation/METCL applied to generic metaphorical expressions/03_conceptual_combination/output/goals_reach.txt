@@ -1,0 +1,24 @@
+Title: goals-reach
+
+Head Concept Name: goals
+Modifier Concept Name: reach
+
+
+
+
+
+T(modifier), achieve, 0.888
+T(modifier), arrive, 0.855
+T(modifier), travel, 0.852
+T(modifier), communicate, 0.849
+T(modifier), move, 0.816
+T(modifier), be, 0.807
+T(modifier), motion, 0.785
+T(modifier), nautical, 0.75
+
+T(head), form_of_motivation, 0.74
+T(head), getting_in_shape, 0.68
+
+
+Result: {"achieve": 0.888, "arrive": 0.855, "travel": 0.852, "communicate": 0.849, "move": 0.816, "be": 0.807, "motion": 0.785, "form_of_motivation": 0.74, "@scenario_probability": 1.6806660313905744}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1.6806660313905744]

@@ -1,0 +1,27 @@
+Title: regulations-burden
+
+Head Concept Name: regulations
+Modifier Concept Name: burden
+
+
+
+
+
+T(modifier), charge, 0.849
+T(modifier), idea, 0.815
+T(modifier), concern, 0.805
+T(modifier), music, 0.753
+T(modifier), medicine, 0.728
+
+T(head), rule, 0.795
+T(head), control, 0.751
+T(head), dominance, 0.746
+T(head), embryology, 0.741
+T(head), organic_process, 0.72
+T(head), genetics, 0.696
+T(head), european_union_law, 0.692
+T(head), medicine, 0.679
+
+
+Result: {"charge": 0.849, "idea": 0.815, "concern": 0.805, "music": 0.753, "rule": 0.795, "control": 0.751, "dominance": 0.746, "embryology": 0.741, "@scenario_probability": 0.03168666442796362}
+Scenario: [1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.03168666442796362]

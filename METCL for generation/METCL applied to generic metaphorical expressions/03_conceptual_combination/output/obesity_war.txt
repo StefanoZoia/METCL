@@ -1,0 +1,29 @@
+Title: obesity-war
+
+Head Concept Name: obesity
+Modifier Concept Name: war
+
+
+
+
+
+T(modifier), war, 0.946
+T(modifier), conflict, 0.888
+T(modifier), bad_thing, 0.88
+T(modifier), fight, 0.865
+T(modifier), fighting_between_countries, 0.859
+T(modifier), battle, 0.858
+T(modifier), -peace, 0.853
+T(modifier), campaign, 0.849
+
+T(head), exercise, 0.787
+T(head), lose_weight, 0.782
+T(head), disease, 0.781
+T(head), good_thing_to_correct, 0.737
+T(head), correctible, 0.729
+T(head), other_disease, 0.728
+T(head), one_impairment_person_might, 0.638
+
+
+Result: {"war": 0.946, "conflict": 0.888, "bad_thing": 0.88, "fight": 0.865, "fighting_between_countries": 0.859, "battle": 0.858, "-peace": 0.853, "exercise": 0.787, "@scenario_probability": 0.001600616047242419}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0.001600616047242419]

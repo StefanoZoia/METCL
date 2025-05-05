@@ -1,0 +1,29 @@
+Title: authority-given
+
+Head Concept Name: authority
+Modifier Concept Name: given
+
+
+
+
+
+T(modifier), assumption, 0.842
+T(modifier), hypothesis, 0.802
+T(modifier), offer, 0.781
+T(modifier), -take, 0.771
+T(modifier), make, 0.757
+T(modifier), have, 0.751
+T(modifier), acquisition, 0.748
+T(modifier), pass, 0.748
+
+T(head), permission, 0.865
+T(head), control, 0.848
+T(head), expert, 0.831
+T(head), wrong, 0.83
+T(head), person, 0.812
+T(head), book, 0.81
+T(head), used_in_singular_or_plural_form, 0.751
+
+
+Result: {"assumption": 0.842, "hypothesis": 0.802, "permission": 0.865, "control": 0.848, "expert": 0.831, "wrong": 0.83, "person": 0.812, "book": 0.81, "@scenario_probability": 0.0010782121720552176}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0.0010782121720552176]

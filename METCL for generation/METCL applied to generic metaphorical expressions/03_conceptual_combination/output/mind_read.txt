@@ -1,0 +1,30 @@
+Title: mind-read
+
+Head Concept Name: mind
+Modifier Concept Name: read
+
+
+
+
+
+T(modifier), read_book, 0.891
+T(modifier), learn, 0.884
+T(modifier), have_book, 0.876
+T(modifier), entertained, 0.871
+T(modifier), open_book, 0.869
+T(modifier), learn_alphabet, 0.866
+T(modifier), learn_to_read, 0.866
+T(modifier), literate, 0.861
+
+T(head), thinking, 0.906
+T(head), subjective, 0.894
+T(head), cognition, 0.856
+T(head), think_about, 0.842
+T(head), remember, 0.842
+T(head), intelligence, 0.836
+T(head), recall, 0.827
+T(head), perceive_external_envrnment_and_recollect_data, 0.823
+
+
+Result: {"read_book": 0.891, "learn": 0.884, "have_book": 0.876, "entertained": 0.871, "open_book": 0.869, "learn_to_read": 0.866, "thinking": 0.906, "subjective": 0.894, "@scenario_probability": 1.2317288034292287e-05}
+Scenario: [1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1.2317288034292287e-05]

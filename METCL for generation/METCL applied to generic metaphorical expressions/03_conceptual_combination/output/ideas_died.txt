@@ -1,0 +1,26 @@
+Title: ideas-died
+
+Head Concept Name: ideas
+Modifier Concept Name: died
+
+
+
+
+
+T(modifier), -born, 0.799
+T(modifier), drowned_person, 0.781
+T(modifier), bury_cat, 0.681
+T(modifier), too_many_iraqi_children, 0.666
+
+T(head), brain, 0.843
+T(head), divide_countries, 0.84
+T(head), intangible, 0.838
+T(head), simple, 0.838
+T(head), complex, 0.824
+T(head), change_world, 0.821
+T(head), bridge_gap, 0.803
+T(head), divide_nation, 0.794
+
+
+Result: {"-born": 0.799, "brain": 0.843, "divide_countries": 0.84, "intangible": 0.838, "simple": 0.838, "complex": 0.824, "change_world": 0.821, "bridge_gap": 0.803, "@scenario_probability": 0.103747126405467}
+Scenario: [1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.103747126405467]

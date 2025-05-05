@@ -1,0 +1,30 @@
+Title: ideas-toss
+
+Head Concept Name: ideas
+Modifier Concept Name: toss
+
+
+
+
+
+T(modifier), mix, 0.869
+T(modifier), motion, 0.819
+T(modifier), agitate, 0.813
+T(modifier), cricket, 0.782
+T(modifier), slang, 0.766
+T(modifier), football, 0.758
+T(modifier), rowing, 0.746
+T(modifier), beanie_baby, 0.745
+
+T(head), brain, 0.843
+T(head), divide_countries, 0.84
+T(head), intangible, 0.838
+T(head), simple, 0.838
+T(head), complex, 0.824
+T(head), change_world, 0.821
+T(head), bridge_gap, 0.803
+T(head), divide_nation, 0.794
+
+
+Result: {"mix": 0.869, "motion": 0.819, "brain": 0.843, "divide_countries": 0.84, "intangible": 0.838, "simple": 0.838, "complex": 0.824, "change_world": 0.821, "@scenario_probability": 0.00014527992671083868}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.00014527992671083868]

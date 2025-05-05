@@ -1,0 +1,30 @@
+Title: business-growing
+
+Head Concept Name: business
+Modifier Concept Name: growing
+
+
+
+
+
+T(modifier), -decreasing, 0.828
+T(modifier), production, 0.818
+T(modifier), enhanced_by_additives, 0.818
+T(modifier), digestive_system, 0.81
+T(modifier), electronics, 0.789
+T(modifier), living, 0.788
+T(modifier), learning, 0.745
+T(modifier), seeing_new, 0.733
+
+T(head), business, 0.946
+T(head), enterprise, 0.886
+T(head), business_activity, 0.879
+T(head), opening_early, 0.867
+T(head), making_money, 0.846
+T(head), selling_product, 0.846
+T(head), sector, 0.844
+T(head), business_district, 0.839
+
+
+Result: {"-decreasing": 0.828, "business": 0.946, "enterprise": 0.886, "business_activity": 0.879, "opening_early": 0.867, "making_money": 0.846, "selling_product": 0.846, "sector": 0.844, "@scenario_probability": 9.859124509829624e-05}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 9.859124509829624e-05]

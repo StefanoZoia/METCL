@@ -1,0 +1,30 @@
+Title: government-lean
+
+Head Concept Name: government
+Modifier Concept Name: lean
+
+
+
+
+
+T(modifier), bend, 0.829
+T(modifier), -fat, 0.821
+T(modifier), trust, 0.81
+T(modifier), put, 0.798
+T(modifier), -fatty, 0.769
+T(modifier), us, 0.765
+T(modifier), -rich, 0.763
+T(modifier), slang, 0.753
+
+T(head), corrupt, 0.897
+T(head), govern_country, 0.896
+T(head), polity, 0.874
+T(head), country, 0.839
+T(head), force_citizens_to_comply, 0.833
+T(head), rule_people, 0.832
+T(head), -fun, 0.829
+T(head), jealous_of_power, 0.827
+
+
+Result: {"bend": 0.829, "corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "country": 0.839, "force_citizens_to_comply": 0.833, "rule_people": 0.832, "-fun": 0.829, "@scenario_probability": 0.00010601821330483187}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.00010601821330483187]

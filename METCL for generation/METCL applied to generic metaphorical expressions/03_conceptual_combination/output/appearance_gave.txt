@@ -1,0 +1,30 @@
+Title: appearance-gave
+
+Head Concept Name: appearance
+Modifier Concept Name: gave
+
+
+
+
+
+T(modifier), offer, 0.781
+T(modifier), -take, 0.771
+T(modifier), make, 0.757
+T(modifier), have, 0.751
+T(modifier), pass, 0.748
+T(modifier), submit, 0.748
+T(modifier), administer, 0.742
+T(modifier), distribute, 0.741
+
+T(head), attendance, 0.849
+T(head), arrival, 0.836
+T(head), pretense, 0.832
+T(head), representation, 0.826
+T(head), happening, 0.818
+T(head), quality, 0.816
+T(head), -disappearance, 0.811
+T(head), philosophy, 0.755
+
+
+Result: {"offer": 0.781, "attendance": 0.849, "arrival": 0.836, "pretense": 0.832, "representation": 0.826, "happening": 0.818, "quality": 0.816, "-disappearance": 0.811, "@scenario_probability": 0.0002970711181078651}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.0002970711181078651]

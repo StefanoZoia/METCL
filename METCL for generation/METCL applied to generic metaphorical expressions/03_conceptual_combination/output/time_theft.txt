@@ -1,0 +1,26 @@
+Title: time-theft
+
+Head Concept Name: time
+Modifier Concept Name: theft
+
+
+
+
+
+T(modifier), crime, 0.864
+T(modifier), criminal_offence, 0.773
+T(modifier), crime_in, 0.742
+T(modifier), -giving, 0.701
+
+T(head), time_period, 0.88
+T(head), moment, 0.878
+T(head), linear, 0.874
+T(head), running, 0.871
+T(head), finite, 0.851
+T(head), age, 0.843
+T(head), endless, 0.84
+T(head), absolute, 0.836
+
+
+Result: {"crime": 0.864, "time_period": 0.88, "moment": 0.878, "linear": 0.874, "running": 0.871, "finite": 0.851, "age": 0.843, "endless": 0.84, "@scenario_probability": 0.08794629302528732}
+Scenario: [1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.08794629302528732]

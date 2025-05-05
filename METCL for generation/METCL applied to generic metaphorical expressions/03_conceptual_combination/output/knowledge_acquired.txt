@@ -1,0 +1,30 @@
+Title: knowledge-acquired
+
+Head Concept Name: knowledge
+Modifier Concept Name: acquired
+
+
+
+
+
+T(modifier), get, 0.778
+T(modifier), situate, 0.742
+T(modifier), medicine, 0.737
+T(modifier), british, 0.692
+T(modifier), disease, 0.687
+T(modifier), uk, 0.687
+T(modifier), new_england, 0.684
+T(modifier), ireland, 0.679
+
+T(head), information, 0.874
+T(head), power, 0.866
+T(head), -ignorance, 0.849
+T(head), good_thing, 0.846
+T(head), encyclopedia, 0.846
+T(head), thought, 0.844
+T(head), powerful, 0.842
+T(head), understanding, 0.83
+
+
+Result: {"get": 0.778, "information": 0.874, "power": 0.866, "-ignorance": 0.849, "good_thing": 0.846, "encyclopedia": 0.846, "thought": 0.844, "powerful": 0.842, "@scenario_probability": 0.000897775518736642}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.000897775518736642]

@@ -1,0 +1,30 @@
+Title: law-letter
+
+Head Concept Name: law
+Modifier Concept Name: letter
+
+
+
+
+
+T(modifier), correspondence, 0.891
+T(modifier), alphabet, 0.874
+T(modifier), communication, 0.867
+T(modifier), mail, 0.865
+T(modifier), envelope, 0.863
+T(modifier), written_communication_between_people, 0.86
+T(modifier), writing_to_friend_or_business, 0.859
+T(modifier), post_office, 0.857
+
+T(head), law, 0.946
+T(head), legal, 0.835
+T(head), obligatory_rule_of_conduct, 0.828
+T(head), concept, 0.82
+T(head), ratified_into_being_bill, 0.816
+T(head), allow_states_to_exicute_people, 0.808
+T(head), learned_profession, 0.805
+T(head), subject_people_to_fines, 0.795
+
+
+Result: {"correspondence": 0.891, "alphabet": 0.874, "communication": 0.867, "mail": 0.865, "envelope": 0.863, "written_communication_between_people": 0.86, "writing_to_friend_or_business": 0.859, "law": 0.946, "@scenario_probability": 3.633677223119449e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 3.633677223119449e-05]

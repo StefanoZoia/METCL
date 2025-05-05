@@ -1,0 +1,30 @@
+Title: corruption-wave
+
+Head Concept Name: corruption
+Modifier Concept Name: wave
+
+
+
+
+
+T(modifier), ocean, 0.841
+T(modifier), rise, 0.831
+T(modifier), curve, 0.826
+T(modifier), movement, 0.824
+T(modifier), motion, 0.818
+T(modifier), weather, 0.813
+T(modifier), flags, 0.804
+T(modifier), dress, 0.799
+
+T(head), immorality, 0.875
+T(head), degradation, 0.854
+T(head), decay, 0.852
+T(head), inducement, 0.807
+T(head), death_of_innocent_people, 0.755
+T(head), linguistics, 0.751
+T(head), unnatural_thing, 0.74
+T(head), computing, 0.735
+
+
+Result: {"ocean": 0.841, "rise": 0.831, "curve": 0.826, "movement": 0.824, "motion": 0.818, "immorality": 0.875, "degradation": 0.854, "decay": 0.852, "@scenario_probability": 0.000148046722888511}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0.000148046722888511]

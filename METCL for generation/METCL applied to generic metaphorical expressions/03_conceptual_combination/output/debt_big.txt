@@ -1,0 +1,30 @@
+Title: debt-big
+
+Head Concept Name: debt
+Modifier Concept Name: big
+
+
+
+
+
+T(modifier), -small, 0.856
+T(modifier), -little, 0.846
+T(modifier), -tiny, 0.77
+T(modifier), uk, 0.764
+T(modifier), bdsm, 0.754
+T(modifier), archaic, 0.75
+T(modifier), slang, 0.728
+T(modifier), haystack, 0.715
+
+T(head), indebtedness, 0.926
+T(head), liabilities, 0.907
+T(head), obligation, 0.873
+T(head), -credit, 0.823
+T(head), manageable_but_only_very_carefully, 0.812
+T(head), -payment, 0.775
+T(head), legal, 0.769
+T(head), -lend, 0.765
+
+
+Result: {"-small": 0.856, "-little": 0.846, "indebtedness": 0.926, "liabilities": 0.907, "obligation": 0.873, "-credit": 0.823, "manageable_but_only_very_carefully": 0.812, "-payment": 0.775, "@scenario_probability": 0.0003863160689002627}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.0003863160689002627]

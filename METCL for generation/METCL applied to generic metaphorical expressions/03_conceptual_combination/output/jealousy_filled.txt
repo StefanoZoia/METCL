@@ -1,0 +1,30 @@
+Title: jealousy-filled
+
+Head Concept Name: jealousy
+Modifier Concept Name: filled
+
+
+
+
+
+T(modifier), fill, 0.851
+T(modifier), -empty, 0.796
+T(modifier), hire, 0.746
+T(modifier), enough, 0.742
+T(modifier), repair, 0.733
+T(modifier), change, 0.729
+T(modifier), change_state, 0.724
+T(modifier), bladder, 0.723
+
+T(head), envy, 0.914
+T(head), emotion, 0.853
+T(head), resentment, 0.848
+T(head), watchfulness, 0.828
+T(head), destroy_relationship, 0.795
+T(head), distance_friends, 0.784
+T(head), deaths, 0.752
+T(head), archaic, 0.744
+
+
+Result: {"fill": 0.851, "-empty": 0.796, "envy": 0.914, "emotion": 0.853, "resentment": 0.848, "watchfulness": 0.828, "destroy_relationship": 0.795, "distance_friends": 0.784, "@scenario_probability": 0.0005319388465034068}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.0005319388465034068]

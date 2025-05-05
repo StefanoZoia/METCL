@@ -1,0 +1,30 @@
+Title: state-nanny
+
+Head Concept Name: state
+Modifier Concept Name: nanny
+
+
+
+
+
+T(modifier), child_care_worker, 0.851
+T(modifier), keeper, 0.829
+T(modifier), goat, 0.824
+T(modifier), push_stroller, 0.817
+T(modifier), woman, 0.804
+T(modifier), udder, 0.764
+T(modifier), pejorative, 0.761
+T(modifier), television_show, 0.738
+
+T(head), government, 0.855
+T(head), political_unit, 0.819
+T(head), attribute, 0.817
+T(head), emotional_state, 0.807
+T(head), levy_taxes, 0.805
+T(head), point_within_system, 0.794
+T(head), -nation, 0.787
+T(head), counties, 0.762
+
+
+Result: {"child_care_worker": 0.851, "keeper": 0.829, "goat": 0.824, "push_stroller": 0.817, "government": 0.855, "political_unit": 0.819, "attribute": 0.817, "emotional_state": 0.807, "@scenario_probability": 0.00012933159256544552}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.00012933159256544552]

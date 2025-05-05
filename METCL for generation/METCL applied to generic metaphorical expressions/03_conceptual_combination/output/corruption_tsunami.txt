@@ -1,0 +1,25 @@
+Title: corruption-tsunami
+
+Head Concept Name: corruption
+Modifier Concept Name: tsunami
+
+
+
+
+
+T(modifier), calamity, 0.864
+T(modifier), wave, 0.862
+T(modifier), ripple, 0.792
+
+T(head), immorality, 0.875
+T(head), degradation, 0.854
+T(head), decay, 0.852
+T(head), inducement, 0.807
+T(head), death_of_innocent_people, 0.755
+T(head), linguistics, 0.751
+T(head), unnatural_thing, 0.74
+T(head), computing, 0.735
+
+
+Result: {"calamity": 0.864, "wave": 0.862, "ripple": 0.792, "immorality": 0.875, "degradation": 0.854, "decay": 0.852, "inducement": 0.807, "death_of_innocent_people": 0.755, "@scenario_probability": 0.39254618748088543}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0.39254618748088543]

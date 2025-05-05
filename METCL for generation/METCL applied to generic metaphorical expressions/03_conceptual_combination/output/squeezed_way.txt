@@ -1,0 +1,30 @@
+Title: squeezed-way
+
+Head Concept Name: squeezed
+Modifier Concept Name: way
+
+
+
+
+
+T(modifier), journey, 0.84
+T(modifier), path, 0.838
+T(modifier), course, 0.834
+T(modifier), choice, 0.834
+T(modifier), condition, 0.815
+T(modifier), transportation_system, 0.807
+T(modifier), distance, 0.804
+T(modifier), path_to_somewhere, 0.797
+
+T(head), press, 0.772
+T(head), constriction, 0.765
+T(head), compression, 0.75
+T(head), movement, 0.722
+T(head), loss, 0.714
+T(head), lover, 0.713
+T(head), epigraphy, 0.698
+T(head), baseball, 0.691
+
+
+Result: {"journey": 0.84, "path": 0.838, "course": 0.834, "choice": 0.834, "condition": 0.815, "transportation_system": 0.807, "distance": 0.804, "press": 0.772, "@scenario_probability": 0.0005076003998571585}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0.0005076003998571585]

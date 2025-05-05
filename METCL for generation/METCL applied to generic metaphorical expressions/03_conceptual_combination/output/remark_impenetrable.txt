@@ -1,0 +1,21 @@
+Title: remark-impenetrable
+
+Head Concept Name: remark
+Modifier Concept Name: impenetrable
+
+
+
+
+
+T(modifier), -penetrable, 0.852
+T(modifier), -defeatable, 0.712
+T(modifier), -pregnable, 0.68
+
+T(head), statement, 0.87
+T(head), notice, 0.852
+T(head), cause_response, 0.826
+T(head), engraving, 0.761
+
+
+Result: {"-penetrable": 0.852, "-defeatable": 0.712, "-pregnable": 0.68, "statement": 0.87, "notice": 0.852, "cause_response": 0.826, "@scenario_probability": 6.036223291158251}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 6.036223291158251]

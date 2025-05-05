@@ -1,0 +1,30 @@
+Title: depression-out
+
+Head Concept Name: depression
+Modifier Concept Name: out
+
+
+
+
+
+T(modifier), -in, 0.85
+T(modifier), -into, 0.83
+T(modifier), baseball, 0.821
+T(modifier), disclose, 0.808
+T(modifier), failure, 0.782
+T(modifier), -closeted, 0.764
+T(modifier), -inside, 0.764
+T(modifier), nonstandard, 0.755
+
+T(head), depressing, 0.922
+T(head), treatable, 0.87
+T(head), sadness, 0.863
+T(head), lead_person_to_attempt_suicide, 0.86
+T(head), crisis, 0.854
+T(head), suicide, 0.846
+T(head), mental_illness, 0.846
+T(head), concave_shape, 0.826
+
+
+Result: {"-in": 0.85, "depressing": 0.922, "treatable": 0.87, "sadness": 0.863, "lead_person_to_attempt_suicide": 0.86, "crisis": 0.854, "suicide": 0.846, "mental_illness": 0.846, "@scenario_probability": 9.353538891721075e-05}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 9.353538891721075e-05]

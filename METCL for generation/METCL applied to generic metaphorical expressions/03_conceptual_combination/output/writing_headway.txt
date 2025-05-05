@@ -1,0 +1,28 @@
+Title: writing-headway
+
+Head Concept Name: writing
+Modifier Concept Name: headway
+
+
+
+
+
+T(modifier), progress, 0.901
+T(modifier), coal_mining, 0.768
+T(modifier), nautical, 0.766
+T(modifier), situation, 0.756
+T(modifier), transport, 0.75
+T(modifier), -sternway, 0.742
+
+T(head), writing_instrument, 0.976
+T(head), jotting_notes, 0.931
+T(head), pen, 0.923
+T(head), writing, 0.915
+T(head), thinking, 0.907
+T(head), paper, 0.904
+T(head), communicating_thoughts, 0.896
+T(head), written_communication, 0.892
+
+
+Result: {"progress": 0.901, "writing_instrument": 0.976, "jotting_notes": 0.931, "pen": 0.923, "writing": 0.915, "thinking": 0.907, "paper": 0.904, "communicating_thoughts": 0.896, "@scenario_probability": 0.0046871402702486084}
+Scenario: [1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.0046871402702486084]

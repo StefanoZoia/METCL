@@ -1,0 +1,29 @@
+Title: corruption-termites
+
+Head Concept Name: corruption
+Modifier Concept Name: termites
+
+
+
+
+
+T(modifier), build_huge_nest, 0.838
+T(modifier), build_mound_for_home, 0.838
+T(modifier), build_mounds, 0.838
+T(modifier), invade_house, 0.832
+T(modifier), forest, 0.788
+T(modifier), apartment, 0.779
+T(modifier), walls_of_house, 0.774
+
+T(head), immorality, 0.875
+T(head), degradation, 0.854
+T(head), decay, 0.852
+T(head), inducement, 0.807
+T(head), death_of_innocent_people, 0.755
+T(head), linguistics, 0.751
+T(head), unnatural_thing, 0.74
+T(head), computing, 0.735
+
+
+Result: {"build_huge_nest": 0.838, "build_mound_for_home": 0.838, "build_mounds": 0.838, "invade_house": 0.832, "immorality": 0.875, "degradation": 0.854, "decay": 0.852, "inducement": 0.807, "@scenario_probability": 0.0011195813684045741}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.0011195813684045741]

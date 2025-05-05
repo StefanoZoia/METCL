@@ -1,0 +1,26 @@
+Title: claims-indefensible
+
+Head Concept Name: claims
+Modifier Concept Name: indefensible
+
+
+
+
+
+T(modifier), -defensible, 0.869
+T(modifier), -indefensible, 0.782
+T(modifier), -supportable, 0.772
+T(modifier), -abideable, 0.688
+
+T(head), assertion, 0.788
+T(head), affirm, 0.774
+T(head), request, 0.754
+T(head), demand, 0.751
+T(head), right, 0.727
+T(head), patent, 0.717
+T(head), necessitate, 0.716
+T(head), legal, 0.702
+
+
+Result: {"-defensible": 0.869, "-indefensible": 0.782, "-supportable": 0.772, "assertion": 0.788, "affirm": 0.774, "request": 0.754, "demand": 0.751, "right": 0.727, "@scenario_probability": 0.09843109929713284}
+Scenario: [1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.09843109929713284]

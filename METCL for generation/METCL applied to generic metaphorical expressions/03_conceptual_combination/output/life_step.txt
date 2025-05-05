@@ -1,0 +1,30 @@
+Title: life-step
+
+Head Concept Name: life
+Modifier Concept Name: step
+
+
+
+
+
+T(modifier), stairway, 0.863
+T(modifier), walk, 0.859
+T(modifier), move, 0.85
+T(modifier), block, 0.829
+T(modifier), locomotion, 0.819
+T(modifier), tread, 0.815
+T(modifier), put, 0.806
+T(modifier), travel, 0.796
+
+T(head), living, 0.914
+T(head), finite, 0.886
+T(head), hard, 0.879
+T(head), good, 0.862
+T(head), unpredictable, 0.861
+T(head), water, 0.844
+T(head), absurd, 0.843
+T(head), full_of_chance, 0.841
+
+
+Result: {"stairway": 0.863, "walk": 0.859, "move": 0.85, "living": 0.914, "finite": 0.886, "hard": 0.879, "good": 0.862, "unpredictable": 0.861, "@scenario_probability": 2.9376617012945356e-05}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 2.9376617012945356e-05]

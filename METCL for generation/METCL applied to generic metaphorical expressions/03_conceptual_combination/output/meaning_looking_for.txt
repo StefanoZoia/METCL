@@ -1,0 +1,17 @@
+Title: meaning-looking_for
+
+Head Concept Name: meaning
+Modifier Concept Name: looking_for
+
+
+
+
+
+
+T(head), words, 0.827
+T(head), message, 0.821
+T(head), semantics, 0.816
+T(head), idea, 0.814
+T(head), life, 0.783
+T(head), all_sentences, 0.655
+

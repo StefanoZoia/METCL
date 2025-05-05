@@ -1,0 +1,30 @@
+Title: rights-pillars
+
+Head Concept Name: rights
+Modifier Concept Name: pillars
+
+
+
+
+
+T(modifier), supporter, 0.755
+T(modifier), principle, 0.746
+T(modifier), stone, 0.706
+T(modifier), architecture, 0.699
+T(modifier), automotive, 0.696
+T(modifier), support_column, 0.682
+T(modifier), rock_formation, 0.677
+T(modifier), land_topographical_feature, 0.67
+
+T(head), opposite_of_left, 0.77
+T(head), right_wrong, 0.769
+T(head), -left, 0.764
+T(head), entering_into_contract, 0.761
+T(head), -wrong, 0.754
+T(head), hand, 0.751
+T(head), common, 0.748
+T(head), turn, 0.747
+
+
+Result: {"supporter": 0.755, "opposite_of_left": 0.77, "right_wrong": 0.769, "-left": 0.764, "entering_into_contract": 0.761, "-wrong": 0.754, "hand": 0.751, "common": 0.748, "@scenario_probability": 0.0006451194595932959}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.0006451194595932959]

@@ -1,0 +1,28 @@
+Title: criminals-reining
+
+Head Concept Name: criminals
+Modifier Concept Name: reining
+
+
+
+
+
+T(modifier), bridle, 0.81
+T(modifier), control, 0.771
+T(modifier), strap, 0.744
+T(modifier), leash, 0.741
+T(modifier), stop, 0.736
+T(modifier), driving, 0.725
+
+T(head), jail, 0.88
+T(head), people, 0.872
+T(head), violent, 0.855
+T(head), use_guns_to_commit_crimes, 0.846
+T(head), break_laws, 0.845
+T(head), stupid, 0.838
+T(head), case_joint, 0.834
+T(head), lie_to_interrogators, 0.815
+
+
+Result: {"bridle": 0.81, "jail": 0.88, "people": 0.872, "violent": 0.855, "use_guns_to_commit_crimes": 0.846, "break_laws": 0.845, "stupid": 0.838, "case_joint": 0.834, "@scenario_probability": 0.005414657523888558}
+Scenario: [1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.005414657523888558]

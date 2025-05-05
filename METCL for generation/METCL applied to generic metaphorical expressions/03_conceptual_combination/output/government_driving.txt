@@ -1,0 +1,30 @@
+Title: government-driving
+
+Head Concept Name: government
+Modifier Concept Name: driving
+
+
+
+
+
+T(modifier), car, 0.931
+T(modifier), vehicle, 0.931
+T(modifier), driving_license, 0.927
+T(modifier), license, 0.899
+T(modifier), getting_around, 0.893
+T(modifier), dangerous, 0.882
+T(modifier), deadly, 0.871
+T(modifier), traveling_long_distances, 0.866
+
+T(head), corrupt, 0.897
+T(head), govern_country, 0.896
+T(head), polity, 0.874
+T(head), country, 0.839
+T(head), force_citizens_to_comply, 0.833
+T(head), rule_people, 0.832
+T(head), -fun, 0.829
+T(head), jealous_of_power, 0.827
+
+
+Result: {"car": 0.931, "vehicle": 0.931, "driving_license": 0.927, "license": 0.899, "getting_around": 0.893, "dangerous": 0.882, "corrupt": 0.897, "govern_country": 0.896, "@scenario_probability": 1.3308165122157652e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1.3308165122157652e-05]

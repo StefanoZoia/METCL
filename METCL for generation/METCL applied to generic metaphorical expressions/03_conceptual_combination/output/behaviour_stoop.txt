@@ -1,0 +1,30 @@
+Title: behaviour-stoop
+
+Head Concept Name: behaviour
+Modifier Concept Name: stoop
+
+
+
+
+
+T(modifier), porch, 0.863
+T(modifier), slope, 0.841
+T(modifier), pounce, 0.824
+T(modifier), inclination, 0.818
+T(modifier), hold, 0.815
+T(modifier), front_door, 0.779
+T(modifier), us, 0.75
+T(modifier), dialect, 0.741
+
+T(head), perform, 0.775
+T(head), trait, 0.767
+T(head), activity, 0.764
+T(head), psychology, 0.763
+T(head), manage, 0.752
+T(head), action, 0.75
+T(head), bring, 0.743
+T(head), -manners, 0.735
+
+
+Result: {"porch": 0.863, "slope": 0.841, "pounce": 0.824, "inclination": 0.818, "hold": 0.815, "front_door": 0.779, "perform": 0.775, "trait": 0.767, "@scenario_probability": 0.0002823255925049314}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.0002823255925049314]

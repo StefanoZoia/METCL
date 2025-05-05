@@ -1,0 +1,30 @@
+Title: promises-articulated
+
+Head Concept Name: promises
+Modifier Concept Name: articulated
+
+
+
+
+
+T(modifier), -unarticulated, 0.864
+T(modifier), -inarticulate, 0.768
+T(modifier), connect, 0.742
+T(modifier), state, 0.733
+T(modifier), anatomy, 0.688
+T(modifier), zoology, 0.685
+T(modifier), music, 0.665
+T(modifier), hands, 0.6
+
+T(head), band, 0.808
+T(head), commitment, 0.792
+T(head), group_of_people_who_play_music, 0.769
+T(head), expectation, 0.762
+T(head), play_music, 0.76
+T(head), musical_organization, 0.76
+T(head), stripe, 0.75
+T(head), hiphop, 0.745
+
+
+Result: {"-unarticulated": 0.864, "-inarticulate": 0.768, "band": 0.808, "commitment": 0.792, "group_of_people_who_play_music": 0.769, "expectation": 0.762, "play_music": 0.76, "musical_organization": 0.76, "@scenario_probability": 0.0008311915188144003}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.0008311915188144003]

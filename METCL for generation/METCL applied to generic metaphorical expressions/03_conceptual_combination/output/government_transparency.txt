@@ -1,0 +1,27 @@
+Title: government-transparency
+
+Head Concept Name: government
+Modifier Concept Name: transparency
+
+
+
+
+
+T(modifier), clearness, 0.88
+T(modifier), physical_phenomenon, 0.783
+T(modifier), facet_collection, 0.771
+T(modifier), signal_processing, 0.748
+T(modifier), photography, 0.737
+
+T(head), corrupt, 0.897
+T(head), govern_country, 0.896
+T(head), polity, 0.874
+T(head), country, 0.839
+T(head), force_citizens_to_comply, 0.833
+T(head), rule_people, 0.832
+T(head), -fun, 0.829
+T(head), jealous_of_power, 0.827
+
+
+Result: {"clearness": 0.88, "corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "country": 0.839, "force_citizens_to_comply": 0.833, "rule_people": 0.832, "-fun": 0.829, "@scenario_probability": 0.01697762689422032}
+Scenario: [1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.01697762689422032]

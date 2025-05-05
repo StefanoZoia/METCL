@@ -1,0 +1,26 @@
+Title: bills-roadblocks
+
+Head Concept Name: bills
+Modifier Concept Name: roadblocks
+
+
+
+
+
+T(modifier), barrier, 0.805
+T(modifier), vehicle_barrier, 0.686
+T(modifier), geographical_thing, 0.684
+T(modifier), unnatural_thing, 0.667
+
+T(head), payed_with_mastercard, 0.859
+T(head), mail_box, 0.848
+T(head), paperwork_representations_of_transactions, 0.842
+T(head), mailbags, 0.84
+T(head), payed_with_payment, 0.817
+T(head), cheque, 0.777
+T(head), reminder_to_pay, 0.752
+T(head), ducks, 0.75
+
+
+Result: {"barrier": 0.805, "payed_with_mastercard": 0.859, "mail_box": 0.848, "paperwork_representations_of_transactions": 0.842, "mailbags": 0.84, "payed_with_payment": 0.817, "cheque": 0.777, "reminder_to_pay": 0.752, "@scenario_probability": 0.16354533578241504}
+Scenario: [1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.16354533578241504]

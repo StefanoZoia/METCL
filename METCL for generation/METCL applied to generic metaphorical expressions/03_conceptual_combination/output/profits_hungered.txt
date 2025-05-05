@@ -1,0 +1,24 @@
+Title: profits-hungered
+
+Head Concept Name: profits
+Modifier Concept Name: hungered
+
+
+
+
+
+T(modifier), starvation, 0.787
+T(modifier), painful, 0.778
+T(modifier), desire, 0.772
+T(modifier), feeling, 0.75
+T(modifier), sensation, 0.745
+T(modifier), -satiation, 0.744
+T(modifier), ache, 0.742
+T(modifier), -satiety, 0.742
+
+T(head), equal_expenses, 0.851
+T(head), cash_in, 0.756
+
+
+Result: {"starvation": 0.787, "painful": 0.778, "desire": 0.772, "feeling": 0.75, "sensation": 0.745, "-satiation": 0.744, "-satiety": 0.742, "equal_expenses": 0.851, "@scenario_probability": 0.7810972324518118}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0.7810972324518118]

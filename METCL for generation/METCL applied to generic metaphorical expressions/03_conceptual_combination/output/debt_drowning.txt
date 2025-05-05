@@ -1,0 +1,30 @@
+Title: debt-drowning
+
+Head Concept Name: debt
+Modifier Concept Name: drowning
+
+
+
+
+
+T(modifier), death, 0.816
+T(modifier), one_form_of_suffication, 0.814
+T(modifier), ocean, 0.794
+T(modifier), -swim, 0.793
+T(modifier), yelling, 0.744
+T(modifier), disease, 0.71
+T(modifier), gasp_for_air, 0.689
+T(modifier), gain_more_land, 0.667
+
+T(head), indebtedness, 0.926
+T(head), liabilities, 0.907
+T(head), obligation, 0.873
+T(head), -credit, 0.823
+T(head), manageable_but_only_very_carefully, 0.812
+T(head), -payment, 0.775
+T(head), legal, 0.769
+T(head), -lend, 0.765
+
+
+Result: {"death": 0.816, "one_form_of_suffication": 0.814, "ocean": 0.794, "indebtedness": 0.926, "liabilities": 0.907, "obligation": 0.873, "-credit": 0.823, "manageable_but_only_very_carefully": 0.812, "@scenario_probability": 0.0005023411314601702}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.0005023411314601702]

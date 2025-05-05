@@ -1,0 +1,24 @@
+Title: facts-indigestible
+
+Head Concept Name: facts
+Modifier Concept Name: indigestible
+
+
+
+
+
+T(modifier), -digestible, 0.871
+T(modifier), -indigestible, 0.784
+
+T(head), false, 0.868
+T(head), true, 0.866
+T(head), useful_but_aren't_always, 0.849
+T(head), information, 0.84
+T(head), myths_in_disguise, 0.814
+T(head), explain_problem, 0.809
+T(head), statistics_to_verify_findings, 0.795
+T(head), context_dependent, 0.787
+
+
+Result: {"-digestible": 0.871, "false": 0.868, "true": 0.866, "useful_but_aren't_always": 0.849, "information": 0.84, "myths_in_disguise": 0.814, "explain_problem": 0.809, "statistics_to_verify_findings": 0.795, "@scenario_probability": 1.1246468165246655}
+Scenario: [1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1.1246468165246655]

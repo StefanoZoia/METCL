@@ -1,0 +1,30 @@
+Title: words-pack
+
+Head Concept Name: words
+Modifier Concept Name: pack
+
+
+
+
+
+T(modifier), package, 0.886
+T(modifier), bundle, 0.884
+T(modifier), -unpack, 0.873
+T(modifier), encase, 0.846
+T(modifier), throng, 0.833
+T(modifier), load, 0.832
+T(modifier), collection, 0.828
+T(modifier), seal, 0.821
+
+T(head), speech, 0.869
+T(head), communicate_with, 0.861
+T(head), sentence, 0.858
+T(head), language, 0.854
+T(head), hurt_feelings, 0.853
+T(head), less_important_than_meaning, 0.85
+T(head), hurtful, 0.85
+T(head), mean_things, 0.847
+
+
+Result: {"package": 0.886, "bundle": 0.884, "-unpack": 0.873, "speech": 0.869, "communicate_with": 0.861, "sentence": 0.858, "language": 0.854, "hurt_feelings": 0.853, "@scenario_probability": 1.4642635403818512e-05}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 1.4642635403818512e-05]

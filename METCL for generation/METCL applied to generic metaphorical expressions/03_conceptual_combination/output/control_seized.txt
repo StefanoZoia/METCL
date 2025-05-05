@@ -1,0 +1,26 @@
+Title: control-seized
+
+Head Concept Name: control
+Modifier Concept Name: seized
+
+
+
+
+
+T(modifier), take, 0.77
+T(modifier), overwhelm, 0.748
+T(modifier), hook, 0.73
+T(modifier), nautical, 0.675
+
+T(head), mechanism, 0.833
+T(head), test, 0.822
+T(head), physiology, 0.814
+T(head), bodily_process, 0.809
+T(head), activity, 0.809
+T(head), relation, 0.806
+T(head), see, 0.796
+T(head), power, 0.794
+
+
+Result: {"take": 0.77, "mechanism": 0.833, "test": 0.822, "physiology": 0.814, "bodily_process": 0.809, "activity": 0.809, "relation": 0.806, "see": 0.796, "@scenario_probability": 0.08209032745723728}
+Scenario: [1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.08209032745723728]

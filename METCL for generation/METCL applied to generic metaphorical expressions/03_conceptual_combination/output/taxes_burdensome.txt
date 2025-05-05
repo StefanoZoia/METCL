@@ -1,0 +1,30 @@
+Title: taxes-burdensome
+
+Head Concept Name: taxes
+Modifier Concept Name: burdensome
+
+
+
+
+
+T(modifier), charge, 0.764
+T(modifier), requesting, 0.752
+T(modifier), idea, 0.733
+T(modifier), concern, 0.725
+T(modifier), -gratuitous, 0.688
+T(modifier), music, 0.678
+T(modifier), medicine, 0.655
+T(modifier), work, 0.632
+
+T(head), bills, 0.827
+T(head), fund_govenment_services, 0.816
+T(head), percentage_of_income, 0.804
+T(head), debt, 0.804
+T(head), going_up, 0.784
+T(head), money, 0.777
+T(head), -pay, 0.777
+T(head), source_of_revenue, 0.738
+
+
+Result: {"charge": 0.764, "bills": 0.827, "fund_govenment_services": 0.816, "percentage_of_income": 0.804, "debt": 0.804, "going_up": 0.784, "money": 0.777, "-pay": 0.777, "@scenario_probability": 0.0009599166649817275}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.0009599166649817275]

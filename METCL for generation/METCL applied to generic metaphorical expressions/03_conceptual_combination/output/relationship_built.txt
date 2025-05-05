@@ -1,0 +1,30 @@
+Title: relationship-built
+
+Head Concept Name: relationship
+Modifier Concept Name: built
+
+
+
+
+
+T(modifier), -unreinforced, 0.814
+T(modifier), develop, 0.79
+T(modifier), create, 0.789
+T(modifier), establish, 0.784
+T(modifier), make, 0.76
+T(modifier), letter, 0.755
+T(modifier), architecture, 0.749
+T(modifier), -demolish, 0.743
+
+T(head), relation, 0.898
+T(head), ending_in_heartbreak, 0.838
+T(head), state, 0.811
+T(head), -affair, 0.799
+T(head), last_for_year, 0.793
+T(head), last_for_long_time, 0.793
+T(head), music, 0.757
+T(head), mathematics, 0.749
+
+
+Result: {"-unreinforced": 0.814, "develop": 0.79, "relation": 0.898, "ending_in_heartbreak": 0.838, "state": 0.811, "-affair": 0.799, "last_for_year": 0.793, "last_for_long_time": 0.793, "@scenario_probability": 0.0002079151960328138}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.0002079151960328138]

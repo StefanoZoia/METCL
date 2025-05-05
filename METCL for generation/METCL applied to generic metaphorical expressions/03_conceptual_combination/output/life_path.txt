@@ -1,0 +1,30 @@
+Title: life-path
+
+Head Concept Name: life
+Modifier Concept Name: path
+
+
+
+
+
+T(modifier), way, 0.877
+T(modifier), route, 0.869
+T(modifier), line, 0.836
+T(modifier), topology, 0.768
+T(modifier), medicine, 0.756
+T(modifier), paganism, 0.754
+T(modifier), graph_theory, 0.749
+T(modifier), computing, 0.738
+
+T(head), living, 0.914
+T(head), finite, 0.886
+T(head), hard, 0.879
+T(head), good, 0.862
+T(head), unpredictable, 0.861
+T(head), water, 0.844
+T(head), absurd, 0.843
+T(head), full_of_chance, 0.841
+
+
+Result: {"way": 0.877, "route": 0.869, "living": 0.914, "finite": 0.886, "hard": 0.879, "good": 0.862, "unpredictable": 0.861, "water": 0.844, "@scenario_probability": 0.00012740004527121173}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.00012740004527121173]

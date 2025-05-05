@@ -1,0 +1,30 @@
+Title: takers-leeches
+
+Head Concept Name: takers
+Modifier Concept Name: leeches
+
+
+
+
+
+T(modifier), annelid, 0.77
+T(modifier), follower, 0.725
+T(modifier), segmented_worm, 0.691
+T(modifier), nautical, 0.674
+T(modifier), archaic, 0.671
+T(modifier), medicine, 0.67
+T(modifier), heathenry, 0.67
+T(modifier), paganism, 0.658
+
+T(head), film, 0.877
+T(head), movie, 0.863
+T(head), artistic_expression, 0.835
+T(head), cinema, 0.789
+T(head), negative, 0.787
+T(head), foil, 0.772
+T(head), record, 0.771
+T(head), sensitive_to_light, 0.757
+
+
+Result: {"annelid": 0.77, "film": 0.877, "movie": 0.863, "artistic_expression": 0.835, "cinema": 0.789, "negative": 0.787, "foil": 0.772, "record": 0.771, "@scenario_probability": 0.0014834603206640763}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.0014834603206640763]

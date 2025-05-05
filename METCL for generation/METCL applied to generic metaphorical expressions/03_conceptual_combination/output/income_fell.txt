@@ -1,0 +1,30 @@
+Title: income-fell
+
+Head Concept Name: income
+Modifier Concept Name: fell
+
+
+
+
+
+T(modifier), cut, 0.854
+T(modifier), descend, 0.842
+T(modifier), killing, 0.809
+T(modifier), sew, 0.789
+T(modifier), seam, 0.784
+T(modifier), -stood_up, 0.772
+T(modifier), -stood, 0.772
+T(modifier), -remained_standing, 0.766
+
+T(head), -outgo, 0.835
+T(head), -tax, 0.807
+T(head), financial_gain, 0.8
+T(head), -expense, 0.795
+T(head), business, 0.791
+T(head), -payment, 0.759
+T(head), commerce, 0.752
+T(head), -cost, 0.738
+
+
+Result: {"cut": 0.854, "descend": 0.842, "killing": 0.809, "-outgo": 0.835, "-tax": 0.807, "financial_gain": 0.8, "-expense": 0.795, "business": 0.791, "@scenario_probability": 0.00017120004154582547}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.00017120004154582547]

@@ -1,0 +1,29 @@
+Title: legislation-grow
+
+Head Concept Name: legislation
+Modifier Concept Name: grow
+
+
+
+
+
+T(modifier), grow, 0.946
+T(modifier), cultivate, 0.872
+T(modifier), increase, 0.872
+T(modifier), wait, 0.834
+T(modifier), farming, 0.83
+T(modifier), anonymous, 0.821
+T(modifier), change, 0.817
+T(modifier), -shrink, 0.815
+
+T(head), legislation, 0.946
+T(head), law, 0.888
+T(head), statute_book, 0.888
+T(head), government, 0.838
+T(head), civil_law, 0.833
+T(head), stop_pollution, 0.802
+T(head), -jury, 0.582
+
+
+Result: {"grow": 0.946, "cultivate": 0.872, "increase": 0.872, "wait": 0.834, "legislation": 0.946, "law": 0.888, "statute_book": 0.888, "government": 0.838, "@scenario_probability": 0.0005339910243117693}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0.0005339910243117693]

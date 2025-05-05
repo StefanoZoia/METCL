@@ -1,0 +1,30 @@
+Title: nation-gears
+
+Head Concept Name: nation
+Modifier Concept Name: gears
+
+
+
+
+
+T(modifier), equipment, 0.793
+T(modifier), wheel, 0.751
+T(modifier), adapt, 0.737
+T(modifier), cog, 0.732
+T(modifier), mechanism, 0.73
+T(modifier), tooth, 0.707
+T(modifier), cycling, 0.707
+T(modifier), automotive, 0.7
+
+T(head), united_states, 0.857
+T(head), people, 0.836
+T(head), confederation, 0.831
+T(head), ready_troops, 0.808
+T(head), weather_storm_of_war, 0.789
+T(head), arm_citizens, 0.788
+T(head), -state, 0.787
+T(head), legal, 0.744
+
+
+Result: {"equipment": 0.793, "united_states": 0.857, "people": 0.836, "confederation": 0.831, "ready_troops": 0.808, "weather_storm_of_war": 0.789, "arm_citizens": 0.788, "-state": 0.787, "@scenario_probability": 0.0005831774718159106}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.0005831774718159106]

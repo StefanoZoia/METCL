@@ -1,0 +1,25 @@
+Title: openness-cultivate
+
+Head Concept Name: openness
+Modifier Concept Name: cultivate
+
+
+
+
+
+T(modifier), farming, 0.865
+T(modifier), fix, 0.82
+T(modifier), -thwart, 0.636
+
+T(head), sociability, 0.863
+T(head), spacing, 0.829
+T(head), -reticence, 0.792
+T(head), -solidity, 0.783
+T(head), -shutness, 0.78
+T(head), computing, 0.751
+T(head), scalar_quantity, 0.742
+T(head), systems_theory, 0.741
+
+
+Result: {"farming": 0.865, "fix": 0.82, "sociability": 0.863, "spacing": 0.829, "-reticence": 0.792, "-solidity": 0.783, "-shutness": 0.78, "computing": 0.751, "@scenario_probability": 0.44837111136543983}
+Scenario: [1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.44837111136543983]

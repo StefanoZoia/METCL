@@ -1,0 +1,24 @@
+Title: campaigning-leg
+
+Head Concept Name: campaigning
+Modifier Concept Name: leg
+
+
+
+
+
+T(modifier), -arm, 0.876
+T(modifier), stand, 0.867
+T(modifier), tibialis, 0.855
+T(modifier), gangrene, 0.855
+T(modifier), hold, 0.847
+T(modifier), knee, 0.843
+T(modifier), tibial_vein, 0.843
+T(modifier), crus, 0.841
+
+T(head), campaign, 0.915
+T(head), whistle_stop_tour, 0.882
+
+
+Result: {"-arm": 0.876, "stand": 0.867, "tibialis": 0.855, "gangrene": 0.855, "hold": 0.847, "knee": 0.843, "tibial_vein": 0.843, "campaign": 0.915, "@scenario_probability": 0.5737123758456952}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0.5737123758456952]

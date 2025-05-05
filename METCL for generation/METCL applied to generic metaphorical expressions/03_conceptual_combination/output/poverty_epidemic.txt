@@ -1,0 +1,29 @@
+Title: poverty-epidemic
+
+Head Concept Name: poverty
+Modifier Concept Name: epidemic
+
+
+
+
+
+T(modifier), outbreak, 0.9
+T(modifier), epidemiology, 0.845
+T(modifier), -endemic, 0.825
+T(modifier), medicine, 0.807
+T(modifier), physical_event, 0.745
+T(modifier), group_of_illnesses, 0.743
+T(modifier), stress, 0.683
+
+T(head), financial_condition, 0.865
+T(head), undesirable, 0.833
+T(head), -wealth, 0.792
+T(head), drive_crime, 0.789
+T(head), situation, 0.763
+T(head), curse, 0.75
+T(head), get_money_from, 0.748
+T(head), mumbai, 0.747
+
+
+Result: {"outbreak": 0.9, "epidemiology": 0.845, "-endemic": 0.825, "medicine": 0.807, "financial_condition": 0.865, "undesirable": 0.833, "-wealth": 0.792, "drive_crime": 0.789, "@scenario_probability": 0.0017890891336423773}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.0017890891336423773]

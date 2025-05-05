@@ -1,0 +1,30 @@
+Title: consumption-rose
+
+Head Concept Name: consumption
+Modifier Concept Name: rose
+
+
+
+
+
+T(modifier), pink, 0.868
+T(modifier), red, 0.86
+T(modifier), flower_room, 0.854
+T(modifier), thorns, 0.837
+T(modifier), flower, 0.827
+T(modifier), shrub, 0.826
+T(modifier), garden, 0.796
+T(modifier), smell_nice, 0.786
+
+T(head), consume, 0.854
+T(head), demand, 0.846
+T(head), depletion, 0.836
+T(head), economics, 0.831
+T(head), bodily_process, 0.791
+T(head), buying_products, 0.782
+T(head), -production, 0.782
+T(head), pathology, 0.757
+
+
+Result: {"pink": 0.868, "red": 0.86, "flower_room": 0.854, "thorns": 0.837, "consume": 0.854, "demand": 0.846, "depletion": 0.836, "economics": 0.831, "@scenario_probability": 8.494579381363823e-05}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 8.494579381363823e-05]

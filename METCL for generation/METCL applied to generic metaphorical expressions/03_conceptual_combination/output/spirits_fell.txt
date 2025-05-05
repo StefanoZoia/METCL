@@ -1,0 +1,24 @@
+Title: spirits-fell
+
+Head Concept Name: spirits
+Modifier Concept Name: fell
+
+
+
+
+
+T(modifier), cut, 0.854
+T(modifier), descend, 0.842
+T(modifier), killing, 0.809
+T(modifier), sew, 0.789
+T(modifier), seam, 0.784
+T(modifier), -stood_up, 0.772
+T(modifier), -stood, 0.772
+T(modifier), -remained_standing, 0.766
+
+T(head), alcoholic_drink, 0.866
+T(head), bar, 0.831
+
+
+Result: {"cut": 0.854, "descend": 0.842, "killing": 0.809, "sew": 0.789, "seam": 0.784, "-stood_up": 0.772, "-stood": 0.772, "alcoholic_drink": 0.866, "@scenario_probability": 0.7344573890080185}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0.7344573890080185]

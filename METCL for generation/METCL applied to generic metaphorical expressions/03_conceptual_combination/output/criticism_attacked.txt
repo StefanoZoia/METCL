@@ -1,0 +1,22 @@
+Title: criticism-attacked
+
+Head Concept Name: criticism
+Modifier Concept Name: attacked
+
+
+
+
+
+T(modifier), fight_back, 0.723
+T(modifier), kill, 0.717
+
+T(head), critical_appraisal, 0.914
+T(head), disapproval, 0.859
+T(head), writing, 0.809
+T(head), -eulogy, 0.789
+T(head), -compliment, 0.766
+T(head), attending_classical_concert, 0.688
+
+
+Result: {"fight_back": 0.723, "kill": 0.717, "critical_appraisal": 0.914, "disapproval": 0.859, "writing": 0.809, "-eulogy": 0.789, "-compliment": 0.766, "@scenario_probability": 6.208771844549299}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 6.208771844549299]

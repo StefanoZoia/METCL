@@ -1,0 +1,30 @@
+Title: control-lost
+
+Head Concept Name: control
+Modifier Concept Name: lost
+
+
+
+
+
+T(modifier), -found, 0.807
+T(modifier), -won, 0.791
+T(modifier), lost_and_found, 0.778
+T(modifier), -gain, 0.775
+T(modifier), -win, 0.769
+T(modifier), -find, 0.761
+T(modifier), -profit, 0.718
+T(modifier), television_season, 0.701
+
+T(head), mechanism, 0.833
+T(head), test, 0.822
+T(head), physiology, 0.814
+T(head), bodily_process, 0.809
+T(head), activity, 0.809
+T(head), relation, 0.806
+T(head), see, 0.796
+T(head), power, 0.794
+
+
+Result: {"-found": 0.807, "mechanism": 0.833, "test": 0.822, "physiology": 0.814, "bodily_process": 0.809, "activity": 0.809, "relation": 0.806, "see": 0.796, "@scenario_probability": 0.0001890771675819858}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.0001890771675819858]

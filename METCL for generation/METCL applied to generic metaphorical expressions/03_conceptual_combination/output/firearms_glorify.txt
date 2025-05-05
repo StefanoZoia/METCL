@@ -1,0 +1,22 @@
+Title: firearms-glorify
+
+Head Concept Name: firearms
+Modifier Concept Name: glorify
+
+
+
+
+
+T(modifier), -vilify, 0.817
+T(modifier), embroider, 0.809
+T(modifier), change, 0.809
+T(modifier), -slander, 0.742
+
+T(head), scare_people, 0.797
+T(head), intelligent_agent_activity, 0.757
+T(head), cabinet, 0.744
+T(head), used_in_shooting_gallery, 0.661
+
+
+Result: {"-vilify": 0.817, "embroider": 0.809, "change": 0.809, "-slander": 0.742, "scare_people": 0.797, "intelligent_agent_activity": 0.757, "cabinet": 0.744, "@scenario_probability": 6.03739846059629}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 6.03739846059629]

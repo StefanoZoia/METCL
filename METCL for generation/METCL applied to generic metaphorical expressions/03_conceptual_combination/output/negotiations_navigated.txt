@@ -1,0 +1,23 @@
+Title: negotiations-navigated
+
+Head Concept Name: negotiations
+Modifier Concept Name: navigated
+
+
+
+
+
+T(modifier), steer, 0.78
+T(modifier), map, 0.678
+T(modifier), computing, 0.667
+T(modifier), vessel, 0.656
+T(modifier), landmark, 0.623
+T(modifier), underground_map, 0.62
+
+T(head), result_in_vote, 0.798
+T(head), reach_tentative_agreement, 0.794
+T(head), getting_contract, 0.757
+
+
+Result: {"steer": 0.78, "map": 0.678, "computing": 0.667, "vessel": 0.656, "landmark": 0.623, "underground_map": 0.62, "result_in_vote": 0.798, "reach_tentative_agreement": 0.794, "@scenario_probability": 1.3761423916991011}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 1, 0, 1.3761423916991011]

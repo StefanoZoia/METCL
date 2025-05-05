@@ -1,0 +1,25 @@
+Title: sheep-covered
+
+Head Concept Name: sheep
+Modifier Concept Name: covered
+
+
+
+
+
+T(modifier), -uncovered, 0.831
+T(modifier), -bare, 0.782
+T(modifier), poker, 0.742
+
+T(head), graze, 0.893
+T(head), bovid, 0.886
+T(head), shearing, 0.88
+T(head), animals, 0.862
+T(head), farm, 0.848
+T(head), farm_animals, 0.848
+T(head), meadow, 0.839
+T(head), -goat, 0.837
+
+
+Result: {"-uncovered": 0.831, "graze": 0.893, "bovid": 0.886, "shearing": 0.88, "animals": 0.862, "farm": 0.848, "farm_animals": 0.848, "meadow": 0.839, "@scenario_probability": 0.27586309973507783}
+Scenario: [1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.27586309973507783]

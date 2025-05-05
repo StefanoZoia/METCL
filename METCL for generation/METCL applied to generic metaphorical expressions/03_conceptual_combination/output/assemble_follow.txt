@@ -1,0 +1,29 @@
+Title: assemble-follow
+
+Head Concept Name: assemble
+Modifier Concept Name: follow
+
+
+
+
+
+T(modifier), follow, 0.946
+T(modifier), -unfollow, 0.849
+T(modifier), imitate, 0.838
+T(modifier), result, 0.832
+T(modifier), -lead, 0.815
+T(modifier), be, 0.814
+T(modifier), understand, 0.812
+T(modifier), travel, 0.809
+
+T(head), join, 0.84
+T(head), meet, 0.84
+T(head), make, 0.82
+T(head), computing, 0.745
+T(head), -break, 0.744
+T(head), production_line, 0.733
+T(head), piece, 0.721
+
+
+Result: {"follow": 0.946, "-unfollow": 0.849, "imitate": 0.838, "result": 0.832, "-lead": 0.815, "join": 0.84, "meet": 0.84, "make": 0.82, "@scenario_probability": 0.0008576221239585581}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0.0008576221239585581]

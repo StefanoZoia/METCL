@@ -1,0 +1,30 @@
+Title: idea-gave
+
+Head Concept Name: idea
+Modifier Concept Name: gave
+
+
+
+
+
+T(modifier), offer, 0.781
+T(modifier), -take, 0.771
+T(modifier), make, 0.757
+T(modifier), have, 0.751
+T(modifier), pass, 0.748
+T(modifier), submit, 0.748
+T(modifier), administer, 0.742
+T(modifier), distribute, 0.741
+
+T(head), opinion, 0.841
+T(head), plan_for_action, 0.814
+T(head), central_meaning_purpose_or_concept, 0.807
+T(head), save_project, 0.802
+T(head), content, 0.801
+T(head), power_revolution, 0.791
+T(head), bridge_difference_between_cultures, 0.787
+T(head), philosophy, 0.776
+
+
+Result: {"offer": 0.781, "opinion": 0.841, "plan_for_action": 0.814, "central_meaning_purpose_or_concept": 0.807, "save_project": 0.802, "content": 0.801, "power_revolution": 0.791, "bridge_difference_between_cultures": 0.787, "@scenario_probability": 0.00022725463123042928}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.00022725463123042928]

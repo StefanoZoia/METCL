@@ -1,0 +1,30 @@
+Title: government-steering
+
+Head Concept Name: government
+Modifier Concept Name: steering
+
+
+
+
+
+T(modifier), control, 0.862
+T(modifier), seafaring, 0.834
+T(modifier), guiding, 0.817
+T(modifier), wheel, 0.791
+T(modifier), use_of_devices, 0.753
+T(modifier), action_performed_by_animals, 0.752
+T(modifier), intelligent_agent_activity, 0.737
+T(modifier), driving_to_work, 0.699
+
+T(head), corrupt, 0.897
+T(head), govern_country, 0.896
+T(head), polity, 0.874
+T(head), country, 0.839
+T(head), force_citizens_to_comply, 0.833
+T(head), rule_people, 0.832
+T(head), -fun, 0.829
+T(head), jealous_of_power, 0.827
+
+
+Result: {"control": 0.862, "seafaring": 0.834, "corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "country": 0.839, "force_citizens_to_comply": 0.833, "rule_people": 0.832, "@scenario_probability": 0.0001611112836375205}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.0001611112836375205]

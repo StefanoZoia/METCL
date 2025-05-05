@@ -1,0 +1,28 @@
+Title: investigation-course
+
+Head Concept Name: investigation
+Modifier Concept Name: course
+
+
+
+
+
+T(modifier), coursework, 0.842
+T(modifier), education, 0.84
+T(modifier), direction, 0.835
+T(modifier), meal, 0.824
+T(modifier), series, 0.816
+T(modifier), action, 0.813
+T(modifier), traverse, 0.811
+T(modifier), nutriment, 0.809
+
+T(head), work, 0.808
+T(head), happening_at_crime_scene, 0.808
+T(head), finding_truth, 0.8
+T(head), determining_truth, 0.75
+T(head), finding_truth_usually, 0.746
+T(head), discovering_truth, 0.712
+
+
+Result: {"coursework": 0.842, "education": 0.84, "direction": 0.835, "meal": 0.824, "series": 0.816, "action": 0.813, "traverse": 0.811, "happening_at_crime_scene": 0.808, "@scenario_probability": 0.002837584405645007}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0.002837584405645007]

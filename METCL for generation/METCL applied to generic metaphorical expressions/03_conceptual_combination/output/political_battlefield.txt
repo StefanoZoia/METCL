@@ -1,0 +1,23 @@
+Title: political-battlefield
+
+Head Concept Name: political
+Modifier Concept Name: battlefield
+
+
+
+
+
+T(modifier), battlefront, 0.865
+T(modifier), tract, 0.829
+T(modifier), sector, 0.761
+T(modifier), outdoor_location, 0.754
+T(modifier), unnatural_thing, 0.736
+
+T(head), -nonpolitical, 0.846
+T(head), pejorative, 0.77
+T(head), causes_of_war, 0.717
+T(head), money_everything, 0.673
+
+
+Result: {"battlefront": 0.865, "tract": 0.829, "sector": 0.761, "outdoor_location": 0.754, "unnatural_thing": 0.736, "-nonpolitical": 0.846, "pejorative": 0.77, "causes_of_war": 0.717, "@scenario_probability": 4.625220602965557}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 1, 0, 4.625220602965557]

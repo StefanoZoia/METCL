@@ -1,0 +1,30 @@
+Title: economy-cripple
+
+Head Concept Name: economy
+Modifier Concept Name: cripple
+
+
+
+
+
+T(modifier), maim, 0.872
+T(modifier), weaken, 0.855
+T(modifier), person, 0.809
+T(modifier), crutch, 0.806
+T(modifier), southern_us, 0.765
+T(modifier), except_louisiana, 0.752
+T(modifier), dialect, 0.742
+T(modifier), among_lumbermen, 0.729
+
+T(head), frugality, 0.864
+T(head), economic_action, 0.857
+T(head), efficiency, 0.832
+T(head), system, 0.816
+T(head), sector, 0.811
+T(head), heading_into_toilet, 0.804
+T(head), action, 0.79
+T(head), spending, 0.776
+
+
+Result: {"maim": 0.872, "weaken": 0.855, "person": 0.809, "frugality": 0.864, "economic_action": 0.857, "efficiency": 0.832, "system": 0.816, "sector": 0.811, "@scenario_probability": 0.00017922297381598617}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.00017922297381598617]

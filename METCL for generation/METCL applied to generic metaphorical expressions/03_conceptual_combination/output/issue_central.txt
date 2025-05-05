@@ -1,0 +1,24 @@
+Title: issue-central
+
+Head Concept Name: issue
+Modifier Concept Name: central
+
+
+
+
+
+T(modifier), telephone_system, 0.798
+T(modifier), workplace, 0.77
+
+T(head), periodical, 0.858
+T(head), distribute, 0.835
+T(head), printing, 0.826
+T(head), communicate, 0.812
+T(head), provision, 0.809
+T(head), military, 0.799
+T(head), store, 0.798
+T(head), content, 0.798
+
+
+Result: {"telephone_system": 0.798, "periodical": 0.858, "distribute": 0.835, "printing": 0.826, "communicate": 0.812, "provision": 0.809, "military": 0.799, "content": 0.798, "@scenario_probability": 0.9189462904890361}
+Scenario: [1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 0.9189462904890361]

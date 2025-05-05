@@ -1,0 +1,30 @@
+Title: government-shepherd
+
+Head Concept Name: government
+Modifier Concept Name: shepherd
+
+
+
+
+
+T(modifier), herder, 0.863
+T(modifier), bell_sheep, 0.859
+T(modifier), herdsman, 0.854
+T(modifier), clergyman, 0.825
+T(modifier), tend, 0.812
+T(modifier), guard, 0.808
+T(modifier), number_sheep, 0.808
+T(modifier), drive_sheep, 0.804
+
+T(head), corrupt, 0.897
+T(head), govern_country, 0.896
+T(head), polity, 0.874
+T(head), country, 0.839
+T(head), force_citizens_to_comply, 0.833
+T(head), rule_people, 0.832
+T(head), -fun, 0.829
+T(head), jealous_of_power, 0.827
+
+
+Result: {"herder": 0.863, "bell_sheep": 0.859, "herdsman": 0.854, "corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "country": 0.839, "force_citizens_to_comply": 0.833, "@scenario_probability": 3.671864105865764e-05}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 3.671864105865764e-05]

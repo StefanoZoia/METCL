@@ -1,0 +1,30 @@
+Title: human-cost
+
+Head Concept Name: human
+Modifier Concept Name: cost
+
+
+
+
+
+T(modifier), outgo, 0.866
+T(modifier), necessitate, 0.828
+T(modifier), be, 0.823
+T(modifier), -free, 0.778
+T(modifier), heraldry, 0.762
+T(modifier), -benefit, 0.754
+T(modifier), -revenue, 0.749
+T(modifier), -markup, 0.745
+
+T(head), emotional_distress, 0.882
+T(head), good, 0.868
+T(head), primate, 0.857
+T(head), laugh_at_joke, 0.856
+T(head), laugh_about_joke, 0.856
+T(head), talk_to_human, 0.854
+T(head), catch_bus, 0.853
+T(head), have_to_sleep, 0.853
+
+
+Result: {"outgo": 0.866, "emotional_distress": 0.882, "good": 0.868, "primate": 0.857, "laugh_at_joke": 0.856, "laugh_about_joke": 0.856, "talk_to_human": 0.854, "catch_bus": 0.853, "@scenario_probability": 0.00011291182942432426}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.00011291182942432426]

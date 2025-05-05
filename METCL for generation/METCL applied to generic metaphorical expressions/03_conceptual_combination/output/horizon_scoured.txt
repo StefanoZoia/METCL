@@ -1,0 +1,27 @@
+Title: horizon-scoured
+
+Head Concept Name: horizon
+Modifier Concept Name: scoured
+
+
+
+
+
+T(modifier), search, 0.79
+T(modifier), rub, 0.752
+T(modifier), topographic_point, 0.736
+T(modifier), veterinary_medicine, 0.695
+T(modifier), -polish, 0.657
+
+T(head), perspective, 0.848
+T(head), scope, 0.842
+T(head), stratum, 0.82
+T(head), line, 0.818
+T(head), profile, 0.814
+T(head), great_circle, 0.786
+T(head), illusion, 0.75
+T(head), geology, 0.747
+
+
+Result: {"search": 0.79, "rub": 0.752, "perspective": 0.848, "scope": 0.842, "stratum": 0.82, "line": 0.818, "profile": 0.814, "great_circle": 0.786, "@scenario_probability": 0.03179987396615476}
+Scenario: [1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.03179987396615476]

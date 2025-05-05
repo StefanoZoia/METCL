@@ -1,0 +1,28 @@
+Title: states-outlaw
+
+Head Concept Name: states
+Modifier Concept Name: outlaw
+
+
+
+
+
+T(modifier), forbid, 0.835
+T(modifier), criminal, 0.786
+T(modifier), slang, 0.753
+T(modifier), history, 0.746
+T(modifier), humorous, 0.731
+T(modifier), worker, 0.726
+
+T(head), -use_metric_system_of_measurement, 0.811
+T(head), us, 0.792
+T(head), populations, 0.791
+T(head), bring_on_other_states, 0.791
+T(head), channel_islands, 0.781
+T(head), historical, 0.759
+T(head), sontrolled_by_government, 0.751
+T(head), much_bigger_than_humans, 0.739
+
+
+Result: {"forbid": 0.835, "criminal": 0.786, "-use_metric_system_of_measurement": 0.811, "us": 0.792, "populations": 0.791, "bring_on_other_states": 0.791, "channel_islands": 0.781, "historical": 0.759, "@scenario_probability": 0.004698661959069932}
+Scenario: [1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.004698661959069932]

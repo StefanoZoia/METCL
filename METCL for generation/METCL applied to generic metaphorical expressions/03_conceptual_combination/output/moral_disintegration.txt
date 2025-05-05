@@ -1,0 +1,22 @@
+Title: moral-disintegration
+
+Head Concept Name: moral
+Modifier Concept Name: disintegration
+
+
+
+
+
+T(modifier), disability, 0.81
+T(modifier), geology, 0.743
+
+T(head), -immoral, 0.877
+T(head), -amoral, 0.852
+T(head), meaning, 0.829
+T(head), -non_moral, 0.754
+T(head), propositional_information, 0.753
+T(head), -ugly, 0.714
+
+
+Result: {"disability": 0.81, "geology": 0.743, "-immoral": 0.877, "-amoral": 0.852, "meaning": 0.829, "-non_moral": 0.754, "propositional_information": 0.753, "@scenario_probability": 6.053407444593836}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 6.053407444593836]

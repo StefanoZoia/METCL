@@ -1,0 +1,29 @@
+Title: judgement-clouded
+
+Head Concept Name: judgement
+Modifier Concept Name: clouded
+
+
+
+
+
+T(modifier), dark, 0.767
+T(modifier), billow, 0.765
+T(modifier), hide_sun, 0.764
+T(modifier), block_sun, 0.761
+T(modifier), bringing_rain, 0.759
+T(modifier), sleet, 0.758
+T(modifier), cover_sun, 0.757
+T(modifier), gloom, 0.756
+
+T(head), passing_sentence, 0.878
+T(head), finding_truth, 0.831
+T(head), commonwealth, 0.75
+T(head), bringing_in_verdict, 0.736
+T(head), council, 0.718
+T(head), based_on_facts, 0.709
+T(head), suspended, 0.704
+
+
+Result: {"dark": 0.767, "billow": 0.765, "hide_sun": 0.764, "block_sun": 0.761, "bringing_rain": 0.759, "sleet": 0.758, "passing_sentence": 0.878, "finding_truth": 0.831, "@scenario_probability": 0.0013611788095751875}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0.0013611788095751875]

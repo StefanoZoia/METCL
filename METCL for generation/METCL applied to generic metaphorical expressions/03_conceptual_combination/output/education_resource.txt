@@ -1,0 +1,30 @@
+Title: education-resource
+
+Head Concept Name: education
+Modifier Concept Name: resource
+
+
+
+
+
+T(modifier), asset, 0.852
+T(modifier), assets, 0.838
+T(modifier), inventiveness, 0.824
+T(modifier), tangible_thing, 0.778
+T(modifier), localized_spatial_thing, 0.759
+T(modifier), group_of_things, 0.737
+T(modifier), album, 0.717
+T(modifier), book, 0.709
+
+T(head), education, 0.946
+T(head), upbringing, 0.88
+T(head), learning, 0.876
+T(head), further_career, 0.865
+T(head), change_subjective_consciousness, 0.845
+T(head), never_ending_and_exciting, 0.835
+T(head), university, 0.83
+T(head), profession, 0.829
+
+
+Result: {"asset": 0.852, "assets": 0.838, "education": 0.946, "upbringing": 0.88, "learning": 0.876, "further_career": 0.865, "change_subjective_consciousness": 0.845, "never_ending_and_exciting": 0.835, "@scenario_probability": 0.00018840121950852617}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.00018840121950852617]

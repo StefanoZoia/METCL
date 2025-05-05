@@ -1,0 +1,30 @@
+Title: candidates-running
+
+Head Concept Name: candidates
+Modifier Concept Name: running
+
+
+
+
+
+T(modifier), running, 0.915
+T(modifier), legs, 0.9
+T(modifier), muscle_cramp, 0.889
+T(modifier), running_shoes, 0.885
+T(modifier), agility, 0.882
+T(modifier), excercise, 0.874
+T(modifier), using_feet, 0.863
+T(modifier), sweating, 0.854
+
+T(head), succeed_to_office, 0.738
+T(head), demand_recount, 0.729
+T(head), -elected_person, 0.715
+T(head), -elected, 0.715
+T(head), win_election, 0.71
+T(head), force_issue, 0.697
+T(head), television_episode, 0.638
+T(head), prepare_for_vote, 0.605
+
+
+Result: {"running": 0.915, "legs": 0.9, "muscle_cramp": 0.889, "running_shoes": 0.885, "agility": 0.882, "excercise": 0.874, "using_feet": 0.863, "succeed_to_office": 0.738, "@scenario_probability": 0.0012844404371870194}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0.0012844404371870194]

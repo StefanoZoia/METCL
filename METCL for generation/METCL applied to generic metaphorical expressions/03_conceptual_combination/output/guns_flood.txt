@@ -1,0 +1,30 @@
+Title: guns-flood
+
+Head Concept Name: guns
+Modifier Concept Name: flood
+
+
+
+
+
+T(modifier), flow, 0.85
+T(modifier), photographic_equipment, 0.848
+T(modifier), natural_disaster, 0.841
+T(modifier), disaster, 0.82
+T(modifier), fill, 0.818
+T(modifier), light, 0.818
+T(modifier), geological_phenomenon, 0.816
+T(modifier), filling, 0.812
+
+T(head), firearm_shoots_bullets, 0.838
+T(head), shooting_things, 0.824
+T(head), shoot, 0.814
+T(head), weapon, 0.813
+T(head), shot, 0.807
+T(head), gun_shop, 0.805
+T(head), holster, 0.8
+T(head), shoot_bullets, 0.795
+
+
+Result: {"flow": 0.85, "photographic_equipment": 0.848, "natural_disaster": 0.841, "disaster": 0.82, "fill": 0.818, "light": 0.818, "firearm_shoots_bullets": 0.838, "shooting_things": 0.824, "@scenario_probability": 4.2639142673724556e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 4.2639142673724556e-05]

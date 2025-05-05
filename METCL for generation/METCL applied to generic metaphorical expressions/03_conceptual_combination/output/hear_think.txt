@@ -1,0 +1,30 @@
+Title: hear-think
+
+Head Concept Name: hear
+Modifier Concept Name: think
+
+
+
+
+
+T(modifier), think, 0.99
+T(modifier), you_are, 0.898
+T(modifier), imagine, 0.888
+T(modifier), do, 0.887
+T(modifier), thinking_being_alive, 0.885
+T(modifier), make_decision, 0.874
+T(modifier), relax, 0.873
+T(modifier), expect, 0.864
+
+T(head), perceive, 0.836
+T(head), listening_to_radio, 0.815
+T(head), pick_up, 0.802
+T(head), probe, 0.793
+T(head), -see, 0.79
+T(head), ear, 0.769
+T(head), -deaf, 0.768
+T(head), -speak, 0.758
+
+
+Result: {"think": 0.99, "you_are": 0.898, "imagine": 0.888, "do": 0.887, "thinking_being_alive": 0.885, "make_decision": 0.874, "relax": 0.873, "perceive": 0.836, "@scenario_probability": 0.00011102074551657437}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0.00011102074551657437]

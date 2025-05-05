@@ -1,0 +1,24 @@
+Title: argument-blew
+
+Head Concept Name: argument
+Modifier Concept Name: blew
+
+
+
+
+
+T(modifier), album, 0.729
+T(modifier), extended_play, 0.729
+
+T(head), evidence, 0.851
+T(head), variable, 0.826
+T(head), prove_to_valid, 0.824
+T(head), prove_point, 0.824
+T(head), summary, 0.822
+T(head), logic, 0.808
+T(head), result_in_bad_feelings, 0.795
+T(head), result_in_cruel_accusations, 0.795
+
+
+Result: {"extended_play": 0.729, "evidence": 0.851, "variable": 0.826, "prove_to_valid": 0.824, "prove_point": 0.824, "summary": 0.822, "logic": 0.808, "result_in_cruel_accusations": 0.795, "@scenario_probability": 1.0206222173675048}
+Scenario: [0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1.0206222173675048]

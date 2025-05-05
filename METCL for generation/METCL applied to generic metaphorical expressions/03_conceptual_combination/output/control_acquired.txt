@@ -1,0 +1,30 @@
+Title: control-acquired
+
+Head Concept Name: control
+Modifier Concept Name: acquired
+
+
+
+
+
+T(modifier), get, 0.778
+T(modifier), situate, 0.742
+T(modifier), medicine, 0.737
+T(modifier), british, 0.692
+T(modifier), disease, 0.687
+T(modifier), uk, 0.687
+T(modifier), new_england, 0.684
+T(modifier), ireland, 0.679
+
+T(head), mechanism, 0.833
+T(head), test, 0.822
+T(head), physiology, 0.814
+T(head), bodily_process, 0.809
+T(head), activity, 0.809
+T(head), relation, 0.806
+T(head), see, 0.796
+T(head), power, 0.794
+
+
+Result: {"get": 0.778, "mechanism": 0.833, "test": 0.822, "physiology": 0.814, "bodily_process": 0.809, "activity": 0.809, "relation": 0.806, "see": 0.796, "@scenario_probability": 0.0007790048383054593}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.0007790048383054593]

@@ -1,0 +1,21 @@
+Title: national-chessboard
+
+Head Concept Name: national
+Modifier Concept Name: chessboard
+
+
+
+
+
+T(modifier), checkerboard, 0.901
+T(modifier), chess_set, 0.896
+T(modifier), chess, 0.881
+T(modifier), topology, 0.75
+T(modifier), playing_chess, 0.74
+
+T(head), person, 0.796
+T(head), -local, 0.778
+
+
+Result: {"checkerboard": 0.901, "chess_set": 0.896, "chess": 0.881, "topology": 0.75, "playing_chess": 0.74, "person": 0.796, "@scenario_probability": 6.975377792764416}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 6.975377792764416]

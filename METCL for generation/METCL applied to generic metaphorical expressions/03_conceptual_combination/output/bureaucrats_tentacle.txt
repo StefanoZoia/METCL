@@ -1,0 +1,23 @@
+Title: bureaucrats-tentacle
+
+Head Concept Name: bureaucrats
+Modifier Concept Name: tentacle
+
+
+
+
+
+T(modifier), appendage, 0.827
+T(modifier), grip, 0.822
+T(modifier), process, 0.802
+T(modifier), holder, 0.732
+
+T(head), bureaucracy, 0.924
+T(head), official, 0.773
+T(head), administrator, 0.724
+T(head), wmf_jargon, 0.665
+T(head), end_of_line, 0.656
+
+
+Result: {"appendage": 0.827, "grip": 0.822, "process": 0.802, "holder": 0.732, "bureaucracy": 0.924, "official": 0.773, "administrator": 0.724, "wmf_jargon": 0.665, "@scenario_probability": 4.7209879904355985}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 1, 0, 4.7209879904355985]

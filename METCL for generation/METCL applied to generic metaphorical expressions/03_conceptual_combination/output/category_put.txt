@@ -1,0 +1,25 @@
+Title: category-put
+
+Head Concept Name: category
+Modifier Concept Name: put
+
+
+
+
+
+T(modifier), music, 0.811
+T(modifier), -take, 0.806
+T(modifier), change, 0.796
+T(modifier), athletics, 0.757
+T(modifier), -lift, 0.755
+T(modifier), -get, 0.752
+T(modifier), testing, 0.747
+T(modifier), -hold, 0.745
+
+T(head), concept, 0.805
+T(head), mathematics, 0.75
+T(head), objects_and_morphisms_between_objects, 0.733
+
+
+Result: {"music": 0.811, "-take": 0.806, "change": 0.796, "athletics": 0.757, "-lift": 0.755, "-get": 0.752, "concept": 0.805, "mathematics": 0.75, "@scenario_probability": 0.23257270399603586}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0.23257270399603586]

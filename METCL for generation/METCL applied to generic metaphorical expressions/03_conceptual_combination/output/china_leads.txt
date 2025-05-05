@@ -1,0 +1,30 @@
+Title: china-leads
+
+Head Concept Name: china
+Modifier Concept Name: leads
+
+
+
+
+
+T(modifier), toxic, 0.801
+T(modifier), very_heavy, 0.772
+T(modifier), precede, 0.769
+T(modifier), advantage, 0.764
+T(modifier), leadership, 0.757
+T(modifier), dangerous_to_eat, 0.752
+T(modifier), heavy, 0.751
+T(modifier), compete, 0.751
+
+T(head), poyang, 0.905
+T(head), nanchang, 0.881
+T(head), shenzhen, 0.878
+T(head), porcelain, 0.876
+T(head), beijing, 0.875
+T(head), asia, 0.873
+T(head), shanghai, 0.871
+T(head), tangshan, 0.87
+
+
+Result: {"toxic": 0.801, "poyang": 0.905, "nanchang": 0.881, "shenzhen": 0.878, "porcelain": 0.876, "beijing": 0.875, "asia": 0.873, "shanghai": 0.871, "@scenario_probability": 0.0001973126404151282}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.0001973126404151282]

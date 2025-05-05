@@ -1,0 +1,30 @@
+Title: country-steering
+
+Head Concept Name: country
+Modifier Concept Name: steering
+
+
+
+
+
+T(modifier), control, 0.862
+T(modifier), seafaring, 0.834
+T(modifier), guiding, 0.817
+T(modifier), wheel, 0.791
+T(modifier), use_of_devices, 0.753
+T(modifier), action_performed_by_animals, 0.752
+T(modifier), intelligent_agent_activity, 0.737
+T(modifier), driving_to_work, 0.699
+
+T(head), a, 0.848
+T(head), world, 0.842
+T(head), america, 0.834
+T(head), region, 0.822
+T(head), honor_soldier, 0.81
+T(head), go_to_war_with_another_country, 0.8
+T(head), globe_map, 0.797
+T(head), asia, 0.797
+
+
+Result: {"control": 0.862, "seafaring": 0.834, "guiding": 0.817, "a": 0.848, "world": 0.842, "america": 0.834, "region": 0.822, "honor_soldier": 0.81, "@scenario_probability": 0.00019452052793124343}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.00019452052793124343]

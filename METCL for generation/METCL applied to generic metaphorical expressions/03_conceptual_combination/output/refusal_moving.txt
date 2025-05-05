@@ -1,0 +1,26 @@
+Title: refusal-moving
+
+Head Concept Name: refusal
+Modifier Concept Name: moving
+
+
+
+
+
+T(modifier), buying, 0.806
+T(modifier), -stationary, 0.806
+T(modifier), -standing, 0.79
+T(modifier), -motion, 0.785
+T(modifier), cause_backaches, 0.784
+T(modifier), getting_exercise, 0.775
+T(modifier), action_on_object, 0.761
+T(modifier), physical_event, 0.754
+
+T(head), denial, 0.895
+T(head), message, 0.798
+T(head), -license, 0.726
+T(head), civil_engineering, 0.719
+
+
+Result: {"buying": 0.806, "-stationary": 0.806, "-standing": 0.79, "-motion": 0.785, "cause_backaches": 0.784, "getting_exercise": 0.775, "denial": 0.895, "message": 0.798, "@scenario_probability": 0.07914079603354676}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0.07914079603354676]

@@ -1,0 +1,30 @@
+Title: experience-gave
+
+Head Concept Name: experience
+Modifier Concept Name: gave
+
+
+
+
+
+T(modifier), offer, 0.781
+T(modifier), -take, 0.771
+T(modifier), make, 0.757
+T(modifier), have, 0.751
+T(modifier), pass, 0.748
+T(modifier), submit, 0.748
+T(modifier), administer, 0.742
+T(modifier), distribute, 0.741
+
+T(head), experience, 0.946
+T(head), perceive, 0.859
+T(head), happening, 0.82
+T(head), content, 0.813
+T(head), change, 0.809
+T(head), avoid_mistakes, 0.808
+T(head), -inexperience, 0.804
+T(head), education, 0.802
+
+
+Result: {"offer": 0.781, "experience": 0.946, "perceive": 0.859, "happening": 0.82, "content": 0.813, "change": 0.809, "avoid_mistakes": 0.808, "-inexperience": 0.804, "@scenario_probability": 0.0002588704675684035}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.0002588704675684035]

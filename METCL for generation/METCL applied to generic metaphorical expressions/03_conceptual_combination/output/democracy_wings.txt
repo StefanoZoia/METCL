@@ -1,0 +1,30 @@
+Title: democracy-wings
+
+Head Concept Name: democracy
+Modifier Concept Name: wings
+
+
+
+
+
+T(modifier), flying, 0.924
+T(modifier), flapping, 0.919
+T(modifier), fly, 0.878
+T(modifier), airplanes, 0.851
+T(modifier), soaring, 0.849
+T(modifier), birds, 0.841
+T(modifier), glide, 0.84
+T(modifier), airplane, 0.837
+
+T(head), equality_for_everyone, 0.854
+T(head), open_media, 0.853
+T(head), political_orientation, 0.852
+T(head), political_system, 0.843
+T(head), good_thing, 0.84
+T(head), government_of_people, 0.816
+T(head), -dictatorship, 0.809
+T(head), government, 0.793
+
+
+Result: {"flying": 0.924, "flapping": 0.919, "fly": 0.878, "airplanes": 0.851, "soaring": 0.849, "equality_for_everyone": 0.854, "open_media": 0.853, "political_orientation": 0.852, "@scenario_probability": 2.5334458589260284e-05}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 2.5334458589260284e-05]

@@ -1,0 +1,30 @@
+Title: bureaucracy-cogs
+
+Head Concept Name: bureaucracy
+Modifier Concept Name: cogs
+
+
+
+
+
+T(modifier), tooth, 0.776
+T(modifier), gear, 0.77
+T(modifier), join, 0.74
+T(modifier), subordinate, 0.728
+T(modifier), roll_out, 0.71
+T(modifier), mining, 0.702
+T(modifier), historical, 0.669
+T(modifier), carpentry, 0.66
+
+T(head), government, 0.866
+T(head), bureaucrats, 0.853
+T(head), government_officials, 0.834
+T(head), organization, 0.814
+T(head), system_of_running_bureaus, 0.783
+T(head), organizational_theory, 0.762
+T(head), university, 0.75
+T(head), agent_non_geographical, 0.749
+
+
+Result: {"tooth": 0.776, "gear": 0.77, "government": 0.866, "bureaucrats": 0.853, "government_officials": 0.834, "organization": 0.814, "system_of_running_bureaus": 0.783, "organizational_theory": 0.762, "@scenario_probability": 0.0007716204222916764}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.0007716204222916764]

@@ -1,0 +1,30 @@
+Title: issue-lightweight
+
+Head Concept Name: issue
+Modifier Concept Name: lightweight
+
+
+
+
+
+T(modifier), prizefighter, 0.883
+T(modifier), boxer, 0.865
+T(modifier), wrestler, 0.859
+T(modifier), boxing, 0.821
+T(modifier), bodybuilding, 0.777
+T(modifier), -heavy, 0.776
+T(modifier), computing, 0.772
+T(modifier), document_folder, 0.717
+
+T(head), periodical, 0.858
+T(head), distribute, 0.835
+T(head), printing, 0.826
+T(head), communicate, 0.812
+T(head), provision, 0.809
+T(head), military, 0.799
+T(head), store, 0.798
+T(head), content, 0.798
+
+
+Result: {"prizefighter": 0.883, "boxer": 0.865, "wrestler": 0.859, "boxing": 0.821, "periodical": 0.858, "distribute": 0.835, "printing": 0.826, "communicate": 0.812, "@scenario_probability": 0.00013068607039951828}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.00013068607039951828]

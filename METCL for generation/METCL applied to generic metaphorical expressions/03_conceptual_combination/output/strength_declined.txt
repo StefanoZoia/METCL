@@ -1,0 +1,30 @@
+Title: strength-declined
+
+Head Concept Name: strength
+Modifier Concept Name: declined
+
+
+
+
+
+T(modifier), decrease, 0.798
+T(modifier), drop, 0.796
+T(modifier), descend, 0.757
+T(modifier), inflect, 0.757
+T(modifier), -increase, 0.738
+T(modifier), condition, 0.726
+T(modifier), -incline, 0.721
+T(modifier), popularity_of_breast_augmentation, 0.714
+
+T(head), -weakness, 0.877
+T(head), prosperity, 0.818
+T(head), property, 0.803
+T(head), -weak, 0.775
+T(head), -disability, 0.762
+T(head), moving_car, 0.761
+T(head), wrestling, 0.757
+T(head), mechanical_property, 0.753
+
+
+Result: {"decrease": 0.798, "drop": 0.796, "-weakness": 0.877, "prosperity": 0.818, "property": 0.803, "-weak": 0.775, "-disability": 0.762, "moving_car": 0.761, "@scenario_probability": 0.0003338593908290837}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.0003338593908290837]

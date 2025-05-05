@@ -1,0 +1,23 @@
+Title: morally-bankrupt
+
+Head Concept Name: morally
+Modifier Concept Name: bankrupt
+
+
+
+
+
+T(modifier), impoverish, 0.83
+T(modifier), failure, 0.821
+
+T(head), -immorally, 0.848
+T(head), -immoral, 0.789
+T(head), -amoral, 0.767
+T(head), meaning, 0.746
+T(head), -non_moral, 0.679
+T(head), propositional_information, 0.678
+T(head), -ugly, 0.643
+
+
+Result: {"impoverish": 0.83, "failure": 0.821, "-immorally": 0.848, "-immoral": 0.789, "-amoral": 0.767, "meaning": 0.746, "-non_moral": 0.679, "propositional_information": 0.678, "@scenario_probability": 4.287419517466359}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 1, 0, 4.287419517466359]

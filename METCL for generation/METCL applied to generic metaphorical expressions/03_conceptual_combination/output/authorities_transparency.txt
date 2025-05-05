@@ -1,0 +1,27 @@
+Title: authorities-transparency
+
+Head Concept Name: authorities
+Modifier Concept Name: transparency
+
+
+
+
+
+T(modifier), clearness, 0.88
+T(modifier), physical_phenomenon, 0.783
+T(modifier), facet_collection, 0.771
+T(modifier), signal_processing, 0.748
+T(modifier), photography, 0.737
+
+T(head), corrupt, 0.807
+T(head), govern_country, 0.806
+T(head), right_wrongs, 0.791
+T(head), polity, 0.787
+T(head), permission, 0.778
+T(head), control, 0.763
+T(head), country, 0.755
+T(head), force_citizens_to_comply, 0.75
+
+
+Result: {"clearness": 0.88, "physical_phenomenon": 0.783, "facet_collection": 0.771, "corrupt": 0.807, "govern_country": 0.806, "right_wrongs": 0.791, "polity": 0.787, "permission": 0.778, "@scenario_probability": 0.016100854668800946}
+Scenario: [1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.016100854668800946]

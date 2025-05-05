@@ -1,0 +1,24 @@
+Title: galaxy-has
+
+Head Concept Name: galaxy
+Modifier Concept Name: has
+
+
+
+
+
+T(modifier), -have, 0.816
+T(modifier), programming, 0.751
+
+T(head), universe, 0.881
+T(head), astronomy, 0.868
+T(head), space, 0.849
+T(head), solar_system, 0.84
+T(head), star, 0.837
+T(head), group_of_stars, 0.813
+T(head), enormous_group_of_stars, 0.803
+T(head), collection, 0.797
+
+
+Result: {"-have": 0.816, "universe": 0.881, "astronomy": 0.868, "space": 0.849, "solar_system": 0.84, "star": 0.837, "group_of_stars": 0.813, "enormous_group_of_stars": 0.803, "@scenario_probability": 1.2291353311443858}
+Scenario: [1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1.2291353311443858]

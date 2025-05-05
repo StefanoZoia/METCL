@@ -1,0 +1,24 @@
+Title: joy-soaring
+
+Head Concept Name: joy
+Modifier Concept Name: soaring
+
+
+
+
+
+T(modifier), air_locomotion, 0.777
+T(modifier), wings, 0.751
+
+T(head), emotion, 0.85
+T(head), positive_stimulus, 0.834
+T(head), dishwashing_soap, 0.833
+T(head), -sadness, 0.821
+T(head), dog, 0.811
+T(head), enter_room, 0.808
+T(head), trip_on_stairs, 0.804
+T(head), -sorrow, 0.803
+
+
+Result: {"air_locomotion": 0.777, "emotion": 0.85, "positive_stimulus": 0.834, "dishwashing_soap": 0.833, "-sadness": 0.821, "dog": 0.811, "enter_room": 0.808, "trip_on_stairs": 0.804, "@scenario_probability": 0.9735269772121878}
+Scenario: [1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.9735269772121878]

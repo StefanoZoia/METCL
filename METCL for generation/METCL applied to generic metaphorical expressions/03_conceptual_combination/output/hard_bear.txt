@@ -1,0 +1,30 @@
+Title: hard-bear
+
+Head Concept Name: hard
+Modifier Concept Name: bear
+
+
+
+
+
+T(modifier), winter_over_in_den, 0.857
+T(modifier), move, 0.85
+T(modifier), fish_for_salmon, 0.841
+T(modifier), mammal, 0.837
+T(modifier), hunt_rabbit, 0.83
+T(modifier), carnivore, 0.828
+T(modifier), investor, 0.825
+T(modifier), have, 0.825
+
+T(head), -easy, 0.818
+T(head), -soft, 0.818
+T(head), -tough, 0.796
+T(head), -difficult, 0.792
+T(head), stones, 0.778
+T(head), bricks, 0.777
+T(head), most_rocks, 0.772
+T(head), steel, 0.77
+
+
+Result: {"winter_over_in_den": 0.857, "move": 0.85, "fish_for_salmon": 0.841, "mammal": 0.837, "hunt_rabbit": 0.83, "carnivore": 0.828, "have": 0.825, "-soft": 0.818, "@scenario_probability": 8.343731927935821e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 8.343731927935821e-05]

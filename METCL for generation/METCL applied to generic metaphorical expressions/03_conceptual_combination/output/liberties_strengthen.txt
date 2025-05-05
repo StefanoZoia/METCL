@@ -1,0 +1,26 @@
+Title: liberties-strengthen
+
+Head Concept Name: liberties
+Modifier Concept Name: strengthen
+
+
+
+
+
+T(modifier), strengthen, 0.946
+T(modifier), -weaken, 0.891
+T(modifier), -enervate, 0.846
+T(modifier), -enfeeble, 0.816
+T(modifier), change, 0.813
+T(modifier), -atrophy, 0.767
+T(modifier), suspension_cable, 0.686
+
+T(head), matter_more_than_life, 0.719
+T(head), -tyranny, 0.69
+T(head), -slavery, 0.67
+T(head), rocket, 0.669
+T(head), -bondage, 0.621
+
+
+Result: {"strengthen": 0.946, "-weaken": 0.891, "-enervate": 0.846, "-enfeeble": 0.816, "change": 0.813, "-atrophy": 0.767, "matter_more_than_life": 0.719, "-tyranny": 0.69, "@scenario_probability": 0.23399363528084793}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0.23399363528084793]

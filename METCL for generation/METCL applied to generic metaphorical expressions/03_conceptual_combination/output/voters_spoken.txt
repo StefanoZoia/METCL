@@ -1,0 +1,24 @@
+Title: voters-spoken
+
+Head Concept Name: voters
+Modifier Concept Name: spoken
+
+
+
+
+
+T(modifier), -unspoken, 0.814
+T(modifier), -non_verbal, 0.738
+
+T(head), vote_in_local_elections, 0.926
+T(head), voice_opinions, 0.863
+T(head), voice_approval, 0.813
+T(head), tie_election, 0.807
+T(head), supply_politicians_with_votes, 0.795
+T(head), supply_politicians_with_mandate, 0.795
+T(head), back_candidate, 0.783
+T(head), country, 0.766
+
+
+Result: {"-unspoken": 0.814, "vote_in_local_elections": 0.926, "voice_opinions": 0.863, "voice_approval": 0.813, "tie_election": 0.807, "supply_politicians_with_votes": 0.795, "supply_politicians_with_mandate": 0.795, "back_candidate": 0.783, "@scenario_probability": 1.2948618502728766}
+Scenario: [1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1.2948618502728766]

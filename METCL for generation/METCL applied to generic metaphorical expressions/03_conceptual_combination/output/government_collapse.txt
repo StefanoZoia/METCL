@@ -1,0 +1,29 @@
+Title: government-collapse
+
+Head Concept Name: government
+Modifier Concept Name: collapse
+
+
+
+
+
+T(modifier), collapse, 0.946
+T(modifier), weaken, 0.836
+T(modifier), fold, 0.826
+T(modifier), happening, 0.817
+T(modifier), illness, 0.811
+T(modifier), change, 0.801
+T(modifier), cricket, 0.742
+
+T(head), corrupt, 0.897
+T(head), govern_country, 0.896
+T(head), polity, 0.874
+T(head), country, 0.839
+T(head), force_citizens_to_comply, 0.833
+T(head), rule_people, 0.832
+T(head), -fun, 0.829
+T(head), jealous_of_power, 0.827
+
+
+Result: {"collapse": 0.946, "weaken": 0.836, "corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "country": 0.839, "force_citizens_to_comply": 0.833, "rule_people": 0.832, "@scenario_probability": 0.00029526823348643104}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.00029526823348643104]

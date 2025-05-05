@@ -1,0 +1,30 @@
+Title: wake-up
+
+Head Concept Name: wake
+Modifier Concept Name: up
+
+
+
+
+
+T(modifier), -down, 0.872
+T(modifier), opposite_of_down, 0.835
+T(modifier), direction, 0.827
+T(modifier), -same_as_down, 0.825
+T(modifier), -drop, 0.816
+T(modifier), computer, 0.811
+T(modifier), -downward, 0.808
+T(modifier), us, 0.782
+
+T(head), vigil, 0.85
+T(head), alarm, 0.843
+T(head), -sleep, 0.824
+T(head), wave, 0.818
+T(head), church_of_england, 0.763
+T(head), reception, 0.761
+T(head), start_new_day, 0.749
+T(head), -dream, 0.741
+
+
+Result: {"-down": 0.872, "opposite_of_down": 0.835, "direction": 0.827, "-same_as_down": 0.825, "vigil": 0.85, "alarm": 0.843, "-sleep": 0.824, "wave": 0.818, "@scenario_probability": 0.00012860164273850204}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.00012860164273850204]

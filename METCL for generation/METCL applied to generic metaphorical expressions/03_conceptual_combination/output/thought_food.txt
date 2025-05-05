@@ -1,0 +1,30 @@
+Title: thought-food
+
+Head Concept Name: thought
+Modifier Concept Name: food
+
+
+
+
+
+T(modifier), nourishment, 0.92
+T(modifier), eating, 0.908
+T(modifier), sustenance, 0.906
+T(modifier), nourishing, 0.875
+T(modifier), resturant, 0.872
+T(modifier), energy, 0.871
+T(modifier), necessary_to_live, 0.865
+T(modifier), feed_animals, 0.863
+
+T(head), belief, 0.83
+T(head), create, 0.826
+T(head), cogitating, 0.818
+T(head), contemplating, 0.815
+T(head), answering_questions, 0.807
+T(head), form_idea, 0.802
+T(head), produce_anger, 0.8
+T(head), produce_depression, 0.8
+
+
+Result: {"nourishment": 0.92, "eating": 0.908, "sustenance": 0.906, "nourishing": 0.875, "resturant": 0.872, "energy": 0.871, "necessary_to_live": 0.865, "belief": 0.83, "@scenario_probability": 4.430310742657352e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 4.430310742657352e-05]

@@ -1,0 +1,30 @@
+Title: cost-blood
+
+Head Concept Name: cost
+Modifier Concept Name: blood
+
+
+
+
+
+T(modifier), bodily_fluid, 0.909
+T(modifier), circulatory_fluid, 0.893
+T(modifier), coursing_through_veins, 0.874
+T(modifier), course_through_veins, 0.85
+T(modifier), liquid, 0.848
+T(modifier), vein, 0.846
+T(modifier), capillaries, 0.837
+T(modifier), coursing_through_horse's_veins, 0.833
+
+T(head), outgo, 0.866
+T(head), necessitate, 0.828
+T(head), be, 0.823
+T(head), -free, 0.778
+T(head), heraldry, 0.762
+T(head), -benefit, 0.754
+T(head), -revenue, 0.749
+T(head), -markup, 0.745
+
+
+Result: {"bodily_fluid": 0.909, "circulatory_fluid": 0.893, "coursing_through_veins": 0.874, "course_through_veins": 0.85, "liquid": 0.848, "vein": 0.846, "capillaries": 0.837, "outgo": 0.866, "@scenario_probability": 0.0001326332436318058}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0.0001326332436318058]

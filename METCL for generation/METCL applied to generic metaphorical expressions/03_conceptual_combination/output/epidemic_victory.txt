@@ -1,0 +1,29 @@
+Title: epidemic-victory
+
+Head Concept Name: epidemic
+Modifier Concept Name: victory
+
+
+
+
+
+T(modifier), -defeat, 0.882
+T(modifier), success, 0.866
+T(modifier), conquer_opponent, 0.821
+T(modifier), ending, 0.818
+T(modifier), -loss, 0.814
+T(modifier), celebrate, 0.806
+T(modifier), play_soccer, 0.8
+T(modifier), when_one_opponent_defeats_another, 0.783
+
+T(head), outbreak, 0.9
+T(head), epidemiology, 0.845
+T(head), -endemic, 0.825
+T(head), medicine, 0.807
+T(head), physical_event, 0.745
+T(head), group_of_illnesses, 0.743
+T(head), stress, 0.683
+
+
+Result: {"-defeat": 0.882, "success": 0.866, "conquer_opponent": 0.821, "ending": 0.818, "-loss": 0.814, "outbreak": 0.9, "epidemiology": 0.845, "-endemic": 0.825, "@scenario_probability": 0.0008843859698727363}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0.0008843859698727363]

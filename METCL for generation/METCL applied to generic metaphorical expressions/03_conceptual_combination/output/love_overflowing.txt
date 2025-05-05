@@ -1,0 +1,24 @@
+Title: love-overflowing
+
+Head Concept Name: love
+Modifier Concept Name: overflowing
+
+
+
+
+
+T(modifier), flowing_from_container, 0.824
+T(modifier), fluid_flow_separation, 0.741
+
+T(head), love, 0.946
+T(head), wonderful_and_frightening, 0.891
+T(head), blind, 0.884
+T(head), hard_work, 0.879
+T(head), contagious, 0.873
+T(head), painful, 0.867
+T(head), fix_many_problems, 0.864
+T(head), hurt, 0.859
+
+
+Result: {"flowing_from_container": 0.824, "love": 0.946, "wonderful_and_frightening": 0.891, "blind": 0.884, "hard_work": 0.879, "contagious": 0.873, "painful": 0.867, "fix_many_problems": 0.864, "@scenario_probability": 1.2888523051315477}
+Scenario: [1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1.2888523051315477]

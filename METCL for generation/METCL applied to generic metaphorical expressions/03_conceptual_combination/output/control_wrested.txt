@@ -1,0 +1,26 @@
+Title: control-wrested
+
+Head Concept Name: control
+Modifier Concept Name: wrested
+
+
+
+
+
+T(modifier), seize, 0.778
+T(modifier), dialectal, 0.677
+T(modifier), agriculture, 0.67
+T(modifier), music, 0.67
+
+T(head), mechanism, 0.833
+T(head), test, 0.822
+T(head), physiology, 0.814
+T(head), bodily_process, 0.809
+T(head), activity, 0.809
+T(head), relation, 0.806
+T(head), see, 0.796
+T(head), power, 0.794
+
+
+Result: {"seize": 0.778, "mechanism": 0.833, "test": 0.822, "physiology": 0.814, "bodily_process": 0.809, "activity": 0.809, "relation": 0.806, "see": 0.796, "@scenario_probability": 0.1319360859517581}
+Scenario: [1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.1319360859517581]

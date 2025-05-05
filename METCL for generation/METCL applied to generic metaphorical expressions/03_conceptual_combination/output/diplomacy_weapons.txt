@@ -1,0 +1,29 @@
+Title: diplomacy-weapons
+
+Head Concept Name: diplomacy
+Modifier Concept Name: weapons
+
+
+
+
+
+T(modifier), automatic_or_manual, 0.886
+T(modifier), kill_people, 0.839
+T(modifier), war, 0.835
+T(modifier), waging_war, 0.832
+T(modifier), more_dangerous_than_others, 0.822
+T(modifier), more_than_one_weapon, 0.82
+T(modifier), hurt_or_kill_living_things, 0.808
+T(modifier), threaten, 0.803
+
+T(head), negotiation, 0.865
+T(head), bridge_differences, 0.853
+T(head), reaching_tentative_agreement, 0.765
+T(head), game, 0.717
+T(head), handling_proposals, 0.704
+T(head), book, 0.696
+T(head), meeting_people, 0.654
+
+
+Result: {"automatic_or_manual": 0.886, "kill_people": 0.839, "war": 0.835, "waging_war": 0.832, "more_dangerous_than_others": 0.822, "more_than_one_weapon": 0.82, "negotiation": 0.865, "bridge_differences": 0.853, "@scenario_probability": 0.0020114972314819817}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0.0020114972314819817]

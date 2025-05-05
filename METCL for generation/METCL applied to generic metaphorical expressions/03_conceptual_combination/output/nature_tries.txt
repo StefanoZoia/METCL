@@ -1,0 +1,30 @@
+Title: nature-tries
+
+Head Concept Name: nature
+Modifier Concept Name: tries
+
+
+
+
+
+T(modifier), attempt, 0.855
+T(modifier), measure_up, 0.808
+T(modifier), effort, 0.75
+T(modifier), another_name_for_effort, 0.744
+T(modifier), do, 0.744
+T(modifier), scoring_when_playing_rugby, 0.733
+T(modifier), scoring_in_rugby, 0.733
+T(modifier), pain, 0.73
+
+T(head), very_hard, 0.87
+T(head), serene, 0.852
+T(head), divine, 0.851
+T(head), destructive, 0.843
+T(head), personality, 0.84
+T(head), type, 0.832
+T(head), wonderful, 0.831
+T(head), quality, 0.83
+
+
+Result: {"attempt": 0.855, "very_hard": 0.87, "serene": 0.852, "divine": 0.851, "destructive": 0.843, "personality": 0.84, "type": 0.832, "wonderful": 0.831, "@scenario_probability": 0.00027179540436926395}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.00027179540436926395]

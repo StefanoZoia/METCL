@@ -1,0 +1,30 @@
+Title: rights-protect
+
+Head Concept Name: rights
+Modifier Concept Name: protect
+
+
+
+
+
+T(modifier), defend, 0.905
+T(modifier), trade, 0.814
+T(modifier), assist, 0.814
+T(modifier), shield, 0.795
+T(modifier), -harm, 0.774
+T(modifier), travel, 0.751
+T(modifier), bar, 0.749
+T(modifier), aviation, 0.746
+
+T(head), opposite_of_left, 0.77
+T(head), right_wrong, 0.769
+T(head), -left, 0.764
+T(head), entering_into_contract, 0.761
+T(head), -wrong, 0.754
+T(head), hand, 0.751
+T(head), common, 0.748
+T(head), turn, 0.747
+
+
+Result: {"defend": 0.905, "trade": 0.814, "assist": 0.814, "shield": 0.795, "-harm": 0.774, "opposite_of_left": 0.77, "right_wrong": 0.769, "-left": 0.764, "@scenario_probability": 0.0002473296051553277}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0.0002473296051553277]

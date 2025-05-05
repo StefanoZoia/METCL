@@ -1,0 +1,30 @@
+Title: life-direction
+
+Head Concept Name: life
+Modifier Concept Name: direction
+
+
+
+
+
+T(modifier), path, 0.863
+T(modifier), position, 0.836
+T(modifier), inclination, 0.835
+T(modifier), message, 0.814
+T(modifier), archaic, 0.748
+T(modifier), unit_vector_interval, 0.742
+T(modifier), terrestrial_direction, 0.735
+T(modifier), sign, 0.687
+
+T(head), living, 0.914
+T(head), finite, 0.886
+T(head), hard, 0.879
+T(head), good, 0.862
+T(head), unpredictable, 0.861
+T(head), water, 0.844
+T(head), absurd, 0.843
+T(head), full_of_chance, 0.841
+
+
+Result: {"path": 0.863, "living": 0.914, "finite": 0.886, "hard": 0.879, "good": 0.862, "unpredictable": 0.861, "water": 0.844, "absurd": 0.843, "@scenario_probability": 0.00013999365293078007}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.00013999365293078007]

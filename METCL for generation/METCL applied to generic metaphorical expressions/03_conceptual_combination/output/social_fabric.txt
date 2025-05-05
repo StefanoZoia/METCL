@@ -1,0 +1,30 @@
+Title: social-fabric
+
+Head Concept Name: social
+Modifier Concept Name: fabric
+
+
+
+
+
+T(modifier), clothing, 0.893
+T(modifier), sewing, 0.881
+T(modifier), curtains, 0.861
+T(modifier), fibers, 0.858
+T(modifier), fabric_store, 0.849
+T(modifier), manufactured_in_many_colors, 0.848
+T(modifier), fibreglass, 0.846
+T(modifier), clothing_as_well_as_drapes, 0.842
+
+T(head), -antisocial, 0.883
+T(head), social_occasion, 0.878
+T(head), -asocial, 0.859
+T(head), -unsocial, 0.853
+T(head), animal, 0.825
+T(head), internet, 0.795
+T(head), zoology, 0.752
+T(head), -introverted, 0.748
+
+
+Result: {"clothing": 0.893, "sewing": 0.881, "curtains": 0.861, "fibers": 0.858, "-antisocial": 0.883, "social_occasion": 0.878, "-asocial": 0.859, "-unsocial": 0.853, "@scenario_probability": 4.133878380617167e-05}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 4.133878380617167e-05]

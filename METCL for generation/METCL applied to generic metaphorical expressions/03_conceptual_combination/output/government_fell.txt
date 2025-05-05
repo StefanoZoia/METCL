@@ -1,0 +1,30 @@
+Title: government-fell
+
+Head Concept Name: government
+Modifier Concept Name: fell
+
+
+
+
+
+T(modifier), cut, 0.854
+T(modifier), descend, 0.842
+T(modifier), killing, 0.809
+T(modifier), sew, 0.789
+T(modifier), seam, 0.784
+T(modifier), -stood_up, 0.772
+T(modifier), -stood, 0.772
+T(modifier), -remained_standing, 0.766
+
+T(head), corrupt, 0.897
+T(head), govern_country, 0.896
+T(head), polity, 0.874
+T(head), country, 0.839
+T(head), force_citizens_to_comply, 0.833
+T(head), rule_people, 0.832
+T(head), -fun, 0.829
+T(head), jealous_of_power, 0.827
+
+
+Result: {"cut": 0.854, "descend": 0.842, "corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "country": 0.839, "force_citizens_to_comply": 0.833, "rule_people": 0.832, "@scenario_probability": 9.20045858394249e-05}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 9.20045858394249e-05]

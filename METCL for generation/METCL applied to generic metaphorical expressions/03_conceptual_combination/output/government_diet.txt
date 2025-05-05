@@ -1,0 +1,30 @@
+Title: government-diet
+
+Head Concept Name: government
+Modifier Concept Name: diet
+
+
+
+
+
+T(modifier), lose_weight, 0.853
+T(modifier), losing_weight, 0.852
+T(modifier), fast, 0.831
+T(modifier), fare, 0.823
+T(modifier), eat_healthily, 0.819
+T(modifier), japan, 0.806
+T(modifier), animal, 0.804
+T(modifier), legislature, 0.801
+
+T(head), corrupt, 0.897
+T(head), govern_country, 0.896
+T(head), polity, 0.874
+T(head), country, 0.839
+T(head), force_citizens_to_comply, 0.833
+T(head), rule_people, 0.832
+T(head), -fun, 0.829
+T(head), jealous_of_power, 0.827
+
+
+Result: {"lose_weight": 0.853, "losing_weight": 0.852, "corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "country": 0.839, "force_citizens_to_comply": 0.833, "rule_people": 0.832, "@scenario_probability": 3.5976792128892416e-05}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 3.5976792128892416e-05]

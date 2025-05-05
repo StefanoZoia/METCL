@@ -1,0 +1,28 @@
+Title: information-yielded
+
+Head Concept Name: information
+Modifier Concept Name: yielded
+
+
+
+
+
+T(modifier), investment, 0.761
+T(modifier), gain, 0.752
+T(modifier), accept, 0.738
+T(modifier), product, 0.731
+T(modifier), supply, 0.721
+T(modifier), law, 0.661
+
+T(head), data, 0.884
+T(head), information_measure, 0.873
+T(head), knowledge, 0.834
+T(head), internet, 0.833
+T(head), message, 0.833
+T(head), change, 0.833
+T(head), discovery, 0.831
+T(head), communications, 0.83
+
+
+Result: {"investment": 0.761, "data": 0.884, "information_measure": 0.873, "knowledge": 0.834, "internet": 0.833, "message": 0.833, "change": 0.833, "discovery": 0.831, "@scenario_probability": 0.006611672284970995}
+Scenario: [1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.006611672284970995]

@@ -1,0 +1,30 @@
+Title: anger-filled
+
+Head Concept Name: anger
+Modifier Concept Name: filled
+
+
+
+
+
+T(modifier), fill, 0.851
+T(modifier), -empty, 0.796
+T(modifier), hire, 0.746
+T(modifier), enough, 0.742
+T(modifier), repair, 0.733
+T(modifier), change, 0.729
+T(modifier), change_state, 0.724
+T(modifier), bladder, 0.723
+
+T(head), anger, 0.946
+T(head), emotional_arousal, 0.895
+T(head), emotion, 0.874
+T(head), frustration, 0.864
+T(head), frustration_at_inability_to_control, 0.856
+T(head), arouse, 0.838
+T(head), unpleasant, 0.815
+T(head), feel, 0.809
+
+
+Result: {"fill": 0.851, "anger": 0.946, "emotional_arousal": 0.895, "emotion": 0.874, "frustration": 0.864, "frustration_at_inability_to_control": 0.856, "arouse": 0.838, "unpleasant": 0.815, "@scenario_probability": 0.00044929404205276956}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.00044929404205276956]

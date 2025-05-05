@@ -1,0 +1,30 @@
+Title: relationship-build
+
+Head Concept Name: relationship
+Modifier Concept Name: build
+
+
+
+
+
+T(modifier), develop, 0.878
+T(modifier), create, 0.877
+T(modifier), establish, 0.871
+T(modifier), make, 0.845
+T(modifier), architecture, 0.832
+T(modifier), -demolish, 0.826
+T(modifier), better, 0.813
+T(modifier), intensify, 0.811
+
+T(head), relation, 0.898
+T(head), ending_in_heartbreak, 0.838
+T(head), state, 0.811
+T(head), -affair, 0.799
+T(head), last_for_year, 0.793
+T(head), last_for_long_time, 0.793
+T(head), music, 0.757
+T(head), mathematics, 0.749
+
+
+Result: {"develop": 0.878, "create": 0.877, "establish": 0.871, "make": 0.845, "architecture": 0.832, "-demolish": 0.826, "relation": 0.898, "ending_in_heartbreak": 0.838, "@scenario_probability": 0.00010284298191164963}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.00010284298191164963]

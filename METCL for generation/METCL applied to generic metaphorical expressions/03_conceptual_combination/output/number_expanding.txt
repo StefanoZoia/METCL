@@ -1,0 +1,26 @@
+Title: number-expanding
+
+Head Concept Name: number
+Modifier Concept Name: expanding
+
+
+
+
+
+T(modifier), space, 0.714
+T(modifier), life_span_of_humans, 0.67
+T(modifier), nuclear_power_industry, 0.668
+T(modifier), people_can_wonder_whether_universe, 0.628
+
+T(head), represent_order, 0.861
+T(head), identifying_house, 0.859
+T(head), phone_book, 0.858
+T(head), call_on_telephone, 0.846
+T(head), statistic, 0.841
+T(head), orginization, 0.839
+T(head), size, 0.837
+T(head), digit, 0.831
+
+
+Result: {"space": 0.714, "represent_order": 0.861, "identifying_house": 0.859, "phone_book": 0.858, "call_on_telephone": 0.846, "statistic": 0.841, "orginization": 0.839, "size": 0.837, "@scenario_probability": 0.15592554139140954}
+Scenario: [1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.15592554139140954]

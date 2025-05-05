@@ -1,0 +1,24 @@
+Title: presidency-war
+
+Head Concept Name: presidency
+Modifier Concept Name: war
+
+
+
+
+
+T(modifier), war, 0.946
+T(modifier), conflict, 0.888
+T(modifier), bad_thing, 0.88
+T(modifier), fight, 0.865
+T(modifier), fighting_between_countries, 0.859
+T(modifier), battle, 0.858
+T(modifier), -peace, 0.853
+T(modifier), campaign, 0.849
+
+T(head), tenure, 0.861
+T(head), position, 0.828
+
+
+Result: {"war": 0.946, "conflict": 0.888, "bad_thing": 0.88, "fight": 0.865, "fighting_between_countries": 0.859, "battle": 0.858, "-peace": 0.853, "tenure": 0.861, "@scenario_probability": 0.8989611228173797}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0.8989611228173797]

@@ -1,0 +1,25 @@
+Title: politician-crooked
+
+Head Concept Name: politician
+Modifier Concept Name: crooked
+
+
+
+
+
+T(modifier), -straight, 0.826
+T(modifier), -square, 0.746
+T(modifier), -level, 0.674
+
+T(head), corrupt, 0.906
+T(head), talk_to_crowd, 0.853
+T(head), lie, 0.847
+T(head), duck_issues, 0.845
+T(head), duck_issue, 0.845
+T(head), leader, 0.844
+T(head), government_related_entity, 0.841
+T(head), give_speech, 0.84
+
+
+Result: {"-straight": 0.826, "corrupt": 0.906, "talk_to_crowd": 0.853, "lie": 0.847, "duck_issues": 0.845, "duck_issue": 0.845, "leader": 0.844, "government_related_entity": 0.841, "@scenario_probability": 0.36304783076475244}
+Scenario: [1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.36304783076475244]

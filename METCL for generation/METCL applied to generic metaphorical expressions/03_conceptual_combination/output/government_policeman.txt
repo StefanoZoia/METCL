@@ -1,0 +1,30 @@
+Title: government-policeman
+
+Head Concept Name: government
+Modifier Concept Name: policeman
+
+
+
+
+
+T(modifier), police_station, 0.904
+T(modifier), -policewoman, 0.899
+T(modifier), police_officer, 0.882
+T(modifier), lawman, 0.878
+T(modifier), stop_traffic, 0.86
+T(modifier), roadblock, 0.853
+T(modifier), notice_jaywalker, 0.844
+T(modifier), arrest_criminals, 0.82
+
+T(head), corrupt, 0.897
+T(head), govern_country, 0.896
+T(head), polity, 0.874
+T(head), country, 0.839
+T(head), force_citizens_to_comply, 0.833
+T(head), rule_people, 0.832
+T(head), -fun, 0.829
+T(head), jealous_of_power, 0.827
+
+
+Result: {"police_station": 0.904, "-policewoman": 0.899, "police_officer": 0.882, "lawman": 0.878, "stop_traffic": 0.86, "corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "@scenario_probability": 2.097055094135814e-05}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 2.097055094135814e-05]

@@ -1,0 +1,24 @@
+Title: legislative-gears
+
+Head Concept Name: legislative
+Modifier Concept Name: gears
+
+
+
+
+
+T(modifier), equipment, 0.793
+T(modifier), wheel, 0.751
+T(modifier), adapt, 0.737
+T(modifier), cog, 0.732
+T(modifier), mechanism, 0.73
+T(modifier), tooth, 0.707
+T(modifier), cycling, 0.707
+T(modifier), automotive, 0.7
+
+T(head), ordain, 0.758
+T(head), politicians, 0.681
+
+
+Result: {"equipment": 0.793, "wheel": 0.751, "adapt": 0.737, "cog": 0.732, "mechanism": 0.73, "tooth": 0.707, "cycling": 0.707, "ordain": 0.758, "@scenario_probability": 0.8504220738554444}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0.8504220738554444]

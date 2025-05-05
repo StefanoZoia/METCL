@@ -1,0 +1,24 @@
+Title: psyche-wound
+
+Head Concept Name: psyche
+Modifier Concept Name: wound
+
+
+
+
+
+T(modifier), injury, 0.883
+T(modifier), inflict_pain, 0.854
+T(modifier), damage, 0.842
+T(modifier), bleeding, 0.841
+T(modifier), get_sympathy, 0.839
+T(modifier), hospital, 0.838
+T(modifier), injured_person, 0.824
+T(modifier), patient, 0.819
+
+T(head), greek_mythology, 0.816
+T(head), roman_mythology, 0.773
+
+
+Result: {"injury": 0.883, "inflict_pain": 0.854, "damage": 0.842, "bleeding": 0.841, "get_sympathy": 0.839, "hospital": 0.838, "injured_person": 0.824, "greek_mythology": 0.816, "@scenario_probability": 1.037180740061708}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1.037180740061708]

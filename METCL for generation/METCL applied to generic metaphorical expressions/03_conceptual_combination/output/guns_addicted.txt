@@ -1,0 +1,28 @@
+Title: guns-addicted
+
+Head Concept Name: guns
+Modifier Concept Name: addicted
+
+
+
+
+
+T(modifier), drug_user, 0.791
+T(modifier), enthusiast, 0.777
+T(modifier), use, 0.763
+T(modifier), habituate, 0.76
+T(modifier), need_drugs, 0.758
+T(modifier), smoke, 0.725
+
+T(head), firearm_shoots_bullets, 0.838
+T(head), shooting_things, 0.824
+T(head), shoot, 0.814
+T(head), weapon, 0.813
+T(head), shot, 0.807
+T(head), gun_shop, 0.805
+T(head), holster, 0.8
+T(head), shoot_bullets, 0.795
+
+
+Result: {"drug_user": 0.791, "firearm_shoots_bullets": 0.838, "shooting_things": 0.824, "shoot": 0.814, "weapon": 0.813, "shot": 0.807, "gun_shop": 0.805, "holster": 0.8, "@scenario_probability": 0.003250786428875542}
+Scenario: [1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.003250786428875542]

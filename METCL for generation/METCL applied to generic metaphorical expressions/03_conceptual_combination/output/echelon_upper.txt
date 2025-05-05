@@ -1,0 +1,28 @@
+Title: echelon-upper
+
+Head Concept Name: echelon
+Modifier Concept Name: upper
+
+
+
+
+
+T(modifier), -lower, 0.851
+T(modifier), boot, 0.835
+T(modifier), shoe, 0.826
+T(modifier), piece_of_leather, 0.82
+T(modifier), vamp, 0.788
+T(modifier), shoemaking, 0.78
+T(modifier), -downer, 0.766
+T(modifier), footwear, 0.763
+
+T(head), military_unit, 0.852
+T(head), military, 0.843
+T(head), status, 0.83
+T(head), diffraction_grating, 0.792
+T(head), cycling, 0.77
+T(head), linear_algebra, 0.767
+
+
+Result: {"-lower": 0.851, "boot": 0.835, "shoe": 0.826, "piece_of_leather": 0.82, "military_unit": 0.852, "military": 0.843, "status": 0.83, "diffraction_grating": 0.792, "@scenario_probability": 0.0031498283014197424}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0.0031498283014197424]

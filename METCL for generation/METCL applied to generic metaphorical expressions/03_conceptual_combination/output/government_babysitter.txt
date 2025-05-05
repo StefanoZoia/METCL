@@ -1,0 +1,29 @@
+Title: government-babysitter
+
+Head Concept Name: government
+Modifier Concept Name: babysitter
+
+
+
+
+
+T(modifier), mind_children, 0.854
+T(modifier), keeper, 0.846
+T(modifier), mind_baby, 0.842
+T(modifier), mind_child, 0.81
+T(modifier), mind_young_child, 0.802
+T(modifier), shoe_toddler, 0.788
+T(modifier), film, 0.712
+
+T(head), corrupt, 0.897
+T(head), govern_country, 0.896
+T(head), polity, 0.874
+T(head), country, 0.839
+T(head), force_citizens_to_comply, 0.833
+T(head), rule_people, 0.832
+T(head), -fun, 0.829
+T(head), jealous_of_power, 0.827
+
+
+Result: {"mind_children": 0.854, "keeper": 0.846, "mind_baby": 0.842, "corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "country": 0.839, "force_citizens_to_comply": 0.833, "@scenario_probability": 0.00034092418263449237}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.00034092418263449237]

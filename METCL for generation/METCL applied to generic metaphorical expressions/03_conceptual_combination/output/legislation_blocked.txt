@@ -1,0 +1,29 @@
+Title: legislation-blocked
+
+Head Concept Name: legislation
+Modifier Concept Name: blocked
+
+
+
+
+
+T(modifier), cube, 0.75
+T(modifier), -unblock, 0.748
+T(modifier), housing, 0.739
+T(modifier), -view, 0.735
+T(modifier), area, 0.733
+T(modifier), hold, 0.73
+T(modifier), anesthetize, 0.728
+T(modifier), solid, 0.727
+
+T(head), legislation, 0.946
+T(head), law, 0.888
+T(head), statute_book, 0.888
+T(head), government, 0.838
+T(head), civil_law, 0.833
+T(head), stop_pollution, 0.802
+T(head), -jury, 0.582
+
+
+Result: {"cube": 0.75, "-unblock": 0.748, "legislation": 0.946, "law": 0.888, "statute_book": 0.888, "government": 0.838, "civil_law": 0.833, "stop_pollution": 0.802, "@scenario_probability": 0.003625872739333756}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0.003625872739333756]

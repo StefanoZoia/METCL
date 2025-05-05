@@ -1,0 +1,30 @@
+Title: judge-referee
+
+Head Concept Name: judge
+Modifier Concept Name: referee
+
+
+
+
+
+T(modifier), judge, 0.876
+T(modifier), football, 0.855
+T(modifier), time_race, 0.851
+T(modifier), hockey_game, 0.846
+T(modifier), sport, 0.837
+T(modifier), official, 0.834
+T(modifier), review, 0.826
+T(modifier), soccer_game, 0.818
+
+T(head), judge, 0.99
+T(head), judge_defendant_to_guilty, 0.963
+T(head), above_reproach, 0.959
+T(head), judge_races, 0.934
+T(head), courtroom, 0.893
+T(head), passing_sentence, 0.889
+T(head), supreme_court_justice, 0.888
+T(head), settle_legal_case, 0.873
+
+
+Result: {"judge": 0.99, "judge_defendant_to_guilty": 0.963, "above_reproach": 0.959, "judge_races": 0.934, "courtroom": 0.893, "passing_sentence": 0.889, "supreme_court_justice": 0.888, "@scenario_probability": 1.9093796873632742e-05}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1.9093796873632742e-05]

@@ -1,0 +1,30 @@
+Title: problem-hard
+
+Head Concept Name: problem
+Modifier Concept Name: hard
+
+
+
+
+
+T(modifier), -easy, 0.818
+T(modifier), -soft, 0.818
+T(modifier), -tough, 0.796
+T(modifier), -difficult, 0.792
+T(modifier), stones, 0.778
+T(modifier), bricks, 0.777
+T(modifier), most_rocks, 0.772
+T(modifier), steel, 0.77
+
+T(head), president_bush, 0.91
+T(head), quandry, 0.896
+T(head), difficulty, 0.884
+T(head), question, 0.863
+T(head), slow_work, 0.847
+T(head), -solution, 0.834
+T(head), -answer, 0.768
+T(head), cogitate, 0.763
+
+
+Result: {"-easy": 0.818, "-soft": 0.818, "president_bush": 0.91, "quandry": 0.896, "difficulty": 0.884, "question": 0.863, "slow_work": 0.847, "-solution": 0.834, "@scenario_probability": 0.00017808153268615386}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.00017808153268615386]

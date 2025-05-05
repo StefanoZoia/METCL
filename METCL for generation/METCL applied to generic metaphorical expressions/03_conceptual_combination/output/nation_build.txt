@@ -1,0 +1,30 @@
+Title: nation-build
+
+Head Concept Name: nation
+Modifier Concept Name: build
+
+
+
+
+
+T(modifier), develop, 0.878
+T(modifier), create, 0.877
+T(modifier), establish, 0.871
+T(modifier), make, 0.845
+T(modifier), architecture, 0.832
+T(modifier), -demolish, 0.826
+T(modifier), better, 0.813
+T(modifier), intensify, 0.811
+
+T(head), united_states, 0.857
+T(head), people, 0.836
+T(head), confederation, 0.831
+T(head), ready_troops, 0.808
+T(head), weather_storm_of_war, 0.789
+T(head), arm_citizens, 0.788
+T(head), -state, 0.787
+T(head), legal, 0.744
+
+
+Result: {"develop": 0.878, "create": 0.877, "establish": 0.871, "make": 0.845, "architecture": 0.832, "united_states": 0.857, "people": 0.836, "confederation": 0.831, "@scenario_probability": 8.084854255321073e-05}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 8.084854255321073e-05]

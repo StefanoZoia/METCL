@@ -1,0 +1,30 @@
+Title: disagree-shoot
+
+Head Concept Name: disagree
+Modifier Concept Name: shoot
+
+
+
+
+
+T(modifier), shooting, 0.916
+T(modifier), throw, 0.842
+T(modifier), hit, 0.828
+T(modifier), gun, 0.827
+T(modifier), fire, 0.824
+T(modifier), grow, 0.823
+T(modifier), bullet, 0.821
+T(modifier), pistol, 0.821
+
+T(head), -agree, 0.872
+T(head), -concur, 0.862
+T(head), be, 0.783
+T(head), -consent, 0.778
+T(head), debate, 0.769
+T(head), -accept, 0.724
+T(head), architects, 0.721
+T(head), -pact, 0.718
+
+
+Result: {"shooting": 0.916, "throw": 0.842, "hit": 0.828, "gun": 0.827, "fire": 0.824, "grow": 0.823, "-agree": 0.872, "-concur": 0.862, "@scenario_probability": 0.0002084430181860383}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.0002084430181860383]

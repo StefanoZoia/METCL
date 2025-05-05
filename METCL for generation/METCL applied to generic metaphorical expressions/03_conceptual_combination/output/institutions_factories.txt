@@ -1,0 +1,23 @@
+Title: institutions-factories
+
+Head Concept Name: institutions
+Modifier Concept Name: factories
+
+
+
+
+
+T(modifier), produce_many_different_things, 0.852
+T(modifier), produce_lot, 0.852
+T(modifier), produce_parts, 0.852
+T(modifier), bag_snacks, 0.805
+T(modifier), bottle_coke, 0.803
+
+T(head), establishment, 0.79
+T(head), organization, 0.766
+T(head), custom, 0.725
+T(head), department, 0.67
+
+
+Result: {"produce_many_different_things": 0.852, "produce_lot": 0.852, "produce_parts": 0.852, "bag_snacks": 0.805, "bottle_coke": 0.803, "establishment": 0.79, "organization": 0.766, "custom": 0.725, "@scenario_probability": 5.788126542978848}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 1, 0, 5.788126542978848]

@@ -1,0 +1,26 @@
+Title: control-beyond
+
+Head Concept Name: control
+Modifier Concept Name: beyond
+
+
+
+
+
+T(modifier), -before, 0.786
+T(modifier), -earlier, 0.763
+T(modifier), -on_this_side_of, 0.741
+T(modifier), -near, 0.741
+
+T(head), mechanism, 0.833
+T(head), test, 0.822
+T(head), physiology, 0.814
+T(head), bodily_process, 0.809
+T(head), activity, 0.809
+T(head), relation, 0.806
+T(head), see, 0.796
+T(head), power, 0.794
+
+
+Result: {"-before": 0.786, "mechanism": 0.833, "test": 0.822, "physiology": 0.814, "bodily_process": 0.809, "activity": 0.809, "relation": 0.806, "see": 0.796, "@scenario_probability": 0.060245417333976925}
+Scenario: [1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.060245417333976925]

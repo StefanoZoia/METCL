@@ -1,0 +1,30 @@
+Title: impure-washed
+
+Head Concept Name: impure
+Modifier Concept Name: washed
+
+
+
+
+
+T(modifier), cleanse, 0.79
+T(modifier), clean, 0.783
+T(modifier), -dirty, 0.767
+T(modifier), streambed, 0.755
+T(modifier), watercolor, 0.746
+T(modifier), water_base_paint, 0.74
+T(modifier), stand, 0.726
+T(modifier), west, 0.725
+
+T(head), -pure, 0.869
+T(head), -clean, 0.799
+T(head), -perfect, 0.745
+T(head), -flawless, 0.733
+T(head), religion, 0.73
+T(head), -infallible, 0.721
+T(head), -utopian, 0.712
+T(head), grammar, 0.709
+
+
+Result: {"cleanse": 0.79, "-dirty": 0.767, "streambed": 0.755, "watercolor": 0.746, "water_base_paint": 0.74, "-pure": 0.869, "-clean": 0.799, "-perfect": 0.745, "@scenario_probability": 0.00036005635333862755}
+Scenario: [1, 0, 1, 1, 1, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0.00036005635333862755]

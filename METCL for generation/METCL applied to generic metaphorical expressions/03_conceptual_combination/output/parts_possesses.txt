@@ -1,0 +1,19 @@
+Title: parts-possesses
+
+Head Concept Name: parts
+Modifier Concept Name: possesses
+
+
+
+
+
+T(modifier), have, 0.789
+T(modifier), dominate, 0.738
+
+T(head), repair_shop, 0.816
+T(head), environment, 0.807
+T(head), euphemistic, 0.764
+
+
+Result: {"have": 0.789, "dominate": 0.738, "repair_shop": 0.816, "environment": 0.807, "@scenario_probability": 9.0491765514624}
+Scenario: [1, 1, 1, 1, 0, 9.0491765514624]

@@ -1,0 +1,30 @@
+Title: taxes-disease
+
+Head Concept Name: taxes
+Modifier Concept Name: disease
+
+
+
+
+
+T(modifier), infectious, 0.909
+T(modifier), illness, 0.904
+T(modifier), deadly, 0.862
+T(modifier), ending_in_death, 0.843
+T(modifier), make_sick, 0.837
+T(modifier), -wanted_by_most_people, 0.831
+T(modifier), syndrome, 0.822
+T(modifier), rot_human_bodies, 0.819
+
+T(head), bills, 0.827
+T(head), fund_govenment_services, 0.816
+T(head), percentage_of_income, 0.804
+T(head), debt, 0.804
+T(head), going_up, 0.784
+T(head), money, 0.777
+T(head), -pay, 0.777
+T(head), source_of_revenue, 0.738
+
+
+Result: {"infectious": 0.909, "illness": 0.904, "deadly": 0.862, "ending_in_death": 0.843, "make_sick": 0.837, "-wanted_by_most_people": 0.831, "syndrome": 0.822, "bills": 0.827, "@scenario_probability": 0.00010165863457108987}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0.00010165863457108987]

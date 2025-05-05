@@ -1,0 +1,30 @@
+Title: campaign-race
+
+Head Concept Name: campaign
+Modifier Concept Name: race
+
+
+
+
+
+T(modifier), contest, 0.859
+T(modifier), compete, 0.858
+T(modifier), significant_in_genetics, 0.829
+T(modifier), competition_in, 0.82
+T(modifier), group, 0.804
+T(modifier), act, 0.801
+T(modifier), cars, 0.801
+T(modifier), move, 0.788
+
+T(head), war, 0.887
+T(head), expedition, 0.868
+T(head), operation, 0.845
+T(head), race, 0.833
+T(head), venture, 0.829
+T(head), raise_awareness_about_issue, 0.821
+T(head), africa, 0.803
+T(head), project, 0.801
+
+
+Result: {"contest": 0.859, "compete": 0.858, "significant_in_genetics": 0.829, "war": 0.887, "expedition": 0.868, "operation": 0.845, "race": 0.833, "venture": 0.829, "@scenario_probability": 5.705286944251798e-05}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 5.705286944251798e-05]

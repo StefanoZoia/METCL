@@ -1,0 +1,24 @@
+Title: pride-wounded
+
+Head Concept Name: pride
+Modifier Concept Name: wounded
+
+
+
+
+
+T(modifier), people, 0.813
+T(modifier), physics, 0.748
+
+T(head), mortal_sin, 0.855
+T(head), satisfaction, 0.842
+T(head), self_confidence, 0.825
+T(head), feeling, 0.823
+T(head), -humility, 0.823
+T(head), trait, 0.816
+T(head), feel, 0.811
+T(head), result_in_fall, 0.789
+
+
+Result: {"people": 0.813, "mortal_sin": 0.855, "satisfaction": 0.842, "self_confidence": 0.825, "feeling": 0.823, "-humility": 0.823, "trait": 0.816, "feel": 0.811, "@scenario_probability": 1.150843793323734}
+Scenario: [1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1.150843793323734]

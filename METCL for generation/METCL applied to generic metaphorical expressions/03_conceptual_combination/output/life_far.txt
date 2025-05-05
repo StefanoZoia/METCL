@@ -1,0 +1,30 @@
+Title: life-far
+
+Head Concept Name: life
+Modifier Concept Name: far
+
+
+
+
+
+T(modifier), -away, 0.798
+T(modifier), -close, 0.797
+T(modifier), -closer, 0.776
+T(modifier), orbit, 0.762
+T(modifier), dialect, 0.752
+T(modifier), uk, 0.748
+T(modifier), -here, 0.738
+T(modifier), computing, 0.736
+
+T(head), living, 0.914
+T(head), finite, 0.886
+T(head), hard, 0.879
+T(head), good, 0.862
+T(head), unpredictable, 0.861
+T(head), water, 0.844
+T(head), absurd, 0.843
+T(head), full_of_chance, 0.841
+
+
+Result: {"-away": 0.798, "living": 0.914, "finite": 0.886, "hard": 0.879, "good": 0.862, "unpredictable": 0.861, "water": 0.844, "absurd": 0.843, "@scenario_probability": 0.00022311445089047465}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.00022311445089047465]

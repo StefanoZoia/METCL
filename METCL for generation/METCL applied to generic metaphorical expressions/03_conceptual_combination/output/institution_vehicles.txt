@@ -1,0 +1,26 @@
+Title: institution-vehicles
+
+Head Concept Name: institution
+Modifier Concept Name: vehicles
+
+
+
+
+
+T(modifier), move_on_water, 0.835
+T(modifier), slow_down, 0.809
+T(modifier), move_through_space, 0.807
+T(modifier), move_through_air, 0.807
+T(modifier), kill_people, 0.807
+T(modifier), cross_water_using_ferry, 0.801
+T(modifier), wheels, 0.8
+T(modifier), travel_on_roads, 0.795
+
+T(head), establishment, 0.878
+T(head), organization, 0.851
+T(head), custom, 0.806
+T(head), department, 0.744
+
+
+Result: {"move_on_water": 0.835, "slow_down": 0.809, "move_through_space": 0.807, "move_through_air": 0.807, "kill_people": 0.807, "establishment": 0.878, "organization": 0.851, "custom": 0.806, "@scenario_probability": 0.04465721317332312}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0.04465721317332312]

@@ -1,0 +1,27 @@
+Title: revolution-wildfire
+
+Head Concept Name: revolution
+Modifier Concept Name: wildfire
+
+
+
+
+
+T(modifier), conflagration, 0.896
+T(modifier), burning, 0.833
+T(modifier), hazard, 0.78
+T(modifier), historical, 0.742
+T(modifier), comics_character, 0.691
+
+T(head), sentient_beings, 0.881
+T(head), upsetting_people, 0.866
+T(head), shake_nation, 0.859
+T(head), ending_reign, 0.853
+T(head), change, 0.834
+T(head), fun, 0.822
+T(head), regime_change, 0.816
+T(head), -evolution, 0.809
+
+
+Result: {"conflagration": 0.896, "burning": 0.833, "sentient_beings": 0.881, "upsetting_people": 0.866, "shake_nation": 0.859, "ending_reign": 0.853, "change": 0.834, "fun": 0.822, "@scenario_probability": 0.017631080613742894}
+Scenario: [1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.017631080613742894]

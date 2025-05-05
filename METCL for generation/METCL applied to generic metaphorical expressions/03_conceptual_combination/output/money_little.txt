@@ -1,0 +1,30 @@
+Title: money-little
+
+Head Concept Name: money
+Modifier Concept Name: little
+
+
+
+
+
+T(modifier), -much, 0.866
+T(modifier), -lot, 0.858
+T(modifier), -big, 0.846
+T(modifier), -lot_of, 0.844
+T(modifier), small_indefinite_quantity, 0.802
+T(modifier), -large, 0.79
+T(modifier), bdsm, 0.754
+T(modifier), -enough, 0.751
+
+T(head), saving, 0.878
+T(head), pay_for, 0.874
+T(head), pay_for_sex, 0.874
+T(head), money_supply, 0.861
+T(head), currency, 0.858
+T(head), buy_food, 0.854
+T(head), value, 0.851
+T(head), banks, 0.851
+
+
+Result: {"-much": 0.866, "-lot": 0.858, "saving": 0.878, "pay_for": 0.874, "pay_for_sex": 0.874, "money_supply": 0.861, "currency": 0.858, "buy_food": 0.854, "@scenario_probability": 4.270784582380566e-05}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 4.270784582380566e-05]

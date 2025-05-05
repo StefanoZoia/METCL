@@ -1,0 +1,27 @@
+Title: learning-appetite
+
+Head Concept Name: learning
+Modifier Concept Name: appetite
+
+
+
+
+
+T(modifier), craving, 0.888
+T(modifier), eating_breakfast, 0.75
+T(modifier), eating, 0.741
+T(modifier), appeased_with_food, 0.733
+T(modifier), playing_cards, 0.68
+
+T(head), intellegence, 0.954
+T(head), very_important, 0.941
+T(head), expanding_one's_mind, 0.908
+T(head), expanding_horizons, 0.908
+T(head), fun, 0.905
+T(head), acquiring_knowledge, 0.901
+T(head), learning_material, 0.9
+T(head), study, 0.894
+
+
+Result: {"craving": 0.888, "intellegence": 0.954, "very_important": 0.941, "expanding_one's_mind": 0.908, "expanding_horizons": 0.908, "fun": 0.905, "acquiring_knowledge": 0.901, "learning_material": 0.9, "@scenario_probability": 0.02828429891224628}
+Scenario: [1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.02828429891224628]

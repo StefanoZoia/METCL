@@ -1,0 +1,27 @@
+Title: mind-operating
+
+Head Concept Name: mind
+Modifier Concept Name: operating
+
+
+
+
+
+T(modifier), manipulate, 0.745
+T(modifier), direct, 0.724
+T(modifier), push_button, 0.704
+T(modifier), medicine, 0.679
+T(modifier), mouse, 0.667
+
+T(head), thinking, 0.906
+T(head), subjective, 0.894
+T(head), cognition, 0.856
+T(head), think_about, 0.842
+T(head), remember, 0.842
+T(head), intelligence, 0.836
+T(head), recall, 0.827
+T(head), perceive_external_envrnment_and_recollect_data, 0.823
+
+
+Result: {"manipulate": 0.745, "thinking": 0.906, "subjective": 0.894, "cognition": 0.856, "think_about": 0.842, "remember": 0.842, "intelligence": 0.836, "recall": 0.827, "@scenario_probability": 0.039134072863775154}
+Scenario: [1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.039134072863775154]

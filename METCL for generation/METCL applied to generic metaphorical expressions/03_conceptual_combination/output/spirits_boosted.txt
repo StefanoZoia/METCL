@@ -1,0 +1,24 @@
+Title: spirits-boosted
+
+Head Concept Name: spirits
+Modifier Concept Name: boosted
+
+
+
+
+
+T(modifier), increase, 0.788
+T(modifier), aid, 0.767
+T(modifier), push, 0.76
+T(modifier), thrust, 0.745
+T(modifier), canada, 0.677
+T(modifier), engineering, 0.672
+T(modifier), medicine, 0.672
+T(modifier), slang, 0.671
+
+T(head), alcoholic_drink, 0.866
+T(head), bar, 0.831
+
+
+Result: {"increase": 0.788, "aid": 0.767, "push": 0.76, "thrust": 0.745, "canada": 0.677, "engineering": 0.672, "medicine": 0.672, "alcoholic_drink": 0.866, "@scenario_probability": 0.5037547518873423}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0.5037547518873423]

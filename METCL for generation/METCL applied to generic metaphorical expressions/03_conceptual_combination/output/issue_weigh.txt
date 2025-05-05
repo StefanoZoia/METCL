@@ -1,0 +1,26 @@
+Title: issue-weigh
+
+Head Concept Name: issue
+Modifier Concept Name: weigh
+
+
+
+
+
+T(modifier), measure, 0.848
+T(modifier), quantify, 0.842
+T(modifier), count, 0.821
+T(modifier), nautical, 0.753
+
+T(head), periodical, 0.858
+T(head), distribute, 0.835
+T(head), printing, 0.826
+T(head), communicate, 0.812
+T(head), provision, 0.809
+T(head), military, 0.799
+T(head), store, 0.798
+T(head), content, 0.798
+
+
+Result: {"measure": 0.848, "quantify": 0.842, "count": 0.821, "periodical": 0.858, "distribute": 0.835, "printing": 0.826, "communicate": 0.812, "provision": 0.809, "@scenario_probability": 0.046164189165803}
+Scenario: [1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.046164189165803]

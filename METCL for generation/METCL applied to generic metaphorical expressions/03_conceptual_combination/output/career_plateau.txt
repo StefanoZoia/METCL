@@ -1,0 +1,26 @@
+Title: career-plateau
+
+Head Concept Name: career
+Modifier Concept Name: plateau
+
+
+
+
+
+T(modifier), flat_area, 0.755
+T(modifier), broadcasting, 0.747
+T(modifier), surface_layer_top_surface, 0.733
+T(modifier), sports, 0.732
+
+T(head), occupation, 0.866
+T(head), travel, 0.81
+T(head), progress, 0.802
+T(head), falconry, 0.729
+T(head), -term, 0.705
+T(head), -short, 0.696
+T(head), -short_term, 0.696
+T(head), going_to_work, 0.642
+
+
+Result: {"flat_area": 0.755, "broadcasting": 0.747, "surface_layer_top_surface": 0.733, "sports": 0.732, "occupation": 0.866, "travel": 0.81, "progress": 0.802, "falconry": 0.729, "@scenario_probability": 0.12112662779291768}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0.12112662779291768]

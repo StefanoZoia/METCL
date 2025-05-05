@@ -1,0 +1,30 @@
+Title: color-near
+
+Head Concept Name: color
+Modifier Concept Name: near
+
+
+
+
+
+T(modifier), -away, 0.794
+T(modifier), -remote, 0.786
+T(modifier), crowd_space, 0.778
+T(modifier), -far_from, 0.77
+T(modifier), -distance, 0.75
+T(modifier), -beyond, 0.741
+T(modifier), us, 0.734
+T(modifier), -off_side, 0.718
+
+T(head), colour, 0.855
+T(head), -white, 0.849
+T(head), -black, 0.847
+T(head), decorate, 0.827
+T(head), change, 0.827
+T(head), important_to_who_painting, 0.823
+T(head), neurological_processes, 0.82
+T(head), color_perception_category, 0.813
+
+
+Result: {"-away": 0.794, "colour": 0.855, "-white": 0.849, "-black": 0.847, "decorate": 0.827, "change": 0.827, "important_to_who_painting": 0.823, "neurological_processes": 0.82, "@scenario_probability": 0.0002236192221621059}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.0002236192221621059]

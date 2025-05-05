@@ -1,0 +1,30 @@
+Title: time-flies
+
+Head Concept Name: time
+Modifier Concept Name: flies
+
+
+
+
+
+T(modifier), fly, 0.957
+T(modifier), insects, 0.893
+T(modifier), fly_paper, 0.887
+T(modifier), swatting, 0.884
+T(modifier), pests, 0.841
+T(modifier), stick_to_paper, 0.834
+T(modifier), boring, 0.833
+T(modifier), space, 0.825
+
+T(head), time_period, 0.88
+T(head), moment, 0.878
+T(head), linear, 0.874
+T(head), running, 0.871
+T(head), finite, 0.851
+T(head), age, 0.843
+T(head), endless, 0.84
+T(head), absolute, 0.836
+
+
+Result: {"fly": 0.957, "insects": 0.893, "fly_paper": 0.887, "swatting": 0.884, "time_period": 0.88, "moment": 0.878, "linear": 0.874, "running": 0.871, "@scenario_probability": 1.86618863783874e-05}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1.86618863783874e-05]

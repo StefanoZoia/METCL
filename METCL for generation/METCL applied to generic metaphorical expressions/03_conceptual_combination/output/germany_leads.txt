@@ -1,0 +1,30 @@
+Title: germany-leads
+
+Head Concept Name: germany
+Modifier Concept Name: leads
+
+
+
+
+
+T(modifier), toxic, 0.801
+T(modifier), very_heavy, 0.772
+T(modifier), precede, 0.769
+T(modifier), advantage, 0.764
+T(modifier), leadership, 0.757
+T(modifier), dangerous_to_eat, 0.752
+T(modifier), heavy, 0.751
+T(modifier), compete, 0.751
+
+T(head), wurzburg, 0.906
+T(head), in_europe, 0.899
+T(head), buchenwald, 0.884
+T(head), dusseldorf, 0.877
+T(head), bavaria, 0.868
+T(head), berlin, 0.867
+T(head), frankfurt, 0.863
+T(head), thuringia, 0.863
+
+
+Result: {"toxic": 0.801, "wurzburg": 0.906, "in_europe": 0.899, "buchenwald": 0.884, "dusseldorf": 0.877, "bavaria": 0.868, "berlin": 0.867, "thuringia": 0.863, "@scenario_probability": 0.00020900560256156614}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 0.00020900560256156614]

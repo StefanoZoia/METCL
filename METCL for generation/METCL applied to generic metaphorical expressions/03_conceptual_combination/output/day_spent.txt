@@ -1,0 +1,30 @@
+Title: day-spent
+
+Head Concept Name: day
+Modifier Concept Name: spent
+
+
+
+
+
+T(modifier), consume, 0.78
+T(modifier), spend_money, 0.769
+T(modifier), past_tense_of_spend, 0.768
+T(modifier), pay, 0.758
+T(modifier), money, 0.696
+T(modifier), sleep, 0.692
+T(modifier), -earn, 0.681
+T(modifier), mining, 0.665
+
+T(head), day, 0.946
+T(head), bright, 0.883
+T(head), time, 0.856
+T(head), -evening, 0.852
+T(head), time_period, 0.839
+T(head), light, 0.837
+T(head), noon, 0.836
+T(head), day_of_reckoning, 0.833
+
+
+Result: {"consume": 0.78, "day": 0.946, "bright": 0.883, "time": 0.856, "-evening": 0.852, "time_period": 0.839, "light": 0.837, "noon": 0.836, "@scenario_probability": 0.0006045679086812831}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.0006045679086812831]

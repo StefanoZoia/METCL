@@ -1,0 +1,24 @@
+Title: spirits-sank
+
+Head Concept Name: spirits
+Modifier Concept Name: sank
+
+
+
+
+
+T(modifier), sink, 0.851
+T(modifier), brushing_teeth, 0.815
+T(modifier), drain_off_water, 0.803
+T(modifier), rinse_dishes, 0.79
+T(modifier), kitchen, 0.779
+T(modifier), bathroom_and_kitchen, 0.775
+T(modifier), soak_dishes, 0.774
+T(modifier), plumbing_fixture, 0.769
+
+T(head), alcoholic_drink, 0.866
+T(head), bar, 0.831
+
+
+Result: {"sink": 0.851, "brushing_teeth": 0.815, "drain_off_water": 0.803, "rinse_dishes": 0.79, "kitchen": 0.779, "bathroom_and_kitchen": 0.775, "soak_dishes": 0.774, "alcoholic_drink": 0.866, "@scenario_probability": 0.6950667326745149}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0.6950667326745149]

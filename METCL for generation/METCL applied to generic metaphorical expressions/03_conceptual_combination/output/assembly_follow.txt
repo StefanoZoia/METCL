@@ -1,0 +1,30 @@
+Title: assembly-follow
+
+Head Concept Name: assembly
+Modifier Concept Name: follow
+
+
+
+
+
+T(modifier), follow, 0.946
+T(modifier), -unfollow, 0.849
+T(modifier), imitate, 0.838
+T(modifier), result, 0.832
+T(modifier), -lead, 0.815
+T(modifier), be, 0.814
+T(modifier), understand, 0.812
+T(modifier), travel, 0.809
+
+T(head), gathering, 0.871
+T(head), whole, 0.821
+T(head), group_action, 0.819
+T(head), machine, 0.816
+T(head), auditorium, 0.792
+T(head), military, 0.753
+T(head), computing, 0.751
+T(head), us, 0.733
+
+
+Result: {"follow": 0.946, "-unfollow": 0.849, "imitate": 0.838, "result": 0.832, "gathering": 0.871, "whole": 0.821, "group_action": 0.819, "machine": 0.816, "@scenario_probability": 0.00011294014215139519}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.00011294014215139519]

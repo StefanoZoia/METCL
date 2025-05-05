@@ -1,0 +1,29 @@
+Title: legislation-wheels
+
+Head Concept Name: legislation
+Modifier Concept Name: wheels
+
+
+
+
+
+T(modifier), round, 0.887
+T(modifier), car, 0.886
+T(modifier), cars, 0.854
+T(modifier), wagon, 0.842
+T(modifier), rolling_objects, 0.831
+T(modifier), vehicles, 0.8
+T(modifier), bicycles, 0.799
+T(modifier), tricycle, 0.782
+
+T(head), legislation, 0.946
+T(head), law, 0.888
+T(head), statute_book, 0.888
+T(head), government, 0.838
+T(head), civil_law, 0.833
+T(head), stop_pollution, 0.802
+T(head), -jury, 0.582
+
+
+Result: {"round": 0.887, "car": 0.886, "cars": 0.854, "wagon": 0.842, "legislation": 0.946, "law": 0.888, "statute_book": 0.888, "government": 0.838, "@scenario_probability": 0.0007231286776000525}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0.0007231286776000525]

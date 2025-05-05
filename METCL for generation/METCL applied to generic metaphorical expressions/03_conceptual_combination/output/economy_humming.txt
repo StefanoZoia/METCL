@@ -1,0 +1,25 @@
+Title: economy-humming
+
+Head Concept Name: economy
+Modifier Concept Name: humming
+
+
+
+
+
+T(modifier), singing, 0.883
+T(modifier), voice, 0.726
+T(modifier), harmonica, 0.719
+
+T(head), frugality, 0.864
+T(head), economic_action, 0.857
+T(head), efficiency, 0.832
+T(head), system, 0.816
+T(head), sector, 0.811
+T(head), heading_into_toilet, 0.804
+T(head), action, 0.79
+T(head), spending, 0.776
+
+
+Result: {"singing": 0.883, "frugality": 0.864, "economic_action": 0.857, "efficiency": 0.832, "system": 0.816, "sector": 0.811, "heading_into_toilet": 0.804, "action": 0.79, "@scenario_probability": 0.394346189195946}
+Scenario: [1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.394346189195946]

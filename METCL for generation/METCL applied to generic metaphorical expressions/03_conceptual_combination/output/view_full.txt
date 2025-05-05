@@ -1,0 +1,30 @@
+Title: view-full
+
+Head Concept Name: view
+Modifier Concept Name: full
+
+
+
+
+
+T(modifier), -empty, 0.829
+T(modifier), -partial, 0.82
+T(modifier), postnominal, 0.81
+T(modifier), change, 0.793
+T(modifier), beat, 0.78
+T(modifier), -bare, 0.772
+T(modifier), poker, 0.767
+T(modifier), freestyle_skiing, 0.766
+
+T(head), look, 0.851
+T(head), relaxing, 0.831
+T(head), appearance, 0.824
+T(head), visual_percept, 0.819
+T(head), purpose, 0.81
+T(head), range, 0.809
+T(head), analyze, 0.805
+T(head), -sight, 0.781
+
+
+Result: {"-empty": 0.829, "-partial": 0.82, "postnominal": 0.81, "look": 0.851, "relaxing": 0.831, "appearance": 0.824, "visual_percept": 0.819, "purpose": 0.81, "@scenario_probability": 9.82860458236958e-05}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 9.82860458236958e-05]

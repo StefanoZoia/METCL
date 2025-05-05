@@ -1,0 +1,19 @@
+Title: white_house-fight
+
+Head Concept Name: white_house
+Modifier Concept Name: fight
+
+
+
+
+
+T(modifier), compete, 0.888
+T(modifier), conflict, 0.868
+T(modifier), controversy, 0.853
+T(modifier), starting_outside, 0.823
+T(modifier), fighter, 0.814
+T(modifier), try, 0.805
+T(modifier), arena, 0.796
+T(modifier), bleed, 0.772
+
+

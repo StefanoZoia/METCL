@@ -1,0 +1,30 @@
+Title: love-in
+
+Head Concept Name: love
+Modifier Concept Name: in
+
+
+
+
+
+T(modifier), -out, 0.85
+T(modifier), proscribed, 0.806
+T(modifier), eye_dialect, 0.803
+T(modifier), legal, 0.751
+T(modifier), grammar, 0.749
+T(modifier), -e, 0.748
+T(modifier), -ex, 0.744
+T(modifier), place, 0.743
+
+T(head), love, 0.946
+T(head), wonderful_and_frightening, 0.891
+T(head), blind, 0.884
+T(head), hard_work, 0.879
+T(head), contagious, 0.873
+T(head), painful, 0.867
+T(head), fix_many_problems, 0.864
+T(head), hurt, 0.859
+
+
+Result: {"-out": 0.85, "love": 0.946, "wonderful_and_frightening": 0.891, "blind": 0.884, "hard_work": 0.879, "contagious": 0.873, "painful": 0.867, "fix_many_problems": 0.864, "@scenario_probability": 0.00020328707012867814}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.00020328707012867814]

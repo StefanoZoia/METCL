@@ -1,0 +1,30 @@
+Title: analysis-walked
+
+Head Concept Name: analysis
+Modifier Concept Name: walked
+
+
+
+
+
+T(modifier), do_so, 0.813
+T(modifier), step, 0.806
+T(modifier), gait, 0.795
+T(modifier), stand_up, 0.794
+T(modifier), exercise, 0.793
+T(modifier), move_legs, 0.787
+T(modifier), put_shoes_on, 0.787
+T(modifier), have_legs, 0.783
+
+T(head), investigation, 0.849
+T(head), reasoning, 0.836
+T(head), calculus, 0.832
+T(head), important_to_chess_players, 0.812
+T(head), criticism, 0.811
+T(head), mathematics, 0.81
+T(head), -synthesis, 0.8
+T(head), expressive_style, 0.792
+
+
+Result: {"do_so": 0.813, "step": 0.806, "investigation": 0.849, "reasoning": 0.836, "calculus": 0.832, "important_to_chess_players": 0.812, "criticism": 0.811, "mathematics": 0.81, "@scenario_probability": 7.389728488268527e-05}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 7.389728488268527e-05]

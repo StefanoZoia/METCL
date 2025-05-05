@@ -1,0 +1,20 @@
+Title: intentions-misread
+
+Head Concept Name: intentions
+Modifier Concept Name: misread
+
+
+
+
+
+T(modifier), read, 0.849
+T(modifier), take, 0.821
+
+T(head), goal, 0.779
+T(head), volition, 0.778
+T(head), medicine, 0.679
+T(head), getting_in_line, 0.62
+
+
+Result: {"read": 0.849, "take": 0.821, "goal": 0.779, "volition": 0.778, "medicine": 0.679, "@scenario_probability": 10.899868862367995}
+Scenario: [1, 1, 1, 1, 1, 0, 10.899868862367995]

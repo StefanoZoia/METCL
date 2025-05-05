@@ -1,0 +1,24 @@
+Title: argument-attacked
+
+Head Concept Name: argument
+Modifier Concept Name: attacked
+
+
+
+
+
+T(modifier), fight_back, 0.723
+T(modifier), kill, 0.717
+
+T(head), evidence, 0.851
+T(head), variable, 0.826
+T(head), prove_to_valid, 0.824
+T(head), prove_point, 0.824
+T(head), summary, 0.822
+T(head), logic, 0.808
+T(head), result_in_bad_feelings, 0.795
+T(head), result_in_cruel_accusations, 0.795
+
+
+Result: {"fight_back": 0.723, "evidence": 0.851, "variable": 0.826, "prove_to_valid": 0.824, "prove_point": 0.824, "summary": 0.822, "logic": 0.808, "result_in_cruel_accusations": 0.795, "@scenario_probability": 1.057043674412949}
+Scenario: [1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1.057043674412949]

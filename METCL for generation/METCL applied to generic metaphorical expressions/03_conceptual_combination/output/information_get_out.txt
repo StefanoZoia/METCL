@@ -1,0 +1,19 @@
+Title: information-get_out
+
+Head Concept Name: information
+Modifier Concept Name: get_out
+
+
+
+
+
+
+T(head), data, 0.884
+T(head), information_measure, 0.873
+T(head), knowledge, 0.834
+T(head), internet, 0.833
+T(head), message, 0.833
+T(head), change, 0.833
+T(head), discovery, 0.831
+T(head), communications, 0.83
+

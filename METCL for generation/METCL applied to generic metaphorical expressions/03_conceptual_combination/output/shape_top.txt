@@ -1,0 +1,30 @@
+Title: shape-top
+
+Head Concept Name: shape
+Modifier Concept Name: top
+
+
+
+
+
+T(modifier), -bottom, 0.875
+T(modifier), complete, 0.823
+T(modifier), hit, 0.817
+T(modifier), reach, 0.815
+T(modifier), inning, 0.815
+T(modifier), covering, 0.815
+T(modifier), spin, 0.81
+T(modifier), turn, 0.809
+
+T(head), geometric_figure, 0.837
+T(head), create_from_raw_material, 0.816
+T(head), concretism, 0.803
+T(head), entities, 0.801
+T(head), iron_manufacture, 0.766
+T(head), -size, 0.763
+T(head), -formless, 0.762
+T(head), programming, 0.752
+
+
+Result: {"-bottom": 0.875, "complete": 0.823, "hit": 0.817, "reach": 0.815, "inning": 0.815, "covering": 0.815, "geometric_figure": 0.837, "create_from_raw_material": 0.816, "@scenario_probability": 0.00010130187873261849}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.00010130187873261849]

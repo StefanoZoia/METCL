@@ -1,0 +1,30 @@
+Title: cash-flow
+
+Head Concept Name: cash
+Modifier Concept Name: flow
+
+
+
+
+
+T(modifier), flood, 0.85
+T(modifier), -ebb, 0.84
+T(modifier), motion, 0.819
+T(modifier), rate, 0.813
+T(modifier), exist, 0.811
+T(modifier), change_of_location, 0.808
+T(modifier), move, 0.808
+T(modifier), run, 0.805
+
+T(head), money, 0.908
+T(head), bribe, 0.877
+T(head), payment, 0.872
+T(head), buy_things_with, 0.868
+T(head), currency, 0.866
+T(head), giving_away, 0.866
+T(head), bank, 0.851
+T(head), pay, 0.848
+
+
+Result: {"flood": 0.85, "money": 0.908, "bribe": 0.877, "payment": 0.872, "buy_things_with": 0.868, "currency": 0.866, "giving_away": 0.866, "bank": 0.851, "@scenario_probability": 3.656693390525273e-05}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 3.656693390525273e-05]

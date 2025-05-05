@@ -1,0 +1,27 @@
+Title: biology-father
+
+Head Concept Name: biology
+Modifier Concept Name: father
+
+
+
+
+
+T(modifier), -mother, 0.904
+T(modifier), parent, 0.877
+T(modifier), -son, 0.862
+T(modifier), leader, 0.811
+T(modifier), -child, 0.8
+T(modifier), -mom, 0.779
+T(modifier), man, 0.773
+T(modifier), wicca, 0.749
+
+T(head), life_science, 0.854
+T(head), astrobiology, 0.827
+T(head), subject_for_studying, 0.755
+T(head), subject_of_study_in_school, 0.755
+T(head), -chemistry, 0.716
+
+
+Result: {"-mother": 0.904, "parent": 0.877, "-son": 0.862, "leader": 0.811, "-child": 0.8, "-mom": 0.779, "life_science": 0.854, "astrobiology": 0.827, "@scenario_probability": 0.02369392755400283}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0.02369392755400283]

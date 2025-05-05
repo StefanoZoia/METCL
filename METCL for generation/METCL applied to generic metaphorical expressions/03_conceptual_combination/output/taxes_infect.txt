@@ -1,0 +1,29 @@
+Title: taxes-infect
+
+Head Concept Name: taxes
+Modifier Concept Name: infect
+
+
+
+
+
+T(modifier), pollute, 0.867
+T(modifier), virus, 0.856
+T(modifier), affect, 0.85
+T(modifier), corrupt, 0.833
+T(modifier), -disinfect, 0.826
+T(modifier), give, 0.804
+T(modifier), -disinfectant, 0.762
+
+T(head), bills, 0.827
+T(head), fund_govenment_services, 0.816
+T(head), percentage_of_income, 0.804
+T(head), debt, 0.804
+T(head), going_up, 0.784
+T(head), money, 0.777
+T(head), -pay, 0.777
+T(head), source_of_revenue, 0.738
+
+
+Result: {"pollute": 0.867, "virus": 0.856, "affect": 0.85, "corrupt": 0.833, "-disinfect": 0.826, "bills": 0.827, "fund_govenment_services": 0.816, "debt": 0.804, "@scenario_probability": 0.0006059578583529492}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0.0006059578583529492]

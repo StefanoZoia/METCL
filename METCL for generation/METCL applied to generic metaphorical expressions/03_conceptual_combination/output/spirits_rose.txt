@@ -1,0 +1,24 @@
+Title: spirits-rose
+
+Head Concept Name: spirits
+Modifier Concept Name: rose
+
+
+
+
+
+T(modifier), pink, 0.868
+T(modifier), red, 0.86
+T(modifier), flower_room, 0.854
+T(modifier), thorns, 0.837
+T(modifier), flower, 0.827
+T(modifier), shrub, 0.826
+T(modifier), garden, 0.796
+T(modifier), smell_nice, 0.786
+
+T(head), alcoholic_drink, 0.866
+T(head), bar, 0.831
+
+
+Result: {"pink": 0.868, "red": 0.86, "flower_room": 0.854, "thorns": 0.837, "flower": 0.827, "shrub": 0.826, "garden": 0.796, "alcoholic_drink": 0.866, "@scenario_probability": 0.9086957559537472}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0.9086957559537472]

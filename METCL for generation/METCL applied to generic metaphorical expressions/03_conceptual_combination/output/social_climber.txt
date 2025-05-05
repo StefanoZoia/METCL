@@ -1,0 +1,29 @@
+Title: social-climber
+
+Head Concept Name: social
+Modifier Concept Name: climber
+
+
+
+
+
+T(modifier), climb_mountain, 0.928
+T(modifier), mountain, 0.887
+T(modifier), athlete, 0.847
+T(modifier), vine, 0.837
+T(modifier), hold_on_to_rope, 0.796
+T(modifier), near_top, 0.796
+T(modifier), cycling, 0.788
+
+T(head), -antisocial, 0.883
+T(head), social_occasion, 0.878
+T(head), -asocial, 0.859
+T(head), -unsocial, 0.853
+T(head), animal, 0.825
+T(head), internet, 0.795
+T(head), zoology, 0.752
+T(head), -introverted, 0.748
+
+
+Result: {"climb_mountain": 0.928, "mountain": 0.887, "athlete": 0.847, "vine": 0.837, "-antisocial": 0.883, "social_occasion": 0.878, "-asocial": 0.859, "-unsocial": 0.853, "@scenario_probability": 0.0006557196614604727}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.0006557196614604727]

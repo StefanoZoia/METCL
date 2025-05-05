@@ -1,0 +1,28 @@
+Title: relationship-veering
+
+Head Concept Name: relationship
+Modifier Concept Name: veering
+
+
+
+
+
+T(modifier), turn, 0.777
+T(modifier), switch, 0.749
+T(modifier), nautical, 0.702
+T(modifier), -back, 0.685
+T(modifier), -haul_forward, 0.68
+T(modifier), archaic, 0.653
+
+T(head), relation, 0.898
+T(head), ending_in_heartbreak, 0.838
+T(head), state, 0.811
+T(head), -affair, 0.799
+T(head), last_for_year, 0.793
+T(head), last_for_long_time, 0.793
+T(head), music, 0.757
+T(head), mathematics, 0.749
+
+
+Result: {"turn": 0.777, "relation": 0.898, "ending_in_heartbreak": 0.838, "state": 0.811, "-affair": 0.799, "last_for_year": 0.793, "last_for_long_time": 0.793, "music": 0.757, "@scenario_probability": 0.011844179367568857}
+Scenario: [1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.011844179367568857]

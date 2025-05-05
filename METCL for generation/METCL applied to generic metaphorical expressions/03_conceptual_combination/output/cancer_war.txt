@@ -1,0 +1,30 @@
+Title: cancer-war
+
+Head Concept Name: cancer
+Modifier Concept Name: war
+
+
+
+
+
+T(modifier), war, 0.946
+T(modifier), conflict, 0.888
+T(modifier), bad_thing, 0.88
+T(modifier), fight, 0.865
+T(modifier), fighting_between_countries, 0.859
+T(modifier), battle, 0.858
+T(modifier), -peace, 0.853
+T(modifier), campaign, 0.849
+
+T(head), malignant_tumor, 0.923
+T(head), disease, 0.874
+T(head), bad, 0.869
+T(head), oncology, 0.863
+T(head), neoplasm_condition, 0.855
+T(head), hurry_death, 0.848
+T(head), result_in_death, 0.837
+T(head), kill, 0.835
+
+
+Result: {"war": 0.946, "conflict": 0.888, "bad_thing": 0.88, "fight": 0.865, "malignant_tumor": 0.923, "disease": 0.874, "bad": 0.869, "oncology": 0.863, "@scenario_probability": 1.0191344103846975e-05}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1.0191344103846975e-05]

@@ -1,0 +1,30 @@
+Title: unloving-cold
+
+Head Concept Name: unloving
+Modifier Concept Name: cold
+
+
+
+
+
+T(modifier), -hot, 0.893
+T(modifier), temperature, 0.871
+T(modifier), freezer, 0.868
+T(modifier), -heat, 0.861
+T(modifier), brisk_whereas_heat_can_stifling, 0.845
+T(modifier), frigid_air, 0.839
+T(modifier), winter, 0.831
+T(modifier), ice, 0.831
+
+T(head), living, 0.751
+T(head), being_unhappy, 0.71
+T(head), person, 0.688
+T(head), give_gift, 0.676
+T(head), being_happy, 0.659
+T(head), kiss, 0.653
+T(head), -hatred, 0.648
+T(head), friend, 0.638
+
+
+Result: {"-hot": 0.893, "temperature": 0.871, "freezer": 0.868, "-heat": 0.861, "brisk_whereas_heat_can_stifling": 0.845, "frigid_air": 0.839, "ice": 0.831, "living": 0.751, "@scenario_probability": 0.0019211953004973303}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0.0019211953004973303]

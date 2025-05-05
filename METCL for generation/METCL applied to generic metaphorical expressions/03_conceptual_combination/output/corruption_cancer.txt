@@ -1,0 +1,30 @@
+Title: corruption-cancer
+
+Head Concept Name: corruption
+Modifier Concept Name: cancer
+
+
+
+
+
+T(modifier), malignant_tumor, 0.923
+T(modifier), disease, 0.874
+T(modifier), bad, 0.869
+T(modifier), oncology, 0.863
+T(modifier), neoplasm_condition, 0.855
+T(modifier), hurry_death, 0.848
+T(modifier), result_in_death, 0.837
+T(modifier), kill, 0.835
+
+T(head), immorality, 0.875
+T(head), degradation, 0.854
+T(head), decay, 0.852
+T(head), inducement, 0.807
+T(head), death_of_innocent_people, 0.755
+T(head), linguistics, 0.751
+T(head), unnatural_thing, 0.74
+T(head), computing, 0.735
+
+
+Result: {"malignant_tumor": 0.923, "disease": 0.874, "bad": 0.869, "oncology": 0.863, "neoplasm_condition": 0.855, "immorality": 0.875, "degradation": 0.854, "decay": 0.852, "@scenario_probability": 0.0001092125224435115}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0.0001092125224435115]

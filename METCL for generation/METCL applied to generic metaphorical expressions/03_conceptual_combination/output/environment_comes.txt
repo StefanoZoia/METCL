@@ -1,0 +1,30 @@
+Title: environment-comes
+
+Head Concept Name: environment
+Modifier Concept Name: comes
+
+
+
+
+
+T(modifier), arrive, 0.797
+T(modifier), happen, 0.773
+T(modifier), be, 0.77
+T(modifier), originate, 0.769
+T(modifier), music, 0.764
+T(modifier), exist, 0.751
+T(modifier), -go, 0.746
+T(modifier), become, 0.745
+
+T(head), situation, 0.836
+T(head), geographical_area, 0.811
+T(head), spatial_thing, 0.781
+T(head), computing, 0.776
+T(head), region, 0.772
+T(head), site, 0.763
+T(head), programming, 0.753
+T(head), delicate_balance_of_nature, 0.749
+
+
+Result: {"arrive": 0.797, "happen": 0.773, "be": 0.77, "situation": 0.836, "geographical_area": 0.811, "spatial_thing": 0.781, "computing": 0.776, "region": 0.772, "@scenario_probability": 0.00019440255808151683}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.00019440255808151683]

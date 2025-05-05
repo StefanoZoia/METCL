@@ -1,0 +1,30 @@
+Title: church-walls
+
+Head Concept Name: church
+Modifier Concept Name: walls
+
+
+
+
+
+T(modifier), building, 0.863
+T(modifier), house, 0.854
+T(modifier), vertical, 0.853
+T(modifier), houses, 0.84
+T(modifier), room, 0.828
+T(modifier), corner, 0.824
+T(modifier), wall_spaces, 0.803
+T(modifier), vertical_places, 0.763
+
+T(head), preaching, 0.913
+T(head), worship, 0.9
+T(head), christian_community, 0.896
+T(head), parish_within, 0.893
+T(head), weddings, 0.887
+T(head), christendom, 0.882
+T(head), christenings, 0.876
+T(head), presbytery, 0.864
+
+
+Result: {"building": 0.863, "preaching": 0.913, "worship": 0.9, "christian_community": 0.896, "parish_within": 0.893, "weddings": 0.887, "christendom": 0.882, "christenings": 0.876, "@scenario_probability": 2.5666380647683798e-05}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 2.5666380647683798e-05]

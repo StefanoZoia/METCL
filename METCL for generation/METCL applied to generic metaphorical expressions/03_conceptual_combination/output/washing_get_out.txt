@@ -1,0 +1,19 @@
+Title: washing-get_out
+
+Head Concept Name: washing
+Modifier Concept Name: get_out
+
+
+
+
+
+
+T(head), laundry, 0.874
+T(head), cleaning, 0.862
+T(head), removing_grease_from_dishes, 0.842
+T(head), washing_machine, 0.809
+T(head), wash_cloth, 0.806
+T(head), bathing, 0.8
+T(head), bathroom, 0.793
+T(head), soap, 0.79
+

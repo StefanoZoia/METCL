@@ -1,0 +1,30 @@
+Title: man-green
+
+Head Concept Name: man
+Modifier Concept Name: green
+
+
+
+
+
+T(modifier), primary_colour, 0.862
+T(modifier), environmentalist, 0.858
+T(modifier), color, 0.855
+T(modifier), -blue, 0.85
+T(modifier), colour, 0.844
+T(modifier), golf_course, 0.843
+T(modifier), peppers, 0.833
+T(modifier), -red, 0.828
+
+T(head), -woman, 0.87
+T(head), male, 0.854
+T(head), -boy, 0.84
+T(head), lover, 0.825
+T(head), -female, 0.816
+T(head), -lady, 0.815
+T(head), subordinate, 0.811
+T(head), international_intelligence_agency, 0.807
+
+
+Result: {"primary_colour": 0.862, "environmentalist": 0.858, "color": 0.855, "-blue": 0.85, "colour": 0.844, "golf_course": 0.843, "-woman": 0.87, "male": 0.854, "@scenario_probability": 2.837516219434092e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 2.837516219434092e-05]

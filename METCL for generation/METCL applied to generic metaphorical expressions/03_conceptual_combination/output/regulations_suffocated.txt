@@ -1,0 +1,29 @@
+Title: regulations-suffocated
+
+Head Concept Name: regulations
+Modifier Concept Name: suffocated
+
+
+
+
+
+T(modifier), stifle, 0.807
+T(modifier), obstruct, 0.76
+T(modifier), die, 0.757
+T(modifier), become, 0.719
+T(modifier), feel, 0.711
+T(modifier), -breath, 0.659
+T(modifier), kill_people, 0.625
+
+T(head), rule, 0.795
+T(head), control, 0.751
+T(head), dominance, 0.746
+T(head), embryology, 0.741
+T(head), organic_process, 0.72
+T(head), genetics, 0.696
+T(head), european_union_law, 0.692
+T(head), medicine, 0.679
+
+
+Result: {"stifle": 0.807, "obstruct": 0.76, "die": 0.757, "rule": 0.795, "control": 0.751, "dominance": 0.746, "embryology": 0.741, "organic_process": 0.72, "@scenario_probability": 0.003443489364290316}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.003443489364290316]
