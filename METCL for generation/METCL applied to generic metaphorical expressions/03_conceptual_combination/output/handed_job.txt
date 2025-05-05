@@ -1,0 +1,30 @@
+Title: handed-job
+
+Head Concept Name: handed
+Modifier Concept Name: job
+
+
+
+
+
+T(modifier), work, 0.884
+T(modifier), workplace, 0.857
+T(modifier), duty, 0.836
+T(modifier), application, 0.83
+T(modifier), computer_science, 0.813
+T(modifier), working, 0.81
+T(modifier), require_trait, 0.806
+T(modifier), require_tool, 0.806
+
+T(head), hand, 0.877
+T(head), forepaw, 0.806
+T(head), handbreadth, 0.799
+T(head), arm, 0.788
+T(head), hands, 0.786
+T(head), hold_another_hand, 0.776
+T(head), push_door, 0.774
+T(head), reach_ass, 0.761
+
+
+Result: {"work": 0.884, "workplace": 0.857, "duty": 0.836, "application": 0.83, "computer_science": 0.813, "working": 0.81, "hand": 0.877, "forepaw": 0.806, "@scenario_probability": 0.00010160876350351355}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.00010160876350351355]

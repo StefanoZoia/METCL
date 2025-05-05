@@ -1,0 +1,5 @@
+shackle: 0.848
+fetter: 0.829
+tangible_thing: 0.754
+device: 0.746
+non_agentive_artifact: 0.737

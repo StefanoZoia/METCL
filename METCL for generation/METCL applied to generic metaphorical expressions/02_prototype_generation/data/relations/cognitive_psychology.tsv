@@ -1,0 +1,12 @@
+/c/en/psycholinguistics	IsA	/c/en/cognitive_psychology	2.0	0.652
+/c/en/cognitive_psychology	PartOf	/c/en/cognitive_science	2.0	0.73
+/c/en/cognitive_psychology	IsA	/c/en/psychology	2.0	0.752
+/c/en/problem_solving	IsA	/c/en/cognitive_psychology	2.0	0.327
+/c/en/memory	IsA	/c/en/cognitive_psychology	2.0	0.449
+/c/en/cognitive_science	RelatedTo	/c/en/cognitive_psychology	1.0	0.73
+/c/en/cognitive_psychology	RelatedTo	/c/en/cognitive_science	1.0	0.73
+/c/en/cognitive_psychology	RelatedTo	/c/en/memory	1.0	0.449
+/c/en/cognitive_psychology	RelatedTo	/c/en/language	1.0	0.182
+/c/en/cognitive_psychology	HasContext	/c/en/psychology	1.0	0.752
+/c/en/herbert_simon	field	/c/en/cognitive_psychology	0.5	0.148
+/c/en/cognitive_psychology	Synonym	/c/en/cognitive_psychology	0.5	1.0

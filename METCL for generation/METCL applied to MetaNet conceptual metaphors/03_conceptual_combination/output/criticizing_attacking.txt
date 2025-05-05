@@ -1,0 +1,21 @@
+Title: criticizing-attacking
+
+Head Concept Name: criticizing
+Modifier Concept Name: attacking
+
+
+
+
+
+T(modifier), advancing_into_battle, 0.767
+T(modifier), metal_rod, 0.758
+T(modifier), action_on_object, 0.746
+T(modifier), weapon, 0.679
+
+T(head), -praise, 0.735
+T(head), act, 0.71
+T(head), judge, 0.628
+
+
+Result: {"advancing_into_battle": 0.767, "metal_rod": 0.758, "action_on_object": 0.746, "weapon": 0.679, "-praise": 0.735, "act": 0.71, "@scenario_probability": 5.71691584137551}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 5.71691584137551]

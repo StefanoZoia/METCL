@@ -1,0 +1,8 @@
+-hot: 0.893
+temperature: 0.871
+freezer: 0.868
+-heat: 0.861
+brisk_whereas_heat_can_stifling: 0.845
+frigid_air: 0.839
+winter: 0.831
+ice: 0.831

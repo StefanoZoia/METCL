@@ -1,0 +1,30 @@
+Title: topple-governments
+
+Head Concept Name: topple
+Modifier Concept Name: governments
+
+
+
+
+
+T(modifier), govern_peoples, 0.878
+T(modifier), govern_peasants, 0.878
+T(modifier), arm_rebels, 0.819
+T(modifier), tax_cigarettes_quite_highly, 0.815
+T(modifier), control_information, 0.798
+T(modifier), seize_power, 0.794
+T(modifier), countries, 0.793
+T(modifier), make_new_laws, 0.788
+
+T(head), push, 0.821
+T(head), press, 0.807
+T(head), move, 0.802
+T(head), drop, 0.772
+T(head), urge, 0.771
+T(head), force, 0.76
+T(head), descend, 0.76
+T(head), -pull, 0.756
+
+
+Result: {"govern_peoples": 0.878, "govern_peasants": 0.878, "arm_rebels": 0.819, "tax_cigarettes_quite_highly": 0.815, "control_information": 0.798, "push": 0.821, "press": 0.807, "move": 0.802, "@scenario_probability": 0.0001447373309344646}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0.0001447373309344646]

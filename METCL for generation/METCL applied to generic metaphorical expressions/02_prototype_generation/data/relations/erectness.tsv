@@ -1,0 +1,6 @@
+/c/en/erectness	IsA	/c/en/stance	2.0	0.095
+/c/en/erectness	Synonym	/c/en/verticality	2.0	0.134
+/c/en/uprightness	Synonym	/c/en/erectness	2.0	0.161
+/c/en/erectness	RelatedTo	/c/en/erect	1.0	0.797
+/c/en/erectness	RelatedTo	/c/en/posture	1.0	0.133
+/c/en/erectness	DerivedFrom	/c/en/erect	1.0	0.797

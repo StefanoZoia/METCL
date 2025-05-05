@@ -1,0 +1,8 @@
+day: 0.946
+bright: 0.883
+time: 0.856
+-evening: 0.852
+time_period: 0.839
+light: 0.837
+noon: 0.836
+day_of_reckoning: 0.833

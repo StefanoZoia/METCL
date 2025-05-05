@@ -1,0 +1,4 @@
+-outwith: 0.874
+-outside: 0.837
+-around: 0.778
+-without: 0.767

@@ -1,0 +1,17 @@
+/c/en/withered	Synonym	/c/en/shriveled	2.0	0.748
+/c/en/shrivelled	Synonym	/c/en/shriveled	2.0	0.931
+/c/en/thin	SimilarTo	/c/en/shriveled	2.0	0.21
+/c/en/wizen	Synonym	/c/en/shriveled	2.0	0.663
+/c/en/shriveled	SimilarTo	/c/en/thin	2.0	0.21
+/c/en/shriveled	Synonym	/c/en/withered	2.0	0.748
+/c/en/shrunken	Synonym	/c/en/shriveled	2.0	0.746
+/c/en/shriveled	Synonym	/c/en/shrivelled	2.0	0.931
+/c/en/wizened	Synonym	/c/en/shriveled	2.0	0.663
+/c/en/shriveled	RelatedTo	/c/en/wrinkled	1.0	0.566
+/c/en/shriveled	RelatedTo	/c/en/shrivel	1.0	0.714
+/c/en/shrivel_up	RelatedTo	/c/en/shriveled	1.0	0.875
+/c/en/shriveled	RelatedTo	/c/en/shrivel_up	1.0	0.875
+/c/en/shriveled	RelatedTo	/c/en/surface_area	1.0	-0.076
+/c/en/shriveled	RelatedTo	/c/en/volume	1.0	0.038
+/c/en/shriveled	FormOf	/c/en/shrivel	1.0	0.714
+/c/en/curl_up	RelatedTo	/c/en/shriveled	1.0	0.044

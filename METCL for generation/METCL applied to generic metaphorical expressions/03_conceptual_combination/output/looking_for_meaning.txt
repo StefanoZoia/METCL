@@ -1,0 +1,17 @@
+Title: looking_for-meaning
+
+Head Concept Name: looking_for
+Modifier Concept Name: meaning
+
+
+
+
+
+T(modifier), words, 0.827
+T(modifier), message, 0.821
+T(modifier), semantics, 0.816
+T(modifier), idea, 0.814
+T(modifier), life, 0.783
+T(modifier), all_sentences, 0.655
+
+

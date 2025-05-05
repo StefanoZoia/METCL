@@ -1,0 +1,8 @@
+-mother: 0.904
+parent: 0.877
+-son: 0.862
+leader: 0.811
+-child: 0.8
+-mom: 0.779
+man: 0.773
+wicca: 0.749

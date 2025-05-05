@@ -1,0 +1,11 @@
+/c/en/pears	IsA	/c/en/food	2.0	0.117
+/c/en/pears	HasProperty	/c/en/green	1.0	0.165
+/c/en/pears	ReceivesAction	/c/en/dried	1.0	0.294
+/c/en/pears	FormOf	/c/en/pear	1.0	0.829
+/c/en/pears	RelatedTo	/c/en/pear	1.0	0.829
+/c/en/pears	FormOf	/c/en/pear	1.0	0.829
+/c/en/pears	AtLocation	/c/en/can	1.0	0.072
+/c/en/peter	RelatedTo	/c/en/pears	1.0	0.041
+/c/en/apple	RelatedTo	/c/en/pears	0.476	0.499
+/c/en/pears	EtymologicallyRelatedTo	/c/en/piers	0.25	0.138
+/c/en/apple	Antonym	/c/en/pears	0.137	0.499

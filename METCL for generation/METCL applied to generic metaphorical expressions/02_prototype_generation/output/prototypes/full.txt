@@ -1,0 +1,8 @@
+-empty: 0.829
+-partial: 0.82
+postnominal: 0.81
+change: 0.793
+beat: 0.78
+-bare: 0.772
+poker: 0.767
+freestyle_skiing: 0.766

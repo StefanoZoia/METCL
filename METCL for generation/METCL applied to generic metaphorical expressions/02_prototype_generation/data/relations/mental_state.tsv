@@ -1,0 +1,7 @@
+/c/en/mental_state	Synonym	/c/en/psychological_state	2.0	0.021
+/c/en/psychosis	IsA	/c/en/mental_state	2.0	-0.038
+/c/en/mental_state	IsA	/c/en/mental_situation	1.0	1.0
+/c/en/intentional_mental_state	IsA	/c/en/mental_state	1.0	0.018
+/c/en/mental_state	IsA	/c/en/static_situation	1.0	-0.024
+/c/en/state_of_unconsciousness	IsA	/c/en/mental_state	1.0	0.046
+/c/en/confusion	RelatedTo	/c/en/mental_state	0.17099999999999982	0.067

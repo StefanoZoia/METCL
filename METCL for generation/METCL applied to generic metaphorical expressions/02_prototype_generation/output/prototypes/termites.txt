@@ -1,0 +1,7 @@
+build_huge_nest: 0.838
+build_mound_for_home: 0.838
+build_mounds: 0.838
+invade_house: 0.832
+forest: 0.788
+apartment: 0.779
+walls_of_house: 0.774

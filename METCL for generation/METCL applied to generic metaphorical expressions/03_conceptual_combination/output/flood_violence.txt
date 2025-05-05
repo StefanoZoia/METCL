@@ -1,0 +1,30 @@
+Title: flood-violence
+
+Head Concept Name: flood
+Modifier Concept Name: violence
+
+
+
+
+
+T(modifier), aggression, 0.87
+T(modifier), anger_pacifists, 0.869
+T(modifier), turbulence, 0.844
+T(modifier), terrorism, 0.843
+T(modifier), dangerous, 0.839
+T(modifier), war, 0.838
+T(modifier), includes_death, 0.834
+T(modifier), wars, 0.801
+
+T(head), flow, 0.85
+T(head), photographic_equipment, 0.848
+T(head), natural_disaster, 0.841
+T(head), disaster, 0.82
+T(head), fill, 0.818
+T(head), light, 0.818
+T(head), geological_phenomenon, 0.816
+T(head), filling, 0.812
+
+
+Result: {"aggression": 0.87, "anger_pacifists": 0.869, "turbulence": 0.844, "terrorism": 0.843, "dangerous": 0.839, "flow": 0.85, "photographic_equipment": 0.848, "natural_disaster": 0.841, "@scenario_probability": 3.019596527417319e-05}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 3.019596527417319e-05]

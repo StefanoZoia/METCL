@@ -1,0 +1,8 @@
+correspondence: 0.891
+alphabet: 0.874
+communication: 0.867
+mail: 0.865
+envelope: 0.863
+written_communication_between_people: 0.86
+writing_to_friend_or_business: 0.859
+post_office: 0.857

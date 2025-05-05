@@ -1,0 +1,25 @@
+Title: legislative_branch-machine
+
+Head Concept Name: legislative_branch
+Modifier Concept Name: machine
+
+
+
+
+
+T(modifier), wash_dishes, 0.908
+T(modifier), wash_clothes, 0.908
+T(modifier), wash_car, 0.908
+T(modifier), wash_dirty_clothes, 0.908
+T(modifier), vacuum, 0.878
+T(modifier), dispense_snacks, 0.878
+T(modifier), dispense_popcorn, 0.878
+T(modifier), dispense_cigarettes, 0.878
+
+T(head), government, 0.808
+T(head), branch, 0.791
+T(head), united_states_government_printing_office, 0.768
+
+
+Result: {"wash_dishes": 0.908, "wash_clothes": 0.908, "wash_car": 0.908, "wash_dirty_clothes": 0.908, "dispense_snacks": 0.878, "dispense_popcorn": 0.878, "dispense_cigarettes": 0.878, "government": 0.808, "@scenario_probability": 0.21990363295436965}
+Scenario: [1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0.21990363295436965]

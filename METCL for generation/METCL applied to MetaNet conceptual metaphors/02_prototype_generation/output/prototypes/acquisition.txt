@@ -1,0 +1,6 @@
+acquiring: 0.913
+transferred_property: 0.837
+merger_or_acquisition: 0.801
+-abandonment: 0.774
+computing: 0.742
+software: 0.735

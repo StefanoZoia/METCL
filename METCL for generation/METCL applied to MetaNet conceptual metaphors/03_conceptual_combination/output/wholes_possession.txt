@@ -1,0 +1,30 @@
+Title: wholes-possession
+
+Head Concept Name: wholes
+Modifier Concept Name: possession
+
+
+
+
+
+T(modifier), control, 0.84
+T(modifier), relation, 0.818
+T(modifier), enchantment, 0.813
+T(modifier), district, 0.81
+T(modifier), house, 0.787
+T(modifier), sport, 0.776
+T(modifier), -absence, 0.755
+T(modifier), sports, 0.736
+
+T(head), concept, 0.734
+T(head), object, 0.727
+T(head), -gimpy, 0.684
+T(head), -portion, 0.68
+T(head), -ground, 0.675
+T(head), parts, 0.668
+T(head), fraction, 0.654
+T(head), -mankind, 0.652
+
+
+Result: {"control": 0.84, "relation": 0.818, "enchantment": 0.813, "district": 0.81, "house": 0.787, "sport": 0.776, "-absence": 0.755, "concept": 0.734, "@scenario_probability": 0.0014500001315621315}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0.0014500001315621315]

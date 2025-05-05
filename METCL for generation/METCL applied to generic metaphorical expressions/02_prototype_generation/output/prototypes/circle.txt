@@ -1,0 +1,8 @@
+round: 0.928
+ellipse: 0.873
+shape: 0.843
+-square: 0.84
+rotating_mechanism: 0.836
+travel: 0.815
+seating: 0.814
+theater: 0.814

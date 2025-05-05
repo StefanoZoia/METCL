@@ -1,0 +1,8 @@
+-much: 0.866
+-lot: 0.858
+-big: 0.846
+-lot_of: 0.844
+small_indefinite_quantity: 0.802
+-large: 0.79
+bdsm: 0.754
+-enough: 0.751

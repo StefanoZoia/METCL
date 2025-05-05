@@ -1,0 +1,8 @@
+way: 0.877
+route: 0.869
+line: 0.836
+topology: 0.768
+medicine: 0.756
+paganism: 0.754
+graph_theory: 0.749
+computing: 0.738

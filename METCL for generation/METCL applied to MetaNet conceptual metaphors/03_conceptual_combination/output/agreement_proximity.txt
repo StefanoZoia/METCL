@@ -1,0 +1,26 @@
+Title: agreement-proximity
+
+Head Concept Name: agreement
+Modifier Concept Name: proximity
+
+
+
+
+
+T(modifier), nearness, 0.927
+T(modifier), vicinity, 0.899
+T(modifier), gestalt_law_of_organization, 0.798
+T(modifier), -distance, 0.777
+
+T(head), statement, 0.843
+T(head), compatibility, 0.837
+T(head), good, 0.823
+T(head), signing_contract, 0.816
+T(head), reach_tentative_agreement, 0.799
+T(head), grammatical_relation, 0.798
+T(head), speech_act, 0.78
+T(head), -dispute, 0.777
+
+
+Result: {"nearness": 0.927, "vicinity": 0.899, "statement": 0.843, "compatibility": 0.837, "good": 0.823, "signing_contract": 0.816, "reach_tentative_agreement": 0.799, "grammatical_relation": 0.798, "@scenario_probability": 0.05564368706164644}
+Scenario: [1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.05564368706164644]

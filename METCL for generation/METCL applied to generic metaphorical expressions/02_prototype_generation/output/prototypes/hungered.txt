@@ -1,0 +1,8 @@
+starvation: 0.7875
+painful: 0.7776
+desire: 0.7722
+feeling: 0.7497
+sensation: 0.7452
+-satiation: 0.7443
+ache: 0.7415999999999999
+-satiety: 0.7415999999999999

@@ -1,0 +1,9 @@
+/c/en/dwarf	RelatedTo	/c/en/crafting	1.0	0.175
+/c/en/craftings	FormOf	/c/en/crafting	1.0	1.0
+/c/en/crafting	RelatedTo	/c/en/craft	1.0	0.775
+/c/en/crafternoon	RelatedTo	/c/en/crafting	1.0	0.742
+/c/en/mat	RelatedTo	/c/en/crafting	1.0	0.135
+/c/en/leathercrafting	DerivedFrom	/c/en/crafting	1.0	0.488
+/c/en/crafting	FormOf	/c/en/craft	1.0	0.775
+/c/en/triblet	RelatedTo	/c/en/crafting	1.0	0.045
+/c/en/crafting	FormOf	/c/en/craft	1.0	0.775

@@ -1,0 +1,8 @@
+snout: 0.849
+restraint: 0.832
+face: 0.829
+head: 0.826
+equip: 0.802
+animal_restraint: 0.763
+consumer_durable: 0.763
+non_powered_device: 0.755

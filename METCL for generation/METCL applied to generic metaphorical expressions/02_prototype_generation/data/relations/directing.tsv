@@ -1,0 +1,16 @@
+/c/en/guiding	Synonym	/c/en/directing	2.0	0.592
+/c/en/directive	Synonym	/c/en/directing	2.0	0.244
+/c/en/directing	SimilarTo	/c/en/leading	2.0	0.342
+/c/en/directional	Synonym	/c/en/directing	2.0	0.402
+/c/en/leading	SimilarTo	/c/en/directing	2.0	0.342
+/c/en/lead	RelatedTo	/c/en/directing	1.0	0.237
+/c/en/overdirecting	DerivedFrom	/c/en/directing	1.0	-0.04
+/c/en/packet_switching	RelatedTo	/c/en/directing	1.0	0.19
+/c/en/compellation	RelatedTo	/c/en/directing	1.0	0.085
+/c/en/bombard	RelatedTo	/c/en/directing	1.0	0.103
+/c/en/directing	RelatedTo	/c/en/direct	1.0	0.406
+/c/en/overdirecting	RelatedTo	/c/en/directing	1.0	-0.04
+/c/en/directing	FormOf	/c/en/direct	1.0	0.406
+/c/en/sign	RelatedTo	/c/en/directing	0.43100000000000005	0.108
+/c/en/point	RelatedTo	/c/en/directing	0.39800000000000013	0.066
+/c/en/course	RelatedTo	/c/en/directing	0.16800000000000015	0.081

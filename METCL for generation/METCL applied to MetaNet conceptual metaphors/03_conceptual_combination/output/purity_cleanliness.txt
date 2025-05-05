@@ -1,0 +1,26 @@
+Title: purity-cleanliness
+
+Head Concept Name: purity
+Modifier Concept Name: cleanliness
+
+
+
+
+
+T(modifier), next_to_godliness, 0.863
+T(modifier), -uncleanliness, 0.846
+T(modifier), good_thing, 0.84
+T(modifier), trait, 0.82
+T(modifier), habit, 0.803
+T(modifier), cleaning_clothes, 0.802
+T(modifier), cleaning, 0.796
+T(modifier), fight_sickness, 0.785
+
+T(head), -impurity, 0.877
+T(head), condition, 0.798
+T(head), -pollution, 0.79
+T(head), distrust, 0.738
+
+
+Result: {"next_to_godliness": 0.863, "-uncleanliness": 0.846, "good_thing": 0.84, "trait": 0.82, "habit": 0.803, "cleaning_clothes": 0.802, "-impurity": 0.877, "condition": 0.798, "@scenario_probability": 0.05469604307006014}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0.05469604307006014]

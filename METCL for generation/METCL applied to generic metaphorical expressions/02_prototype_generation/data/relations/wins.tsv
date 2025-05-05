@@ -1,0 +1,14 @@
+/c/en/competing	Causes	/c/en/wins	2.82842712474619	0.549
+/c/en/wins	FormOf	/c/en/win	2.0	0.851
+/c/en/wrestling	Causes	/c/en/wins	2.0	0.273
+/c/en/fighting_enemy	Causes	/c/en/wins	2.0	0.149
+/c/en/playing_lacrosse	Causes	/c/en/wins	1.0	0.091
+/c/en/see_people_play_game	HasSubevent	/c/en/wins	1.0	-0.024
+/c/en/wins	RelatedTo	/c/en/win	1.0	0.851
+/c/en/playing_game_with_friends	Causes	/c/en/wins	1.0	0.091
+/c/en/wins	RelatedTo	/c/en/win	1.0	0.851
+/c/en/wins	FormOf	/c/en/win	1.0	0.851
+/c/en/magic_number	RelatedTo	/c/en/wins	1.0	-0.024
+/c/en/race	RelatedTo	/c/en/wins	0.16100000000000003	0.31
+/c/en/election	RelatedTo	/c/en/wins	0.1429999999999998	0.331
+/c/en/record	RelatedTo	/c/en/wins	0.14000000000000012	0.198

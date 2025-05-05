@@ -1,0 +1,24 @@
+Title: election-competitive_sport
+
+Head Concept Name: election
+Modifier Concept Name: competitive_sport
+
+
+
+
+
+T(modifier), wrestling, 0.731
+T(modifier), soccer_field, 0.696
+
+T(head), vote, 0.899
+T(head), choice, 0.856
+T(head), predestination, 0.838
+T(head), result_in_new_leader, 0.799
+T(head), require_run_off, 0.784
+T(head), status, 0.778
+T(head), theology, 0.75
+T(head), opportunity_to_vote, 0.748
+
+
+Result: {"wrestling": 0.731, "vote": 0.899, "choice": 0.856, "predestination": 0.838, "result_in_new_leader": 0.799, "require_run_off": 0.784, "status": 0.778, "theology": 0.75, "@scenario_probability": 1.3199961933323867}
+Scenario: [1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1.3199961933323867]

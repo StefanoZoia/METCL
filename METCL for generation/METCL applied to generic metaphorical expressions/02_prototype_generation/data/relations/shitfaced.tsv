@@ -1,0 +1,13 @@
+/c/en/shit_faced	FormOf	/c/en/shitfaced	2.0	0.321
+/c/en/shitfaced	HasContext	/c/en/vulgar	1.0	0.106
+/c/en/shitfaced	RelatedTo	/c/en/very	1.0	0.129
+/c/en/shitfaced	DerivedFrom	/c/en/shit	1.0	0.161
+/c/en/shitfaced	RelatedTo	/c/en/influence	1.0	0.137
+/c/en/shitfaced	RelatedTo	/c/en/drugs	1.0	0.203
+/c/en/shitfaced	RelatedTo	/c/en/drunk	1.0	0.714
+/c/en/shitface	RelatedTo	/c/en/shitfaced	1.0	0.568
+/c/en/faced	DerivedFrom	/c/en/shitfaced	1.0	0.261
+/c/en/shwasted	DerivedFrom	/c/en/shitfaced	1.0	0.059
+/c/en/shitfaced	RelatedTo	/c/en/mind	1.0	-0.026
+/c/en/shitfaced	RelatedTo	/c/en/altering	1.0	0.1
+/c/en/shitfaced	DerivedFrom	/c/en/faced	1.0	0.261

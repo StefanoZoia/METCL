@@ -1,0 +1,28 @@
+Title: listen-conscience
+
+Head Concept Name: listen
+Modifier Concept Name: conscience
+
+
+
+
+
+T(modifier), morality, 0.886
+T(modifier), ethical_motive, 0.866
+T(modifier), shame, 0.83
+T(modifier), piece_of_mental_information, 0.727
+T(modifier), answer_bonus, 0.682
+T(modifier), help, 0.668
+
+T(head), pay_attention, 0.945
+T(head), pay_attention_to_person_speaking, 0.914
+T(head), shutup, 0.909
+T(head), shut_up, 0.897
+T(head), stop_talking, 0.89
+T(head), hear_carefully, 0.889
+T(head), hear_sound, 0.889
+T(head), concentrate, 0.888
+
+
+Result: {"morality": 0.886, "pay_attention": 0.945, "pay_attention_to_person_speaking": 0.914, "shutup": 0.909, "shut_up": 0.897, "stop_talking": 0.89, "hear_carefully": 0.889, "hear_sound": 0.889, "@scenario_probability": 0.003227462271400009}
+Scenario: [1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.003227462271400009]

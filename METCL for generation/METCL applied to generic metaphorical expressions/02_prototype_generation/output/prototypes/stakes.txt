@@ -1,0 +1,8 @@
+gamble: 0.7749
+post: 0.7479
+fasten: 0.7398
+pool: 0.7308000000000001
+mark: 0.7173
+instrument_of_execution: 0.7164
+mormonism: 0.7011000000000001
+croquet: 0.6948000000000001

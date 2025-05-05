@@ -1,0 +1,30 @@
+Title: gun_control-disease
+
+Head Concept Name: gun_control
+Modifier Concept Name: disease
+
+
+
+
+
+T(modifier), infectious, 0.909
+T(modifier), illness, 0.904
+T(modifier), deadly, 0.862
+T(modifier), ending_in_death, 0.843
+T(modifier), make_sick, 0.837
+T(modifier), -wanted_by_most_people, 0.831
+T(modifier), syndrome, 0.822
+T(modifier), rot_human_bodies, 0.819
+
+T(head), regulation, 0.866
+T(head), rule, 0.795
+T(head), control, 0.751
+T(head), dominance, 0.746
+T(head), embryology, 0.741
+T(head), organic_process, 0.72
+T(head), genetics, 0.696
+T(head), european_union_law, 0.692
+
+
+Result: {"infectious": 0.909, "illness": 0.904, "deadly": 0.862, "ending_in_death": 0.843, "make_sick": 0.837, "-wanted_by_most_people": 0.831, "syndrome": 0.822, "regulation": 0.866, "@scenario_probability": 0.00047111934841165075}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0.00047111934841165075]

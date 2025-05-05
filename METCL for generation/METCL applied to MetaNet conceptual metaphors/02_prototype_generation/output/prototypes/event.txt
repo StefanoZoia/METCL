@@ -1,0 +1,8 @@
+happen_to: 0.901
+happening_to_person: 0.876
+surprise: 0.86
+circumstance: 0.849
+relativity: 0.795
+psychological_feature: 0.791
+physical_phenomenon: 0.781
+probability_theory: 0.773

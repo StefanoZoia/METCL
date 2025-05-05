@@ -1,0 +1,11 @@
+/c/en/undefended	Synonym	/c/en/undefendable	2.0	1.0
+/c/en/undefendable	SimilarTo	/c/en/vulnerable	2.0	0.423
+/c/en/open	Synonym	/c/en/undefendable	2.0	0.186
+/c/en/vulnerable	SimilarTo	/c/en/undefendable	2.0	0.423
+/c/en/assailable	Synonym	/c/en/undefendable	2.0	0.135
+/c/en/undefendable	DerivedFrom	/c/en/defendable	1.0	0.429
+/c/en/undefendable	Synonym	/c/en/indefensible	1.0	0.509
+/c/en/undefendable	RelatedTo	/c/en/indefensible	1.0	0.509
+/c/en/indefensible	Synonym	/c/en/undefendable	1.0	0.509
+/c/en/undefendable	RelatedTo	/c/en/defended	1.0	0.555
+/c/en/indefensible	RelatedTo	/c/en/undefendable	1.0	0.509

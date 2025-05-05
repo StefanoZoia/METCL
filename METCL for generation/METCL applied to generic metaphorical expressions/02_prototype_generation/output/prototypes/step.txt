@@ -1,0 +1,8 @@
+stairway: 0.863
+walk: 0.859
+move: 0.85
+block: 0.829
+locomotion: 0.819
+tread: 0.815
+put: 0.806
+travel: 0.796

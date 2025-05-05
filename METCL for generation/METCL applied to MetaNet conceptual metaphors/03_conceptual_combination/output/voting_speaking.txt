@@ -1,0 +1,30 @@
+Title: voting-speaking
+
+Head Concept Name: voting
+Modifier Concept Name: speaking
+
+
+
+
+
+T(modifier), talking, 0.875
+T(modifier), utterance, 0.846
+T(modifier), vocalizing, 0.812
+T(modifier), clear_air, 0.779
+T(modifier), -writing, 0.761
+T(modifier), -unspeaking, 0.757
+T(modifier), telling_story, 0.755
+T(modifier), form_of_comminication, 0.743
+
+T(head), election, 0.868
+T(head), election_day, 0.867
+T(head), elect_people, 0.84
+T(head), secret, 0.829
+T(head), matter_lot, 0.779
+T(head), making_decisions, 0.774
+T(head), civic_responsibility, 0.765
+T(head), activities, 0.752
+
+
+Result: {"talking": 0.875, "utterance": 0.846, "vocalizing": 0.812, "election": 0.868, "election_day": 0.867, "elect_people": 0.84, "secret": 0.829, "matter_lot": 0.779, "@scenario_probability": 0.0002611969975381169}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.0002611969975381169]

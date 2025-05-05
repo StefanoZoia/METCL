@@ -1,0 +1,8 @@
+relation: 0.898
+ending_in_heartbreak: 0.838
+state: 0.811
+-affair: 0.799
+last_for_year: 0.793
+last_for_long_time: 0.793
+music: 0.757
+mathematics: 0.749

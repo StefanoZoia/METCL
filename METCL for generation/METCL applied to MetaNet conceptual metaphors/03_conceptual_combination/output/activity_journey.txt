@@ -1,0 +1,27 @@
+Title: activity-journey
+
+Head Concept Name: activity
+Modifier Concept Name: journey
+
+
+
+
+
+T(modifier), travel, 0.89
+T(modifier), stage, 0.754
+T(modifier), -walk, 0.744
+T(modifier), collective, 0.743
+T(modifier), video_game, 0.709
+
+T(head), action, 0.858
+T(head), energy, 0.853
+T(head), capability, 0.829
+T(head), -inactivity, 0.826
+T(head), act, 0.82
+T(head), chemistry, 0.797
+T(head), -passivity, 0.79
+T(head), do, 0.777
+
+
+Result: {"travel": 0.89, "action": 0.858, "energy": 0.853, "capability": 0.829, "-inactivity": 0.826, "act": 0.82, "chemistry": 0.797, "-passivity": 0.79, "@scenario_probability": 0.024186120728343384}
+Scenario: [1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.024186120728343384]

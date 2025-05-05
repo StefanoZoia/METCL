@@ -1,0 +1,8 @@
+-outgo: 0.835
+-tax: 0.807
+financial_gain: 0.8
+-expense: 0.795
+business: 0.791
+-payment: 0.759
+commerce: 0.752
+-cost: 0.738

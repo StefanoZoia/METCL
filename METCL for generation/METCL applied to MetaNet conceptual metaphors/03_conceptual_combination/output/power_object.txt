@@ -1,0 +1,30 @@
+Title: power-object
+
+Head Concept Name: power
+Modifier Concept Name: object
+
+
+
+
+
+T(modifier), thing, 0.843
+T(modifier), disapprove, 0.832
+T(modifier), become_broken, 0.817
+T(modifier), object_oriented_programming, 0.814
+T(modifier), content, 0.81
+T(modifier), belong_to_person, 0.809
+T(modifier), disappear_from_sight, 0.806
+T(modifier), computer_science, 0.803
+
+T(head), fleeting, 0.831
+T(head), physics, 0.809
+T(head), battery, 0.798
+T(head), physical_phenomenon, 0.796
+T(head), provide, 0.793
+T(head), causal_agent, 0.791
+T(head), quality, 0.789
+T(head), -impotence, 0.772
+
+
+Result: {"thing": 0.843, "disapprove": 0.832, "become_broken": 0.817, "object_oriented_programming": 0.814, "content": 0.81, "belong_to_person": 0.809, "fleeting": 0.831, "physics": 0.809, "@scenario_probability": 6.735407482612891e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 6.735407482612891e-05]

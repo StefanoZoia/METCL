@@ -1,0 +1,8 @@
+fruit: 0.86
+apples: 0.819
+grow_flowers: 0.818
+berries: 0.817
+pod: 0.806
+lie_dormant_for_years: 0.802
+lay_dormant_for_years: 0.796
+tree: 0.776

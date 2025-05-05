@@ -1,0 +1,8 @@
+pain: 0.889
+misery: 0.887
+war: 0.772
+emotion: 0.764
+-happiness: 0.761
+life_of_sentient_being: 0.758
+consequence_of_war: 0.719
+commit_suicide: 0.715

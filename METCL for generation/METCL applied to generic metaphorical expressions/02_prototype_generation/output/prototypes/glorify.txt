@@ -1,0 +1,4 @@
+-vilify: 0.817
+embroider: 0.809
+change: 0.809
+-slander: 0.742

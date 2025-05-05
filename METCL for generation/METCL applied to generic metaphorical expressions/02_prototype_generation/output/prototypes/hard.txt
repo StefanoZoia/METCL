@@ -1,0 +1,8 @@
+-easy: 0.818
+-soft: 0.818
+-tough: 0.796
+-difficult: 0.792
+stones: 0.778
+bricks: 0.777
+most_rocks: 0.772
+steel: 0.77

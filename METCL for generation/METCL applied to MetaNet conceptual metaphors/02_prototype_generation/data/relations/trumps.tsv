@@ -1,0 +1,15 @@
+/c/en/trumps	FormOf	/c/en/trump	2.0	0.786
+/c/en/trumps	FormOf	/c/en/trump	1.0	0.786
+/c/en/trumps	RelatedTo	/c/en/trump	1.0	0.786
+/c/en/trumps	RelatedTo	/c/en/outrank	1.0	0.358
+/c/en/trumps	RelatedTo	/c/en/suit	1.0	0.282
+/c/en/trumps	RelatedTo	/c/en/game	1.0	0.177
+/c/en/trumps	RelatedTo	/c/en/major_arcana	1.0	0.073
+/c/en/misère	RelatedTo	/c/en/trumps	1.0	0.373
+/c/en/trumps	RelatedTo	/c/en/cards	1.0	0.395
+/c/en/trumps	HasContext	/c/en/british	1.0	0.053
+/c/en/trumps	RelatedTo	/c/en/trump	1.0	0.786
+/c/en/misère_ouvert	RelatedTo	/c/en/trumps	1.0	0.373
+/c/en/no_trumps	DerivedFrom	/c/en/trumps	1.0	0.033
+/c/en/trumps	RelatedTo	/c/en/tarot	1.0	0.328
+/c/en/turn_up_trumps	DerivedFrom	/c/en/trumps	1.0	0.014

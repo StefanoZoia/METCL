@@ -1,0 +1,4 @@
+/c/en/living_entity	Desires	/c/en/survive	1.0	0.093
+/c/en/creature	IsA	/c/en/living_entity	1.0	0.158
+/c/en/living_entity	NotDesires	/c/en/die	1.0	-0.008
+/c/en/living_entity	Desires	/c/en/reproduce	1.0	0.013

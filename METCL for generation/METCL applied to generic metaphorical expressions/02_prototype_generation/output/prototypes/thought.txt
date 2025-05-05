@@ -1,0 +1,8 @@
+belief: 0.83
+create: 0.826
+cogitating: 0.818
+contemplating: 0.815
+answering_questions: 0.807
+form_idea: 0.802
+produce_anger: 0.8
+produce_depression: 0.8

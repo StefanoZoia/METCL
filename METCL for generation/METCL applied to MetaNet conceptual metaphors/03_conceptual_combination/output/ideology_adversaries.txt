@@ -1,0 +1,25 @@
+Title: ideology-adversaries
+
+Head Concept Name: ideology
+Modifier Concept Name: adversaries
+
+
+
+
+
+T(modifier), person, 0.723
+T(modifier), christianity, 0.671
+T(modifier), religion, 0.669
+
+T(head), person, 0.879
+T(head), how_to_live_life, 0.844
+T(head), theorization, 0.83
+T(head), change_society, 0.807
+T(head), ideals, 0.792
+T(head), system_of_abstract_thought, 0.759
+T(head), organization, 0.757
+T(head), way_of_looking_at_things, 0.747
+
+
+Result: {"person": 0.879, "how_to_live_life": 0.844, "theorization": 0.83, "change_society": 0.807, "ideals": 0.792, "system_of_abstract_thought": 0.759, "organization": 0.757, "@scenario_probability": 0.4504312319805854}
+Scenario: [1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.4504312319805854]

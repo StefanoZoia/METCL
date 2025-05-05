@@ -1,0 +1,30 @@
+Title: race-presidential
+
+Head Concept Name: race
+Modifier Concept Name: presidential
+
+
+
+
+
+T(modifier), gubernatorial, 0.899
+T(modifier), presiding_officer, 0.832
+T(modifier), elected_official, 0.818
+T(modifier), govern_country, 0.8
+T(modifier), govern_nation, 0.8
+T(modifier), running_country, 0.795
+T(modifier), head_company, 0.782
+T(modifier), leader, 0.778
+
+T(head), contest, 0.859
+T(head), compete, 0.858
+T(head), significant_in_genetics, 0.829
+T(head), competition_in, 0.82
+T(head), group, 0.804
+T(head), act, 0.801
+T(head), cars, 0.801
+T(head), move, 0.788
+
+
+Result: {"gubernatorial": 0.899, "presiding_officer": 0.832, "elected_official": 0.818, "contest": 0.859, "compete": 0.858, "significant_in_genetics": 0.829, "competition_in": 0.82, "group": 0.804, "@scenario_probability": 8.211198277308492e-05}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 8.211198277308492e-05]

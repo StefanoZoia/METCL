@@ -1,0 +1,19 @@
+Title: taxation-servitude
+
+Head Concept Name: taxation
+Modifier Concept Name: servitude
+
+
+
+
+
+T(modifier), bondage, 0.874
+T(modifier), legal, 0.739
+
+T(head), imposition, 0.862
+T(head), process_results_in_taxes, 0.731
+T(head), activity_of_government, 0.721
+
+
+Result: {"bondage": 0.874, "legal": 0.739, "imposition": 0.862, "process_results_in_taxes": 0.731, "@scenario_probability": 11.3549366887668}
+Scenario: [1, 1, 1, 1, 0, 11.3549366887668]

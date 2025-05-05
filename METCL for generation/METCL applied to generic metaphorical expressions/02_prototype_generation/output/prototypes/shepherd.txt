@@ -1,0 +1,8 @@
+herder: 0.863
+bell_sheep: 0.859
+herdsman: 0.854
+clergyman: 0.825
+tend: 0.812
+guard: 0.808
+number_sheep: 0.808
+drive_sheep: 0.804

@@ -1,0 +1,8 @@
+die: 0.861
+make: 0.826
+don't_like_being_there: 0.825
+permission: 0.824
+yield: 0.817
+change: 0.813
+time_off: 0.813
+-stay: 0.812

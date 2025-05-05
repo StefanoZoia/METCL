@@ -1,0 +1,7 @@
+air_grievances: 0.832
+country: 0.832
+honor_laws: 0.804
+voice_opinion_in_parliament: 0.797
+write_letters_to_senators: 0.797
+voice_opinions: 0.797
+dance_to_dictator's_tune: 0.791

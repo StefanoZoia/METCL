@@ -1,0 +1,8 @@
+-antipathy: 0.854
+affinity: 0.841
+feeling: 0.836
+emotion: 0.827
+inclination: 0.824
+-contempt: 0.802
+-apathy: 0.772
+forgiving: 0.74

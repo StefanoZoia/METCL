@@ -1,0 +1,8 @@
+running: 0.915
+legs: 0.9
+muscle_cramp: 0.889
+running_shoes: 0.885
+agility: 0.882
+excercise: 0.874
+using_feet: 0.863
+sweating: 0.854

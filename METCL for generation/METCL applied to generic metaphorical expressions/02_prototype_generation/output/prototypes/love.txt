@@ -1,0 +1,8 @@
+love: 0.946
+wonderful_and_frightening: 0.891
+blind: 0.884
+hard_work: 0.879
+contagious: 0.873
+painful: 0.867
+fix_many_problems: 0.864
+hurt: 0.859

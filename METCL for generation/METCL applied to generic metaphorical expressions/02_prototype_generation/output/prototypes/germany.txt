@@ -1,0 +1,8 @@
+wurzburg: 0.906
+in_europe: 0.899
+buchenwald: 0.884
+dusseldorf: 0.877
+bavaria: 0.868
+berlin: 0.867
+frankfurt: 0.863
+thuringia: 0.863

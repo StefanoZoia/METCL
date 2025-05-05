@@ -1,0 +1,2 @@
+hardness: 0.885
+strength: 0.872

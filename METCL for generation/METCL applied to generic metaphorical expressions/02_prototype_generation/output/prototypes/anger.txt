@@ -1,0 +1,8 @@
+anger: 0.946
+emotional_arousal: 0.895
+emotion: 0.874
+frustration: 0.864
+frustration_at_inability_to_control: 0.856
+arouse: 0.838
+unpleasant: 0.815
+feel: 0.809

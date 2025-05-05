@@ -1,0 +1,26 @@
+Title: invaded-laws
+
+Head Concept Name: invaded
+Modifier Concept Name: laws
+
+
+
+
+
+T(modifier), rules, 0.905
+T(modifier), rules_for_conduct, 0.889
+T(modifier), regulate_behavior, 0.844
+T(modifier), different_from_state_to_state, 0.834
+T(modifier), guides, 0.802
+T(modifier), read_by_humans, 0.672
+T(modifier), made_to_broken, 0.655
+
+T(head), interpenetrate, 0.776
+T(head), inhabit, 0.775
+T(head), attack, 0.762
+T(head), -evade, 0.661
+T(head), we, 0.607
+
+
+Result: {"rules": 0.905, "rules_for_conduct": 0.889, "regulate_behavior": 0.844, "different_from_state_to_state": 0.834, "guides": 0.802, "interpenetrate": 0.776, "inhabit": 0.775, "attack": 0.762, "@scenario_probability": 0.3137883302488998}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 0, 0, 0.3137883302488998]

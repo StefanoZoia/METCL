@@ -1,0 +1,8 @@
+wedding: 0.927
+marital_status: 0.911
+-divorce: 0.893
+cohabitation_situation: 0.842
+union: 0.834
+family: 0.828
+ritual: 0.821
+law: 0.816

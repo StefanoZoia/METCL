@@ -1,0 +1,30 @@
+Title: life-possession
+
+Head Concept Name: life
+Modifier Concept Name: possession
+
+
+
+
+
+T(modifier), control, 0.84
+T(modifier), relation, 0.818
+T(modifier), enchantment, 0.813
+T(modifier), district, 0.81
+T(modifier), house, 0.787
+T(modifier), sport, 0.776
+T(modifier), -absence, 0.755
+T(modifier), sports, 0.736
+
+T(head), living, 0.914
+T(head), finite, 0.886
+T(head), hard, 0.879
+T(head), good, 0.862
+T(head), unpredictable, 0.861
+T(head), water, 0.844
+T(head), absurd, 0.843
+T(head), full_of_chance, 0.841
+
+
+Result: {"control": 0.84, "living": 0.914, "finite": 0.886, "hard": 0.879, "good": 0.862, "unpredictable": 0.861, "water": 0.844, "absurd": 0.843, "@scenario_probability": 0.00010018203980050412}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.00010018203980050412]

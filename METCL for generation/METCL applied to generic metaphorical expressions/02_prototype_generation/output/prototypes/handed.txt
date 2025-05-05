@@ -1,0 +1,8 @@
+hand: 0.8766
+forepaw: 0.8064
+handbreadth: 0.7992
+arm: 0.7884
+hands: 0.7857000000000001
+hold_another_hand: 0.7758
+push_door: 0.774
+reach_ass: 0.7614

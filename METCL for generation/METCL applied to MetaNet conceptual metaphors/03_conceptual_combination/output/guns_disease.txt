@@ -1,0 +1,30 @@
+Title: guns-disease
+
+Head Concept Name: guns
+Modifier Concept Name: disease
+
+
+
+
+
+T(modifier), infectious, 0.909
+T(modifier), illness, 0.904
+T(modifier), deadly, 0.862
+T(modifier), ending_in_death, 0.843
+T(modifier), make_sick, 0.837
+T(modifier), -wanted_by_most_people, 0.831
+T(modifier), syndrome, 0.822
+T(modifier), rot_human_bodies, 0.819
+
+T(head), firearm_shoots_bullets, 0.838
+T(head), shooting_things, 0.824
+T(head), shoot, 0.814
+T(head), weapon, 0.813
+T(head), shot, 0.807
+T(head), gun_shop, 0.805
+T(head), holster, 0.8
+T(head), shoot_bullets, 0.795
+
+
+Result: {"infectious": 0.909, "illness": 0.904, "deadly": 0.862, "ending_in_death": 0.843, "make_sick": 0.837, "-wanted_by_most_people": 0.831, "firearm_shoots_bullets": 0.838, "shooting_things": 0.824, "@scenario_probability": 4.958996151765862e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 4.958996151765862e-05]

@@ -1,0 +1,17 @@
+/c/en/headlamp	Synonym	/c/en/headlight	2.0	0.897
+/c/en/headlamp	Synonym	/c/en/headlight	1.0	0.897
+/c/en/bright	RelatedTo	/c/en/headlamp	1.0	0.33
+/c/en/torch	RelatedTo	/c/en/headlamp	1.0	0.43
+/c/en/headlight	Synonym	/c/en/headlamp	1.0	0.897
+/c/en/flashlight	RelatedTo	/c/en/headlamp	1.0	0.621
+/c/en/headlamps	RelatedTo	/c/en/headlamp	1.0	0.966
+/c/en/headlamp	DerivedFrom	/c/en/head	1.0	0.182
+/c/en/dimmer	RelatedTo	/c/en/headlamp	1.0	0.393
+/c/en/headlamp	DerivedFrom	/c/en/head	1.0	0.182
+/c/en/headlamp	RelatedTo	/c/en/flashlight	1.0	0.621
+/c/en/headlamp	DerivedFrom	/c/en/lamp	1.0	0.558
+/c/en/headlamp	RelatedTo	/c/en/headlight	1.0	0.897
+/c/en/headlamps	FormOf	/c/en/headlamp	1.0	0.966
+/c/en/headlamps	FormOf	/c/en/headlamp	1.0	0.966
+/c/en/headlamp	DerivedFrom	/c/en/lamp	1.0	0.558
+/c/en/headlamp	Synonym	/c/en/headlamp	0.5	1.0

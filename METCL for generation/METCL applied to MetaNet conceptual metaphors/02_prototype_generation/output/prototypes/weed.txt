@@ -1,0 +1,8 @@
+field: 0.821
+spring_up_overnight: 0.811
+remove: 0.809
+vascular_plant: 0.803
+unwanted_plant_in_yard: 0.766
+-flower: 0.759
+slang: 0.746
+nother_name_for_pot: 0.737

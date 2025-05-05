@@ -1,0 +1,3 @@
+result_in_vote: 0.798
+reach_tentative_agreement: 0.794
+getting_contract: 0.757

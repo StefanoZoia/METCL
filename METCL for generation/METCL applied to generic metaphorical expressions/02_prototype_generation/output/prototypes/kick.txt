@@ -1,0 +1,8 @@
+football: 0.851
+move: 0.847
+score: 0.828
+blow: 0.825
+propel: 0.816
+stimulation: 0.812
+dance: 0.812
+sport: 0.81

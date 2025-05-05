@@ -1,0 +1,8 @@
+reach: 0.831
+way: 0.823
+approach: 0.822
+right: 0.813
+recover: 0.805
+computer_science: 0.804
+operation: 0.797
+archaic: 0.767

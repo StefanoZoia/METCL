@@ -1,0 +1,30 @@
+Title: dying-engine
+
+Head Concept Name: dying
+Modifier Concept Name: engine
+
+
+
+
+
+T(modifier), motor, 0.904
+T(modifier), fuel_to_operate, 0.878
+T(modifier), car, 0.873
+T(modifier), automobile, 0.866
+T(modifier), power, 0.856
+T(modifier), camshaft, 0.85
+T(modifier), piston, 0.837
+T(modifier), work, 0.834
+
+T(head), life, 0.906
+T(head), death, 0.894
+T(head), living, 0.883
+T(head), ending_life, 0.873
+T(head), ending_live, 0.873
+T(head), mortals, 0.865
+T(head), committing_suicide, 0.856
+T(head), desease_accident_or_old_age, 0.849
+
+
+Result: {"motor": 0.904, "fuel_to_operate": 0.878, "car": 0.873, "life": 0.906, "death": 0.894, "living": 0.883, "ending_life": 0.873, "ending_live": 0.873, "@scenario_probability": 8.682794998023432e-06}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 8.682794998023432e-06]

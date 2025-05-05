@@ -1,0 +1,7 @@
+join: 0.84
+meet: 0.84
+make: 0.82
+computing: 0.745
+-break: 0.744
+production_line: 0.733
+piece: 0.721

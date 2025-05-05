@@ -1,0 +1,4 @@
+crowd: 0.836
+chisel: 0.81
+animal_group: 0.804
+collective: 0.762

@@ -1,0 +1,8 @@
+band: 0.8082
+commitment: 0.792
+group_of_people_who_play_music: 0.7695
+expectation: 0.7623
+play_music: 0.7605
+musical_organization: 0.7605
+stripe: 0.7497
+hiphop: 0.7452

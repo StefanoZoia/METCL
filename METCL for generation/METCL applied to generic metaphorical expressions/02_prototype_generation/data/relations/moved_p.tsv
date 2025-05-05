@@ -1,0 +1,10 @@
+/c/en/moved_p	RelatedTo	/c/en/emotional	2.0	0.08
+/c/en/emotional	RelatedTo	/c/en/moved_p	2.0	0.08
+/c/en/touched	Synonym	/c/en/moved_p	2.0	0.655
+/c/en/moved_p	SimilarTo	/c/en/sick	2.0	0.103
+/c/en/moved	Synonym	/c/en/moved_p	2.0	1.0
+/c/en/moved_p	RelatedTo	/c/en/affected	2.0	0.306
+/c/en/stirred	Synonym	/c/en/moved_p	2.0	0.432
+/c/en/sick	SimilarTo	/c/en/moved_p	2.0	0.103
+/c/en/affected	RelatedTo	/c/en/moved_p	2.0	0.306
+/c/en/affected	Synonym	/c/en/moved_p	2.0	0.306

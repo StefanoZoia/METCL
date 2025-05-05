@@ -1,0 +1,30 @@
+Title: nation-person
+
+Head Concept Name: nation
+Modifier Concept Name: person
+
+
+
+
+
+T(modifier), wave_to_friend, 0.94
+T(modifier), wave_goodbye, 0.94
+T(modifier), wave_to_another_person, 0.94
+T(modifier), wave_at_another_person, 0.94
+T(modifier), wave_hello_or_goodbye, 0.909
+T(modifier), wait_patiently, 0.908
+T(modifier), thank_god, 0.895
+T(modifier), god, 0.876
+
+T(head), united_states, 0.857
+T(head), people, 0.836
+T(head), confederation, 0.831
+T(head), ready_troops, 0.808
+T(head), weather_storm_of_war, 0.789
+T(head), arm_citizens, 0.788
+T(head), -state, 0.787
+T(head), legal, 0.744
+
+
+Result: {"wave_to_friend": 0.94, "wave_goodbye": 0.94, "wave_to_another_person": 0.94, "wave_at_another_person": 0.94, "wave_hello_or_goodbye": 0.909, "wait_patiently": 0.908, "thank_god": 0.895, "united_states": 0.857, "@scenario_probability": 7.955296208978169e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 7.955296208978169e-05]

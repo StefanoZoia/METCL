@@ -1,0 +1,8 @@
+crime: 0.946
+criminal_law: 0.865
+increasing: 0.848
+hate_crime: 0.843
+transgression: 0.841
+result_in_punishment: 0.836
+-good: 0.828
+activity: 0.806

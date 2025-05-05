@@ -1,0 +1,30 @@
+Title: head-country
+
+Head Concept Name: head
+Modifier Concept Name: country
+
+
+
+
+
+T(modifier), a, 0.848
+T(modifier), world, 0.842
+T(modifier), america, 0.834
+T(modifier), region, 0.822
+T(modifier), honor_soldier, 0.81
+T(modifier), go_to_war_with_another_country, 0.8
+T(modifier), globe_map, 0.797
+T(modifier), asia, 0.797
+
+T(head), head_butting, 0.864
+T(head), go_to_bathroom, 0.86
+T(head), bang_on_wall, 0.853
+T(head), unclear, 0.849
+T(head), think, 0.848
+T(head), hat, 0.842
+T(head), top, 0.835
+T(head), direct, 0.834
+
+
+Result: {"a": 0.848, "world": 0.842, "head_butting": 0.864, "go_to_bathroom": 0.86, "bang_on_wall": 0.853, "unclear": 0.849, "think": 0.848, "hat": 0.842, "@scenario_probability": 3.476807114739727e-05}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 3.476807114739727e-05]

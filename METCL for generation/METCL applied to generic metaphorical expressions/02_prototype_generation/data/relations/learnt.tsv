@@ -1,0 +1,14 @@
+/c/en/acquired	Synonym	/c/en/learnt	1.0	0.459
+/c/en/learnt	HasContext	/c/en/new_england	1.0	0.084
+/c/en/learnt	FormOf	/c/en/learn	1.0	0.616
+/c/en/learned	FormOf	/c/en/learnt	1.0	0.781
+/c/en/learnt	FormOf	/c/en/learned	1.0	0.781
+/c/en/learnt	HasContext	/c/en/aave	1.0	0.043
+/c/en/ycond	RelatedTo	/c/en/learnt	1.0	-0.054
+/c/en/learnt	HasContext	/c/en/ireland	1.0	0.057
+/c/en/learnt	RelatedTo	/c/en/learn	1.0	0.616
+/c/en/learnt	HasContext	/c/en/uk	1.0	0.096
+/c/en/learnt	HasContext	/c/en/british	1.0	0.126
+/c/en/learnt	DerivedFrom	/c/en/learn	1.0	0.616
+/c/en/learnt	FormOf	/c/en/learn	1.0	0.616
+/c/en/experience	RelatedTo	/c/en/learnt	0.2919999999999998	0.243

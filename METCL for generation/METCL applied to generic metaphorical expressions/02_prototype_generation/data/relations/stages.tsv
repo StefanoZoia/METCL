@@ -1,0 +1,10 @@
+/c/en/stages	FormOf	/c/en/stage	2.0	0.885
+/c/en/stages	FormOf	/c/en/stage	1.0	0.885
+/c/en/stages	RelatedTo	/c/en/stage	1.0	0.885
+/c/en/stages	FormOf	/c/en/stage	1.0	0.885
+/c/en/gradation	RelatedTo	/c/en/stages	1.0	0.23
+/c/en/stages	IsA	/c/en/usually_on_land	1.0	0.062
+/c/en/stages	RelatedTo	/c/en/stage	1.0	0.885
+/c/en/stages	FormOf	/c/en/stage	1.0	0.885
+/c/en/course	RelatedTo	/c/en/stages	0.17399999999999993	0.116
+/c/en/scene	RelatedTo	/c/en/stages	0.16000000000000014	0.271

@@ -1,0 +1,8 @@
+maim: 0.872
+weaken: 0.855
+person: 0.809
+crutch: 0.806
+southern_us: 0.765
+except_louisiana: 0.752
+dialect: 0.742
+among_lumbermen: 0.729

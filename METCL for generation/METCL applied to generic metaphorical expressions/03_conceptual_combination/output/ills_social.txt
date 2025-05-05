@@ -1,0 +1,30 @@
+Title: ills-social
+
+Head Concept Name: ills
+Modifier Concept Name: social
+
+
+
+
+
+T(modifier), -antisocial, 0.883
+T(modifier), social_occasion, 0.878
+T(modifier), -asocial, 0.859
+T(modifier), -unsocial, 0.853
+T(modifier), animal, 0.825
+T(modifier), internet, 0.795
+T(modifier), zoology, 0.752
+T(modifier), -introverted, 0.748
+
+T(head), -wack, 0.708
+T(head), -ok, 0.688
+T(head), hip_hop_slang, 0.687
+T(head), -health, 0.683
+T(head), -well, 0.68
+T(head), slang, 0.678
+T(head), -healthy, 0.677
+T(head), go_to_doctor, 0.672
+
+
+Result: {"-antisocial": 0.883, "social_occasion": 0.878, "-asocial": 0.859, "-unsocial": 0.853, "animal": 0.825, "internet": 0.795, "zoology": 0.752, "-wack": 0.708, "@scenario_probability": 0.0016893146198404892}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0.0016893146198404892]

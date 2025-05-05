@@ -1,0 +1,8 @@
+buying: 0.806
+-stationary: 0.806
+-standing: 0.79
+-motion: 0.785
+cause_backaches: 0.784
+getting_exercise: 0.775
+action_on_object: 0.761
+physical_event: 0.754

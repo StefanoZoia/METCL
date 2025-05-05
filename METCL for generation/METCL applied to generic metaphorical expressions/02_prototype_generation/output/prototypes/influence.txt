@@ -1,0 +1,8 @@
+affect: 0.87
+power: 0.849
+determinant: 0.84
+consequence: 0.832
+causing: 0.803
+electricity: 0.742
+fighting_inflation: 0.676
+getting_money_from: 0.659

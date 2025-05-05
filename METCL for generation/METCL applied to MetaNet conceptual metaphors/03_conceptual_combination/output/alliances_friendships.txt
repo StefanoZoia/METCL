@@ -1,0 +1,26 @@
+Title: alliances-friendships
+
+Head Concept Name: alliances
+Modifier Concept Name: friendships
+
+
+
+
+
+T(modifier), open_doors_for_career, 0.82
+T(modifier), relationship, 0.798
+T(modifier), trust, 0.784
+T(modifier), friend's_house, 0.783
+T(modifier), communication, 0.778
+T(modifier), offered_and_must_honored, 0.749
+T(modifier), -enmity, 0.746
+T(modifier), two_people, 0.742
+
+T(head), coalition, 0.824
+T(head), organization, 0.78
+T(head), treaty, 0.754
+T(head), connection, 0.754
+
+
+Result: {"open_doors_for_career": 0.82, "relationship": 0.798, "trust": 0.784, "friend's_house": 0.783, "communication": 0.778, "coalition": 0.824, "organization": 0.78, "connection": 0.754, "@scenario_probability": 0.06128152678480818}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 0, 1, 0.06128152678480818]

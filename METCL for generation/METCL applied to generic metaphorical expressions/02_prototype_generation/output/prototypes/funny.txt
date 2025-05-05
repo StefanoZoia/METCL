@@ -1,0 +1,8 @@
+humorous: 0.88
+joke: 0.819
+laugh: 0.809
+comedy: 0.799
+entertain_people: 0.773
+clown: 0.768
+howl_with_laughter: 0.758
+uk: 0.75

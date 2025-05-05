@@ -1,0 +1,8 @@
+talking: 0.875
+utterance: 0.846
+vocalizing: 0.812
+clear_air: 0.779
+-writing: 0.761
+-unspeaking: 0.757
+telling_story: 0.755
+form_of_comminication: 0.743

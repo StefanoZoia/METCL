@@ -1,0 +1,30 @@
+Title: rights-possessions
+
+Head Concept Name: rights
+Modifier Concept Name: possessions
+
+
+
+
+
+T(modifier), house, 0.839
+T(modifier), control, 0.756
+T(modifier), relation, 0.736
+T(modifier), enchantment, 0.732
+T(modifier), district, 0.729
+T(modifier), sport, 0.698
+T(modifier), -absence, 0.679
+T(modifier), sports, 0.662
+
+T(head), opposite_of_left, 0.77
+T(head), right_wrong, 0.769
+T(head), -left, 0.764
+T(head), entering_into_contract, 0.761
+T(head), -wrong, 0.754
+T(head), hand, 0.751
+T(head), common, 0.748
+T(head), turn, 0.747
+
+
+Result: {"house": 0.839, "control": 0.756, "opposite_of_left": 0.77, "right_wrong": 0.769, "-left": 0.764, "entering_into_contract": 0.761, "-wrong": 0.754, "hand": 0.751, "@scenario_probability": 0.0004952766675649638}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.0004952766675649638]

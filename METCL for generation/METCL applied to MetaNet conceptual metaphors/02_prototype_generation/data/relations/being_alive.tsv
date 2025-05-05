@@ -1,0 +1,9 @@
+/c/en/being_alive	HasSubevent	/c/en/breathing	1.0	0.072
+/c/en/talking	HasPrerequisite	/c/en/being_alive	1.0	0.174
+/c/en/being_alive	IsA	/c/en/life	1.0	0.046
+/c/en/living_life	HasPrerequisite	/c/en/being_alive	1.0	0.206
+/c/en/being_alive	Synonym	/c/en/being_alive	0.5	1.0
+/c/en/being_alive	IsA	/c/en/television_episode	0.5	-0.012
+/c/en/exist	RelatedTo	/c/en/being_alive	0.4870000000000001	0.048
+/c/en/life	RelatedTo	/c/en/being_alive	0.3540000000000001	0.046
+/c/en/body	RelatedTo	/c/en/being_alive	0.1509999999999998	0.041

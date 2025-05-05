@@ -1,0 +1,17 @@
+/c/en/primary_election	Synonym	/c/en/primary	2.0	0.311
+/c/en/primary_elections	FormOf	/c/en/primary_election	1.0	1.0
+/c/en/primary_election	IsA	/c/en/election	1.0	0.074
+/c/en/jungle_primary	RelatedTo	/c/en/primary_election	1.0	0.276
+/c/en/primary_election	SimilarTo	/c/en/caucus	1.0	0.098
+/c/en/primary	RelatedTo	/c/en/primary_election	1.0	0.311
+/c/en/primary_election	Synonym	/c/en/primary	1.0	0.311
+/c/en/postprimary	RelatedTo	/c/en/primary_election	1.0	0.016
+/c/en/megaprimary	RelatedTo	/c/en/primary_election	1.0	0.045
+/c/en/clown_car_primary	RelatedTo	/c/en/primary_election	1.0	0.101
+/c/en/superprimary	RelatedTo	/c/en/primary_election	1.0	0.044
+/c/en/primary_election	SimilarTo	/c/en/general_election	1.0	0.236
+/c/en/primary	RelatedTo	/c/en/primary_election	1.0	0.311
+/c/en/primary_election	IsA	/c/en/electing	1.0	0.107
+/c/en/united_states_primary	IsA	/c/en/primary_election	1.0	-0.0
+/c/en/primary_election	SimilarTo	/c/en/special_election	1.0	0.101
+/c/en/primary_election	HasContext	/c/en/politics	1.0	0.039

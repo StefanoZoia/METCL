@@ -1,0 +1,8 @@
+panic: 0.946
+anxiety: 0.893
+fear: 0.888
+terrify: 0.861
+nervousness: 0.846
+distress: 0.803
+-calm: 0.764
+economics: 0.762

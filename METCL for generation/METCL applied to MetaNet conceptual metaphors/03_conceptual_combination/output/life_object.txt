@@ -1,0 +1,30 @@
+Title: life-object
+
+Head Concept Name: life
+Modifier Concept Name: object
+
+
+
+
+
+T(modifier), thing, 0.843
+T(modifier), disapprove, 0.832
+T(modifier), become_broken, 0.817
+T(modifier), object_oriented_programming, 0.814
+T(modifier), content, 0.81
+T(modifier), belong_to_person, 0.809
+T(modifier), disappear_from_sight, 0.806
+T(modifier), computer_science, 0.803
+
+T(head), living, 0.914
+T(head), finite, 0.886
+T(head), hard, 0.879
+T(head), good, 0.862
+T(head), unpredictable, 0.861
+T(head), water, 0.844
+T(head), absurd, 0.843
+T(head), full_of_chance, 0.841
+
+
+Result: {"thing": 0.843, "living": 0.914, "finite": 0.886, "hard": 0.879, "good": 0.862, "unpredictable": 0.861, "water": 0.844, "absurd": 0.843, "@scenario_probability": 3.9957855327626255e-05}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 3.9957855327626255e-05]

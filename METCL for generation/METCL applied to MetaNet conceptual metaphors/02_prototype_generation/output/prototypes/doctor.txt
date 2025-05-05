@@ -1,0 +1,8 @@
+prescribe_medicine: 0.913
+doctor's_office: 0.905
+medical_practitioner: 0.879
+prescribe_drug: 0.878
+prescribe_treatment: 0.878
+prescribe_narcotics: 0.878
+visit_patient_at_home: 0.877
+care_for_patients: 0.873

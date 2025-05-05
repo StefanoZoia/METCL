@@ -1,0 +1,26 @@
+Title: relatedness-proximity
+
+Head Concept Name: relatedness
+Modifier Concept Name: proximity
+
+
+
+
+
+T(modifier), nearness, 0.927
+T(modifier), vicinity, 0.899
+T(modifier), gestalt_law_of_organization, 0.798
+T(modifier), -distance, 0.777
+
+T(head), connection, 0.885
+T(head), connect_things, 0.834
+T(head), relation, 0.797
+T(head), getting_job, 0.767
+T(head), link, 0.76
+T(head), networks, 0.759
+T(head), attach_one_thing_to_another, 0.754
+T(head), acquaintance, 0.752
+
+
+Result: {"nearness": 0.927, "vicinity": 0.899, "gestalt_law_of_organization": 0.798, "-distance": 0.777, "connection": 0.885, "connect_things": 0.834, "relation": 0.797, "getting_job": 0.767, "@scenario_probability": 0.08226998439443681}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0.08226998439443681]

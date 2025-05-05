@@ -1,0 +1,8 @@
+pink: 0.868
+red: 0.86
+flower_room: 0.854
+thorns: 0.837
+flower: 0.827
+shrub: 0.826
+garden: 0.796
+smell_nice: 0.786

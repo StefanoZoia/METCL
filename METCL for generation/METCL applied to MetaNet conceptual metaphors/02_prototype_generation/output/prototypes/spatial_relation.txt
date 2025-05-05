@@ -1,0 +1,8 @@
+attitude: 0.7641
+logic: 0.7632
+assert: 0.7524
+phrase: 0.7524
+orientation: 0.7515
+verb: 0.7434
+point: 0.7415999999999999
+assumption: 0.7371

@@ -1,0 +1,3 @@
+preferred_to_palliating: 0.834
+solving_problem: 0.816
+like_repairing: 0.749

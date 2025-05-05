@@ -1,0 +1,11 @@
+/c/en/possessions	AtLocation	/c/en/house	2.0	0.236
+/c/en/conspicuous_consumption	RelatedTo	/c/en/possessions	1.0	0.29
+/c/en/possessions	RelatedTo	/c/en/possession	1.0	0.623
+/c/en/possessions	FormOf	/c/en/possession	1.0	0.623
+/c/en/thing	RelatedTo	/c/en/possessions	1.0	0.118
+/c/en/clean_out	RelatedTo	/c/en/possessions	1.0	-0.057
+/c/en/mense	RelatedTo	/c/en/possessions	1.0	0.18
+/c/en/owner	RelatedTo	/c/en/possessions	0.21099999999999985	0.152
+/c/en/property	RelatedTo	/c/en/possessions	0.16699999999999982	0.444
+/c/en/estate	RelatedTo	/c/en/possessions	0.1030000000000002	0.34
+/c/en/own	RelatedTo	/c/en/possessions	0.1030000000000002	0.266

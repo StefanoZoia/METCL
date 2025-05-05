@@ -1,0 +1,8 @@
+evidence: 0.851
+variable: 0.826
+prove_to_valid: 0.824
+prove_point: 0.824
+summary: 0.822
+logic: 0.808
+result_in_bad_feelings: 0.795
+result_in_cruel_accusations: 0.795

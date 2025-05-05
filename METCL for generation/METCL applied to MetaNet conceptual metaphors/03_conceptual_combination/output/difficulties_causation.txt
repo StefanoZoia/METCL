@@ -1,0 +1,27 @@
+Title: difficulties-causation
+
+Head Concept Name: difficulties
+Modifier Concept Name: causation
+
+
+
+
+
+T(modifier), origin, 0.755
+T(modifier), relation, 0.751
+T(modifier), make, 0.749
+T(modifier), justification, 0.747
+T(modifier), -effect, 0.74
+T(modifier), act, 0.73
+T(modifier), suffer_setback, 0.721
+T(modifier), succeed_effect, 0.715
+
+T(head), condition, 0.725
+T(head), quality, 0.719
+T(head), cognitive_factor, 0.715
+T(head), -ease, 0.68
+T(head), evaluative_quantity, 0.642
+
+
+Result: {"origin": 0.755, "relation": 0.751, "make": 0.749, "justification": 0.747, "-effect": 0.74, "act": 0.73, "suffer_setback": 0.721, "condition": 0.725, "@scenario_probability": 0.023423198787175525}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0.023423198787175525]

@@ -1,0 +1,8 @@
+climbing_walls: 0.906
+stairs: 0.894
+climbing_up_high: 0.871
+climbing_up: 0.871
+climbing_tree: 0.871
+climbing_to_higher_level: 0.871
+gaining_access_to_high_objects: 0.867
+rungs: 0.854

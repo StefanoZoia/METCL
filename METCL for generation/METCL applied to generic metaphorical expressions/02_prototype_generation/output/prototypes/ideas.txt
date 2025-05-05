@@ -1,0 +1,8 @@
+brain: 0.843
+divide_countries: 0.84
+intangible: 0.838
+simple: 0.838
+complex: 0.824
+change_world: 0.821
+bridge_gap: 0.803
+divide_nation: 0.794

@@ -1,0 +1,6 @@
+voter: 0.7623
+syntagma: 0.7424999999999999
+grammar: 0.7398
+write_to_congressperson: 0.7254
+sentence: 0.7218000000000001
+legal: 0.6867

@@ -1,0 +1,8 @@
+ability: 0.836
+central_to_process_of_change: 0.826
+activity: 0.803
+status: 0.803
+body: 0.794
+situational: 0.784
+mayor: 0.782
+being_in_charge_of_project: 0.762

@@ -1,0 +1,8 @@
+trust: 0.946
+believe: 0.866
+-untrust: 0.858
+faith: 0.843
+important_in_workplace: 0.831
+-distrust: 0.83
+-mistrust: 0.83
+lend: 0.822

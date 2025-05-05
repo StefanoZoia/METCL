@@ -1,0 +1,4 @@
+vegetation: 0.822
+-flower: 0.6651
+uk: 0.6597
+comics_character: 0.6372

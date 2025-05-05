@@ -1,0 +1,8 @@
+living: 0.7505999999999999
+being_unhappy: 0.7101000000000001
+person: 0.6876
+give_gift: 0.6759000000000001
+being_happy: 0.6588
+kiss: 0.6534
+-hatred: 0.648
+friend: 0.6381

@@ -1,0 +1,30 @@
+Title: weapon-fluid
+
+Head Concept Name: weapon
+Modifier Concept Name: fluid
+
+
+
+
+
+T(modifier), gas_or_liquid, 0.844
+T(modifier), container, 0.837
+T(modifier), substance, 0.835
+T(modifier), typically_in_plural, 0.746
+T(modifier), specifically, 0.746
+T(modifier), medicine, 0.744
+T(modifier), urinating, 0.729
+T(modifier), drinks, 0.715
+
+T(head), weaponry, 0.919
+T(head), protect_against_intruder, 0.878
+T(head), harmful, 0.87
+T(head), kill, 0.859
+T(head), dangerous_thing, 0.854
+T(head), killing, 0.852
+T(head), threatening, 0.85
+T(head), hurt, 0.848
+
+
+Result: {"gas_or_liquid": 0.844, "weaponry": 0.919, "protect_against_intruder": 0.878, "harmful": 0.87, "kill": 0.859, "dangerous_thing": 0.854, "killing": 0.852, "threatening": 0.85, "@scenario_probability": 0.00016414133734875445}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.00016414133734875445]

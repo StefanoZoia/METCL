@@ -1,0 +1,8 @@
+grow: 0.946
+cultivate: 0.872
+increase: 0.872
+wait: 0.834
+farming: 0.83
+anonymous: 0.821
+change: 0.817
+-shrink: 0.815

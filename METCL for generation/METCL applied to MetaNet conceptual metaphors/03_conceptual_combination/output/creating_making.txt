@@ -1,0 +1,23 @@
+Title: creating-making
+
+Head Concept Name: creating
+Modifier Concept Name: making
+
+
+
+
+
+T(modifier), creating_artifact, 0.857
+T(modifier), component, 0.799
+T(modifier), metal_rod, 0.746
+T(modifier), tool, 0.687
+T(modifier), -fight, 0.685
+T(modifier), -wash, 0.658
+
+T(head), working, 0.807
+T(head), violin, 0.759
+T(head), making_patchwork_quilt, 0.705
+
+
+Result: {"creating_artifact": 0.857, "component": 0.799, "metal_rod": 0.746, "tool": 0.687, "-fight": 0.685, "-wash": 0.658, "working": 0.807, "violin": 0.759, "@scenario_probability": 2.8580969565059844}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 1, 0, 2.8580969565059844]

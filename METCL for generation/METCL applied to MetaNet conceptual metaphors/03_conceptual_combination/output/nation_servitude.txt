@@ -1,0 +1,24 @@
+Title: nation-servitude
+
+Head Concept Name: nation
+Modifier Concept Name: servitude
+
+
+
+
+
+T(modifier), bondage, 0.874
+T(modifier), legal, 0.739
+
+T(head), united_states, 0.857
+T(head), people, 0.836
+T(head), confederation, 0.831
+T(head), ready_troops, 0.808
+T(head), weather_storm_of_war, 0.789
+T(head), arm_citizens, 0.788
+T(head), -state, 0.787
+T(head), legal, 0.744
+
+
+Result: {"bondage": 0.874, "united_states": 0.857, "people": 0.836, "confederation": 0.831, "ready_troops": 0.808, "weather_storm_of_war": 0.789, "arm_citizens": 0.788, "-state": 0.787, "@scenario_probability": 1.3745778527597512}
+Scenario: [1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1.3745778527597512]

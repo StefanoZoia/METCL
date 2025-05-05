@@ -1,0 +1,30 @@
+Title: sadness-down
+
+Head Concept Name: sadness
+Modifier Concept Name: down
+
+
+
+
+
+T(modifier), -up, 0.872
+T(modifier), direction, 0.822
+T(modifier), strike, 0.82
+T(modifier), turn, 0.812
+T(modifier), highland, 0.806
+T(modifier), -upward, 0.802
+T(modifier), -across, 0.802
+T(modifier), hair, 0.799
+
+T(head), unhappiness, 0.905
+T(head), emotion, 0.884
+T(head), feeling, 0.856
+T(head), -mirth, 0.853
+T(head), emotional_and_physical_pain, 0.842
+T(head), uncomfortable, 0.837
+T(head), -happiness, 0.823
+T(head), -joy, 0.821
+
+
+Result: {"-up": 0.872, "unhappiness": 0.905, "emotion": 0.884, "feeling": 0.856, "-mirth": 0.853, "emotional_and_physical_pain": 0.842, "uncomfortable": 0.837, "-happiness": 0.823, "@scenario_probability": 4.869776899710735e-05}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 4.869776899710735e-05]

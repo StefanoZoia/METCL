@@ -1,0 +1,29 @@
+Title: rights-protecting
+
+Head Concept Name: rights
+Modifier Concept Name: protecting
+
+
+
+
+
+T(modifier), protecting_partially_tangible, 0.915
+T(modifier), helping, 0.811
+T(modifier), obstructing_justice, 0.803
+T(modifier), lock, 0.77
+T(modifier), event, 0.738
+T(modifier), situation, 0.737
+T(modifier), chess_king, 0.656
+
+T(head), opposite_of_left, 0.77
+T(head), right_wrong, 0.769
+T(head), -left, 0.764
+T(head), entering_into_contract, 0.761
+T(head), -wrong, 0.754
+T(head), hand, 0.751
+T(head), common, 0.748
+T(head), turn, 0.747
+
+
+Result: {"protecting_partially_tangible": 0.915, "helping": 0.811, "obstructing_justice": 0.803, "lock": 0.77, "opposite_of_left": 0.77, "right_wrong": 0.769, "-left": 0.764, "entering_into_contract": 0.761, "@scenario_probability": 0.0014622253121825202}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.0014622253121825202]

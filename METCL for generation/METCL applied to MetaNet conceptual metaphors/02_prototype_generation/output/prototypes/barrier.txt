@@ -1,0 +1,8 @@
+roadblock: 0.894
+obstacle: 0.883
+obstruction: 0.847
+boundary_situation: 0.812
+mechanism: 0.811
+preventing: 0.792
+physiology: 0.755
+unnatural_thing: 0.75

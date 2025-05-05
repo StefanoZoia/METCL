@@ -1,0 +1,27 @@
+Title: consumed-anger
+
+Head Concept Name: consumed
+Modifier Concept Name: anger
+
+
+
+
+
+T(modifier), anger, 0.946
+T(modifier), emotional_arousal, 0.895
+T(modifier), emotion, 0.874
+T(modifier), frustration, 0.864
+T(modifier), frustration_at_inability_to_control, 0.856
+T(modifier), arouse, 0.838
+T(modifier), unpleasant, 0.815
+T(modifier), feel, 0.809
+
+T(head), spend, 0.78
+T(head), absorb, 0.769
+T(head), construed_with_with, 0.762
+T(head), destroy, 0.756
+T(head), -produce, 0.666
+
+
+Result: {"anger": 0.946, "emotional_arousal": 0.895, "emotion": 0.874, "frustration": 0.864, "frustration_at_inability_to_control": 0.856, "arouse": 0.838, "unpleasant": 0.815, "spend": 0.78, "@scenario_probability": 0.02494984999729268}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0.02494984999729268]

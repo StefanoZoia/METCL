@@ -1,0 +1,8 @@
+serve_master: 0.904
+worker: 0.843
+-master: 0.843
+ready_car: 0.827
+-maid: 0.826
+attendant: 0.809
+serving_customers: 0.807
+-lord: 0.783

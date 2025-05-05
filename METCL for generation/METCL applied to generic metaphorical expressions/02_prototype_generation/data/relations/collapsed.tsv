@@ -1,0 +1,9 @@
+/c/en/uncollapsed	DerivedFrom	/c/en/collapsed	1.0	0.035
+/c/en/uncollapsed	RelatedTo	/c/en/collapsed	1.0	0.035
+/c/en/collapsed	RelatedTo	/c/en/collapse	1.0	0.798
+/c/en/imploded	RelatedTo	/c/en/collapsed	1.0	0.752
+/c/en/collapsed	FormOf	/c/en/collapse	1.0	0.798
+/c/en/semicollapsed	DerivedFrom	/c/en/collapsed	1.0	0.065
+/c/en/noncollapsed	RelatedTo	/c/en/collapsed	1.0	-0.024
+/c/en/collapsed	FormOf	/c/en/collapse	1.0	0.798
+/c/en/rubble	RelatedTo	/c/en/collapsed	0.12400000000000011	0.202

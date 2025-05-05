@@ -1,0 +1,8 @@
+chirp: 0.894
+sing_song: 0.886
+fly: 0.882
+birdbath: 0.88
+nest: 0.875
+sing: 0.872
+pet: 0.868
+fly_high: 0.866

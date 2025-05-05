@@ -1,0 +1,8 @@
+-lightness: 0.853
+scary: 0.847
+-daylight: 0.827
+impossible_to_see_in: 0.826
+-light: 0.823
+complexion: 0.818
+scene: 0.812
+movies: 0.808

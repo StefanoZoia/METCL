@@ -1,0 +1,8 @@
+useful_in_developing_consensus: 0.839
+come_up_with_subject: 0.825
+good: 0.824
+consider: 0.819
+hash_out: 0.813
+public_speaking: 0.808
+frequently_in_french_form_débat: 0.756
+university: 0.741

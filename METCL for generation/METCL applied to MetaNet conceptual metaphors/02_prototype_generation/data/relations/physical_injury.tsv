@@ -1,0 +1,4 @@
+/c/en/testing_strength	HasSubevent	/c/en/physical_injury	1.0	0.09
+/c/en/staying_fit	HasSubevent	/c/en/physical_injury	1.0	0.276
+/c/en/wrestling	Causes	/c/en/physical_injury	1.0	0.162
+/c/en/wound	RelatedTo	/c/en/physical_injury	0.2290000000000001	0.008

@@ -1,0 +1,30 @@
+Title: well_being-verticality
+
+Head Concept Name: well_being
+Modifier Concept Name: verticality
+
+
+
+
+
+T(modifier), position, 0.841
+T(modifier), attitude, 0.764
+T(modifier), orientation, 0.751
+T(modifier), point, 0.742
+T(modifier), assumption, 0.737
+T(modifier), put, 0.735
+T(modifier), relation, 0.73
+T(modifier), bodily_property, 0.729
+
+T(head), prosperity, 0.787
+T(head), -ill_being, 0.784
+T(head), -poorly, 0.76
+T(head), get_water, 0.746
+T(head), drinking_water, 0.734
+T(head), compartment, 0.733
+T(head), shaft, 0.733
+T(head), draw_water, 0.733
+
+
+Result: {"position": 0.841, "attitude": 0.764, "orientation": 0.751, "point": 0.742, "prosperity": 0.787, "-ill_being": 0.784, "-poorly": 0.76, "get_water": 0.746, "@scenario_probability": 0.0003233899428829215}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.0003233899428829215]

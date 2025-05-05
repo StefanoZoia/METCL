@@ -1,0 +1,7 @@
+-depart: 0.7938000000000001
+-went: 0.762
+succeed: 0.7353
+-leave: 0.7182000000000001
+-disembark: 0.7173
+-departure: 0.6993
+archaic: 0.6615

@@ -1,0 +1,22 @@
+Title: morality-physical_strength
+
+Head Concept Name: morality
+Modifier Concept Name: physical_strength
+
+
+
+
+
+T(modifier), climbing_mountain, 0.691
+T(modifier), humans, 0.678
+
+T(head), -amorality, 0.859
+T(head), quality, 0.828
+T(head), needless, 0.821
+T(head), belief_system, 0.818
+T(head), -baseness, 0.772
+T(head), archaic, 0.748
+
+
+Result: {"climbing_mountain": 0.691, "humans": 0.678, "-amorality": 0.859, "quality": 0.828, "needless": 0.821, "belief_system": 0.818, "-baseness": 0.772, "@scenario_probability": 4.353570120270855}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 4.353570120270855]

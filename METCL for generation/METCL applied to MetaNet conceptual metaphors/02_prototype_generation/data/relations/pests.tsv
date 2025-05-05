@@ -1,0 +1,13 @@
+/c/en/many_insects	IsA	/c/en/pests	1.0	0.077
+/c/en/pests	FormOf	/c/en/pest	1.0	0.773
+/c/en/thrips	IsA	/c/en/pests	1.0	0.643
+/c/en/sink_bugs	IsA	/c/en/pests	1.0	0.047
+/c/en/rats	IsA	/c/en/pests	1.0	0.475
+/c/en/mice	IsA	/c/en/pests	1.0	0.349
+/c/en/flies	IsA	/c/en/pests	1.0	0.503
+/c/en/flys	IsA	/c/en/pests	1.0	0.489
+/c/en/bugs	IsA	/c/en/pests	1.0	0.575
+/c/en/pests	RelatedTo	/c/en/pest	1.0	0.773
+/c/en/liftin	RelatedTo	/c/en/pests	1.0	0.381
+/c/en/extermination	RelatedTo	/c/en/pests	0.22699999999999987	0.252
+/c/en/flea	RelatedTo	/c/en/pests	0.17399999999999993	0.36

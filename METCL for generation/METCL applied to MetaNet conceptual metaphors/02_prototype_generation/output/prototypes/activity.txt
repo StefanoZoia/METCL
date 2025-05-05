@@ -1,0 +1,8 @@
+action: 0.858
+energy: 0.853
+capability: 0.829
+-inactivity: 0.826
+act: 0.82
+chemistry: 0.797
+-passivity: 0.79
+do: 0.777

@@ -1,0 +1,7 @@
+/c/en/bullies	FormOf	/c/en/bully	1.0	0.808
+/c/en/bullies	FormOf	/c/en/bully	1.0	0.808
+/c/en/people	IsA	/c/en/bullies	1.0	0.192
+/c/en/bullies	CapableOf	/c/en/push_smaller_children_over	1.0	0.07
+/c/en/bullies	CapableOf	/c/en/lead_groups	1.0	0.014
+/c/en/bullies	CapableOf	/c/en/become_criminals	1.0	0.011
+/c/en/fight	RelatedTo	/c/en/bullies	0.10199999999999987	0.164

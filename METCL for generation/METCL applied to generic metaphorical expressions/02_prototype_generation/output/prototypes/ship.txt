@@ -1,0 +1,8 @@
+sailing: 0.884
+cargo_area: 0.876
+voyage: 0.864
+port: 0.86
+sail_on_sea: 0.851
+bilge_pump: 0.85
+bilge_well: 0.85
+weather_storm: 0.848

@@ -1,0 +1,8 @@
+read_book: 0.891
+learn: 0.884
+have_book: 0.876
+entertained: 0.871
+open_book: 0.869
+learn_alphabet: 0.866
+learn_to_read: 0.866
+literate: 0.861

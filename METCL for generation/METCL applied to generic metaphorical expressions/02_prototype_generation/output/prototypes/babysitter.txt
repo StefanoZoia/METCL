@@ -1,0 +1,7 @@
+mind_children: 0.854
+keeper: 0.846
+mind_baby: 0.842
+mind_child: 0.81
+mind_young_child: 0.802
+shoe_toddler: 0.788
+film: 0.712

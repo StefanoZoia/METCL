@@ -1,0 +1,8 @@
+way: 0.7893
+park: 0.788
+route: 0.7821
+line: 0.7524
+topology: 0.6912
+medicine: 0.6804
+paganism: 0.6786
+graph_theory: 0.6741

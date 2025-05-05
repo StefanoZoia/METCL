@@ -1,0 +1,30 @@
+Title: problem-size
+
+Head Concept Name: problem
+Modifier Concept Name: size
+
+
+
+
+
+T(modifier), how_big_or_small, 0.898
+T(modifier), magnitude, 0.883
+T(modifier), -bigness, 0.826
+T(modifier), important, 0.825
+T(modifier), change_magnitude, 0.816
+T(modifier), situation, 0.81
+T(modifier), classify, 0.808
+T(modifier), coat, 0.805
+
+T(head), president_bush, 0.91
+T(head), quandry, 0.896
+T(head), difficulty, 0.884
+T(head), question, 0.863
+T(head), slow_work, 0.847
+T(head), -solution, 0.834
+T(head), -answer, 0.768
+T(head), cogitate, 0.763
+
+
+Result: {"how_big_or_small": 0.898, "magnitude": 0.883, "president_bush": 0.91, "quandry": 0.896, "difficulty": 0.884, "question": 0.863, "slow_work": 0.847, "-solution": 0.834, "@scenario_probability": 7.635365931397693e-05}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 7.635365931397693e-05]

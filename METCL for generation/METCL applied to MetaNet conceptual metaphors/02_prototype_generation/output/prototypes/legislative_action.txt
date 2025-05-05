@@ -1,0 +1,2 @@
+legal_proceeding: 0.752
+group_activity: 0.747

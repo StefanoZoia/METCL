@@ -1,0 +1,30 @@
+Title: hold-power
+
+Head Concept Name: hold
+Modifier Concept Name: power
+
+
+
+
+
+T(modifier), fleeting, 0.831
+T(modifier), physics, 0.809
+T(modifier), battery, 0.798
+T(modifier), physical_phenomenon, 0.796
+T(modifier), provide, 0.793
+T(modifier), causal_agent, 0.791
+T(modifier), quality, 0.789
+T(modifier), -impotence, 0.772
+
+T(head), control, 0.834
+T(head), capture, 0.833
+T(head), stronghold, 0.826
+T(head), affirm, 0.82
+T(head), cell, 0.811
+T(head), think, 0.804
+T(head), mug, 0.775
+T(head), -release, 0.77
+
+
+Result: {"fleeting": 0.831, "physics": 0.809, "control": 0.834, "capture": 0.833, "stronghold": 0.826, "affirm": 0.82, "cell": 0.811, "think": 0.804, "@scenario_probability": 9.154976312974703e-05}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 9.154976312974703e-05]

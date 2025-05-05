@@ -1,0 +1,8 @@
+repair_shop: 0.827
+meteorology: 0.814
+-unbroken: 0.813
+contract: 0.808
+promise_etc: 0.781
+repair_umbrella: 0.778
+-fix: 0.768
+line: 0.764

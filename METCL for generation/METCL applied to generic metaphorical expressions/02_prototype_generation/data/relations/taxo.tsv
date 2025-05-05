@@ -1,0 +1,3 @@
+/c/en/taxo	RelatedTo	/c/en/arrangement	1.0	0.085
+/c/en/tax	FormOf	/c/en/taxo	1.0	0.102
+/c/en/taxo	RelatedTo	/c/en/order	1.0	0.135

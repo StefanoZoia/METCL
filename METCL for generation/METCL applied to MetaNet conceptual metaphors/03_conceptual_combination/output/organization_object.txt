@@ -1,0 +1,30 @@
+Title: organization-object
+
+Head Concept Name: organization
+Modifier Concept Name: object
+
+
+
+
+
+T(modifier), thing, 0.843
+T(modifier), disapprove, 0.832
+T(modifier), become_broken, 0.817
+T(modifier), object_oriented_programming, 0.814
+T(modifier), content, 0.81
+T(modifier), belong_to_person, 0.809
+T(modifier), disappear_from_sight, 0.806
+T(modifier), computer_science, 0.803
+
+T(head), honor_strong_person, 0.9
+T(head), good_thing, 0.847
+T(head), preparedness, 0.837
+T(head), social_group, 0.82
+T(head), orderliness, 0.819
+T(head), administration, 0.813
+T(head), activity, 0.813
+T(head), structure, 0.793
+
+
+Result: {"thing": 0.843, "disapprove": 0.832, "become_broken": 0.817, "honor_strong_person": 0.9, "good_thing": 0.847, "preparedness": 0.837, "social_group": 0.82, "orderliness": 0.819, "@scenario_probability": 4.5850440918285115e-05}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 4.5850440918285115e-05]

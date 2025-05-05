@@ -1,0 +1,25 @@
+Title: law-living_entities
+
+Head Concept Name: law
+Modifier Concept Name: living_entities
+
+
+
+
+
+T(modifier), eat, 0.807
+T(modifier), procreate, 0.79
+T(modifier), diving, 0.779
+
+T(head), legal, 0.835
+T(head), obligatory_rule_of_conduct, 0.828
+T(head), concept, 0.82
+T(head), ratified_into_being_bill, 0.816
+T(head), allow_states_to_exicute_people, 0.808
+T(head), learned_profession, 0.805
+T(head), subject_people_to_fines, 0.795
+T(head), result_oppression, 0.795
+
+
+Result: {"eat": 0.807, "legal": 0.835, "obligatory_rule_of_conduct": 0.828, "concept": 0.82, "ratified_into_being_bill": 0.816, "allow_states_to_exicute_people": 0.808, "learned_profession": 0.805, "result_oppression": 0.795, "@scenario_probability": 0.18366827933650698}
+Scenario: [1, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 0.18366827933650698]

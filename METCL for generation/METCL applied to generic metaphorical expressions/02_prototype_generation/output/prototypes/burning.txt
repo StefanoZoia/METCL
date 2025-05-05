@@ -1,0 +1,8 @@
+execution: 0.808
+change_of_integrity: 0.808
+torture: 0.803
+lighter: 0.796
+decomposition: 0.775
+candle: 0.77
+energy_conversion_process: 0.751
+cigarette: 0.748

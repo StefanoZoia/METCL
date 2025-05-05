@@ -1,0 +1,18 @@
+Title: legislative_action-physical_strength
+
+Head Concept Name: legislative_action
+Modifier Concept Name: physical_strength
+
+
+
+
+
+T(modifier), climbing_mountain, 0.691
+T(modifier), humans, 0.678
+
+T(head), legal_proceeding, 0.752
+T(head), group_activity, 0.747
+
+
+Result: {"climbing_mountain": 0.691, "humans": 0.678, "legal_proceeding": 0.752, "@scenario_probability": 8.9134555488}
+Scenario: [1, 1, 1, 0, 8.9134555488]

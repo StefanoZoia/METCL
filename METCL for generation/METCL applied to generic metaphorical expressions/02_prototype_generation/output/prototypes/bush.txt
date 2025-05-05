@@ -1,0 +1,8 @@
+wilderness: 0.828
+alive: 0.822
+shade_grass: 0.816
+president: 0.802
+hide_in: 0.797
+supply: 0.791
+president_of_u.s.a: 0.781
+win_no_more: 0.78

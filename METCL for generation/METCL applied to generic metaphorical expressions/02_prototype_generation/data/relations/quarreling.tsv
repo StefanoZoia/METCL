@@ -1,0 +1,6 @@
+/c/en/quarreling	RelatedTo	/c/en/quarrel	1.0	0.785
+/c/en/wrangling	RelatedTo	/c/en/quarreling	1.0	0.752
+/c/en/quarrelings	FormOf	/c/en/quarreling	1.0	1.0
+/c/en/quarrelsome	RelatedTo	/c/en/quarreling	1.0	0.633
+/c/en/squaffle	RelatedTo	/c/en/quarreling	1.0	0.236
+/c/en/bickering	RelatedTo	/c/en/quarreling	1.0	0.857

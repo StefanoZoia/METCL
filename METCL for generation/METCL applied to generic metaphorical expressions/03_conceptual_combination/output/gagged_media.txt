@@ -1,0 +1,30 @@
+Title: gagged-media
+
+Head Concept Name: gagged
+Modifier Concept Name: media
+
+
+
+
+
+T(modifier), media, 0.915
+T(modifier), news, 0.831
+T(modifier), consumer_discretionary, 0.828
+T(modifier), -print, 0.769
+T(modifier), mind_controle, 0.758
+T(modifier), linguistics, 0.753
+T(modifier), anatomy, 0.749
+T(modifier), historical, 0.746
+
+T(head), joke, 0.783
+T(head), hush, 0.749
+T(head), tie, 0.748
+T(head), restraint, 0.743
+T(head), sicken, 0.739
+T(head), suffer, 0.709
+T(head), quiet_nag, 0.706
+T(head), legal, 0.691
+
+
+Result: {"media": 0.915, "news": 0.831, "consumer_discretionary": 0.828, "-print": 0.769, "mind_controle": 0.758, "linguistics": 0.753, "joke": 0.783, "hush": 0.749, "@scenario_probability": 0.0004617075373070824}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.0004617075373070824]

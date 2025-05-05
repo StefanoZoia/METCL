@@ -1,0 +1,8 @@
+supernaturalism: 0.858
+illusion: 0.852
+real: 0.838
+coven: 0.811
+entertainment: 0.809
+performing: 0.767
+physics: 0.764
+air: 0.759

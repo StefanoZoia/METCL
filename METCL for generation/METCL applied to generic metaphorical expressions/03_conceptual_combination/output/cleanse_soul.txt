@@ -1,0 +1,24 @@
+Title: cleanse-soul
+
+Head Concept Name: cleanse
+Modifier Concept Name: soul
+
+
+
+
+
+T(modifier), spirit, 0.895
+T(modifier), spiritual_life, 0.87
+T(modifier), gospel, 0.847
+T(modifier), life, 0.831
+T(modifier), person, 0.825
+T(modifier), feeling, 0.824
+T(modifier), embodiment, 0.821
+T(modifier), inspire, 0.821
+
+T(head), rid, 0.862
+T(head), groom, 0.812
+
+
+Result: {"spirit": 0.895, "spiritual_life": 0.87, "gospel": 0.847, "life": 0.831, "person": 0.825, "feeling": 0.824, "inspire": 0.821, "rid": 0.862, "@scenario_probability": 0.8872973520962558}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0.8872973520962558]

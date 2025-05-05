@@ -1,0 +1,30 @@
+Title: democracy-relationship
+
+Head Concept Name: democracy
+Modifier Concept Name: relationship
+
+
+
+
+
+T(modifier), relation, 0.898
+T(modifier), ending_in_heartbreak, 0.838
+T(modifier), state, 0.811
+T(modifier), -affair, 0.799
+T(modifier), last_for_year, 0.793
+T(modifier), last_for_long_time, 0.793
+T(modifier), music, 0.757
+T(modifier), mathematics, 0.749
+
+T(head), equality_for_everyone, 0.854
+T(head), open_media, 0.853
+T(head), political_orientation, 0.852
+T(head), political_system, 0.843
+T(head), good_thing, 0.84
+T(head), government_of_people, 0.816
+T(head), -dictatorship, 0.809
+T(head), government, 0.793
+
+
+Result: {"relation": 0.898, "ending_in_heartbreak": 0.838, "equality_for_everyone": 0.854, "open_media": 0.853, "political_orientation": 0.852, "political_system": 0.843, "good_thing": 0.84, "government_of_people": 0.816, "@scenario_probability": 0.00010593662472620569}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.00010593662472620569]

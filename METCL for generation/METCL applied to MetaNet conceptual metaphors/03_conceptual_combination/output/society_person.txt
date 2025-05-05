@@ -1,0 +1,30 @@
+Title: society-person
+
+Head Concept Name: society
+Modifier Concept Name: person
+
+
+
+
+
+T(modifier), wave_to_friend, 0.94
+T(modifier), wave_goodbye, 0.94
+T(modifier), wave_to_another_person, 0.94
+T(modifier), wave_at_another_person, 0.94
+T(modifier), wave_hello_or_goodbye, 0.909
+T(modifier), wait_patiently, 0.908
+T(modifier), thank_god, 0.895
+T(modifier), god, 0.876
+
+T(head), club, 0.865
+T(head), social_group, 0.857
+T(head), elite, 0.844
+T(head), socialising, 0.835
+T(head), group_of_people, 0.829
+T(head), organization, 0.829
+T(head), governed_by_rules_or_laws, 0.825
+T(head), cooperation, 0.817
+
+
+Result: {"wave_to_friend": 0.94, "wave_goodbye": 0.94, "wave_to_another_person": 0.94, "wave_at_another_person": 0.94, "wave_hello_or_goodbye": 0.909, "wait_patiently": 0.908, "thank_god": 0.895, "club": 0.865, "@scenario_probability": 2.1322980675423744e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2.1322980675423744e-05]

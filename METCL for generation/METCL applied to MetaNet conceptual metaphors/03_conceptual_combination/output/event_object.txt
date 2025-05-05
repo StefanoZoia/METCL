@@ -1,0 +1,30 @@
+Title: event-object
+
+Head Concept Name: event
+Modifier Concept Name: object
+
+
+
+
+
+T(modifier), thing, 0.843
+T(modifier), disapprove, 0.832
+T(modifier), become_broken, 0.817
+T(modifier), object_oriented_programming, 0.814
+T(modifier), content, 0.81
+T(modifier), belong_to_person, 0.809
+T(modifier), disappear_from_sight, 0.806
+T(modifier), computer_science, 0.803
+
+T(head), happen_to, 0.901
+T(head), happening_to_person, 0.876
+T(head), surprise, 0.86
+T(head), circumstance, 0.849
+T(head), relativity, 0.795
+T(head), psychological_feature, 0.791
+T(head), physical_phenomenon, 0.781
+T(head), probability_theory, 0.773
+
+
+Result: {"thing": 0.843, "disapprove": 0.832, "become_broken": 0.817, "object_oriented_programming": 0.814, "happen_to": 0.901, "happening_to_person": 0.876, "surprise": 0.86, "circumstance": 0.849, "@scenario_probability": 7.940675422466001e-05}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 7.940675422466001e-05]

@@ -1,0 +1,4 @@
+/c/en/seeing_particular_program	HasPrerequisite	/c/en/ability_to_see	1.0	0.058
+/c/en/reading	HasPrerequisite	/c/en/ability_to_see	1.0	0.04
+/c/en/watching_television	HasPrerequisite	/c/en/ability_to_see	1.0	0.038
+/c/en/watching_tv_show	HasPrerequisite	/c/en/ability_to_see	1.0	0.038

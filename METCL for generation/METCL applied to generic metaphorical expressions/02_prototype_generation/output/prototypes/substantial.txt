@@ -1,0 +1,8 @@
+-insubstantial: 0.833
+-insignificant: 0.7893
+-unsatisfying: 0.7758
+-dissatisfying: 0.7632
+-negligible: 0.7551
+-slight: 0.7452
+-poor: 0.7362
+-trivial: 0.7317

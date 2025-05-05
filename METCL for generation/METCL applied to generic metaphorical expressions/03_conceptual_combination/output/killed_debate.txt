@@ -1,0 +1,24 @@
+Title: killed-debate
+
+Head Concept Name: killed
+Modifier Concept Name: debate
+
+
+
+
+
+T(modifier), useful_in_developing_consensus, 0.839
+T(modifier), come_up_with_subject, 0.825
+T(modifier), good, 0.824
+T(modifier), consider, 0.819
+T(modifier), hash_out, 0.813
+T(modifier), public_speaking, 0.808
+T(modifier), frequently_in_french_form_débat, 0.756
+T(modifier), university, 0.741
+
+T(head), metallurgy, 0.743
+T(head), terrorists, 0.733
+
+
+Result: {"useful_in_developing_consensus": 0.839, "come_up_with_subject": 0.825, "good": 0.824, "consider": 0.819, "hash_out": 0.813, "public_speaking": 0.808, "frequently_in_french_form_d\u00c3\u00a9bat": 0.756, "metallurgy": 0.743, "@scenario_probability": 1.19192948712522}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1.19192948712522]

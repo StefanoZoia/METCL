@@ -1,0 +1,13 @@
+/c/en/unquenchable	SimilarTo	/c/en/insatiate	2.0	0.686
+/c/en/unsatiable	Synonym	/c/en/insatiate	2.0	0.493
+/c/en/unsatisfiable	SimilarTo	/c/en/insatiate	2.0	0.819
+/c/en/insatiate	SimilarTo	/c/en/unsatisfiable	2.0	0.819
+/c/en/unsatisfied	SimilarTo	/c/en/insatiate	2.0	0.599
+/c/en/insatiate	SimilarTo	/c/en/unquenchable	2.0	0.686
+/c/en/insatiable	Synonym	/c/en/insatiate	2.0	0.849
+/c/en/insatiate	SimilarTo	/c/en/unsatisfied	2.0	0.599
+/c/en/insatiate	RelatedTo	/c/en/insatiable	1.0	0.849
+/c/en/insatiately	DerivedFrom	/c/en/insatiate	1.0	1.0
+/c/en/insatiateness	DerivedFrom	/c/en/insatiate	1.0	1.0
+/c/en/insatiate	RelatedTo	/c/en/satiate	1.0	0.573
+/c/en/insatiateness	RelatedTo	/c/en/insatiate	1.0	1.0

@@ -1,0 +1,24 @@
+Title: wealth-being_free
+
+Head Concept Name: wealth
+Modifier Concept Name: being_free
+
+
+
+
+
+T(modifier), important, 0.833
+T(modifier), getting_away_with_crime, 0.75
+
+T(head), abundance, 0.871
+T(head), financial_condition, 0.85
+T(head), property, 0.84
+T(head), material_resource, 0.792
+T(head), -poverty, 0.792
+T(head), economics, 0.774
+T(head), conquering_nation, 0.762
+T(head), -debt, 0.714
+
+
+Result: {"important": 0.833, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "material_resource": 0.792, "-poverty": 0.792, "economics": 0.774, "conquering_nation": 0.762, "@scenario_probability": 1.370293839316465}
+Scenario: [1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1.370293839316465]

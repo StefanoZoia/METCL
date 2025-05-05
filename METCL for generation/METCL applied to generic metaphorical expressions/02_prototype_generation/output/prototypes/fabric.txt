@@ -1,0 +1,8 @@
+clothing: 0.893
+sewing: 0.881
+curtains: 0.861
+fibers: 0.858
+fabric_store: 0.849
+manufactured_in_many_colors: 0.848
+fibreglass: 0.846
+clothing_as_well_as_drapes: 0.842

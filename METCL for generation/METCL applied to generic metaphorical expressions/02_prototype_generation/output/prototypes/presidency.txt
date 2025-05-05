@@ -1,0 +1,2 @@
+tenure: 0.861
+position: 0.828

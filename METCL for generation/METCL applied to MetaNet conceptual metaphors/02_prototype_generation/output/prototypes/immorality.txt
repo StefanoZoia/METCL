@@ -1,0 +1,8 @@
+quality: 0.825
+reliable: 0.7785
+relative_while_quantity_fixed: 0.7614
+attribute: 0.7443
+more_important_than_quantity: 0.7424999999999999
+very_very_bad: 0.7424999999999999
+better_than_quantity: 0.7317
+providing_opposition_to_good: 0.7173

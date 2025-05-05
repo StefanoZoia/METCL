@@ -1,0 +1,3 @@
+compete: 0.745
+-trouble: 0.743
+improving_yourself: 0.704

@@ -1,0 +1,25 @@
+Title: taxation-punishment
+
+Head Concept Name: taxation
+Modifier Concept Name: punishment
+
+
+
+
+
+T(modifier), -reward, 0.859
+T(modifier), jail_time, 0.846
+T(modifier), prison, 0.814
+T(modifier), jail, 0.811
+T(modifier), deterrent_against_doing_wrong_things, 0.805
+T(modifier), social_control, 0.803
+T(modifier), sending_criminal_to_prison, 0.777
+T(modifier), activity_applied_to_criminals, 0.752
+
+T(head), imposition, 0.862
+T(head), process_results_in_taxes, 0.731
+T(head), activity_of_government, 0.721
+
+
+Result: {"-reward": 0.859, "jail_time": 0.846, "prison": 0.814, "jail": 0.811, "deterrent_against_doing_wrong_things": 0.805, "social_control": 0.803, "sending_criminal_to_prison": 0.777, "imposition": 0.862, "@scenario_probability": 0.3865953805773592}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0.3865953805773592]

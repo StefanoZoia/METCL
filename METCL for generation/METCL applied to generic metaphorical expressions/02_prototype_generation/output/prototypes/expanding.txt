@@ -1,0 +1,4 @@
+space: 0.714
+life_span_of_humans: 0.67
+nuclear_power_industry: 0.668
+people_can_wonder_whether_universe: 0.628

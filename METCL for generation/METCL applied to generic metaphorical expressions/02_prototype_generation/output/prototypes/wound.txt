@@ -1,0 +1,8 @@
+injury: 0.883
+inflict_pain: 0.854
+damage: 0.842
+bleeding: 0.841
+get_sympathy: 0.839
+hospital: 0.838
+injured_person: 0.824
+patient: 0.819

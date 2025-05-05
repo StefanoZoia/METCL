@@ -1,0 +1,8 @@
+united_states: 0.857
+people: 0.836
+confederation: 0.831
+ready_troops: 0.808
+weather_storm_of_war: 0.789
+arm_citizens: 0.788
+-state: 0.787
+legal: 0.744

@@ -1,0 +1,30 @@
+Title: government-game
+
+Head Concept Name: government
+Modifier Concept Name: game
+
+
+
+
+
+T(modifier), gameroom, 0.891
+T(modifier), programmer, 0.888
+T(modifier), played, 0.871
+T(modifier), play, 0.868
+T(modifier), game_equipment, 0.866
+T(modifier), entertainment, 0.864
+T(modifier), arcade, 0.86
+T(modifier), toy_store, 0.859
+
+T(head), corrupt, 0.897
+T(head), govern_country, 0.896
+T(head), polity, 0.874
+T(head), country, 0.839
+T(head), force_citizens_to_comply, 0.833
+T(head), rule_people, 0.832
+T(head), -fun, 0.829
+T(head), jealous_of_power, 0.827
+
+
+Result: {"gameroom": 0.891, "programmer": 0.888, "played": 0.871, "play": 0.868, "game_equipment": 0.866, "corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "@scenario_probability": 1.305383823297705e-05}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 1.305383823297705e-05]

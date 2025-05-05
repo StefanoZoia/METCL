@@ -1,0 +1,8 @@
+building: 0.863
+house: 0.854
+vertical: 0.853
+houses: 0.84
+room: 0.828
+corner: 0.824
+wall_spaces: 0.803
+vertical_places: 0.763

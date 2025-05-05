@@ -1,0 +1,30 @@
+Title: government-verticality
+
+Head Concept Name: government
+Modifier Concept Name: verticality
+
+
+
+
+
+T(modifier), position, 0.841
+T(modifier), attitude, 0.764
+T(modifier), orientation, 0.751
+T(modifier), point, 0.742
+T(modifier), assumption, 0.737
+T(modifier), put, 0.735
+T(modifier), relation, 0.73
+T(modifier), bodily_property, 0.729
+
+T(head), corrupt, 0.897
+T(head), govern_country, 0.896
+T(head), polity, 0.874
+T(head), country, 0.839
+T(head), force_citizens_to_comply, 0.833
+T(head), rule_people, 0.832
+T(head), -fun, 0.829
+T(head), jealous_of_power, 0.827
+
+
+Result: {"position": 0.841, "corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "country": 0.839, "force_citizens_to_comply": 0.833, "rule_people": 0.832, "-fun": 0.829, "@scenario_probability": 0.000380894355468784}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.000380894355468784]

@@ -1,0 +1,8 @@
+romance: 0.7578
+agony: 0.7479
+emotion: 0.7443
+feeling: 0.7407
+affection: 0.7398
+sexual_desire: 0.7155
+christianity: 0.6831
+-apathy: 0.6597

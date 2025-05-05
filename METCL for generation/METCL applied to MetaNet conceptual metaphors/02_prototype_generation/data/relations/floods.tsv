@@ -1,0 +1,10 @@
+/c/en/floods	CapableOf	/c/en/kill_people	1.0	0.124
+/c/en/floods	RelatedTo	/c/en/flood	1.0	0.911
+/c/en/floods	CapableOf	/c/en/happen_suddenly	1.0	0.167
+/c/en/floods	HasProperty	/c/en/very_destructive	1.0	-0.033
+/c/en/floods	RelatedTo	/c/en/flood	1.0	0.911
+/c/en/overflow	UsedFor	/c/en/floods	1.0	0.45
+/c/en/rain	Causes	/c/en/floods	1.0	0.403
+/c/en/floods	FormOf	/c/en/flood	1.0	0.911
+/c/en/floods	FormOf	/c/en/flood	1.0	0.911
+/c/en/ark	RelatedTo	/c/en/floods	0.16199999999999992	0.172

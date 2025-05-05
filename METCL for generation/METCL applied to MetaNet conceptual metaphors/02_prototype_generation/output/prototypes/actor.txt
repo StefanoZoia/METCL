@@ -1,0 +1,8 @@
+star_in_movie: 0.883
+star_in_film: 0.883
+performer: 0.883
+movie: 0.876
+performing_artist: 0.863
+pretend: 0.858
+appear_in_movie: 0.857
+star_in_television_show: 0.844

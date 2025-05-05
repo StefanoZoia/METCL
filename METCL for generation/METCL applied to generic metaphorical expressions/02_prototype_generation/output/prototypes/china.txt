@@ -1,0 +1,8 @@
+poyang: 0.905
+nanchang: 0.881
+shenzhen: 0.878
+porcelain: 0.876
+beijing: 0.875
+asia: 0.873
+shanghai: 0.871
+tangshan: 0.87

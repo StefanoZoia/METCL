@@ -1,0 +1,8 @@
+payed_with_mastercard: 0.859
+mail_box: 0.848
+paperwork_representations_of_transactions: 0.842
+mailbags: 0.84
+payed_with_payment: 0.817
+cheque: 0.777
+reminder_to_pay: 0.752
+ducks: 0.75

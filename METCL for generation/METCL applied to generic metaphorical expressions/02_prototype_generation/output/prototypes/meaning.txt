@@ -1,0 +1,6 @@
+words: 0.827
+message: 0.821
+semantics: 0.816
+idea: 0.814
+life: 0.783
+all_sentences: 0.655

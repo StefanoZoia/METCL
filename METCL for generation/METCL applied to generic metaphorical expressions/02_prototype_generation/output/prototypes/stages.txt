@@ -1,0 +1,8 @@
+plays: 0.8127000000000001
+performing_plays: 0.8118000000000001
+staging_concerts: 0.7965
+theatre: 0.7857000000000001
+theater: 0.7857000000000001
+perform_within_view_of_audience: 0.783
+actors_to_perform_on: 0.7803
+performing_musical: 0.7794

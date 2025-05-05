@@ -1,0 +1,8 @@
+govern_peoples: 0.878
+govern_peasants: 0.878
+arm_rebels: 0.819
+tax_cigarettes_quite_highly: 0.815
+control_information: 0.798
+seize_power: 0.794
+countries: 0.793
+make_new_laws: 0.788

@@ -1,0 +1,8 @@
+relationship: 0.887
+trust: 0.871
+friend's_house: 0.87
+communication: 0.865
+offered_and_must_honored: 0.832
+-enmity: 0.829
+two_people: 0.824
+important: 0.821

@@ -1,0 +1,26 @@
+Title: institution-object
+
+Head Concept Name: institution
+Modifier Concept Name: object
+
+
+
+
+
+T(modifier), thing, 0.843
+T(modifier), disapprove, 0.832
+T(modifier), become_broken, 0.817
+T(modifier), object_oriented_programming, 0.814
+T(modifier), content, 0.81
+T(modifier), belong_to_person, 0.809
+T(modifier), disappear_from_sight, 0.806
+T(modifier), computer_science, 0.803
+
+T(head), establishment, 0.878
+T(head), organization, 0.851
+T(head), custom, 0.806
+T(head), department, 0.744
+
+
+Result: {"thing": 0.843, "disapprove": 0.832, "become_broken": 0.817, "object_oriented_programming": 0.814, "content": 0.81, "belong_to_person": 0.809, "establishment": 0.878, "organization": 0.851, "@scenario_probability": 0.04334755737960806}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0.04334755737960806]

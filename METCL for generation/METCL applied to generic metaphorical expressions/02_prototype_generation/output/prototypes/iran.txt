@@ -1,0 +1,8 @@
+qum: 0.907
+rasht: 0.891
+abadan: 0.885
+teheran: 0.881
+tabriz: 0.875
+isfahan: 0.868
+middle_east: 0.868
+mashhad: 0.865

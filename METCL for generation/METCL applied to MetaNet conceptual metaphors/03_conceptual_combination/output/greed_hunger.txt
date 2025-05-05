@@ -1,0 +1,30 @@
+Title: greed-hunger
+
+Head Concept Name: greed
+Modifier Concept Name: hunger
+
+
+
+
+
+T(modifier), starvation, 0.875
+T(modifier), painful, 0.864
+T(modifier), desire, 0.858
+T(modifier), feeling, 0.833
+T(modifier), sensation, 0.828
+T(modifier), -satiation, 0.827
+T(modifier), ache, 0.824
+T(modifier), -satiety, 0.824
+
+T(head), seven_deadly_sins, 0.866
+T(head), desire, 0.855
+T(head), evil, 0.824
+T(head), emotion, 0.803
+T(head), cause_management_to_disagree_with_labor, 0.793
+T(head), cause_businesses_to_grow, 0.793
+T(head), cause_business_profits, 0.793
+T(head), human_emotion, 0.75
+
+
+Result: {"starvation": 0.875, "painful": 0.864, "desire": 0.855, "feeling": 0.833, "sensation": 0.828, "-satiation": 0.827, "seven_deadly_sins": 0.866, "@scenario_probability": 6.524229242517862e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 6.524229242517862e-05]

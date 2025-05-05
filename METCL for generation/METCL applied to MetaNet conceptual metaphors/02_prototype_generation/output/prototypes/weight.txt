@@ -1,0 +1,8 @@
+weight_machines: 0.87
+importance: 0.836
+physical_property: 0.833
+oppression: 0.832
+coefficient: 0.82
+break_objects: 0.805
+statistics: 0.804
+artifact: 0.794

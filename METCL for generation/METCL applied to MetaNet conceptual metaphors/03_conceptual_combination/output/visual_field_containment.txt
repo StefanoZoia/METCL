@@ -1,0 +1,24 @@
+Title: visual_field-containment
+
+Head Concept Name: visual_field
+Modifier Concept Name: containment
+
+
+
+
+
+T(modifier), restraint, 0.856
+T(modifier), policy, 0.832
+T(modifier), system, 0.819
+T(modifier), -détente, 0.798
+T(modifier), physics, 0.793
+T(modifier), -rollback, 0.778
+T(modifier), -regime_change, 0.777
+T(modifier), mathematics, 0.74
+
+T(head), visual_percept, 0.946
+T(head), percept, 0.771
+
+
+Result: {"restraint": 0.856, "policy": 0.832, "system": 0.819, "-d\u00c3\u00a9tente": 0.798, "physics": 0.793, "-rollback": 0.778, "-regime_change": 0.777, "visual_percept": 0.946, "@scenario_probability": 1.256775349713178}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1.256775349713178]

@@ -1,0 +1,30 @@
+Title: nation-family
+
+Head Concept Name: nation
+Modifier Concept Name: family
+
+
+
+
+
+T(modifier), relatives_house, 0.898
+T(modifier), kin, 0.881
+T(modifier), nice, 0.871
+T(modifier), lineage, 0.856
+T(modifier), house, 0.847
+T(modifier), family_unit, 0.842
+T(modifier), taxonomic_group, 0.837
+T(modifier), unit, 0.833
+
+T(head), united_states, 0.857
+T(head), people, 0.836
+T(head), confederation, 0.831
+T(head), ready_troops, 0.808
+T(head), weather_storm_of_war, 0.789
+T(head), arm_citizens, 0.788
+T(head), -state, 0.787
+T(head), legal, 0.744
+
+
+Result: {"relatives_house": 0.898, "kin": 0.881, "nice": 0.871, "lineage": 0.856, "house": 0.847, "family_unit": 0.842, "taxonomic_group": 0.837, "united_states": 0.857, "@scenario_probability": 6.540818287056641e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 6.540818287056641e-05]

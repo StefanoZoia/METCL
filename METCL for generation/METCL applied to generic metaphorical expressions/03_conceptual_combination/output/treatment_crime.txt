@@ -1,0 +1,29 @@
+Title: treatment-crime
+
+Head Concept Name: treatment
+Modifier Concept Name: crime
+
+
+
+
+
+T(modifier), crime, 0.946
+T(modifier), criminal_law, 0.865
+T(modifier), increasing, 0.848
+T(modifier), hate_crime, 0.843
+T(modifier), transgression, 0.841
+T(modifier), result_in_punishment, 0.836
+T(modifier), -good, 0.828
+T(modifier), activity, 0.806
+
+T(head), care, 0.856
+T(head), management, 0.835
+T(head), remedy, 0.813
+T(head), artistic_style, 0.81
+T(head), reduce_symptoms_associated_with_anxiety_disorders, 0.778
+T(head), controlling, 0.77
+T(head), film, 0.763
+
+
+Result: {"crime": 0.946, "criminal_law": 0.865, "increasing": 0.848, "hate_crime": 0.843, "transgression": 0.841, "result_in_punishment": 0.836, "care": 0.856, "management": 0.835, "@scenario_probability": 0.000421742846524616}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0.000421742846524616]

@@ -1,0 +1,8 @@
+govern_behavior: 0.835
+intrinsic: 0.828
+useful_in_design_work: 0.819
+except_cases: 0.805
+tie_people's_decision_making_ability: 0.797
+playing_game: 0.779
+-legal: 0.756
+meeting: 0.751

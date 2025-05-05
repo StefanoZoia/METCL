@@ -1,0 +1,29 @@
+Title: quantity-verticality
+
+Head Concept Name: quantity
+Modifier Concept Name: verticality
+
+
+
+
+
+T(modifier), position, 0.841
+T(modifier), attitude, 0.764
+T(modifier), orientation, 0.751
+T(modifier), point, 0.742
+T(modifier), assumption, 0.737
+T(modifier), put, 0.735
+T(modifier), relation, 0.73
+T(modifier), bodily_property, 0.729
+
+T(head), amount, 0.906
+T(head), mathematics, 0.823
+T(head), wins_out_over_quality, 0.802
+T(head), concept, 0.794
+T(head), metrology, 0.78
+T(head), scalar_or_vector_interval, 0.764
+T(head), -want, 0.68
+
+
+Result: {"position": 0.841, "attitude": 0.764, "amount": 0.906, "mathematics": 0.823, "wins_out_over_quality": 0.802, "concept": 0.794, "metrology": 0.78, "scalar_or_vector_interval": 0.764, "@scenario_probability": 0.0019059167554603459}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0.0019059167554603459]

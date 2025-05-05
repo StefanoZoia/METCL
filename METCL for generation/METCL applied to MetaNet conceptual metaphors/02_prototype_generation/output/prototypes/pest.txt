@@ -1,0 +1,8 @@
+tormentor: 0.834
+tent_caterpillars: 0.831
+animal: 0.817
+become_irritating: 0.805
+mosquitoes: 0.785
+grasshoppers: 0.774
+ticks: 0.772
+caterpillars: 0.752

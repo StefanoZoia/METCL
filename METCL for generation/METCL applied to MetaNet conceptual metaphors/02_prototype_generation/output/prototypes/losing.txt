@@ -1,0 +1,8 @@
+-winning: 0.846
+playing_sports: 0.803
+game: 0.791
+getting: 0.767
+feeling_bad: 0.767
+find_lost_item: 0.751
+unsuccessful_action: 0.744
+first_order_collection: 0.74

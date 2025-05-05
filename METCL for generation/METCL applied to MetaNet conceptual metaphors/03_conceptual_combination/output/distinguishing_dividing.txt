@@ -1,0 +1,24 @@
+Title: distinguishing-dividing
+
+Head Concept Name: distinguishing
+Modifier Concept Name: dividing
+
+
+
+
+
+T(modifier), using_calculator, 0.71
+T(modifier), knife, 0.694
+
+T(head), identify, 0.796
+T(head), compare, 0.795
+T(head), discrimination, 0.769
+T(head), qualify, 0.749
+T(head), mathematical_process, 0.728
+T(head), -confuse, 0.715
+T(head), -liken, 0.651
+T(head), -common, 0.62
+
+
+Result: {"using_calculator": 0.71, "knife": 0.694, "identify": 0.796, "compare": 0.795, "discrimination": 0.769, "qualify": 0.749, "mathematical_process": 0.728, "-confuse": 0.715, "@scenario_probability": 1.2398028140495774}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1.2398028140495774]

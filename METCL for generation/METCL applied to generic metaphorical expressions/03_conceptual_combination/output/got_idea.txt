@@ -1,0 +1,30 @@
+Title: got-idea
+
+Head Concept Name: got
+Modifier Concept Name: idea
+
+
+
+
+
+T(modifier), opinion, 0.841
+T(modifier), plan_for_action, 0.814
+T(modifier), central_meaning_purpose_or_concept, 0.807
+T(modifier), save_project, 0.802
+T(modifier), content, 0.801
+T(modifier), power_revolution, 0.791
+T(modifier), bridge_difference_between_cultures, 0.787
+T(modifier), philosophy, 0.776
+
+T(head), aave, 0.765
+T(head), pharmacology, 0.763
+T(head), nz, 0.752
+T(head), euphemistic, 0.752
+T(head), -fell, 0.752
+T(head), slang, 0.751
+T(head), southern_us, 0.744
+T(head), australian, 0.743
+
+
+Result: {"opinion": 0.841, "plan_for_action": 0.814, "central_meaning_purpose_or_concept": 0.807, "save_project": 0.802, "content": 0.801, "power_revolution": 0.791, "bridge_difference_between_cultures": 0.787, "aave": 0.765, "@scenario_probability": 0.00022420088023707513}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0.00022420088023707513]

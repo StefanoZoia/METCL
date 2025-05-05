@@ -1,0 +1,8 @@
+thing: 0.843
+disapprove: 0.832
+become_broken: 0.817
+object_oriented_programming: 0.814
+content: 0.81
+belong_to_person: 0.809
+disappear_from_sight: 0.806
+computer_science: 0.803

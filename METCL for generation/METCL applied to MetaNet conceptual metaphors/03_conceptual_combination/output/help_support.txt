@@ -1,0 +1,30 @@
+Title: help-support
+
+Head Concept Name: help
+Modifier Concept Name: support
+
+
+
+
+
+T(modifier), supporting_structure, 0.829
+T(modifier), give, 0.828
+T(modifier), resource, 0.819
+T(modifier), dramaturgy, 0.817
+T(modifier), act, 0.812
+T(modifier), device, 0.807
+T(modifier), military, 0.806
+T(modifier), operation, 0.802
+
+T(head), lend_hand, 0.973
+T(head), assist, 0.934
+T(head), aid, 0.932
+T(head), helping_people_makes_one_feel_good, 0.92
+T(head), volunteer, 0.911
+T(head), offer, 0.899
+T(head), ask_what_need, 0.893
+T(head), find_out_what_need, 0.874
+
+
+Result: {"supporting_structure": 0.829, "lend_hand": 0.973, "assist": 0.934, "aid": 0.932, "helping_people_makes_one_feel_good": 0.92, "volunteer": 0.911, "offer": 0.899, "ask_what_need": 0.893, "@scenario_probability": 4.7267022919713226e-05}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 4.7267022919713226e-05]

@@ -1,0 +1,24 @@
+Title: trampling-rights
+
+Head Concept Name: trampling
+Modifier Concept Name: rights
+
+
+
+
+
+T(modifier), opposite_of_left, 0.77
+T(modifier), right_wrong, 0.769
+T(modifier), -left, 0.764
+T(modifier), entering_into_contract, 0.761
+T(modifier), -wrong, 0.754
+T(modifier), hand, 0.751
+T(modifier), common, 0.748
+T(modifier), turn, 0.747
+
+T(head), destroying_sensitive_vegetation, 0.824
+T(head), getting_hurt, 0.756
+
+
+Result: {"opposite_of_left": 0.77, "right_wrong": 0.769, "-left": 0.764, "entering_into_contract": 0.761, "-wrong": 0.754, "hand": 0.751, "common": 0.748, "destroying_sensitive_vegetation": 0.824, "@scenario_probability": 0.7417294456774434}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0.7417294456774434]

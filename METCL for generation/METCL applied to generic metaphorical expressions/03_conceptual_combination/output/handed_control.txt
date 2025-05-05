@@ -1,0 +1,30 @@
+Title: handed-control
+
+Head Concept Name: handed
+Modifier Concept Name: control
+
+
+
+
+
+T(modifier), mechanism, 0.833
+T(modifier), test, 0.822
+T(modifier), physiology, 0.814
+T(modifier), bodily_process, 0.809
+T(modifier), activity, 0.809
+T(modifier), relation, 0.806
+T(modifier), see, 0.796
+T(modifier), power, 0.794
+
+T(head), hand, 0.877
+T(head), forepaw, 0.806
+T(head), handbreadth, 0.799
+T(head), arm, 0.788
+T(head), hands, 0.786
+T(head), hold_another_hand, 0.776
+T(head), push_door, 0.774
+T(head), reach_ass, 0.761
+
+
+Result: {"mechanism": 0.833, "test": 0.822, "physiology": 0.814, "bodily_process": 0.809, "activity": 0.809, "relation": 0.806, "hand": 0.877, "forepaw": 0.806, "@scenario_probability": 9.636190608373698e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 9.636190608373698e-05]

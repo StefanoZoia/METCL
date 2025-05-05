@@ -1,0 +1,6 @@
+organization: 0.838
+system: 0.829
+administration: 0.827
+series: 0.799
+agent_non_geographical: 0.725
+abstract_structure: 0.718

@@ -1,0 +1,26 @@
+Title: institution-organism
+
+Head Concept Name: institution
+Modifier Concept Name: organism
+
+
+
+
+
+T(modifier), system, 0.823
+T(modifier), living_thing, 0.816
+T(modifier), organs, 0.808
+T(modifier), biology, 0.808
+T(modifier), ecosystem, 0.791
+T(modifier), need, 0.787
+T(modifier), cells, 0.75
+T(modifier), cell, 0.738
+
+T(head), establishment, 0.878
+T(head), organization, 0.851
+T(head), custom, 0.806
+T(head), department, 0.744
+
+
+Result: {"system": 0.823, "living_thing": 0.816, "organs": 0.808, "biology": 0.808, "ecosystem": 0.791, "establishment": 0.878, "organization": 0.851, "custom": 0.806, "@scenario_probability": 0.07459490849647644}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0.07459490849647644]

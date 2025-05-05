@@ -1,0 +1,8 @@
+how_big_or_small: 0.898
+magnitude: 0.883
+-bigness: 0.826
+important: 0.825
+change_magnitude: 0.816
+situation: 0.81
+classify: 0.808
+coat: 0.805

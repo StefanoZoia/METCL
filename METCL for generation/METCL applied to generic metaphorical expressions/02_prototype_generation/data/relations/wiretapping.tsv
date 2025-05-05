@@ -1,0 +1,7 @@
+/c/en/wiretapping	RelatedTo	/c/en/wiretap	2.0	0.887
+/c/en/surveillance	RelatedTo	/c/en/wiretapping	1.0	0.481
+/c/en/wiretapping	FormOf	/c/en/wiretap	1.0	0.887
+/c/en/wiretappings	FormOf	/c/en/wiretapping	1.0	1.0
+/c/en/lawful_interception	RelatedTo	/c/en/wiretapping	1.0	0.066
+/c/en/wiretapping	DerivedFrom	/c/en/wiretap	1.0	0.887
+/c/en/wiretapping	RelatedTo	/c/en/wiretap	1.0	0.887

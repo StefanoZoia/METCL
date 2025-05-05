@@ -1,0 +1,18 @@
+Title: importance-central
+
+Head Concept Name: importance
+Modifier Concept Name: central
+
+
+
+
+
+T(modifier), telephone_system, 0.798
+T(modifier), workplace, 0.77
+
+T(head), value, 0.854
+T(head), standing, 0.809
+
+
+Result: {"telephone_system": 0.798, "workplace": 0.77, "value": 0.854, "@scenario_probability": 10.022702844}
+Scenario: [1, 1, 1, 0, 10.022702844]

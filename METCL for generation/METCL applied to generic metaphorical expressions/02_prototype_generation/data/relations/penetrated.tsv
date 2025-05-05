@@ -1,0 +1,9 @@
+/c/en/penetrated	FormOf	/c/en/penetrate	1.0	0.786
+/c/en/penetrated	RelatedTo	/c/en/penetrate	1.0	0.786
+/c/en/cock_pilot	RelatedTo	/c/en/penetrated	1.0	-0.051
+/c/en/nonpenetrated	RelatedTo	/c/en/penetrated	1.0	-0.076
+/c/en/unpenetrated	DerivedFrom	/c/en/penetrated	1.0	0.191
+/c/en/mellow	RelatedTo	/c/en/penetrated	1.0	0.04
+/c/en/underpenetrated	DerivedFrom	/c/en/penetrated	1.0	0.056
+/c/en/nonpenetrated	DerivedFrom	/c/en/penetrated	1.0	-0.076
+/c/en/perforable	RelatedTo	/c/en/penetrated	1.0	0.384

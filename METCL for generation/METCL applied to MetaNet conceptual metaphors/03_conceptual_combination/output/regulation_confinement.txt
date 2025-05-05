@@ -1,0 +1,24 @@
+Title: regulation-confinement
+
+Head Concept Name: regulation
+Modifier Concept Name: confinement
+
+
+
+
+
+T(modifier), restraint, 0.854
+T(modifier), subjugation, 0.811
+
+T(head), rule, 0.883
+T(head), control, 0.835
+T(head), dominance, 0.829
+T(head), embryology, 0.823
+T(head), organic_process, 0.8
+T(head), genetics, 0.773
+T(head), european_union_law, 0.769
+T(head), medicine, 0.755
+
+
+Result: {"restraint": 0.854, "subjugation": 0.811, "rule": 0.883, "control": 0.835, "dominance": 0.829, "embryology": 0.823, "organic_process": 0.8, "genetics": 0.773, "@scenario_probability": 1.2193484060437976}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1.2193484060437976]

@@ -1,0 +1,8 @@
+sailing: 0.878
+fishing_in: 0.856
+inlet: 0.854
+sea: 0.853
+safe_harbor: 0.846
+lake: 0.845
+body_of_water: 0.834
+shoreline: 0.829

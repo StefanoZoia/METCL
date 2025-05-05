@@ -1,0 +1,8 @@
+skill: 0.7776
+shrewdness: 0.7505999999999999
+fashion: 0.7488
+class: 0.7461
+vehicle: 0.7434
+hobby: 0.7272000000000001
+nautical: 0.7191000000000001
+fishing: 0.6975

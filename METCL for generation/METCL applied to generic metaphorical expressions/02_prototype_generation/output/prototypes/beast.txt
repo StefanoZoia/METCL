@@ -1,0 +1,8 @@
+attacker: 0.806
+-beauty: 0.784
+prisons: 0.771
+biblical: 0.766
+-tame: 0.753
+military: 0.739
+british: 0.738
+roller_coaster: 0.728

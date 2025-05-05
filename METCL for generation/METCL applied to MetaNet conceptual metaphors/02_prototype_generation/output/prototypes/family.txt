@@ -1,0 +1,8 @@
+relatives_house: 0.898
+kin: 0.881
+nice: 0.871
+lineage: 0.856
+house: 0.847
+family_unit: 0.842
+taxonomic_group: 0.837
+unit: 0.833

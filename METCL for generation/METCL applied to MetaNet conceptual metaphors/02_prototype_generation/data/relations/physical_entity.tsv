@@ -1,0 +1,8 @@
+/c/en/substance	IsA	/c/en/physical_entity	2.0	-0.005
+/c/en/substance	IsA	/c/en/physical_entity	2.0	-0.005
+/c/en/process	IsA	/c/en/physical_entity	2.0	-0.001
+/c/en/thing	IsA	/c/en/physical_entity	2.0	0.006
+/c/en/object	IsA	/c/en/physical_entity	2.0	0.088
+/c/en/causal_agent	IsA	/c/en/physical_entity	2.0	-0.021
+/c/en/physical_entity	IsA	/c/en/entity	2.0	-0.021
+/c/en/body	RelatedTo	/c/en/physical_entity	0.1030000000000002	0.138

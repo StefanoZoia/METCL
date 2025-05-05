@@ -1,0 +1,8 @@
+-worthless: 0.87
+treasure: 0.86
+-valueless: 0.838
+-useless: 0.821
+-waste: 0.742
+diamond: 0.721
+-vain: 0.708
+ideas_cheap_realization_of_ideas: 0.707

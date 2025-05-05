@@ -1,0 +1,8 @@
+get: 0.963
+buy: 0.902
+ask_for: 0.889
+have: 0.885
+reach_for: 0.871
+produce: 0.858
+calculate: 0.851
+ask_for_politely: 0.851

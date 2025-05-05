@@ -1,0 +1,6 @@
+/c/en/gave	FormOf	/c/en/give	1.0	0.808
+/c/en/gave	RelatedTo	/c/en/given	1.0	0.669
+/c/en/gave	RelatedTo	/c/en/give	1.0	0.808
+/c/en/gave	FormOf	/c/en/give	1.0	0.808
+/c/en/gavest	DerivedFrom	/c/en/gave	1.0	0.847
+/c/en/apple	RelatedTo	/c/en/gave	0.4129999999999998	0.089

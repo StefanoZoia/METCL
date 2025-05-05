@@ -1,0 +1,8 @@
+perform: 0.7749
+trait: 0.7668
+activity: 0.7641
+psychology: 0.7632
+manage: 0.7524
+action: 0.7497
+bring: 0.7434
+-manners: 0.7353

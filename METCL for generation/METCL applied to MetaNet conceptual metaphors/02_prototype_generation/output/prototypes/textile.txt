@@ -1,0 +1,8 @@
+woven_fabric: 0.892
+clothing: 0.859
+factory: 0.855
+carpets: 0.852
+clothing_and_upholstery: 0.849
+make_clothing: 0.848
+fabric_store: 0.832
+textile_factory: 0.823

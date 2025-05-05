@@ -1,0 +1,6 @@
+/c/en/criticizingly	RelatedTo	/c/en/criticizing	1.0	1.0
+/c/en/criticizing	RelatedTo	/c/en/criticize	1.0	0.739
+/c/en/criticizing	FormOf	/c/en/criticize	1.0	0.739
+/c/en/get_off_someone's_back	RelatedTo	/c/en/criticizing	1.0	-0.018
+/c/en/criticizingly	DerivedFrom	/c/en/criticizing	1.0	1.0
+/c/en/bushwhacking	RelatedTo	/c/en/criticizing	1.0	0.184

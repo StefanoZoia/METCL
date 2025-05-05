@@ -1,0 +1,30 @@
+Title: regulation-disease
+
+Head Concept Name: regulation
+Modifier Concept Name: disease
+
+
+
+
+
+T(modifier), infectious, 0.909
+T(modifier), illness, 0.904
+T(modifier), deadly, 0.862
+T(modifier), ending_in_death, 0.843
+T(modifier), make_sick, 0.837
+T(modifier), -wanted_by_most_people, 0.831
+T(modifier), syndrome, 0.822
+T(modifier), rot_human_bodies, 0.819
+
+T(head), rule, 0.883
+T(head), control, 0.835
+T(head), dominance, 0.829
+T(head), embryology, 0.823
+T(head), organic_process, 0.8
+T(head), genetics, 0.773
+T(head), european_union_law, 0.769
+T(head), medicine, 0.755
+
+
+Result: {"infectious": 0.909, "illness": 0.904, "deadly": 0.862, "ending_in_death": 0.843, "make_sick": 0.837, "-wanted_by_most_people": 0.831, "rule": 0.883, "control": 0.835, "@scenario_probability": 7.672602271252528e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 7.672602271252528e-05]

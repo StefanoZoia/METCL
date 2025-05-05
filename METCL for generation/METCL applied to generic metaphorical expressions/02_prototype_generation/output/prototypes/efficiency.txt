@@ -1,0 +1,7 @@
+skillfulness: 0.843
+ratio: 0.838
+increase_production: 0.817
+united_states: 0.735
+designing_software: 0.699
+system: 0.697
+satisfying_appetites_with_minimum_effort: 0.683

@@ -1,0 +1,5 @@
+action: 0.81
+require_hard_work: 0.809
+running_in_marathon: 0.74
+writing_program: 0.701
+climbing_mountain: 0.684

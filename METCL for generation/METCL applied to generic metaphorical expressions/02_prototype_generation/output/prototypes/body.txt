@@ -1,0 +1,8 @@
+torso: 0.852
+coffin: 0.843
+body_substance: 0.837
+funeral: 0.835
+system: 0.83
+structure: 0.829
+message: 0.827
+mass: 0.818

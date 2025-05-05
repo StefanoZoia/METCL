@@ -1,0 +1,8 @@
+-unreinforced: 0.8136
+develop: 0.7902
+create: 0.7893
+establish: 0.7839
+make: 0.7605
+letter: 0.7551
+architecture: 0.7488
+-demolish: 0.7434

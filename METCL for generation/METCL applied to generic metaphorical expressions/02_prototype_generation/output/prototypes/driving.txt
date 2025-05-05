@@ -1,0 +1,8 @@
+car: 0.931
+vehicle: 0.931
+driving_license: 0.927
+license: 0.899
+getting_around: 0.893
+dangerous: 0.882
+deadly: 0.871
+traveling_long_distances: 0.866

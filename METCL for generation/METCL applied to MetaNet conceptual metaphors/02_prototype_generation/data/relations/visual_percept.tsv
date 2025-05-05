@@ -1,0 +1,7 @@
+/c/en/visual_field	IsA	/c/en/visual_percept	2.0	1.0
+/c/en/sight	IsA	/c/en/visual_percept	2.0	0.357
+/c/en/eye_candy	IsA	/c/en/visual_percept	2.0	0.37
+/c/en/field	IsA	/c/en/visual_percept	2.0	0.04
+/c/en/visual_image	Synonym	/c/en/visual_percept	2.0	0.592
+/c/en/visual_percept	IsA	/c/en/percept	2.0	0.349
+/c/en/view	IsA	/c/en/visual_percept	2.0	0.123

@@ -1,0 +1,30 @@
+Title: knowing-seeing
+
+Head Concept Name: knowing
+Modifier Concept Name: seeing
+
+
+
+
+
+T(modifier), eyes_open, 0.881
+T(modifier), light, 0.839
+T(modifier), one_of_senses, 0.836
+T(modifier), lot_of_background_knowledge, 0.827
+T(modifier), sense, 0.818
+T(modifier), monocle, 0.792
+T(modifier), -eye, 0.776
+T(modifier), -blind, 0.755
+
+T(head), remembering, 0.822
+T(head), believing, 0.807
+T(head), higher_cognitive_process, 0.796
+T(head), -ignorance, 0.786
+T(head), determining_truth, 0.767
+T(head), learning, 0.763
+T(head), intentional_mental_state, 0.759
+T(head), reading, 0.747
+
+
+Result: {"eyes_open": 0.881, "light": 0.839, "one_of_senses": 0.836, "lot_of_background_knowledge": 0.827, "sense": 0.818, "remembering": 0.822, "believing": 0.807, "higher_cognitive_process": 0.796, "@scenario_probability": 0.00018154923435167232}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0.00018154923435167232]

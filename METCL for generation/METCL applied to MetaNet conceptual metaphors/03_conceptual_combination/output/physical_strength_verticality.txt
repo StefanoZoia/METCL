@@ -1,0 +1,24 @@
+Title: physical_strength-verticality
+
+Head Concept Name: physical_strength
+Modifier Concept Name: verticality
+
+
+
+
+
+T(modifier), position, 0.841
+T(modifier), attitude, 0.764
+T(modifier), orientation, 0.751
+T(modifier), point, 0.742
+T(modifier), assumption, 0.737
+T(modifier), put, 0.735
+T(modifier), relation, 0.73
+T(modifier), bodily_property, 0.729
+
+T(head), climbing_mountain, 0.691
+T(head), humans, 0.678
+
+
+Result: {"position": 0.841, "attitude": 0.764, "orientation": 0.751, "point": 0.742, "assumption": 0.737, "put": 0.735, "relation": 0.73, "climbing_mountain": 0.691, "@scenario_probability": 0.8537173225511971}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0.8537173225511971]

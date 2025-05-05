@@ -1,0 +1,30 @@
+Title: life-motion
+
+Head Concept Name: life
+Modifier Concept Name: motion
+
+
+
+
+
+T(modifier), proposal, 0.848
+T(modifier), energy, 0.818
+T(modifier), subject, 0.8
+T(modifier), state, 0.793
+T(modifier), -moving, 0.785
+T(modifier), locomotive, 0.772
+T(modifier), -standstill, 0.766
+T(modifier), law, 0.765
+
+T(head), living, 0.914
+T(head), finite, 0.886
+T(head), hard, 0.879
+T(head), good, 0.862
+T(head), unpredictable, 0.861
+T(head), water, 0.844
+T(head), absurd, 0.843
+T(head), full_of_chance, 0.841
+
+
+Result: {"proposal": 0.848, "living": 0.914, "finite": 0.886, "hard": 0.879, "good": 0.862, "unpredictable": 0.861, "water": 0.844, "absurd": 0.843, "@scenario_probability": 0.0001029368711794059}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.0001029368711794059]

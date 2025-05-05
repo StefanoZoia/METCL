@@ -1,0 +1,8 @@
+spirit: 0.895
+spiritual_life: 0.87
+gospel: 0.847
+life: 0.831
+person: 0.825
+feeling: 0.824
+embodiment: 0.821
+inspire: 0.821

@@ -1,0 +1,30 @@
+Title: value-nature
+
+Head Concept Name: value
+Modifier Concept Name: nature
+
+
+
+
+
+T(modifier), very_hard, 0.87
+T(modifier), serene, 0.852
+T(modifier), divine, 0.851
+T(modifier), destructive, 0.843
+T(modifier), personality, 0.84
+T(modifier), type, 0.832
+T(modifier), wonderful, 0.831
+T(modifier), quality, 0.83
+
+T(head), worth, 0.899
+T(head), determine, 0.831
+T(head), duration, 0.831
+T(head), measure, 0.821
+T(head), numerical_quantity, 0.814
+T(head), color_property, 0.809
+T(head), music, 0.801
+T(head), treasure_to, 0.782
+
+
+Result: {"very_hard": 0.87, "serene": 0.852, "divine": 0.851, "destructive": 0.843, "personality": 0.84, "type": 0.832, "worth": 0.899, "duration": 0.831, "@scenario_probability": 3.7188661978098386e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 3.7188661978098386e-05]

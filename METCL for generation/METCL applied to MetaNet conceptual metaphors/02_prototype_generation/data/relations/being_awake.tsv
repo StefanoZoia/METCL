@@ -1,0 +1,6 @@
+/c/en/taking_in_film	HasPrerequisite	/c/en/being_awake	1.0	0.252
+/c/en/studying	HasPrerequisite	/c/en/being_awake	1.0	0.355
+/c/en/getting_physical_activity	HasPrerequisite	/c/en/being_awake	1.0	0.418
+/c/en/driving	HasPrerequisite	/c/en/being_awake	1.0	0.111
+/c/en/sleep	Antonym	/c/en/being_awake	0.41800000000000015	0.058
+/c/en/slumber	Antonym	/c/en/being_awake	0.12199999999999989	0.015

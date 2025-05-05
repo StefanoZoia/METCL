@@ -1,0 +1,15 @@
+/c/en/shrank	RelatedTo	/c/en/decorative	1.0	0.131
+/c/en/shrank	FormOf	/c/en/shrink	1.0	0.668
+/c/en/shrank	RelatedTo	/c/en/curio	1.0	0.22
+/c/en/shrank	RelatedTo	/c/en/cabinet	1.0	0.278
+/c/en/shrank	HasContext	/c/en/us	1.0	0.048
+/c/en/shrank	RelatedTo	/c/en/shrink	1.0	0.668
+/c/en/shrank	RelatedTo	/c/en/clothing	1.0	0.244
+/c/en/shrank	FormOf	/c/en/shrink	1.0	0.668
+/c/en/shrank	RelatedTo	/c/en/dutch	1.0	0.183
+/c/en/shrank	RelatedTo	/c/en/wardrobe	1.0	0.272
+/c/en/shrank	HasContext	/c/en/pennsylvania_dutch_english	1.0	-0.075
+/c/en/shranks	FormOf	/c/en/shrank	1.0	1.0
+/c/en/shrank	RelatedTo	/c/en/furniture	1.0	0.222
+/c/en/shrank	RelatedTo	/c/en/german	1.0	0.193
+/c/en/shrank	EtymologicallyRelatedTo	/c/en/shrink	0.25	0.668

@@ -1,0 +1,11 @@
+/c/en/chained	Synonym	/c/en/enchained	2.0	0.792
+/c/en/chained	RelatedTo	/c/en/linked	1.0	0.333
+/c/en/island_chain	RelatedTo	/c/en/chained	1.0	0.095
+/c/en/chained	FormOf	/c/en/chain	1.0	0.538
+/c/en/hampered	RelatedTo	/c/en/chained	1.0	0.318
+/c/en/shackled	RelatedTo	/c/en/chained	1.0	0.746
+/c/en/chained	RelatedTo	/c/en/bound	1.0	0.44
+/c/en/bechained	DerivedFrom	/c/en/chained	1.0	-0.091
+/c/en/chained	HasContext	/c/en/computing	1.0	0.106
+/c/en/chained	RelatedTo	/c/en/chain	1.0	0.538
+/c/en/free	DistinctFrom	/c/en/chained	0.3759999999999999	0.118

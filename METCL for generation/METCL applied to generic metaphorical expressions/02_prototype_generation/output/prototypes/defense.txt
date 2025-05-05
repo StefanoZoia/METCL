@@ -1,0 +1,8 @@
+-offense: 0.878
+protection: 0.86
+justification: 0.846
+due_process: 0.844
+military: 0.833
+law: 0.833
+team: 0.827
+trial: 0.821

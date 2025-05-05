@@ -1,0 +1,6 @@
+announcement: 0.849
+charity: 0.835
+written_or_spoken_work: 0.759
+table: 0.758
+monetary_value: 0.738
+-tax: 0.695

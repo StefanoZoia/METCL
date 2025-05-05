@@ -1,0 +1,8 @@
+chewing: 0.949
+food: 0.927
+ending_hunger: 0.902
+satisfying: 0.9
+staying_alive: 0.873
+satisfying_hunger: 0.866
+appetite: 0.865
+fod: 0.862

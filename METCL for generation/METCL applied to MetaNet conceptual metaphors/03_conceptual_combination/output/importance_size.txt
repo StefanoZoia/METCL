@@ -1,0 +1,24 @@
+Title: importance-size
+
+Head Concept Name: importance
+Modifier Concept Name: size
+
+
+
+
+
+T(modifier), how_big_or_small, 0.898
+T(modifier), magnitude, 0.883
+T(modifier), -bigness, 0.826
+T(modifier), important, 0.825
+T(modifier), change_magnitude, 0.816
+T(modifier), situation, 0.81
+T(modifier), classify, 0.808
+T(modifier), coat, 0.805
+
+T(head), value, 0.854
+T(head), standing, 0.809
+
+
+Result: {"how_big_or_small": 0.898, "magnitude": 0.883, "-bigness": 0.826, "important": 0.825, "change_magnitude": 0.816, "situation": 0.81, "classify": 0.808, "value": 0.854, "@scenario_probability": 0.9178747518888152}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0.9178747518888152]

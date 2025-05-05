@@ -1,0 +1,7 @@
+macroeconomic_event: 0.814
+economic_condition: 0.812
+procession: 0.809
+-boom: 0.807
+cession: 0.802
+destroy_economy: 0.784
+album: 0.702

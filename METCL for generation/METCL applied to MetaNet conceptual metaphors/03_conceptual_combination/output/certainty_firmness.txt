@@ -1,0 +1,21 @@
+Title: certainty-firmness
+
+Head Concept Name: certainty
+Modifier Concept Name: firmness
+
+
+
+
+
+T(modifier), hardness, 0.885
+T(modifier), strength, 0.872
+
+T(head), -uncertainty, 0.888
+T(head), quality, 0.827
+T(head), cognitive_state, 0.798
+T(head), -impossibility, 0.789
+T(head), -chance, 0.736
+
+
+Result: {"hardness": 0.885, "strength": 0.872, "-uncertainty": 0.888, "quality": 0.827, "cognitive_state": 0.798, "-impossibility": 0.789, "@scenario_probability": 9.420241841818891}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 9.420241841818891]

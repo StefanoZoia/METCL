@@ -1,0 +1,8 @@
+seven_deadly_sins: 0.866
+desire: 0.855
+evil: 0.824
+emotion: 0.803
+cause_management_to_disagree_with_labor: 0.793
+cause_businesses_to_grow: 0.793
+cause_business_profits: 0.793
+human_emotion: 0.75

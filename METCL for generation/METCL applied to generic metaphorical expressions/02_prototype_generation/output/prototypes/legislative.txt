@@ -1,0 +1,2 @@
+ordain: 0.7578
+politicians: 0.6813

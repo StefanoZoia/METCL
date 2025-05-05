@@ -1,0 +1,30 @@
+Title: group-possession
+
+Head Concept Name: group
+Modifier Concept Name: possession
+
+
+
+
+
+T(modifier), control, 0.84
+T(modifier), relation, 0.818
+T(modifier), enchantment, 0.813
+T(modifier), district, 0.81
+T(modifier), house, 0.787
+T(modifier), sport, 0.776
+T(modifier), -absence, 0.755
+T(modifier), sports, 0.736
+
+T(head), group_theory, 0.836
+T(head), like_club_but_without_officers, 0.828
+T(head), honor_individual, 0.825
+T(head), set, 0.822
+T(head), classify, 0.821
+T(head), semigroup, 0.82
+T(head), molecule, 0.816
+T(head), include_individuals, 0.801
+
+
+Result: {"control": 0.84, "relation": 0.818, "group_theory": 0.836, "like_club_but_without_officers": 0.828, "honor_individual": 0.825, "set": 0.822, "classify": 0.821, "semigroup": 0.82, "@scenario_probability": 8.717977011044765e-05}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 8.717977011044765e-05]

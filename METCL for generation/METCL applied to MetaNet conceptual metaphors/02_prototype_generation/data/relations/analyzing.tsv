@@ -1,0 +1,9 @@
+/c/en/x_ray_spectrometer	RelatedTo	/c/en/analyzing	1.0	0.214
+/c/en/analyzing	RelatedTo	/c/en/analyze	1.0	0.765
+/c/en/radiography	RelatedTo	/c/en/analyzing	1.0	0.143
+/c/en/stylometry	RelatedTo	/c/en/analyzing	1.0	0.037
+/c/en/reverse_engineering	RelatedTo	/c/en/analyzing	1.0	0.268
+/c/en/text	UsedFor	/c/en/analyzing	1.0	0.127
+/c/en/analyzing	FormOf	/c/en/analyze	1.0	0.765
+/c/en/examining_thing	UsedFor	/c/en/analyzing	1.0	0.639
+/c/en/analyzing	FormOf	/c/en/analyze	1.0	0.765

@@ -1,0 +1,24 @@
+Title: engine-economic
+
+Head Concept Name: engine
+Modifier Concept Name: economic
+
+
+
+
+
+T(modifier), -uneconomic, 0.742
+T(modifier), -unprofitable, 0.695
+
+T(head), motor, 0.904
+T(head), fuel_to_operate, 0.878
+T(head), car, 0.873
+T(head), automobile, 0.866
+T(head), power, 0.856
+T(head), camshaft, 0.85
+T(head), piston, 0.837
+T(head), work, 0.834
+
+
+Result: {"-uneconomic": 0.742, "motor": 0.904, "fuel_to_operate": 0.878, "car": 0.873, "automobile": 0.866, "power": 0.856, "camshaft": 0.85, "piston": 0.837, "@scenario_probability": 1.372856243520797}
+Scenario: [1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1.372856243520797]

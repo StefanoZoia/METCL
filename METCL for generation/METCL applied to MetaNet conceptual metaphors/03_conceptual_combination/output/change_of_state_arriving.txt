@@ -1,0 +1,28 @@
+Title: change_of_state-arriving
+
+Head Concept Name: change_of_state
+Modifier Concept Name: arriving
+
+
+
+
+
+T(modifier), -depart, 0.794
+T(modifier), succeed, 0.735
+T(modifier), -leave, 0.718
+T(modifier), -disembark, 0.717
+T(modifier), -departure, 0.699
+T(modifier), archaic, 0.661
+
+T(head), change, 0.933
+T(head), difference, 0.826
+T(head), replace, 0.774
+T(head), unpleasant, 0.752
+T(head), exciting, 0.752
+T(head), jar, 0.733
+T(head), dress, 0.733
+T(head), consequence, 0.733
+
+
+Result: {"-depart": 0.794, "succeed": 0.735, "change": 0.933, "difference": 0.826, "replace": 0.774, "unpleasant": 0.752, "exciting": 0.752, "consequence": 0.733, "@scenario_probability": 0.008376727917483099}
+Scenario: [1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 1, 0.008376727917483099]

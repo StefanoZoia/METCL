@@ -1,0 +1,25 @@
+Title: category-object
+
+Head Concept Name: category
+Modifier Concept Name: object
+
+
+
+
+
+T(modifier), thing, 0.843
+T(modifier), disapprove, 0.832
+T(modifier), become_broken, 0.817
+T(modifier), object_oriented_programming, 0.814
+T(modifier), content, 0.81
+T(modifier), belong_to_person, 0.809
+T(modifier), disappear_from_sight, 0.806
+T(modifier), computer_science, 0.803
+
+T(head), concept, 0.805
+T(head), mathematics, 0.75
+T(head), objects_and_morphisms_between_objects, 0.733
+
+
+Result: {"thing": 0.843, "disapprove": 0.832, "become_broken": 0.817, "object_oriented_programming": 0.814, "content": 0.81, "belong_to_person": 0.809, "disappear_from_sight": 0.806, "concept": 0.805, "@scenario_probability": 0.26078302650184804}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0.26078302650184804]

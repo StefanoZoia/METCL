@@ -1,0 +1,24 @@
+Title: economic_competition-competitive_sport
+
+Head Concept Name: economic_competition
+Modifier Concept Name: competitive_sport
+
+
+
+
+
+T(modifier), wrestling, 0.731
+T(modifier), soccer_field, 0.696
+
+T(head), competing, 0.793
+T(head), natural, 0.742
+T(head), business_relation, 0.723
+T(head), group_action, 0.722
+T(head), conflict, 0.709
+T(head), -cooperation, 0.702
+T(head), riding_bicycle, 0.698
+T(head), sports, 0.693
+
+
+Result: {"wrestling": 0.731, "competing": 0.793, "natural": 0.742, "business_relation": 0.723, "group_action": 0.722, "conflict": 0.709, "-cooperation": 0.702, "riding_bicycle": 0.698, "@scenario_probability": 0.7279820876853641}
+Scenario: [1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.7279820876853641]

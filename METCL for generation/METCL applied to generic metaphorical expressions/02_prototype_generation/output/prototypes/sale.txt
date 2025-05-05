@@ -1,0 +1,8 @@
+selling: 0.913
+selling_things_don't_need: 0.913
+selling_more_by_reducing_price: 0.913
+purchasing_things_cheaply: 0.881
+merchantability: 0.86
+store: 0.855
+-buy: 0.85
+marketing: 0.835

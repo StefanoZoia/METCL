@@ -1,0 +1,8 @@
+false: 0.868
+true: 0.866
+useful_but_aren't_always: 0.849
+information: 0.84
+myths_in_disguise: 0.814
+explain_problem: 0.809
+statistics_to_verify_findings: 0.795
+context_dependent: 0.787

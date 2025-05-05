@@ -1,0 +1,30 @@
+Title: causation-waging_war
+
+Head Concept Name: causation
+Modifier Concept Name: waging_war
+
+
+
+
+
+T(modifier), armies, 0.947
+T(modifier), weapons, 0.927
+T(modifier), conquering_enemies, 0.901
+T(modifier), soldiers, 0.886
+T(modifier), hitler, 0.883
+T(modifier), enemy, 0.883
+T(modifier), hurting_others, 0.881
+T(modifier), enemies, 0.88
+
+T(head), origin, 0.755
+T(head), relation, 0.751
+T(head), make, 0.749
+T(head), justification, 0.747
+T(head), -effect, 0.74
+T(head), act, 0.73
+T(head), suffer_setback, 0.721
+T(head), succeed_effect, 0.715
+
+
+Result: {"armies": 0.947, "weapons": 0.927, "conquering_enemies": 0.901, "soldiers": 0.886, "hitler": 0.883, "enemy": 0.883, "hurting_others": 0.881, "origin": 0.755, "@scenario_probability": 0.0003849404098918935}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0.0003849404098918935]

@@ -1,0 +1,14 @@
+/c/en/slaves	CapableOf	/c/en/work_for_nothing	2.82842712474619	0.093
+/c/en/slaves	FormOf	/c/en/slave	2.0	0.861
+/c/en/cotton	RelatedTo	/c/en/slaves	1.9690000000000003	0.197
+/c/en/slaves	FormOf	/c/en/slave	1.0	0.861
+/c/en/slaves	HasA	/c/en/no_choice_or_freedom	1.0	0.084
+/c/en/slaves	FormOf	/c/en/slave	1.0	0.861
+/c/en/whistle_walk	RelatedTo	/c/en/slaves	1.0	0.029
+/c/en/slave_labour	RelatedTo	/c/en/slaves	1.0	0.379
+/c/en/slaves	RelatedTo	/c/en/slave	1.0	0.861
+/c/en/slaves	RelatedTo	/c/en/slave	1.0	0.861
+/c/en/doing_housework	UsedFor	/c/en/slaves	1.0	0.099
+/c/en/master	RelatedTo	/c/en/slaves	0.46499999999999986	0.352
+/c/en/emancipation	RelatedTo	/c/en/slaves	0.395	0.154
+/c/en/servant	RelatedTo	/c/en/slaves	0.3639999999999999	0.332

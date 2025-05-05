@@ -1,0 +1,30 @@
+Title: put-washing
+
+Head Concept Name: put
+Modifier Concept Name: washing
+
+
+
+
+
+T(modifier), laundry, 0.874
+T(modifier), cleaning, 0.862
+T(modifier), removing_grease_from_dishes, 0.842
+T(modifier), washing_machine, 0.809
+T(modifier), wash_cloth, 0.806
+T(modifier), bathing, 0.8
+T(modifier), bathroom, 0.793
+T(modifier), soap, 0.79
+
+T(head), music, 0.811
+T(head), -take, 0.806
+T(head), change, 0.796
+T(head), athletics, 0.757
+T(head), -lift, 0.755
+T(head), -get, 0.752
+T(head), testing, 0.747
+T(head), -hold, 0.745
+
+
+Result: {"laundry": 0.874, "cleaning": 0.862, "removing_grease_from_dishes": 0.842, "washing_machine": 0.809, "wash_cloth": 0.806, "bathing": 0.8, "music": 0.811, "-take": 0.806, "@scenario_probability": 0.00018271103779474247}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.00018271103779474247]

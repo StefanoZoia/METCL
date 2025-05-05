@@ -1,0 +1,6 @@
+/c/en/diabolo	IsA	/c/en/object_manipulation	1.0	0.006
+/c/en/juggling	IsA	/c/en/object_manipulation	1.0	0.0
+/c/en/object_manipulation	RelatedTo	/c/en/performing_art	1.0	0.021
+/c/en/object_manipulation	RelatedTo	/c/en/object	1.0	0.395
+/c/en/object_manipulation	RelatedTo	/c/en/manipulate	1.0	0.094
+/c/en/keepie_uppie	IsA	/c/en/object_manipulation	1.0	0.059

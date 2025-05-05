@@ -1,0 +1,7 @@
+dormancy: 0.901
+torpor: 0.889
+-aestivation: 0.846
+retirement: 0.827
+space: 0.766
+biology: 0.759
+computing: 0.752

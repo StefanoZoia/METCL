@@ -1,0 +1,30 @@
+Title: communication-guiding
+
+Head Concept Name: communication
+Modifier Concept Name: guiding
+
+
+
+
+
+T(modifier), directed_movement, 0.794
+T(modifier), leader, 0.751
+T(modifier), teach_follower, 0.743
+T(modifier), direct, 0.737
+T(modifier), orient, 0.728
+T(modifier), structure, 0.726
+T(modifier), point_out_scenic_features, 0.726
+T(modifier), point_in_right_direction, 0.726
+
+T(head), sender_and_receiver, 0.866
+T(head), connection, 0.85
+T(head), act, 0.815
+T(head), e_mail, 0.81
+T(head), cellphone, 0.804
+T(head), satelite, 0.804
+T(head), phone, 0.801
+T(head), abstraction, 0.799
+
+
+Result: {"directed_movement": 0.794, "sender_and_receiver": 0.866, "connection": 0.85, "act": 0.815, "e_mail": 0.81, "cellphone": 0.804, "satelite": 0.804, "phone": 0.801, "@scenario_probability": 0.00037813722276207974}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.00037813722276207974]

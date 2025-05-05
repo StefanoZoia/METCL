@@ -1,0 +1,8 @@
+gathering: 0.887
+assembly: 0.873
+convergence: 0.843
+quakerism: 0.794
+social_gathering: 0.792
+council: 0.785
+stranger: 0.744
+rural: 0.737

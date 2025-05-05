@@ -1,0 +1,8 @@
+-antisocial: 0.7947000000000001
+social_occasion: 0.7902
+-asocial: 0.7731
+-unsocial: 0.7677
+school: 0.7587
+animal: 0.7424999999999999
+sociology: 0.7389
+learning: 0.7353

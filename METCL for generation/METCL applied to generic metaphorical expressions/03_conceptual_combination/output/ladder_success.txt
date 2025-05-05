@@ -1,0 +1,30 @@
+Title: ladder-success
+
+Head Concept Name: ladder
+Modifier Concept Name: success
+
+
+
+
+
+T(modifier), prosperity, 0.87
+T(modifier), -failure, 0.867
+T(modifier), attainment, 0.856
+T(modifier), effort, 0.855
+T(modifier), winning, 0.855
+T(modifier), extra_effort, 0.823
+T(modifier), reward, 0.822
+T(modifier), in_eyes_of_beholder, 0.816
+
+T(head), climbing_walls, 0.906
+T(head), stairs, 0.894
+T(head), climbing_up_high, 0.871
+T(head), climbing_up, 0.871
+T(head), climbing_tree, 0.871
+T(head), climbing_to_higher_level, 0.871
+T(head), gaining_access_to_high_objects, 0.867
+T(head), rungs, 0.854
+
+
+Result: {"prosperity": 0.87, "climbing_walls": 0.906, "stairs": 0.894, "climbing_up_high": 0.871, "climbing_up": 0.871, "climbing_tree": 0.871, "climbing_to_higher_level": 0.871, "gaining_access_to_high_objects": 0.867, "@scenario_probability": 1.1983695674272194e-05}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1.1983695674272194e-05]

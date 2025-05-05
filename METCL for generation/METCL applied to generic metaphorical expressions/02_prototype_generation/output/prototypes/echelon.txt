@@ -1,0 +1,6 @@
+military_unit: 0.852
+military: 0.843
+status: 0.83
+diffraction_grating: 0.792
+cycling: 0.77
+linear_algebra: 0.767

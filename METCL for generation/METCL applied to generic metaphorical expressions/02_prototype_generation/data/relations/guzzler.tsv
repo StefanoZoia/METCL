@@ -1,0 +1,15 @@
+/c/en/guzzler	IsA	/c/en/drinker	2.0	0.534
+/c/en/guzzler	Synonym	/c/en/gulper	2.0	0.725
+/c/en/gas_guzzler	DerivedFrom	/c/en/guzzler	1.0	0.584
+/c/en/gas_guzzler	RelatedTo	/c/en/guzzler	1.0	0.584
+/c/en/carouser	Synonym	/c/en/guzzler	1.0	0.076
+/c/en/guzzler	Synonym	/c/en/alcoholic	1.0	0.295
+/c/en/guzzler	DerivedFrom	/c/en/guzzle	1.0	0.626
+/c/en/guzzler	DerivedFrom	/c/en/guzzle	1.0	0.626
+/c/en/guzzlers	RelatedTo	/c/en/guzzler	1.0	0.641
+/c/en/guzzler	Synonym	/c/en/carouser	1.0	0.076
+/c/en/guzzlers	FormOf	/c/en/guzzler	1.0	0.641
+/c/en/cumguzzler	DerivedFrom	/c/en/guzzler	1.0	0.152
+/c/en/guzzler	RelatedTo	/c/en/guzzle	1.0	0.626
+/c/en/cumguzzler	DerivedFrom	/c/en/guzzler	1.0	0.152
+/c/en/guzzler	Synonym	/c/en/glutton	1.0	0.428

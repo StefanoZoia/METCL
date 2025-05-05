@@ -1,0 +1,8 @@
+grow: 0.7569
+rear: 0.7362
+decorate: 0.7334999999999999
+biological_growth: 0.725
+physical_growth: 0.7029000000000001
+physical_creation_event: 0.7020000000000001
+organic_event: 0.684
+archaic: 0.6678000000000001

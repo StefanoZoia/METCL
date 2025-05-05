@@ -1,0 +1,8 @@
+/c/en/underprivileged	RelatedTo	/c/en/opportunities	1.0	0.299
+/c/en/opportunities	RelatedTo	/c/en/opportunity	1.0	0.859
+/c/en/opportunivore	RelatedTo	/c/en/opportunities	1.0	0.688
+/c/en/opportunities	FormOf	/c/en/opportunity	1.0	0.859
+/c/en/burn_one's_bridges	RelatedTo	/c/en/opportunities	1.0	-0.02
+/c/en/optionaire	RelatedTo	/c/en/opportunities	1.0	0.208
+/c/en/world_is_one's_oyster	RelatedTo	/c/en/opportunities	1.0	0.011
+/c/en/opportunities	FormOf	/c/en/opportunity	1.0	0.859

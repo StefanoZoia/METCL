@@ -1,0 +1,30 @@
+Title: seeds-democracy
+
+Head Concept Name: seeds
+Modifier Concept Name: democracy
+
+
+
+
+
+T(modifier), equality_for_everyone, 0.854
+T(modifier), open_media, 0.853
+T(modifier), political_orientation, 0.852
+T(modifier), political_system, 0.843
+T(modifier), good_thing, 0.84
+T(modifier), government_of_people, 0.816
+T(modifier), -dictatorship, 0.809
+T(modifier), government, 0.793
+
+T(head), fruit, 0.86
+T(head), apples, 0.819
+T(head), grow_flowers, 0.818
+T(head), berries, 0.817
+T(head), pod, 0.806
+T(head), lie_dormant_for_years, 0.802
+T(head), lay_dormant_for_years, 0.796
+T(head), tree, 0.776
+
+
+Result: {"equality_for_everyone": 0.854, "open_media": 0.853, "political_orientation": 0.852, "political_system": 0.843, "good_thing": 0.84, "fruit": 0.86, "apples": 0.819, "grow_flowers": 0.818, "@scenario_probability": 5.9170705217187494e-05}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 5.9170705217187494e-05]

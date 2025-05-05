@@ -1,0 +1,7 @@
+/c/en/strides	HasContext	/c/en/australia	1.0	0.094
+/c/en/strides	RelatedTo	/c/en/trousers	1.0	0.305
+/c/en/strides	HasContext	/c/en/uk	1.0	0.069
+/c/en/strides	DerivedFrom	/c/en/stride	1.0	0.726
+/c/en/strides	FormOf	/c/en/stride	1.0	0.726
+/c/en/strides	FormOf	/c/en/stride	1.0	0.726
+/c/en/walk	RelatedTo	/c/en/strides	0.34299999999999997	0.24

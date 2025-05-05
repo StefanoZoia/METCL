@@ -1,0 +1,8 @@
+aggression: 0.87
+anger_pacifists: 0.869
+turbulence: 0.844
+terrorism: 0.843
+dangerous: 0.839
+war: 0.838
+includes_death: 0.834
+wars: 0.801

@@ -1,0 +1,2 @@
+restraint: 0.854
+subjugation: 0.811

@@ -1,0 +1,12 @@
+/c/en/stands	AtLocation	/c/en/market	2.0	0.19
+/c/en/nosebleed_section	RelatedTo	/c/en/stands	1.0	0.582
+/c/en/stands	RelatedTo	/c/en/stand	1.0	0.781
+/c/en/stands	FormOf	/c/en/stand	1.0	0.781
+/c/en/stands	FormOf	/c/en/stand	1.0	0.781
+/c/en/stands	FormOf	/c/en/stand	1.0	0.781
+/c/en/nosebleed_seat	RelatedTo	/c/en/stands	1.0	0.582
+/c/en/stands	RelatedTo	/c/en/stand	1.0	0.781
+/c/en/stands	FormOf	/c/en/stand	1.0	0.781
+/c/en/market	RelatedTo	/c/en/stands	0.44499999999999984	0.19
+/c/en/republic	RelatedTo	/c/en/stands	0.13200000000000012	0.058
+/c/en/horse	RelatedTo	/c/en/stands	0.10199999999999987	0.071

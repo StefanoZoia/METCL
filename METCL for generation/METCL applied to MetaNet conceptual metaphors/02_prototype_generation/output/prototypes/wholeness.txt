@@ -1,0 +1,8 @@
+good_health: 0.858
+honesty: 0.8181
+completeness: 0.7866
+character: 0.7587
+staying_fit: 0.756
+important_for_normal_living: 0.7515
+good: 0.7479
+necessary_for_long_life: 0.7461

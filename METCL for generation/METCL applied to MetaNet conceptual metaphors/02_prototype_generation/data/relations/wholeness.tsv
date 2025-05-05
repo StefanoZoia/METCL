@@ -1,0 +1,16 @@
+/c/en/haleness	Synonym	/c/en/wholeness	2.0	-0.001
+/c/en/wholeness	Synonym	/c/en/integrity	2.0	0.522
+/c/en/wholeness	IsA	/c/en/good_health	2.0	0.354
+/c/en/wholesome	RelatedTo	/c/en/wholeness	1.0	0.296
+/c/en/unbrokenness	Synonym	/c/en/wholeness	1.0	0.288
+/c/en/undividedness	RelatedTo	/c/en/wholeness	1.0	0.291
+/c/en/entirety	RelatedTo	/c/en/wholeness	1.0	0.508
+/c/en/redintegrate	RelatedTo	/c/en/wholeness	1.0	-0.019
+/c/en/wholeness	RelatedTo	/c/en/whole	1.0	0.348
+/c/en/wholeness	DerivedFrom	/c/en/whole	1.0	0.348
+/c/en/wholth	RelatedTo	/c/en/wholeness	1.0	0.447
+/c/en/holotropic	RelatedTo	/c/en/wholeness	1.0	0.498
+/c/en/wholeness	Synonym	/c/en/entirety	1.0	0.508
+/c/en/wholenesses	FormOf	/c/en/wholeness	1.0	1.0
+/c/en/entire	RelatedTo	/c/en/wholeness	0.18299999999999983	0.33
+/c/en/integrity	RelatedTo	/c/en/wholeness	0.17099999999999982	0.522

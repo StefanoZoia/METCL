@@ -1,0 +1,8 @@
+abundance: 0.871
+financial_condition: 0.85
+property: 0.84
+material_resource: 0.792
+-poverty: 0.792
+economics: 0.774
+conquering_nation: 0.762
+-debt: 0.714

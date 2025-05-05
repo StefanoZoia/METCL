@@ -1,0 +1,24 @@
+Title: symptoms-poverty
+
+Head Concept Name: symptoms
+Modifier Concept Name: poverty
+
+
+
+
+
+T(modifier), financial_condition, 0.865
+T(modifier), undesirable, 0.833
+T(modifier), -wealth, 0.792
+T(modifier), drive_crime, 0.789
+T(modifier), situation, 0.763
+T(modifier), curse, 0.75
+T(modifier), get_money_from, 0.748
+T(modifier), mumbai, 0.747
+
+T(head), point_to_diagnosis, 0.858
+T(head), signs, 0.844
+
+
+Result: {"financial_condition": 0.865, "undesirable": 0.833, "-wealth": 0.792, "drive_crime": 0.789, "situation": 0.763, "curse": 0.75, "get_money_from": 0.748, "point_to_diagnosis": 0.858, "@scenario_probability": 0.6526541445543316}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0.6526541445543316]

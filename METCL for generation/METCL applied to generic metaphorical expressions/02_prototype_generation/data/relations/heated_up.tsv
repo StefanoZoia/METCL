@@ -1,0 +1,7 @@
+/c/en/heated_up	SimilarTo	/c/en/hot	2.0	0.231
+/c/en/het_up	Synonym	/c/en/heated_up	2.0	-0.032
+/c/en/heated	Synonym	/c/en/heated_up	2.0	0.386
+/c/en/hot	SimilarTo	/c/en/heated_up	2.0	0.231
+/c/en/het	Synonym	/c/en/heated_up	2.0	0.061
+/c/en/heated_up	RelatedTo	/c/en/heat_up	1.0	0.057
+/c/en/heated_up	FormOf	/c/en/heat_up	1.0	0.057

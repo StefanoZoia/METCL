@@ -1,0 +1,12 @@
+/c/en/capturing_animal	IsA	/c/en/capturing	1.0	1.0
+/c/en/hostage_taking	IsA	/c/en/capturing	1.0	0.41
+/c/en/mousetrap	RelatedTo	/c/en/capturing	1.0	0.146
+/c/en/capturing	IsA	/c/en/transferring_control	1.0	0.364
+/c/en/lifelogging	RelatedTo	/c/en/capturing	1.0	0.045
+/c/en/capturing	IsA	/c/en/harmed	1.0	0.163
+/c/en/arresting	IsA	/c/en/capturing	1.0	0.462
+/c/en/capturing	FormOf	/c/en/capture	1.0	0.762
+/c/en/taking_person_prisoner	IsA	/c/en/capturing	1.0	0.08
+/c/en/capturing	RelatedTo	/c/en/capture	1.0	0.762
+/c/en/capturing	IsA	/c/en/action_on_object	1.0	0.022
+/c/en/picture	RelatedTo	/c/en/capturing	0.16500000000000004	0.313

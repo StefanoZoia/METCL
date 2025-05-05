@@ -1,0 +1,30 @@
+Title: power-possession
+
+Head Concept Name: power
+Modifier Concept Name: possession
+
+
+
+
+
+T(modifier), control, 0.84
+T(modifier), relation, 0.818
+T(modifier), enchantment, 0.813
+T(modifier), district, 0.81
+T(modifier), house, 0.787
+T(modifier), sport, 0.776
+T(modifier), -absence, 0.755
+T(modifier), sports, 0.736
+
+T(head), fleeting, 0.831
+T(head), physics, 0.809
+T(head), battery, 0.798
+T(head), physical_phenomenon, 0.796
+T(head), provide, 0.793
+T(head), causal_agent, 0.791
+T(head), quality, 0.789
+T(head), -impotence, 0.772
+
+
+Result: {"control": 0.84, "relation": 0.818, "enchantment": 0.813, "district": 0.81, "fleeting": 0.831, "physics": 0.809, "battery": 0.798, "physical_phenomenon": 0.796, "@scenario_probability": 0.0001241095570367451}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.0001241095570367451]

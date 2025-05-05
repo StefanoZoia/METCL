@@ -1,0 +1,13 @@
+/c/en/zealous	RelatedTo	/c/en/zealotry	2.0	0.681
+/c/en/zealotry	DerivedFrom	/c/en/zeal	2.0	0.723
+/c/en/zealotry	Synonym	/c/en/fanaticism	2.0	0.766
+/c/en/zealotism	RelatedTo	/c/en/zealotry	1.0	0.908
+/c/en/zealotry	RelatedTo	/c/en/zealousness	1.0	0.792
+/c/en/zealotries	FormOf	/c/en/zealotry	1.0	1.0
+/c/en/zealotry	DerivedFrom	/c/en/zealot	1.0	0.78
+/c/en/zealotry	RelatedTo	/c/en/zealot	1.0	0.78
+/c/en/zealotry	RelatedTo	/c/en/zeal	1.0	0.723
+/c/en/zealously	RelatedTo	/c/en/zealotry	1.0	0.443
+/c/en/zealot	RelatedTo	/c/en/zealotry	1.0	0.78
+/c/en/zealotry	RelatedTo	/c/en/fanaticism	1.0	0.766
+/c/en/zealotry	RelatedTo	/c/en/zealous	1.0	0.681

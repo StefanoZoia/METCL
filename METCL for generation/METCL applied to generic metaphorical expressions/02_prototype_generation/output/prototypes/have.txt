@@ -1,0 +1,8 @@
+-has: 0.816
+change: 0.811
+score: 0.803
+get: 0.802
+-possess: 0.801
+-need: 0.8
+interact: 0.79
+-lack: 0.779

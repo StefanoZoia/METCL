@@ -1,0 +1,2 @@
+fight_back: 0.723
+kill: 0.717

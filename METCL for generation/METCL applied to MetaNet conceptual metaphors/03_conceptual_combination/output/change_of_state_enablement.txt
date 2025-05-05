@@ -1,0 +1,27 @@
+Title: change_of_state-enablement
+
+Head Concept Name: change_of_state
+Modifier Concept Name: enablement
+
+
+
+
+
+T(modifier), -disable, 0.784
+T(modifier), -disablement, 0.745
+T(modifier), change, 0.709
+T(modifier), computing, 0.688
+T(modifier), electronics, 0.664
+
+T(head), change, 0.933
+T(head), difference, 0.826
+T(head), replace, 0.774
+T(head), unpleasant, 0.752
+T(head), exciting, 0.752
+T(head), jar, 0.733
+T(head), dress, 0.733
+T(head), consequence, 0.733
+
+
+Result: {"-disable": 0.784, "-disablement": 0.745, "change": 0.933, "difference": 0.826, "replace": 0.774, "unpleasant": 0.752, "exciting": 0.752, "dress": 0.733, "@scenario_probability": 0.03140682438561685}
+Scenario: [1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 0, 1, 0, 0.03140682438561685]

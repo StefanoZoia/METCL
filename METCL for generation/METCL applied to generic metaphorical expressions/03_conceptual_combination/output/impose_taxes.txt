@@ -1,0 +1,27 @@
+Title: impose-taxes
+
+Head Concept Name: impose
+Modifier Concept Name: taxes
+
+
+
+
+
+T(modifier), bills, 0.827
+T(modifier), fund_govenment_services, 0.816
+T(modifier), percentage_of_income, 0.804
+T(modifier), debt, 0.804
+T(modifier), going_up, 0.784
+T(modifier), money, 0.777
+T(modifier), -pay, 0.777
+T(modifier), source_of_revenue, 0.738
+
+T(head), compel, 0.765
+T(head), charge, 0.762
+T(head), conscription, 0.748
+T(head), communicate, 0.718
+T(head), legal, 0.67
+
+
+Result: {"bills": 0.827, "fund_govenment_services": 0.816, "percentage_of_income": 0.804, "debt": 0.804, "going_up": 0.784, "money": 0.777, "-pay": 0.777, "compel": 0.765, "@scenario_probability": 0.02309772139614861}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0.02309772139614861]

@@ -1,0 +1,5 @@
+life_science: 0.854
+astrobiology: 0.827
+subject_for_studying: 0.755
+subject_of_study_in_school: 0.755
+-chemistry: 0.716

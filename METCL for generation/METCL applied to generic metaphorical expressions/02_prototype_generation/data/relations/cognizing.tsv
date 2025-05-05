@@ -1,0 +1,5 @@
+/c/en/cognizings	FormOf	/c/en/cognizing	1.0	1.0
+/c/en/cognizing	FormOf	/c/en/cognize	1.0	0.748
+/c/en/cognizing	FormOf	/c/en/cognising	1.0	0.852
+/c/en/cognizing	RelatedTo	/c/en/cognize	1.0	0.748
+/c/en/cognization	RelatedTo	/c/en/cognizing	1.0	0.955

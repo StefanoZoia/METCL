@@ -1,0 +1,8 @@
+automatic_or_manual: 0.886
+kill_people: 0.839
+war: 0.835
+waging_war: 0.832
+more_dangerous_than_others: 0.822
+more_than_one_weapon: 0.82
+hurt_or_kill_living_things: 0.808
+threaten: 0.803

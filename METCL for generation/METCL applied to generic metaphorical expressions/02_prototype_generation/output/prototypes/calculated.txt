@@ -1,0 +1,8 @@
+mathematics: 0.7434
+calculator: 0.7389
+intend: 0.7325999999999999
+judge: 0.7325999999999999
+reason: 0.7101000000000001
+computer: 0.6975
+-casual: 0.683
+machine: 0.6759000000000001

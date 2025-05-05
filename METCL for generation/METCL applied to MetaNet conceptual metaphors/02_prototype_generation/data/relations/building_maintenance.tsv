@@ -1,0 +1,3 @@
+/c/en/building_maintenance	IsA	/c/en/unnatural_thing	1.0	-0.008
+/c/en/building_maintenance	IsA	/c/en/maintenance	1.0	0.125
+/c/en/home_maintenance	IsA	/c/en/building_maintenance	1.0	0.316

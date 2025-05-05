@@ -1,0 +1,30 @@
+Title: poverty-weed
+
+Head Concept Name: poverty
+Modifier Concept Name: weed
+
+
+
+
+
+T(modifier), field, 0.821
+T(modifier), spring_up_overnight, 0.811
+T(modifier), remove, 0.809
+T(modifier), vascular_plant, 0.803
+T(modifier), unwanted_plant_in_yard, 0.766
+T(modifier), -flower, 0.759
+T(modifier), slang, 0.746
+T(modifier), nother_name_for_pot, 0.737
+
+T(head), financial_condition, 0.865
+T(head), undesirable, 0.833
+T(head), -wealth, 0.792
+T(head), drive_crime, 0.789
+T(head), situation, 0.763
+T(head), curse, 0.75
+T(head), get_money_from, 0.748
+T(head), mumbai, 0.747
+
+
+Result: {"field": 0.821, "spring_up_overnight": 0.811, "remove": 0.809, "vascular_plant": 0.803, "financial_condition": 0.865, "undesirable": 0.833, "-wealth": 0.792, "drive_crime": 0.789, "@scenario_probability": 0.00027715527809082653}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.00027715527809082653]

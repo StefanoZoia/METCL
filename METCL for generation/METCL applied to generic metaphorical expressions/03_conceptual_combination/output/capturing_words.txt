@@ -1,0 +1,25 @@
+Title: capturing-words
+
+Head Concept Name: capturing
+Modifier Concept Name: words
+
+
+
+
+
+T(modifier), speech, 0.869
+T(modifier), communicate_with, 0.861
+T(modifier), sentence, 0.858
+T(modifier), language, 0.854
+T(modifier), hurt_feelings, 0.853
+T(modifier), less_important_than_meaning, 0.85
+T(modifier), hurtful, 0.85
+T(modifier), mean_things, 0.847
+
+T(head), transferring_control, 0.817
+T(head), harmed, 0.777
+T(head), action_on_object, 0.745
+
+
+Result: {"speech": 0.869, "communicate_with": 0.861, "sentence": 0.858, "language": 0.854, "hurt_feelings": 0.853, "less_important_than_meaning": 0.85, "hurtful": 0.85, "transferring_control": 0.817, "@scenario_probability": 0.2401670921694372}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0.2401670921694372]

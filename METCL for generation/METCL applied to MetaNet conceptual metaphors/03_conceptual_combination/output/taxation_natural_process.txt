@@ -1,0 +1,25 @@
+Title: taxation-natural_process
+
+Head Concept Name: taxation
+Modifier Concept Name: natural_process
+
+
+
+
+
+T(modifier), process, 0.787
+T(modifier), require_tools, 0.735
+T(modifier), affect, 0.728
+T(modifier), manage, 0.728
+T(modifier), psychology, 0.722
+T(modifier), look_hung, 0.719
+T(modifier), physical_entity, 0.716
+T(modifier), body_part, 0.715
+
+T(head), imposition, 0.862
+T(head), process_results_in_taxes, 0.731
+T(head), activity_of_government, 0.721
+
+
+Result: {"process": 0.787, "require_tools": 0.735, "affect": 0.728, "manage": 0.728, "psychology": 0.722, "look_hung": 0.719, "imposition": 0.862, "process_results_in_taxes": 0.731, "@scenario_probability": 0.2264555475192787}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0.2264555475192787]

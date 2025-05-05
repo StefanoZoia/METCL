@@ -1,0 +1,7 @@
+/c/en/rods	FormOf	/c/en/rod	1.0	0.907
+/c/en/rods	FormOf	/c/en/rod	1.0	0.907
+/c/en/rods	RelatedTo	/c/en/rod	1.0	0.907
+/c/en/rods	FormOf	/c/en/rod	1.0	0.907
+/c/en/rods	Synonym	/c/en/rods	0.5	1.0
+/c/en/eye	RelatedTo	/c/en/rods	0.17700000000000005	0.021
+/c/en/spoke	RelatedTo	/c/en/rods	0.10599999999999987	0.224

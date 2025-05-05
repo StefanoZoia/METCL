@@ -1,0 +1,4 @@
+establishment: 0.7902
+organization: 0.7659
+custom: 0.7254
+department: 0.6696

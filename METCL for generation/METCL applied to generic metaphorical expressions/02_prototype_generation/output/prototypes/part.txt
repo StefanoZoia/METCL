@@ -1,0 +1,8 @@
+unit: 0.829
+object: 0.824
+concept: 0.81
+meronymy: 0.809
+hair: 0.804
+section: 0.804
+-entire: 0.797
+line: 0.793

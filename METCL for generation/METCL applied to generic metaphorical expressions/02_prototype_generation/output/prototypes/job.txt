@@ -1,0 +1,8 @@
+work: 0.884
+workplace: 0.857
+duty: 0.836
+application: 0.83
+computer_science: 0.813
+working: 0.81
+require_trait: 0.806
+require_tool: 0.806

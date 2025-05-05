@@ -1,0 +1,30 @@
+Title: market-actor
+
+Head Concept Name: market
+Modifier Concept Name: actor
+
+
+
+
+
+T(modifier), star_in_movie, 0.883
+T(modifier), star_in_film, 0.883
+T(modifier), performer, 0.883
+T(modifier), movie, 0.876
+T(modifier), performing_artist, 0.863
+T(modifier), pretend, 0.858
+T(modifier), appear_in_movie, 0.857
+T(modifier), star_in_television_show, 0.844
+
+T(head), trading, 0.868
+T(head), selling_food, 0.864
+T(head), selling_produce, 0.864
+T(head), buy_fresh_vegetables, 0.86
+T(head), industry, 0.855
+T(head), trade, 0.855
+T(head), sell_new_line, 0.844
+T(head), shop, 0.84
+
+
+Result: {"star_in_movie": 0.883, "star_in_film": 0.883, "performer": 0.883, "movie": 0.876, "performing_artist": 0.863, "trading": 0.868, "selling_food": 0.864, "selling_produce": 0.864, "@scenario_probability": 7.848774001017174e-06}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 7.848774001017174e-06]

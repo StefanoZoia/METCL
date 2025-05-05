@@ -1,0 +1,8 @@
+weaponry: 0.919
+protect_against_intruder: 0.878
+harmful: 0.87
+kill: 0.859
+dangerous_thing: 0.854
+killing: 0.852
+threatening: 0.85
+hurt: 0.848

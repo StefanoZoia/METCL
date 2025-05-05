@@ -1,0 +1,3 @@
+-astern: 0.827
+-behind: 0.826
+nautical: 0.765

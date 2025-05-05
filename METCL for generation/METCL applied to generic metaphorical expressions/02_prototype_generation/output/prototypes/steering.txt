@@ -1,0 +1,8 @@
+control: 0.862
+seafaring: 0.834
+guiding: 0.817
+wheel: 0.791
+use_of_devices: 0.753
+action_performed_by_animals: 0.752
+intelligent_agent_activity: 0.737
+driving_to_work: 0.699

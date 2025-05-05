@@ -1,0 +1,30 @@
+Title: time-money
+
+Head Concept Name: time
+Modifier Concept Name: money
+
+
+
+
+
+T(modifier), saving, 0.878
+T(modifier), pay_for, 0.874
+T(modifier), pay_for_sex, 0.874
+T(modifier), money_supply, 0.861
+T(modifier), currency, 0.858
+T(modifier), buy_food, 0.854
+T(modifier), value, 0.851
+T(modifier), banks, 0.851
+
+T(head), time_period, 0.88
+T(head), moment, 0.878
+T(head), linear, 0.874
+T(head), running, 0.871
+T(head), finite, 0.851
+T(head), age, 0.843
+T(head), endless, 0.84
+T(head), absolute, 0.836
+
+
+Result: {"saving": 0.878, "pay_for": 0.874, "pay_for_sex": 0.874, "money_supply": 0.861, "time_period": 0.88, "moment": 0.878, "linear": 0.874, "running": 0.871, "@scenario_probability": 9.596012319375349e-06}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 9.596012319375349e-06]

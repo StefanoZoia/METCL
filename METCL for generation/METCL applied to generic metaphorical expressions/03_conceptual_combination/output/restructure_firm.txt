@@ -1,0 +1,24 @@
+Title: restructure-firm
+
+Head Concept Name: restructure
+Modifier Concept Name: firm
+
+
+
+
+
+T(modifier), business, 0.837
+T(modifier), -soft, 0.795
+T(modifier), organization, 0.793
+T(modifier), -flaccid, 0.783
+T(modifier), uk, 0.765
+T(modifier), economics, 0.749
+T(modifier), slang, 0.745
+T(modifier), australia, 0.73
+
+T(head), structure, 0.86
+T(head), finance, 0.788
+
+
+Result: {"business": 0.837, "-soft": 0.795, "organization": 0.793, "-flaccid": 0.783, "uk": 0.765, "economics": 0.749, "slang": 0.745, "structure": 0.86, "@scenario_probability": 0.8682107081792343}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0.8682107081792343]

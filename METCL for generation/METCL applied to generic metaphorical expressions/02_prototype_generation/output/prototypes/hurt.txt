@@ -1,0 +1,8 @@
+damage: 0.87
+ache: 0.87
+arouse: 0.819
+perceive: 0.807
+indispose: 0.799
+loud_noises: 0.796
+punch: 0.773
+running_with_scissors: 0.77

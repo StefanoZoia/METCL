@@ -1,0 +1,8 @@
+/c/en/getting_contract	HasPrerequisite	/c/en/negotiations	3.4641016151377544	0.073
+/c/en/negotiations	CausesDesire	/c/en/reach_tentative_agreement	1.0	0.493
+/c/en/negotiations	RelatedTo	/c/en/negotiation	1.0	0.881
+/c/en/negotiations	FormOf	/c/en/negotiation	1.0	0.881
+/c/en/negotiations	CapableOf	/c/en/result_in_vote	1.0	0.016
+/c/en/negotiations	FormOf	/c/en/negotiation	1.0	0.881
+/c/en/selling_new_book	Causes	/c/en/negotiations	1.0	0.154
+/c/en/going_on_strike	Causes	/c/en/negotiations	1.0	0.121

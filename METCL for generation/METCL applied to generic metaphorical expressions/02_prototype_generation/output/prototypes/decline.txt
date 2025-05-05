@@ -1,0 +1,8 @@
+decrease: 0.887
+drop: 0.885
+descend: 0.841
+inflect: 0.841
+-increase: 0.82
+condition: 0.807
+-incline: 0.801
+-accept: 0.791

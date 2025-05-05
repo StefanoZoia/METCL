@@ -1,0 +1,30 @@
+Title: corruption-erosion
+
+Head Concept Name: corruption
+Modifier Concept Name: erosion
+
+
+
+
+
+T(modifier), decline, 0.836
+T(modifier), geology, 0.836
+T(modifier), geological_process, 0.835
+T(modifier), environmental_condition, 0.815
+T(modifier), -accretion, 0.803
+T(modifier), -deposition, 0.79
+T(modifier), image_processing, 0.767
+T(modifier), dentistry, 0.762
+
+T(head), immorality, 0.875
+T(head), degradation, 0.854
+T(head), decay, 0.852
+T(head), inducement, 0.807
+T(head), death_of_innocent_people, 0.755
+T(head), linguistics, 0.751
+T(head), unnatural_thing, 0.74
+T(head), computing, 0.735
+
+
+Result: {"decline": 0.836, "geology": 0.836, "geological_process": 0.835, "environmental_condition": 0.815, "immorality": 0.875, "degradation": 0.854, "decay": 0.852, "inducement": 0.807, "@scenario_probability": 0.0002356344280741486}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.0002356344280741486]

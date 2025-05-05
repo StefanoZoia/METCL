@@ -1,0 +1,8 @@
+sailing: 0.93
+watersports: 0.928
+capsize: 0.917
+rowing: 0.912
+ship_cargo: 0.908
+floating_on_water: 0.904
+sailing_against_wind: 0.903
+fishing: 0.899

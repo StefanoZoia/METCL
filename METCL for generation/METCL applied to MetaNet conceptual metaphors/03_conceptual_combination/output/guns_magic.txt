@@ -1,0 +1,30 @@
+Title: guns-magic
+
+Head Concept Name: guns
+Modifier Concept Name: magic
+
+
+
+
+
+T(modifier), supernaturalism, 0.858
+T(modifier), illusion, 0.852
+T(modifier), real, 0.838
+T(modifier), coven, 0.811
+T(modifier), entertainment, 0.809
+T(modifier), performing, 0.767
+T(modifier), physics, 0.764
+T(modifier), air, 0.759
+
+T(head), firearm_shoots_bullets, 0.838
+T(head), shooting_things, 0.824
+T(head), shoot, 0.814
+T(head), weapon, 0.813
+T(head), shot, 0.807
+T(head), gun_shop, 0.805
+T(head), holster, 0.8
+T(head), shoot_bullets, 0.795
+
+
+Result: {"supernaturalism": 0.858, "illusion": 0.852, "real": 0.838, "coven": 0.811, "firearm_shoots_bullets": 0.838, "shooting_things": 0.824, "shoot": 0.814, "weapon": 0.813, "@scenario_probability": 8.866904830880975e-05}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 8.866904830880975e-05]

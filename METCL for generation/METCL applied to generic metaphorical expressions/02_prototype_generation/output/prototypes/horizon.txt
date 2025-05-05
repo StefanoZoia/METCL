@@ -1,0 +1,8 @@
+perspective: 0.848
+scope: 0.842
+stratum: 0.82
+line: 0.818
+profile: 0.814
+great_circle: 0.786
+illusion: 0.75
+geology: 0.747

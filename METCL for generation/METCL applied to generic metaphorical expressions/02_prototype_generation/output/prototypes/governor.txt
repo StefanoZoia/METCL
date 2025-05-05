@@ -1,0 +1,8 @@
+politician: 0.864
+control: 0.811
+limt_engines_speed: 0.802
+head_state: 0.8
+politics: 0.798
+free_criminals: 0.787
+executive: 0.779
+grammar: 0.758

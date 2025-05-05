@@ -1,0 +1,14 @@
+/c/en/field_of_vision	Synonym	/c/en/visual_field	2.0	0.085
+/c/en/visual_field	IsA	/c/en/visual_percept	2.0	1.0
+/c/en/field_of_regard	Synonym	/c/en/visual_field	2.0	0.085
+/c/en/hemianope	RelatedTo	/c/en/visual_field	1.0	0.47
+/c/en/field_of_view	RelatedTo	/c/en/visual_field	1.0	0.085
+/c/en/field_of_vision	Synonym	/c/en/visual_field	1.0	0.085
+/c/en/line_of_sight	RelatedTo	/c/en/visual_field	1.0	0.095
+/c/en/visual_field	RelatedTo	/c/en/field_of_vision	1.0	0.085
+/c/en/hyperfield	RelatedTo	/c/en/visual_field	1.0	-0.009
+/c/en/hemiparalexia	RelatedTo	/c/en/visual_field	1.0	0.276
+/c/en/visual_fields	FormOf	/c/en/visual_field	1.0	1.0
+/c/en/angioscotoma	RelatedTo	/c/en/visual_field	1.0	-0.139
+/c/en/visual_field	RelatedTo	/c/en/field_of_view	1.0	0.085
+/c/en/cinematogram	RelatedTo	/c/en/visual_field	1.0	0.192

@@ -1,0 +1,17 @@
+/c/en/sharks	CapableOf	/c/en/eat_people	3.4641016151377544	0.107
+/c/en/selachian	RelatedTo	/c/en/sharks	1.0	-0.034
+/c/en/sharks	FormOf	/c/en/shark	1.0	0.823
+/c/en/sharks	FormOf	/c/en/shark	1.0	0.823
+/c/en/sharks	HasProperty	/c/en/big	1.0	0.088
+/c/en/chum	RelatedTo	/c/en/sharks	1.0	0.239
+/c/en/feeder_fish	RelatedTo	/c/en/sharks	1.0	0.106
+/c/en/sharks	HasA	/c/en/good_sense_of_smell	1.0	0.002
+/c/en/sharks	AtLocation	/c/en/lake	1.0	0.169
+/c/en/sharks	IsA	/c/en/carnivorous_fish	1.0	-0.049
+/c/en/sharks	CapableOf	/c/en/taste_blood_in_water	1.0	-0.054
+/c/en/sharks	HasA	/c/en/cartilage_skeleton	1.0	0.126
+/c/en/sharks	RelatedTo	/c/en/shark	1.0	0.823
+/c/en/sharks	CapableOf	/c/en/circle_ship	1.0	0.047
+/c/en/sharks	FormOf	/c/en/shark	1.0	0.823
+/c/en/sharks	CapableOf	/c/en/eat_humans	1.0	0.028
+/c/en/attack	RelatedTo	/c/en/sharks	0.5750000000000002	0.056

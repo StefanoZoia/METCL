@@ -1,0 +1,8 @@
+awareness: 0.834
+cognitive_state: 0.831
+more_fundamental_than_space_time: 0.826
+awaking: 0.821
+memory_of_real_things_and_events: 0.797
+subjective_experience: 0.785
+experience: 0.763
+partially_mental_event: 0.753

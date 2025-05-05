@@ -1,0 +1,30 @@
+Title: force-object
+
+Head Concept Name: force
+Modifier Concept Name: object
+
+
+
+
+
+T(modifier), thing, 0.843
+T(modifier), disapprove, 0.832
+T(modifier), become_broken, 0.817
+T(modifier), object_oriented_programming, 0.814
+T(modifier), content, 0.81
+T(modifier), belong_to_person, 0.809
+T(modifier), disappear_from_sight, 0.806
+T(modifier), computer_science, 0.803
+
+T(head), influence, 0.85
+T(head), thrust, 0.846
+T(head), act, 0.819
+T(head), intensity, 0.819
+T(head), organization, 0.813
+T(head), social_group, 0.81
+T(head), physical_phenomenon, 0.803
+T(head), mass, 0.774
+
+
+Result: {"thing": 0.843, "disapprove": 0.832, "become_broken": 0.817, "object_oriented_programming": 0.814, "influence": 0.85, "thrust": 0.846, "act": 0.819, "intensity": 0.819, "@scenario_probability": 4.9360466067077254e-05}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 4.9360466067077254e-05]

@@ -1,0 +1,4 @@
+cable: 0.7452
+instrumentality: 0.6876
+computing: 0.6741
+non_powered_device: 0.6615

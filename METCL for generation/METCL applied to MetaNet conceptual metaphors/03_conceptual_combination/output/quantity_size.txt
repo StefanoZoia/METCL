@@ -1,0 +1,29 @@
+Title: quantity-size
+
+Head Concept Name: quantity
+Modifier Concept Name: size
+
+
+
+
+
+T(modifier), how_big_or_small, 0.898
+T(modifier), magnitude, 0.883
+T(modifier), -bigness, 0.826
+T(modifier), important, 0.825
+T(modifier), change_magnitude, 0.816
+T(modifier), situation, 0.81
+T(modifier), classify, 0.808
+T(modifier), coat, 0.805
+
+T(head), amount, 0.906
+T(head), mathematics, 0.823
+T(head), wins_out_over_quality, 0.802
+T(head), concept, 0.794
+T(head), metrology, 0.78
+T(head), scalar_or_vector_interval, 0.764
+T(head), -want, 0.68
+
+
+Result: {"how_big_or_small": 0.898, "magnitude": 0.883, "-bigness": 0.826, "important": 0.825, "change_magnitude": 0.816, "situation": 0.81, "amount": 0.906, "mathematics": 0.823, "@scenario_probability": 0.0006756583673663145}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0.0006756583673663145]

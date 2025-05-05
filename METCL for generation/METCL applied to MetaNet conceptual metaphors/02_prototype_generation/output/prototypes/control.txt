@@ -1,0 +1,8 @@
+mechanism: 0.833
+test: 0.822
+physiology: 0.814
+bodily_process: 0.809
+activity: 0.809
+relation: 0.806
+see: 0.796
+power: 0.794

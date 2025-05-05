@@ -1,0 +1,8 @@
+mix: 0.869
+motion: 0.819
+agitate: 0.813
+cricket: 0.782
+slang: 0.766
+football: 0.758
+rowing: 0.746
+beanie_baby: 0.745

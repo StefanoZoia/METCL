@@ -1,0 +1,30 @@
+Title: change_of_state-action
+
+Head Concept Name: change_of_state
+Modifier Concept Name: action
+
+
+
+
+
+T(modifier), act, 0.864
+T(modifier), mechanism, 0.839
+T(modifier), -inaction, 0.835
+T(modifier), past_or_present, 0.833
+T(modifier), work, 0.825
+T(modifier), plot, 0.824
+T(modifier), cause_change, 0.812
+T(modifier), cause_effect, 0.812
+
+T(head), change, 0.933
+T(head), difference, 0.826
+T(head), replace, 0.774
+T(head), unpleasant, 0.752
+T(head), exciting, 0.752
+T(head), jar, 0.733
+T(head), dress, 0.733
+T(head), consequence, 0.733
+
+
+Result: {"act": 0.864, "mechanism": 0.839, "-inaction": 0.835, "past_or_present": 0.833, "work": 0.825, "plot": 0.824, "change": 0.933, "difference": 0.826, "@scenario_probability": 0.0002470081681717638}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.0002470081681717638]

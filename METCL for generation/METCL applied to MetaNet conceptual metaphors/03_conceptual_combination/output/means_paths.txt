@@ -1,0 +1,28 @@
+Title: means-paths
+
+Head Concept Name: means
+Modifier Concept Name: paths
+
+
+
+
+
+T(modifier), way, 0.789
+T(modifier), park, 0.788
+T(modifier), route, 0.782
+T(modifier), line, 0.752
+T(modifier), topology, 0.691
+T(modifier), medicine, 0.68
+T(modifier), paganism, 0.679
+T(modifier), graph_theory, 0.674
+
+T(head), goal, 0.861
+T(head), instrumentality, 0.853
+T(head), help, 0.852
+T(head), capital, 0.816
+T(head), implementation, 0.78
+T(head), giving_assistance, 0.709
+
+
+Result: {"way": 0.789, "park": 0.788, "route": 0.782, "goal": 0.861, "instrumentality": 0.853, "help": 0.852, "capital": 0.816, "implementation": 0.78, "@scenario_probability": 0.014459799551952101}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0.014459799551952101]

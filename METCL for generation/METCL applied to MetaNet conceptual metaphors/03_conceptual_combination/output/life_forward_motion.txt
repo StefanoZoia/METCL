@@ -1,0 +1,30 @@
+Title: life-forward_motion
+
+Head Concept Name: life
+Modifier Concept Name: forward_motion
+
+
+
+
+
+T(modifier), change_of_location, 0.742
+T(modifier), develop, 0.741
+T(modifier), motion, 0.737
+T(modifier), -regress, 0.725
+T(modifier), -retrogress, 0.72
+T(modifier), matter_of_perspective, 0.667
+T(modifier), -regression, 0.659
+T(modifier), -failing, 0.641
+
+T(head), living, 0.914
+T(head), finite, 0.886
+T(head), hard, 0.879
+T(head), good, 0.862
+T(head), unpredictable, 0.861
+T(head), water, 0.844
+T(head), absurd, 0.843
+T(head), full_of_chance, 0.841
+
+
+Result: {"change_of_location": 0.742, "living": 0.914, "finite": 0.886, "hard": 0.879, "good": 0.862, "unpredictable": 0.861, "water": 0.844, "absurd": 0.843, "@scenario_probability": 0.0009481773127438524}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.0009481773127438524]

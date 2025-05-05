@@ -1,0 +1,8 @@
+equipment: 0.7929
+wheel: 0.7505999999999999
+adapt: 0.7371
+cog: 0.7317
+mechanism: 0.7299000000000001
+tooth: 0.7074
+cycling: 0.7065
+automotive: 0.7002

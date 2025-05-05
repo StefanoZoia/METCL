@@ -1,0 +1,8 @@
+intellegence: 0.954
+very_important: 0.941
+expanding_one's_mind: 0.908
+expanding_horizons: 0.908
+fun: 0.905
+acquiring_knowledge: 0.901
+learning_material: 0.9
+study: 0.894

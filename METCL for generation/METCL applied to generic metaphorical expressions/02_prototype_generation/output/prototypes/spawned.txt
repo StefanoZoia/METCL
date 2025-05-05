@@ -1,0 +1,7 @@
+egg: 0.7668
+lay: 0.7317
+video_games: 0.6975
+comics_character: 0.6741
+horticulture: 0.6597
+derogatory: 0.6588
+-despawn: 0.6552

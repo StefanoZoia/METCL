@@ -1,0 +1,30 @@
+Title: status-verticality
+
+Head Concept Name: status
+Modifier Concept Name: verticality
+
+
+
+
+
+T(modifier), position, 0.841
+T(modifier), attitude, 0.764
+T(modifier), orientation, 0.751
+T(modifier), point, 0.742
+T(modifier), assumption, 0.737
+T(modifier), put, 0.735
+T(modifier), relation, 0.73
+T(modifier), bodily_property, 0.729
+
+T(head), state, 0.843
+T(head), important_to_people, 0.821
+T(head), social_networking, 0.773
+T(head), legal, 0.765
+T(head), canada, 0.748
+T(head), almost_always_used_to_modify_another_noun, 0.736
+T(head), medicine, 0.733
+T(head), helping, 0.691
+
+
+Result: {"position": 0.841, "attitude": 0.764, "orientation": 0.751, "state": 0.843, "important_to_people": 0.821, "social_networking": 0.773, "legal": 0.765, "canada": 0.748, "@scenario_probability": 0.0004233217678586899}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.0004233217678586899]

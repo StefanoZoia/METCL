@@ -1,0 +1,6 @@
+gesturing: 0.856
+finger: 0.766
+stylus: 0.75
+art: 0.742
+ballpoint_pen: 0.727
+laser: 0.723

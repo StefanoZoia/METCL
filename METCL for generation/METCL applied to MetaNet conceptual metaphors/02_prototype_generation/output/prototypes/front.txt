@@ -1,0 +1,8 @@
+-rear: 0.902
+-back: 0.851
+-behind: 0.842
+confront: 0.838
+appearance: 0.827
+position: 0.823
+atmospheric_phenomenon: 0.814
+lie: 0.812

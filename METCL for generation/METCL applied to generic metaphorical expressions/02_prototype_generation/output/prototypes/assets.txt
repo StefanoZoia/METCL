@@ -1,0 +1,6 @@
+possession: 0.838
+equal_liabilities: 0.805
+finance: 0.803
+legal: 0.771
+company: 0.707
+house: 0.671

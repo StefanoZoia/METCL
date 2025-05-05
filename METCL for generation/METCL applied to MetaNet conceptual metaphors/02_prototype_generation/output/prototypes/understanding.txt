@@ -1,0 +1,8 @@
+knowing: 0.879
+analysing: 0.824
+-misunderstanding: 0.809
+mental_illness: 0.808
+thinking: 0.801
+come_in_sudden_flashes: 0.8
+bridge_cultural_differences: 0.789
+bridge_cultures: 0.789

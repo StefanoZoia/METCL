@@ -1,0 +1,8 @@
+do_so: 0.8127000000000001
+step: 0.8064
+gait: 0.7947000000000001
+stand_up: 0.7938000000000001
+exercise: 0.7929
+move_legs: 0.7875
+put_shoes_on: 0.7866
+have_legs: 0.783

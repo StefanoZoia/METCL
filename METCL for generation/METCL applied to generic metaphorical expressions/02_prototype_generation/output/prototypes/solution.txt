@@ -1,0 +1,8 @@
+solving_problem: 0.917
+method: 0.844
+-problem: 0.834
+mixture: 0.832
+success: 0.81
+statement: 0.803
+set: 0.779
+fluid_substance: 0.776

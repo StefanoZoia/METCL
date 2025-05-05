@@ -1,0 +1,8 @@
+getting_married: 0.886
+pray_to_god: 0.883
+sacred: 0.88
+worship_god: 0.871
+sanctuary: 0.867
+kneeling_in_front_of: 0.861
+church: 0.858
+temple: 0.856

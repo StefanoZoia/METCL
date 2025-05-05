@@ -1,0 +1,16 @@
+/c/en/uprightness	Synonym	/c/en/erectness	2.0	0.161
+/c/en/uprightness	IsA	/c/en/righteousness	2.0	0.642
+/c/en/rectitude	Synonym	/c/en/uprightness	2.0	0.809
+/c/en/uprightness	Synonym	/c/en/verticality	2.0	0.255
+/c/en/rectitude	RelatedTo	/c/en/uprightness	1.0	0.809
+/c/en/uprightness	RelatedTo	/c/en/honest	1.0	0.354
+/c/en/uprightness	RelatedTo	/c/en/moral	1.0	0.402
+/c/en/decent	RelatedTo	/c/en/uprightness	1.0	0.163
+/c/en/uprightnesses	FormOf	/c/en/uprightness	1.0	1.0
+/c/en/uprightness	RelatedTo	/c/en/upright	1.0	0.379
+/c/en/relevate	RelatedTo	/c/en/uprightness	1.0	0.048
+/c/en/uprightness	DerivedFrom	/c/en/upright	1.0	0.379
+/c/en/uprightness	RelatedTo	/c/en/erect	1.0	0.154
+/c/en/uprightness	RelatedTo	/c/en/honourable	1.0	0.254
+/c/en/uprightness	RelatedTo	/c/en/vertical	1.0	0.126
+/c/en/uprightnesses	RelatedTo	/c/en/uprightness	1.0	1.0

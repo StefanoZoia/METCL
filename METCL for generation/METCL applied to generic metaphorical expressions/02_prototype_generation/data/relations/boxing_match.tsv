@@ -1,0 +1,15 @@
+/c/en/boxing_match	IsA	/c/en/match	2.0	0.106
+/c/en/sparring_match	IsA	/c/en/boxing_match	2.0	0.337
+/c/en/prizefight	IsA	/c/en/boxing_match	2.0	0.348
+/c/en/boxing_match	IsA	/c/en/pedestrian_sports_event	1.0	0.068
+/c/en/boxing_match	IsA	/c/en/weight_class_competition	1.0	0.132
+/c/en/boxing_match	IsA	/c/en/time_limited_sporting_event	1.0	-0.02
+/c/en/barroom_brawl	RelatedTo	/c/en/boxing_match	1.0	0.299
+/c/en/boxing_match	IsA	/c/en/fight	1.0	0.198
+/c/en/boxing_match	IsA	/c/en/structured_sports_event	1.0	0.055
+/c/en/boxing_match	IsA	/c/en/combat_sport	1.0	-0.005
+/c/en/boxing_match	IsA	/c/en/boxing_match	1.0	1.0
+/c/en/olympic_boxing_competition	IsA	/c/en/boxing_match	1.0	0.141
+/c/en/boxing_match	IsA	/c/en/mens_sports_competition	1.0	-0.005
+/c/en/boxing_match	ReceivesAction	/c/en/held_in_ring	1.0	-0.022
+/c/en/fight	RelatedTo	/c/en/boxing_match	0.7749999999999999	0.198

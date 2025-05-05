@@ -1,0 +1,8 @@
+infinite: 0.8181
+universe: 0.809
+god: 0.783
+very_old: 0.7749
+galaxy: 0.7578
+earth: 0.7524
+expanding_at_growing_rate: 0.7524
+everything: 0.7479

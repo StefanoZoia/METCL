@@ -1,0 +1,3 @@
+/c/en/physical_objects	CapableOf	/c/en/fall	1.0	0.038
+/c/en/physical_objects	ReceivesAction	/c/en/composed_of_matter	1.0	-0.051
+/c/en/tables	IsA	/c/en/physical_objects	1.0	-0.074

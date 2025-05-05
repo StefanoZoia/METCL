@@ -1,0 +1,4 @@
+scare_people: 0.797
+intelligent_agent_activity: 0.757
+cabinet: 0.744
+used_in_shooting_gallery: 0.661

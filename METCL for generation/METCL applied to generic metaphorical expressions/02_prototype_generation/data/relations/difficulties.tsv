@@ -1,0 +1,12 @@
+/c/en/difficulties	RelatedTo	/c/en/difficulty	2.0	0.806
+/c/en/difficulties	RelatedTo	/c/en/frustration	1.0	0.257
+/c/en/difficulties	FormOf	/c/en/difficulty	1.0	0.806
+/c/en/stand_together	RelatedTo	/c/en/difficulties	1.0	0.168
+/c/en/troublespot	RelatedTo	/c/en/difficulties	1.0	0.546
+/c/en/come_out_in_wash	RelatedTo	/c/en/difficulties	1.0	0.021
+/c/en/walking_frame	RelatedTo	/c/en/difficulties	1.0	0.127
+/c/en/hard_sledding	RelatedTo	/c/en/difficulties	1.0	0.059
+/c/en/trouble_spot	RelatedTo	/c/en/difficulties	1.0	0.608
+/c/en/growing_pains	RelatedTo	/c/en/difficulties	1.0	0.6
+/c/en/difficulties	RelatedTo	/c/en/drowning	1.0	0.048
+/c/en/hold_it_together	RelatedTo	/c/en/difficulties	1.0	0.048

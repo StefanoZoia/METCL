@@ -1,0 +1,28 @@
+Title: down-flu
+
+Head Concept Name: down
+Modifier Concept Name: flu
+
+
+
+
+
+T(modifier), influenza, 0.908
+T(modifier), virus, 0.891
+T(modifier), contagious_disease, 0.875
+T(modifier), make_feel_terrible, 0.796
+T(modifier), uk, 0.74
+T(modifier), abbreviation_for_influenza, 0.729
+
+T(head), -up, 0.872
+T(head), direction, 0.822
+T(head), strike, 0.82
+T(head), turn, 0.812
+T(head), highland, 0.806
+T(head), -upward, 0.802
+T(head), -across, 0.802
+T(head), hair, 0.799
+
+
+Result: {"influenza": 0.908, "virus": 0.891, "contagious_disease": 0.875, "-up": 0.872, "direction": 0.822, "strike": 0.82, "turn": 0.812, "highland": 0.806, "@scenario_probability": 0.003084352993339466}
+Scenario: [1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.003084352993339466]

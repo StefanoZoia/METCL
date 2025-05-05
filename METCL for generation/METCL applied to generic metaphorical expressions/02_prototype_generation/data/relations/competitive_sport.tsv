@@ -1,0 +1,4 @@
+/c/en/soccer_field	UsedFor	/c/en/competitive_sport	1.0	0.088
+/c/en/wrestling	UsedFor	/c/en/competitive_sport	1.0	0.214
+/c/en/sailing	IsA	/c/en/competitive_sport	1.0	0.096
+/c/en/bowling	IsA	/c/en/competitive_sport	1.0	0.061

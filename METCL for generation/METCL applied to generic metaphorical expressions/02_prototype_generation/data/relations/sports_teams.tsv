@@ -1,0 +1,4 @@
+/c/en/both_fortyniners_and_colts	IsA	/c/en/sports_teams	1.0	0.021
+/c/en/sports_teams	CapableOf	/c/en/lose_games	1.0	0.062
+/c/en/captain	RelatedTo	/c/en/sports_teams	0.19200000000000017	-0.022
+/c/en/away	RelatedTo	/c/en/sports_teams	0.10199999999999987	0.002

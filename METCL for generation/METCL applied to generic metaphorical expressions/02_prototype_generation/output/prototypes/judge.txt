@@ -1,0 +1,8 @@
+judge: 0.99
+judge_defendant_to_guilty: 0.963
+above_reproach: 0.959
+judge_races: 0.934
+courtroom: 0.893
+passing_sentence: 0.889
+supreme_court_justice: 0.888
+settle_legal_case: 0.873

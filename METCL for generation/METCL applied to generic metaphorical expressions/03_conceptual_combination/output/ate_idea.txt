@@ -1,0 +1,30 @@
+Title: ate-idea
+
+Head Concept Name: ate
+Modifier Concept Name: idea
+
+
+
+
+
+T(modifier), opinion, 0.841
+T(modifier), plan_for_action, 0.814
+T(modifier), central_meaning_purpose_or_concept, 0.807
+T(modifier), save_project, 0.802
+T(modifier), content, 0.801
+T(modifier), power_revolution, 0.791
+T(modifier), bridge_difference_between_cultures, 0.787
+T(modifier), philosophy, 0.776
+
+T(head), eat, 0.851
+T(head), dine, 0.819
+T(head), chew, 0.815
+T(head), hungry, 0.807
+T(head), get_food, 0.805
+T(head), cook, 0.801
+T(head), buy_food, 0.796
+T(head), food, 0.796
+
+
+Result: {"opinion": 0.841, "plan_for_action": 0.814, "central_meaning_purpose_or_concept": 0.807, "eat": 0.851, "dine": 0.819, "chew": 0.815, "hungry": 0.807, "get_food": 0.805, "@scenario_probability": 6.633458353901812e-05}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 6.633458353901812e-05]

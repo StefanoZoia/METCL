@@ -1,0 +1,8 @@
+/c/en/waters	Synonym	/c/en/ethel_waters	2.0	0.74
+/c/en/ethel_waters	occupation	/c/en/singing	0.5	0.269
+/c/en/ethel_waters	genre	/c/en/jazz	0.5	0.256
+/c/en/ethel_waters	Synonym	/c/en/ethel_waters	0.5	1.0
+/c/en/ethel_waters	genre	/c/en/gospel_music	0.5	0.301
+/c/en/ethel_waters	occupation	/c/en/actor	0.5	0.21
+/c/en/ethel_waters	IsA	/c/en/musical_artist	0.5	0.207
+/c/en/ethel_waters	genre	/c/en/blues	0.5	0.382

@@ -1,0 +1,30 @@
+Title: sympathy-heat
+
+Head Concept Name: sympathy
+Modifier Concept Name: heat
+
+
+
+
+
+T(modifier), form_of_energy, 0.911
+T(modifier), temperature, 0.884
+T(modifier), oven, 0.864
+T(modifier), -cold, 0.861
+T(modifier), heater, 0.845
+T(modifier), cooking, 0.842
+T(modifier), energy, 0.836
+T(modifier), emotionality, 0.821
+
+T(head), -antipathy, 0.854
+T(head), affinity, 0.841
+T(head), feeling, 0.836
+T(head), emotion, 0.827
+T(head), inclination, 0.824
+T(head), -contempt, 0.802
+T(head), -apathy, 0.772
+T(head), forgiving, 0.74
+
+
+Result: {"form_of_energy": 0.911, "temperature": 0.884, "oven": 0.864, "-cold": 0.861, "heater": 0.845, "cooking": 0.842, "-antipathy": 0.854, "affinity": 0.841, "@scenario_probability": 5.267239743088891e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 5.267239743088891e-05]

@@ -1,0 +1,13 @@
+/c/en/assign	RelatedTo	/c/en/categories	1.0	0.247
+/c/en/sex	RelatedTo	/c/en/categories	1.0	0.074
+/c/en/folksonomy	RelatedTo	/c/en/categories	1.0	-0.039
+/c/en/across_board	RelatedTo	/c/en/categories	1.0	0.003
+/c/en/tariff	RelatedTo	/c/en/categories	1.0	0.202
+/c/en/adjunction	RelatedTo	/c/en/categories	1.0	0.264
+/c/en/categorical	RelatedTo	/c/en/categories	1.0	0.53
+/c/en/pigeonholing	RelatedTo	/c/en/categories	1.0	0.415
+/c/en/categories	RelatedTo	/c/en/category	1.0	0.882
+/c/en/distribute	RelatedTo	/c/en/categories	1.0	0.079
+/c/en/racialism	RelatedTo	/c/en/categories	1.0	0.158
+/c/en/categories	FormOf	/c/en/category	1.0	0.882
+/c/en/subgenre	RelatedTo	/c/en/categories	1.0	0.284

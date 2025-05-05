@@ -1,0 +1,8 @@
+get: 0.7785
+situate: 0.7424999999999999
+medicine: 0.737
+british: 0.6921
+disease: 0.6867
+uk: 0.6867
+new_england: 0.684
+ireland: 0.6786

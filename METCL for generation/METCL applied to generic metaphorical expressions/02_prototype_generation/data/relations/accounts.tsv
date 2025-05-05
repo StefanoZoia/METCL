@@ -1,0 +1,17 @@
+/c/en/bank	RelatedTo	/c/en/accounts	1.2389999999999999	0.392
+/c/en/countinghouse	RelatedTo	/c/en/accounts	1.0	0.062
+/c/en/accounts	RelatedTo	/c/en/account	1.0	0.83
+/c/en/general_ledger	UsedFor	/c/en/accounts	1.0	0.018
+/c/en/book_keeping	RelatedTo	/c/en/accounts	1.0	0.085
+/c/en/accounts	FormOf	/c/en/account	1.0	0.83
+/c/en/ledger	UsedFor	/c/en/accounts	1.0	0.449
+/c/en/accounts	FormOf	/c/en/account	1.0	0.83
+/c/en/purser	RelatedTo	/c/en/accounts	1.0	0.207
+/c/en/accounts	FormOf	/c/en/account	1.0	0.83
+/c/en/accounts	DefinedAs	/c/en/plural_form_of_account	1.0	-0.012
+/c/en/banks	HasA	/c/en/accounts	1.0	0.362
+/c/en/vestry_clerk	RelatedTo	/c/en/accounts	1.0	0.018
+/c/en/accounts	IsA	/c/en/settled_monthy	1.0	0.089
+/c/en/accounts	RelatedTo	/c/en/account	1.0	0.83
+/c/en/number	RelatedTo	/c/en/accounts	0.18299999999999983	0.095
+/c/en/expense	RelatedTo	/c/en/accounts	0.11899999999999977	0.228

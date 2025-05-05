@@ -1,0 +1,30 @@
+Title: idea-person
+
+Head Concept Name: idea
+Modifier Concept Name: person
+
+
+
+
+
+T(modifier), wave_to_friend, 0.94
+T(modifier), wave_goodbye, 0.94
+T(modifier), wave_to_another_person, 0.94
+T(modifier), wave_at_another_person, 0.94
+T(modifier), wave_hello_or_goodbye, 0.909
+T(modifier), wait_patiently, 0.908
+T(modifier), thank_god, 0.895
+T(modifier), god, 0.876
+
+T(head), opinion, 0.841
+T(head), plan_for_action, 0.814
+T(head), central_meaning_purpose_or_concept, 0.807
+T(head), save_project, 0.802
+T(head), content, 0.801
+T(head), power_revolution, 0.791
+T(head), bridge_difference_between_cultures, 0.787
+T(head), philosophy, 0.776
+
+
+Result: {"wave_to_friend": 0.94, "wave_goodbye": 0.94, "wave_to_another_person": 0.94, "wave_at_another_person": 0.94, "wave_hello_or_goodbye": 0.909, "wait_patiently": 0.908, "thank_god": 0.895, "opinion": 0.841, "@scenario_probability": 8.483289543921044e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 8.483289543921044e-05]

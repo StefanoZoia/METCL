@@ -1,0 +1,8 @@
+election: 0.868
+election_day: 0.867
+elect_people: 0.84
+secret: 0.829
+matter_lot: 0.779
+making_decisions: 0.774
+civic_responsibility: 0.765
+activities: 0.752

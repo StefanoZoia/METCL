@@ -1,0 +1,3 @@
+accept: 0.7614
+job_was_impossible_to_do: 0.7371
+proscribed: 0.6678000000000001

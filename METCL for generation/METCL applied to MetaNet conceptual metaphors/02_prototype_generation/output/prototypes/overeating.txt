@@ -1,0 +1,8 @@
+indigestion: 0.814
+indigestino: 0.811
+double_weight: 0.808
+farting: 0.799
+cause_to_have_indigestion: 0.795
+cause_indigestion: 0.795
+getting_fat: 0.751
+exercise: 0.742

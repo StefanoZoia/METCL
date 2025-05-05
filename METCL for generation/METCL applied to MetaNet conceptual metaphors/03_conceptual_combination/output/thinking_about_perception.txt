@@ -1,0 +1,21 @@
+Title: thinking_about-perception
+
+Head Concept Name: thinking_about
+Modifier Concept Name: perception
+
+
+
+
+
+T(modifier), cognition, 0.884
+T(modifier), conceptualization, 0.846
+T(modifier), basic_cognitive_process, 0.809
+T(modifier), sight, 0.765
+
+T(head), contemplating, 0.866
+T(head), work_of_art, 0.686
+T(head), piece_of_information, 0.664
+
+
+Result: {"cognition": 0.884, "conceptualization": 0.846, "basic_cognitive_process": 0.809, "sight": 0.765, "contemplating": 0.866, "work_of_art": 0.686, "@scenario_probability": 9.23876392628598}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 9.23876392628598]

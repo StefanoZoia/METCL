@@ -1,0 +1,3 @@
+imposition: 0.862
+process_results_in_taxes: 0.731
+activity_of_government: 0.721

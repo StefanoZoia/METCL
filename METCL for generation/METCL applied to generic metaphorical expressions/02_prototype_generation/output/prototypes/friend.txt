@@ -1,0 +1,8 @@
+friend's_wedding: 0.91
+confiding: 0.893
+companionship: 0.881
+-defriend: 0.88
+-unfriend: 0.874
+confide_in: 0.865
+coming_home: 0.86
+-enemy: 0.86

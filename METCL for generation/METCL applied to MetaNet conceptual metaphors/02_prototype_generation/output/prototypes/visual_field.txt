@@ -1,0 +1,2 @@
+visual_percept: 0.946
+percept: 0.7713

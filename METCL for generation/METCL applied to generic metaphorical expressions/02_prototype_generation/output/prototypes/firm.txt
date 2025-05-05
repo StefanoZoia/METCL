@@ -1,0 +1,8 @@
+business: 0.837
+-soft: 0.795
+organization: 0.793
+-flaccid: 0.783
+uk: 0.765
+economics: 0.749
+slang: 0.745
+australia: 0.73

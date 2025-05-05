@@ -1,0 +1,8 @@
+telling: 0.911
+narrative: 0.873
+reading: 0.869
+interesting: 0.866
+fiction: 0.863
+entertainment: 0.846
+newspaper: 0.842
+illustrate_point: 0.83

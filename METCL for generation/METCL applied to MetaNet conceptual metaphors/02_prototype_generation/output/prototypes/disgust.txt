@@ -1,0 +1,6 @@
+dislike: 0.884
+emotion: 0.855
+repel: 0.842
+stimulate: 0.814
+-elevation: 0.734
+leave_line: 0.65

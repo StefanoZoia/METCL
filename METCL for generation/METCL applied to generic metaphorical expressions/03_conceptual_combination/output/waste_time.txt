@@ -1,0 +1,30 @@
+Title: waste-time
+
+Head Concept Name: waste
+Modifier Concept Name: time
+
+
+
+
+
+T(modifier), time_period, 0.88
+T(modifier), moment, 0.878
+T(modifier), linear, 0.874
+T(modifier), running, 0.871
+T(modifier), finite, 0.851
+T(modifier), age, 0.843
+T(modifier), endless, 0.84
+T(modifier), absolute, 0.836
+
+T(head), waste_bin, 0.863
+T(head), trash, 0.853
+T(head), material, 0.843
+T(head), enfeeble, 0.821
+T(head), devolve, 0.82
+T(head), garbage, 0.814
+T(head), -recycle, 0.808
+T(head), emaciate, 0.804
+
+
+Result: {"time_period": 0.88, "moment": 0.878, "linear": 0.874, "running": 0.871, "finite": 0.851, "waste_bin": 0.863, "trash": 0.853, "material": 0.843, "@scenario_probability": 2.88591144666214e-05}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 2.88591144666214e-05]

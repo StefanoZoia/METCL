@@ -1,0 +1,8 @@
+lose_weight: 0.853
+losing_weight: 0.852
+fast: 0.831
+fare: 0.823
+eat_healthily: 0.819
+japan: 0.806
+animal: 0.804
+legislature: 0.801

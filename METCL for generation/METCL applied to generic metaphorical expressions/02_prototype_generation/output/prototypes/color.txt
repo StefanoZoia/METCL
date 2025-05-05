@@ -1,0 +1,8 @@
+colour: 0.855
+-white: 0.849
+-black: 0.847
+decorate: 0.827
+change: 0.827
+important_to_who_painting: 0.823
+neurological_processes: 0.82
+color_perception_category: 0.813

@@ -1,0 +1,14 @@
+/c/en/biscuit	RelatedTo	/c/en/infested	1.0	0.0
+/c/en/noninfested	DerivedFrom	/c/en/infested	1.0	0.164
+/c/en/uninfested	RelatedTo	/c/en/infested	1.0	0.236
+/c/en/infested	FormOf	/c/en/infest	1.0	0.772
+/c/en/spidered	RelatedTo	/c/en/infested	1.0	0.264
+/c/en/sny	RelatedTo	/c/en/infested	1.0	0.207
+/c/en/hoatching	RelatedTo	/c/en/infested	1.0	-0.106
+/c/en/salamandrous	RelatedTo	/c/en/infested	1.0	0.028
+/c/en/flea_ridden	RelatedTo	/c/en/infested	1.0	0.14
+/c/en/ticky	RelatedTo	/c/en/infested	1.0	0.269
+/c/en/mothy	RelatedTo	/c/en/infested	1.0	0.177
+/c/en/infested	RelatedTo	/c/en/infest	1.0	0.772
+/c/en/noninfested	RelatedTo	/c/en/infested	1.0	0.164
+/c/en/uninfested	DerivedFrom	/c/en/infested	1.0	0.236

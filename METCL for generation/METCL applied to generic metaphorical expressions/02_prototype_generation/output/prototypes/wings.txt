@@ -1,0 +1,8 @@
+flying: 0.924
+flapping: 0.919
+fly: 0.878
+airplanes: 0.851
+soaring: 0.849
+birds: 0.841
+glide: 0.84
+airplane: 0.837

@@ -1,0 +1,30 @@
+Title: course-life
+
+Head Concept Name: course
+Modifier Concept Name: life
+
+
+
+
+
+T(modifier), living, 0.914
+T(modifier), finite, 0.886
+T(modifier), hard, 0.879
+T(modifier), good, 0.862
+T(modifier), unpredictable, 0.861
+T(modifier), water, 0.844
+T(modifier), absurd, 0.843
+T(modifier), full_of_chance, 0.841
+
+T(head), coursework, 0.842
+T(head), education, 0.84
+T(head), direction, 0.835
+T(head), meal, 0.824
+T(head), series, 0.816
+T(head), action, 0.813
+T(head), traverse, 0.811
+T(head), nutriment, 0.809
+
+
+Result: {"living": 0.914, "finite": 0.886, "hard": 0.879, "good": 0.862, "unpredictable": 0.861, "water": 0.844, "absurd": 0.843, "coursework": 0.842, "@scenario_probability": 2.904220874791527e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2.904220874791527e-05]

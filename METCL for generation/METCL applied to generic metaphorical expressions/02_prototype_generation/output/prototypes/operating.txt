@@ -1,0 +1,5 @@
+manipulate: 0.7452
+direct: 0.7236
+push_button: 0.7038000000000001
+medicine: 0.6795
+mouse: 0.6669

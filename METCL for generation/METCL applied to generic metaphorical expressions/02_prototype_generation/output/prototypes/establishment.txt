@@ -1,0 +1,8 @@
+organization: 0.837
+-disestablishment: 0.834
+structure: 0.815
+ecology: 0.808
+proof: 0.802
+natural_process: 0.799
+commercial_enterprise: 0.784
+-abolition: 0.78

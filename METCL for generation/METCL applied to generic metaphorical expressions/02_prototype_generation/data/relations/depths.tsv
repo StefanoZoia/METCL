@@ -1,0 +1,15 @@
+/c/en/back_of_beyond	IsA	/c/en/depths	2.0	-0.006
+/c/en/depths	IsA	/c/en/region	2.0	0.133
+/c/en/depths	FormOf	/c/en/depth	1.0	0.72
+/c/en/o.d	RelatedTo	/c/en/depths	1.0	0.174
+/c/en/bathysphere	RelatedTo	/c/en/depths	1.0	0.411
+/c/en/depths	RelatedTo	/c/en/deepest	1.0	0.687
+/c/en/bathyscaphe	RelatedTo	/c/en/depths	1.0	0.388
+/c/en/depths	RelatedTo	/c/en/severe	1.0	0.061
+/c/en/depths	RelatedTo	/c/en/remote	1.0	0.093
+/c/en/depths	RelatedTo	/c/en/involved	1.0	0.133
+/c/en/depths	RelatedTo	/c/en/nadir	1.0	0.335
+/c/en/depths	RelatedTo	/c/en/depth	1.0	0.72
+/c/en/depths	FormOf	/c/en/depth	1.0	0.72
+/c/en/depths	HasContext	/c/en/literary	1.0	0.026
+/c/en/abyssopelagic	RelatedTo	/c/en/depths	1.0	0.541

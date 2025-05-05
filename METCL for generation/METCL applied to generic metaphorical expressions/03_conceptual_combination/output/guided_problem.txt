@@ -1,0 +1,30 @@
+Title: guided-problem
+
+Head Concept Name: guided
+Modifier Concept Name: problem
+
+
+
+
+
+T(modifier), president_bush, 0.91
+T(modifier), quandry, 0.896
+T(modifier), difficulty, 0.884
+T(modifier), question, 0.863
+T(modifier), slow_work, 0.847
+T(modifier), -solution, 0.834
+T(modifier), -answer, 0.768
+T(modifier), cogitate, 0.763
+
+T(head), -ballistic, 0.764
+T(head), leader, 0.751
+T(head), teach_follower, 0.743
+T(head), direct, 0.737
+T(head), orient, 0.728
+T(head), structure, 0.726
+T(head), point_out_scenic_features, 0.726
+T(head), point_in_right_direction, 0.726
+
+
+Result: {"president_bush": 0.91, "quandry": 0.896, "difficulty": 0.884, "question": 0.863, "slow_work": 0.847, "-solution": 0.834, "-answer": 0.768, "-ballistic": 0.764, "@scenario_probability": 0.000575405037525713}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0.000575405037525713]

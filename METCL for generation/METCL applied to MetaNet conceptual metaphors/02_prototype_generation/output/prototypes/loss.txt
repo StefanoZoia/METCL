@@ -1,0 +1,8 @@
+losing_or_being_lost: 0.898
+-profit: 0.851
+failure: 0.849
+disadvantage: 0.839
+decline: 0.837
+-gain: 0.832
+experience: 0.818
+-victory: 0.814

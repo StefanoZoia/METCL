@@ -1,0 +1,8 @@
+tendency: 0.866
+request: 0.864
+arousal: 0.843
+feeling: 0.84
+sin: 0.76
+-have: 0.743
+playing_guitar: 0.742
+going_to_zoo: 0.727

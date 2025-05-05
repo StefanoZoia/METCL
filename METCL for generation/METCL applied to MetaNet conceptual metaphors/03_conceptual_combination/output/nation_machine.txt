@@ -1,0 +1,30 @@
+Title: nation-machine
+
+Head Concept Name: nation
+Modifier Concept Name: machine
+
+
+
+
+
+T(modifier), wash_dishes, 0.908
+T(modifier), wash_clothes, 0.908
+T(modifier), wash_car, 0.908
+T(modifier), wash_dirty_clothes, 0.908
+T(modifier), vacuum, 0.878
+T(modifier), dispense_snacks, 0.878
+T(modifier), dispense_popcorn, 0.878
+T(modifier), dispense_cigarettes, 0.878
+
+T(head), united_states, 0.857
+T(head), people, 0.836
+T(head), confederation, 0.831
+T(head), ready_troops, 0.808
+T(head), weather_storm_of_war, 0.789
+T(head), arm_citizens, 0.788
+T(head), -state, 0.787
+T(head), legal, 0.744
+
+
+Result: {"wash_dishes": 0.908, "wash_clothes": 0.908, "wash_car": 0.908, "wash_dirty_clothes": 0.908, "dispense_snacks": 0.878, "dispense_popcorn": 0.878, "dispense_cigarettes": 0.878, "united_states": 0.857, "@scenario_probability": 6.243631467171994e-05}
+Scenario: [1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 6.243631467171994e-05]

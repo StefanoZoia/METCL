@@ -1,0 +1,29 @@
+Title: diplomacy-war
+
+Head Concept Name: diplomacy
+Modifier Concept Name: war
+
+
+
+
+
+T(modifier), conflict, 0.888
+T(modifier), bad_thing, 0.88
+T(modifier), fight, 0.865
+T(modifier), fighting_between_countries, 0.859
+T(modifier), battle, 0.858
+T(modifier), -peace, 0.853
+T(modifier), campaign, 0.849
+T(modifier), commiting_genocide, 0.847
+
+T(head), negotiation, 0.865
+T(head), bridge_differences, 0.853
+T(head), reaching_tentative_agreement, 0.765
+T(head), game, 0.717
+T(head), handling_proposals, 0.704
+T(head), book, 0.696
+T(head), meeting_people, 0.654
+
+
+Result: {"conflict": 0.888, "bad_thing": 0.88, "fight": 0.865, "fighting_between_countries": 0.859, "battle": 0.858, "-peace": 0.853, "negotiation": 0.865, "bridge_differences": 0.853, "@scenario_probability": 0.0014999280822689004}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0.0014999280822689004]

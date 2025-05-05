@@ -1,0 +1,26 @@
+Title: anger-substance
+
+Head Concept Name: anger
+Modifier Concept Name: substance
+
+
+
+
+
+T(modifier), part, 0.816
+T(modifier), physical_entity, 0.794
+T(modifier), container, 0.779
+T(modifier), theology, 0.744
+
+T(head), emotional_arousal, 0.895
+T(head), emotion, 0.874
+T(head), frustration, 0.864
+T(head), frustration_at_inability_to_control, 0.856
+T(head), arouse, 0.838
+T(head), unpleasant, 0.815
+T(head), feel, 0.809
+T(head), cause_people_to_yell, 0.807
+
+
+Result: {"part": 0.816, "emotional_arousal": 0.895, "emotion": 0.874, "frustration": 0.864, "frustration_at_inability_to_control": 0.856, "arouse": 0.838, "unpleasant": 0.815, "feel": 0.809, "@scenario_probability": 0.05867040028098}
+Scenario: [1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.05867040028098]

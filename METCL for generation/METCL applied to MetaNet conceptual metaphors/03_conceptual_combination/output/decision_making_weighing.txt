@@ -1,0 +1,25 @@
+Title: decision_making-weighing
+
+Head Concept Name: decision_making
+Modifier Concept Name: weighing
+
+
+
+
+
+T(modifier), consideration, 0.805
+T(modifier), thoughtfulness, 0.791
+T(modifier), discussion, 0.785
+T(modifier), scale, 0.772
+T(modifier), measure, 0.763
+T(modifier), quantify, 0.758
+T(modifier), count, 0.739
+T(modifier), nautical, 0.678
+
+T(head), higher_cognitive_process, 0.813
+T(head), council, 0.798
+T(head), making, 0.786
+
+
+Result: {"consideration": 0.805, "thoughtfulness": 0.791, "discussion": 0.785, "scale": 0.772, "measure": 0.763, "quantify": 0.758, "higher_cognitive_process": 0.813, "council": 0.798, "@scenario_probability": 0.2604093981720161}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0.2604093981720161]

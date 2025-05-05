@@ -1,0 +1,14 @@
+/c/en/sinks	FormOf	/c/en/sink	2.0	0.903
+/c/en/do_housework	HasSubevent	/c/en/sinks	1.0	-0.008
+/c/en/sinks	CapableOf	/c/en/block_up	1.0	-0.067
+/c/en/sinks	FormOf	/c/en/sink	1.0	0.903
+/c/en/sinks	RelatedTo	/c/en/sink	1.0	0.903
+/c/en/sinks	FormOf	/c/en/sink	1.0	0.903
+/c/en/bathrooms	HasA	/c/en/sinks	1.0	0.542
+/c/en/sinks	AtLocation	/c/en/doctor	1.0	0.085
+/c/en/sinks	ReceivesAction	/c/en/used_in_cleaning	1.0	0.016
+/c/en/sinks	FormOf	/c/en/sink	1.0	0.903
+/c/en/soap	RelatedTo	/c/en/sinks	0.6499999999999999	0.239
+/c/en/water	RelatedTo	/c/en/sinks	0.16800000000000015	0.167
+/c/en/leak	RelatedTo	/c/en/sinks	0.16800000000000015	0.143
+/c/en/tap	RelatedTo	/c/en/sinks	0.1080000000000001	0.193

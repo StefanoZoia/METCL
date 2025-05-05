@@ -1,0 +1,5 @@
+/c/en/machinist	CapableOf	/c/en/machine_parts	2.0	0.359
+/c/en/lathe	CapableOf	/c/en/machine_parts	1.0	0.375
+/c/en/mechanics	CapableOf	/c/en/machine_parts	1.0	0.165
+/c/en/mechanic	CapableOf	/c/en/machine_parts	1.0	0.208
+/c/en/factory	CapableOf	/c/en/machine_parts	1.0	0.196

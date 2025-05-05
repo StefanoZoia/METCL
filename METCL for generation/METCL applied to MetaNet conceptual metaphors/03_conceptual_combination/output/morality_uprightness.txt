@@ -1,0 +1,28 @@
+Title: morality-uprightness
+
+Head Concept Name: morality
+Modifier Concept Name: uprightness
+
+
+
+
+
+T(modifier), righteousness, 0.9
+T(modifier), morality, 0.781
+T(modifier), position, 0.757
+T(modifier), goalpost, 0.756
+T(modifier), piano, 0.743
+T(modifier), stance, 0.733
+T(modifier), structural_member, 0.715
+T(modifier), theology, 0.704
+
+T(head), -amorality, 0.859
+T(head), quality, 0.828
+T(head), needless, 0.821
+T(head), belief_system, 0.818
+T(head), -baseness, 0.772
+T(head), archaic, 0.748
+
+
+Result: {"righteousness": 0.9, "morality": 0.781, "position": 0.757, "-amorality": 0.859, "quality": 0.828, "needless": 0.821, "belief_system": 0.818, "-baseness": 0.772, "@scenario_probability": 0.006983899922977288}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0.006983899922977288]

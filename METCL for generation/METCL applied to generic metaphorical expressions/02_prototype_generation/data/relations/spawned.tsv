@@ -1,0 +1,5 @@
+/c/en/spawned	FormOf	/c/en/spawn	1.0	0.911
+/c/en/spawned	RelatedTo	/c/en/spawn	1.0	0.911
+/c/en/unspawned	DerivedFrom	/c/en/spawned	1.0	0.041
+/c/en/spawned	FormOf	/c/en/spawn	1.0	0.911
+/c/en/child	RelatedTo	/c/en/spawned	0.2530000000000001	0.286

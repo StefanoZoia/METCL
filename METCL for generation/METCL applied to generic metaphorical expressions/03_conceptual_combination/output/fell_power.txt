@@ -1,0 +1,30 @@
+Title: fell-power
+
+Head Concept Name: fell
+Modifier Concept Name: power
+
+
+
+
+
+T(modifier), fleeting, 0.831
+T(modifier), physics, 0.809
+T(modifier), battery, 0.798
+T(modifier), physical_phenomenon, 0.796
+T(modifier), provide, 0.793
+T(modifier), causal_agent, 0.791
+T(modifier), quality, 0.789
+T(modifier), -impotence, 0.772
+
+T(head), cut, 0.854
+T(head), descend, 0.842
+T(head), killing, 0.809
+T(head), sew, 0.789
+T(head), seam, 0.784
+T(head), -stood_up, 0.772
+T(head), -stood, 0.772
+T(head), -remained_standing, 0.766
+
+
+Result: {"fleeting": 0.831, "physics": 0.809, "battery": 0.798, "physical_phenomenon": 0.796, "provide": 0.793, "cut": 0.854, "descend": 0.842, "killing": 0.809, "@scenario_probability": 0.00010981015937648845}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0.00010981015937648845]

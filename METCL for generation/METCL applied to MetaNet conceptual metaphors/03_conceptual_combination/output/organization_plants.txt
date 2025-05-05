@@ -1,0 +1,30 @@
+Title: organization-plants
+
+Head Concept Name: organization
+Modifier Concept Name: plants
+
+
+
+
+
+T(modifier), poisonous, 0.904
+T(modifier), garden, 0.88
+T(modifier), flower_in_sun, 0.869
+T(modifier), purple_in_color, 0.868
+T(modifier), produce_oxygen, 0.864
+T(modifier), good_for_environment, 0.863
+T(modifier), edible, 0.863
+T(modifier), greenhouse, 0.862
+
+T(head), honor_strong_person, 0.9
+T(head), good_thing, 0.847
+T(head), preparedness, 0.837
+T(head), social_group, 0.82
+T(head), orderliness, 0.819
+T(head), administration, 0.813
+T(head), activity, 0.813
+T(head), structure, 0.793
+
+
+Result: {"poisonous": 0.904, "garden": 0.88, "flower_in_sun": 0.869, "purple_in_color": 0.868, "produce_oxygen": 0.864, "good_for_environment": 0.863, "edible": 0.863, "honor_strong_person": 0.9, "@scenario_probability": 2.8205331456350422e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2.8205331456350422e-05]

@@ -1,0 +1,5 @@
+enjoying_scent_of_daisy: 0.831
+knowing_when_food_has_spoiled: 0.802
+soap: 0.728
+buy_fresh_fruits_and_vegetables: 0.706
+-touch: 0.646

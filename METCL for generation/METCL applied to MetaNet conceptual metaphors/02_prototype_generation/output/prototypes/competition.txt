@@ -1,0 +1,8 @@
+competing: 0.881
+natural: 0.825
+business_relation: 0.803
+group_action: 0.802
+conflict: 0.788
+-cooperation: 0.78
+riding_bicycle: 0.776
+sports: 0.77

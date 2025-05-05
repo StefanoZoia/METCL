@@ -1,0 +1,6 @@
+/c/en/worshippers	AtLocation	/c/en/church	4.0	0.622
+/c/en/worshippers	FormOf	/c/en/worshipper	1.0	0.672
+/c/en/aspersorium	RelatedTo	/c/en/worshippers	1.0	-0.05
+/c/en/worshippers	AtLocation	/c/en/synagogue	1.0	0.454
+/c/en/worshippers	RelatedTo	/c/en/worshipper	1.0	0.672
+/c/en/church	RelatedTo	/c/en/worshippers	0.16800000000000015	0.622

@@ -1,0 +1,7 @@
+game: 0.795
+tabletop_game: 0.791
+shuffle: 0.784
+discard: 0.78
+doubling: 0.761
+call: 0.742
+lead: 0.739

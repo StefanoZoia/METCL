@@ -1,0 +1,30 @@
+Title: community-family
+
+Head Concept Name: community
+Modifier Concept Name: family
+
+
+
+
+
+T(modifier), relatives_house, 0.898
+T(modifier), kin, 0.881
+T(modifier), nice, 0.871
+T(modifier), lineage, 0.856
+T(modifier), house, 0.847
+T(modifier), family_unit, 0.842
+T(modifier), taxonomic_group, 0.837
+T(modifier), unit, 0.833
+
+T(head), value_good_morals, 0.851
+T(head), broken, 0.845
+T(head), judge_leader, 0.843
+T(head), trade_services_for_money, 0.839
+T(head), commit_genocide, 0.838
+T(head), church, 0.837
+T(head), people, 0.832
+T(head), group, 0.832
+
+
+Result: {"relatives_house": 0.898, "kin": 0.881, "nice": 0.871, "lineage": 0.856, "house": 0.847, "value_good_morals": 0.851, "broken": 0.845, "judge_leader": 0.843, "@scenario_probability": 1.5629663922703028e-05}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 1.5629663922703028e-05]

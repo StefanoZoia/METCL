@@ -1,0 +1,8 @@
+coursework: 0.842
+education: 0.84
+direction: 0.835
+meal: 0.824
+series: 0.816
+action: 0.813
+traverse: 0.811
+nutriment: 0.809

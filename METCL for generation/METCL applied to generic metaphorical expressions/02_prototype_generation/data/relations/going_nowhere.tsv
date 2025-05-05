@@ -1,0 +1,3 @@
+/c/en/circular_route	UsedFor	/c/en/going_nowhere	1.0	-0.004
+/c/en/not_going_anywhere	Synonym	/c/en/going_nowhere	1.0	0.13
+/c/en/congress	IsA	/c/en/going_nowhere	1.0	0.005

@@ -1,0 +1,26 @@
+Title: rights-attacking
+
+Head Concept Name: rights
+Modifier Concept Name: attacking
+
+
+
+
+
+T(modifier), advancing_into_battle, 0.767
+T(modifier), metal_rod, 0.758
+T(modifier), action_on_object, 0.746
+T(modifier), weapon, 0.679
+
+T(head), opposite_of_left, 0.77
+T(head), right_wrong, 0.769
+T(head), -left, 0.764
+T(head), entering_into_contract, 0.761
+T(head), -wrong, 0.754
+T(head), hand, 0.751
+T(head), common, 0.748
+T(head), turn, 0.747
+
+
+Result: {"advancing_into_battle": 0.767, "metal_rod": 0.758, "opposite_of_left": 0.77, "right_wrong": 0.769, "-left": 0.764, "entering_into_contract": 0.761, "-wrong": 0.754, "hand": 0.751, "@scenario_probability": 0.0589156595317875}
+Scenario: [1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.0589156595317875]

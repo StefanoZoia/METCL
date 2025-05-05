@@ -1,0 +1,4 @@
+-impurity: 0.877
+condition: 0.798
+-pollution: 0.79
+distrust: 0.738

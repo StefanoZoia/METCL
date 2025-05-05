@@ -1,0 +1,8 @@
+preaching: 0.913
+worship: 0.9
+christian_community: 0.896
+parish_within: 0.893
+weddings: 0.887
+christendom: 0.882
+christenings: 0.876
+presbytery: 0.864

@@ -1,0 +1,24 @@
+Title: welfare-entrapment
+
+Head Concept Name: welfare
+Modifier Concept Name: entrapment
+
+
+
+
+
+T(modifier), law, 0.839
+T(modifier), defense, 0.838
+T(modifier), legal, 0.782
+T(modifier), chemistry, 0.758
+
+T(head), effect_recipients_by_making_lazy, 0.807
+T(head), government_paid_service, 0.764
+T(head), -wofare, 0.753
+T(head), -woefare, 0.752
+T(head), us, 0.725
+T(head), funded_by_tax, 0.692
+
+
+Result: {"law": 0.839, "defense": 0.838, "legal": 0.782, "chemistry": 0.758, "effect_recipients_by_making_lazy": 0.807, "government_paid_service": 0.764, "-wofare": 0.753, "-woefare": 0.752, "@scenario_probability": 1.232381183108278}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1.232381183108278]

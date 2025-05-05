@@ -1,0 +1,6 @@
+/c/en/bullied	RelatedTo	/c/en/bully	1.0	0.851
+/c/en/bullied	RelatedTo	/c/en/bully	1.0	0.851
+/c/en/bullied	FormOf	/c/en/bully	1.0	0.851
+/c/en/nonbullied	RelatedTo	/c/en/bullied	1.0	0.03
+/c/en/unbullied	DerivedFrom	/c/en/bullied	1.0	-0.022
+/c/en/nonbullied	DerivedFrom	/c/en/bullied	1.0	0.03

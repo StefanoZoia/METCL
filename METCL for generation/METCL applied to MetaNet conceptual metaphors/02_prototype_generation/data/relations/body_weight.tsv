@@ -1,0 +1,5 @@
+/c/en/body_weight	IsA	/c/en/weight	2.0	0.099
+/c/en/reporting_weight	IsA	/c/en/body_weight	2.0	-0.042
+/c/en/weight_watcher	RelatedTo	/c/en/body_weight	1.0	0.05
+/c/en/body_weight	FormOf	/c/en/bodyweight	1.0	0.109
+/c/en/body_weights	FormOf	/c/en/body_weight	1.0	1.0

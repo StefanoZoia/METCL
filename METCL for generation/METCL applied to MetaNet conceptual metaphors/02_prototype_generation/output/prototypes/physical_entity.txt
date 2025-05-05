@@ -1,0 +1,4 @@
+entity: 0.791
+databases: 0.6975
+television_episode: 0.6723
+south_park: 0.6534

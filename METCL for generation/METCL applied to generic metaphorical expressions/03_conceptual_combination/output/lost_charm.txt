@@ -1,0 +1,30 @@
+Title: lost-charm
+
+Head Concept Name: lost
+Modifier Concept Name: charm
+
+
+
+
+
+T(modifier), flavor, 0.842
+T(modifier), persuade, 0.835
+T(modifier), pendant, 0.817
+T(modifier), particle_physics, 0.811
+T(modifier), object, 0.805
+T(modifier), protect, 0.8
+T(modifier), control, 0.799
+T(modifier), delight, 0.775
+
+T(head), -found, 0.807
+T(head), -won, 0.791
+T(head), lost_and_found, 0.778
+T(head), -gain, 0.775
+T(head), -win, 0.769
+T(head), -find, 0.761
+T(head), -profit, 0.718
+T(head), television_season, 0.701
+
+
+Result: {"flavor": 0.842, "persuade": 0.835, "pendant": 0.817, "particle_physics": 0.811, "object": 0.805, "protect": 0.8, "control": 0.799, "-found": 0.807, "@scenario_probability": 0.00021151546840053194}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0.00021151546840053194]

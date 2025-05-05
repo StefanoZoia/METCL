@@ -1,0 +1,8 @@
+average: 0.86
+intend: 0.844
+statistics: 0.822
+convey: 0.822
+mean_cruel: 0.815
+clean_regardless_of_socialization_and_stereotypes: 0.793
+-kind: 0.777
+regional: 0.774

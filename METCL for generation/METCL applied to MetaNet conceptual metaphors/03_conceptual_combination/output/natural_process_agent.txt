@@ -1,0 +1,30 @@
+Title: natural_process-agent
+
+Head Concept Name: natural_process
+Modifier Concept Name: agent
+
+
+
+
+
+T(modifier), broker, 0.849
+T(modifier), representative, 0.845
+T(modifier), substance, 0.817
+T(modifier), official, 0.816
+T(modifier), book_ticket, 0.815
+T(modifier), book_nightclub_act, 0.815
+T(modifier), causal_agent, 0.804
+T(modifier), businessperson, 0.802
+
+T(head), process, 0.787
+T(head), require_tools, 0.735
+T(head), affect, 0.728
+T(head), manage, 0.728
+T(head), psychology, 0.722
+T(head), look_hung, 0.719
+T(head), physical_entity, 0.716
+T(head), body_part, 0.715
+
+
+Result: {"broker": 0.849, "representative": 0.845, "substance": 0.817, "official": 0.816, "book_ticket": 0.815, "book_nightclub_act": 0.815, "causal_agent": 0.804, "process": 0.787, "@scenario_probability": 0.0004933848402419059}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0.0004933848402419059]

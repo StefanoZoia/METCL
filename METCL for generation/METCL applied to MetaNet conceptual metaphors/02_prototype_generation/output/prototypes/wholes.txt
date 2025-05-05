@@ -1,0 +1,8 @@
+concept: 0.7343999999999999
+object: 0.7272000000000001
+-gimpy: 0.684
+-portion: 0.6804
+-ground: 0.675
+parts: 0.6678000000000001
+fraction: 0.6543
+-mankind: 0.6516

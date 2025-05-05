@@ -1,0 +1,9 @@
+/c/en/bone_fires	FormOf	/c/en/bone_fire	2.0	1.0
+/c/en/bone_fire	RelatedTo	/c/en/livestock	1.0	-0.006
+/c/en/bone_fire	RelatedTo	/c/en/wood	1.0	0.001
+/c/en/bone_fire	RelatedTo	/c/en/driven	1.0	-0.041
+/c/en/bone_fire	DerivedFrom	/c/en/bone	1.0	0.649
+/c/en/bonfire	DerivedFrom	/c/en/bone_fire	1.0	-0.032
+/c/en/bone_fire	RelatedTo	/c/en/bone	1.0	0.649
+/c/en/bone_fire	RelatedTo	/c/en/parasite	1.0	-0.071
+/c/en/bone_fire	RelatedTo	/c/en/acrid	1.0	-0.123

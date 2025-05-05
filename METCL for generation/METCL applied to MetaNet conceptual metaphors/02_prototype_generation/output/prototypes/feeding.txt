@@ -1,0 +1,6 @@
+provision: 0.831
+promoting: 0.798
+transferring_control: 0.798
+taking_care_of: 0.757
+directed_movement: 0.738
+making_grow: 0.726

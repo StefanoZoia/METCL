@@ -1,0 +1,25 @@
+Title: life_cycle-verticality
+
+Head Concept Name: life_cycle
+Modifier Concept Name: verticality
+
+
+
+
+
+T(modifier), position, 0.841
+T(modifier), attitude, 0.764
+T(modifier), orientation, 0.751
+T(modifier), point, 0.742
+T(modifier), assumption, 0.737
+T(modifier), put, 0.735
+T(modifier), relation, 0.73
+T(modifier), bodily_property, 0.729
+
+T(head), growth, 0.818
+T(head), organic_phenomenon, 0.801
+T(head), biology, 0.785
+
+
+Result: {"position": 0.841, "attitude": 0.764, "orientation": 0.751, "point": 0.742, "assumption": 0.737, "put": 0.735, "growth": 0.818, "organic_phenomenon": 0.801, "@scenario_probability": 0.1999149894258527}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0.1999149894258527]

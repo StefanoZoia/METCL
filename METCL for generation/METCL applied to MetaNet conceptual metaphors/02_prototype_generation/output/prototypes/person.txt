@@ -1,0 +1,8 @@
+wave_to_friend: 0.94
+wave_goodbye: 0.94
+wave_to_another_person: 0.94
+wave_at_another_person: 0.94
+wave_hello_or_goodbye: 0.909
+wait_patiently: 0.908
+thank_god: 0.895
+god: 0.876

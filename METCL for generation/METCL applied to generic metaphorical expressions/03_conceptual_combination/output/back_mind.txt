@@ -1,0 +1,30 @@
+Title: back-mind
+
+Head Concept Name: back
+Modifier Concept Name: mind
+
+
+
+
+
+T(modifier), thinking, 0.906
+T(modifier), subjective, 0.894
+T(modifier), cognition, 0.856
+T(modifier), think_about, 0.842
+T(modifier), remember, 0.842
+T(modifier), intelligence, 0.836
+T(modifier), recall, 0.827
+T(modifier), perceive_external_envrnment_and_recollect_data, 0.823
+
+T(head), -front, 0.851
+T(head), support, 0.834
+T(head), -forth, 0.834
+T(head), car_seat, 0.826
+T(head), -forward, 0.825
+T(head), chair, 0.821
+T(head), football, 0.818
+T(head), position, 0.808
+
+
+Result: {"thinking": 0.906, "subjective": 0.894, "cognition": 0.856, "think_about": 0.842, "remember": 0.842, "intelligence": 0.836, "-front": 0.851, "-forth": 0.834, "@scenario_probability": 2.8236180826074206e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 2.8236180826074206e-05]

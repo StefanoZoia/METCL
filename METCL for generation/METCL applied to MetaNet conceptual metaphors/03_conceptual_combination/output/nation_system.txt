@@ -1,0 +1,30 @@
+Title: nation-system
+
+Head Concept Name: nation
+Modifier Concept Name: system
+
+
+
+
+
+T(modifier), increase_efficiency, 0.911
+T(modifier), method, 0.852
+T(modifier), compute_results, 0.841
+T(modifier), organizing_things, 0.839
+T(modifier), easy_to_abuse, 0.827
+T(modifier), organization, 0.823
+T(modifier), most_people_pay_bills, 0.821
+T(modifier), physical_chemistry, 0.82
+
+T(head), united_states, 0.857
+T(head), people, 0.836
+T(head), confederation, 0.831
+T(head), ready_troops, 0.808
+T(head), weather_storm_of_war, 0.789
+T(head), arm_citizens, 0.788
+T(head), -state, 0.787
+T(head), legal, 0.744
+
+
+Result: {"increase_efficiency": 0.911, "method": 0.852, "compute_results": 0.841, "organizing_things": 0.839, "easy_to_abuse": 0.827, "united_states": 0.857, "people": 0.836, "confederation": 0.831, "@scenario_probability": 7.201906473837406e-05}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 7.201906473837406e-05]

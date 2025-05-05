@@ -1,0 +1,8 @@
+prizefighter: 0.883
+boxer: 0.865
+wrestler: 0.859
+boxing: 0.821
+bodybuilding: 0.777
+-heavy: 0.776
+computing: 0.772
+document_folder: 0.717

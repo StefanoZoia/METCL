@@ -1,0 +1,30 @@
+Title: money-motion
+
+Head Concept Name: money
+Modifier Concept Name: motion
+
+
+
+
+
+T(modifier), proposal, 0.848
+T(modifier), energy, 0.818
+T(modifier), subject, 0.8
+T(modifier), state, 0.793
+T(modifier), -moving, 0.785
+T(modifier), locomotive, 0.772
+T(modifier), -standstill, 0.766
+T(modifier), law, 0.765
+
+T(head), saving, 0.878
+T(head), pay_for, 0.874
+T(head), pay_for_sex, 0.874
+T(head), money_supply, 0.861
+T(head), currency, 0.858
+T(head), buy_food, 0.854
+T(head), value, 0.851
+T(head), banks, 0.851
+
+
+Result: {"proposal": 0.848, "saving": 0.878, "pay_for": 0.874, "pay_for_sex": 0.874, "money_supply": 0.861, "currency": 0.858, "buy_food": 0.854, "banks": 0.851, "@scenario_probability": 9.240726736336998e-05}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 9.240726736336998e-05]

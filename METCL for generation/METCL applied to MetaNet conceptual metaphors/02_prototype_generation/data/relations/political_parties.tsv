@@ -1,0 +1,4 @@
+/c/en/political_parties	FormOf	/c/en/political_party	1.0	1.0
+/c/en/political_parties	RelatedTo	/c/en/political_party	1.0	1.0
+/c/en/agrarian_party	RelatedTo	/c/en/political_parties	1.0	0.303
+/c/en/peronist	RelatedTo	/c/en/political_parties	1.0	0.595

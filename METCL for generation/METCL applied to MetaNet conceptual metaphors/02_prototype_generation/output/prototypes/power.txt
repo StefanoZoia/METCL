@@ -1,0 +1,8 @@
+fleeting: 0.831
+physics: 0.809
+battery: 0.798
+physical_phenomenon: 0.796
+provide: 0.793
+causal_agent: 0.791
+quality: 0.789
+-impotence: 0.772

@@ -1,0 +1,8 @@
+trading: 0.868
+selling_food: 0.864
+selling_produce: 0.864
+buy_fresh_vegetables: 0.86
+industry: 0.855
+trade: 0.855
+sell_new_line: 0.844
+shop: 0.84

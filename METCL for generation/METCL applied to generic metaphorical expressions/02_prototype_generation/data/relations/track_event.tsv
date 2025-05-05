@@ -1,0 +1,13 @@
+/c/en/dash	IsA	/c/en/track_event	2.0	0.23
+/c/en/track_event	IsA	/c/en/footrace	2.0	0.423
+/c/en/track_event	PartOf	/c/en/track_meet	2.0	0.792
+/c/en/mile	IsA	/c/en/track_event	2.0	0.228
+/c/en/hurdles	IsA	/c/en/track_event	2.0	0.497
+/c/en/track_events	FormOf	/c/en/track_event	1.0	1.0
+/c/en/track_event	RelatedTo	/c/en/steeplechase	1.0	0.635
+/c/en/track_event	RelatedTo	/c/en/track	1.0	0.586
+/c/en/track_event	RelatedTo	/c/en/sprint	1.0	0.442
+/c/en/track_event	RelatedTo	/c/en/field_event	1.0	0.136
+/c/en/track_event	RelatedTo	/c/en/track_and_field	1.0	0.845
+/c/en/field_event	RelatedTo	/c/en/track_event	1.0	0.136
+/c/en/hurdle	RelatedTo	/c/en/track_event	0.22100000000000009	0.284

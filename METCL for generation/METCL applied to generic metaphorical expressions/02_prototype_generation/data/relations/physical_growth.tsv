@@ -1,0 +1,3 @@
+/c/en/physical_growth	IsA	/c/en/becoming	1.0	0.021
+/c/en/biological_growth	IsA	/c/en/physical_growth	1.0	0.178
+/c/en/physical_growth	IsA	/c/en/increase_in_mass	1.0	0.03

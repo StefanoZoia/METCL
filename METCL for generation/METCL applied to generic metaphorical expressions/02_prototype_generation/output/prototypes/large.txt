@@ -1,0 +1,8 @@
+wide: 0.888
+-small: 0.875
+tall: 0.869
+-small_medium: 0.819
+-little: 0.783
+-tiny: 0.782
+-medium: 0.77
+planets: 0.768

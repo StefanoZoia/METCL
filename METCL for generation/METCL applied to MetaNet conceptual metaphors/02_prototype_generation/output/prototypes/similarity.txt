@@ -1,0 +1,7 @@
+sameness: 0.892
+-dissimilarity: 0.865
+gestalt_law_of_organization: 0.823
+-difference: 0.812
+-distinguishment: 0.799
+philosophy: 0.738
+maths: 0.737

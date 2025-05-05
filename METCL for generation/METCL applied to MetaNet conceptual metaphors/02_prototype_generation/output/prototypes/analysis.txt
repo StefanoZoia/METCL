@@ -1,0 +1,8 @@
+investigation: 0.849
+reasoning: 0.836
+calculus: 0.832
+important_to_chess_players: 0.812
+criticism: 0.811
+mathematics: 0.81
+-synthesis: 0.8
+expressive_style: 0.792

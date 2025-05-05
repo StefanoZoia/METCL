@@ -1,0 +1,30 @@
+Title: change_of_state-harm
+
+Head Concept Name: change_of_state
+Modifier Concept Name: harm
+
+
+
+
+
+T(modifier), injure, 0.902
+T(modifier), -protect, 0.774
+T(modifier), -favor, 0.768
+T(modifier), fire, 0.753
+T(modifier), -heal, 0.73
+T(modifier), -help, 0.722
+T(modifier), killing, 0.707
+T(modifier), too_much_of, 0.689
+
+T(head), change, 0.933
+T(head), difference, 0.826
+T(head), replace, 0.774
+T(head), unpleasant, 0.752
+T(head), exciting, 0.752
+T(head), jar, 0.733
+T(head), dress, 0.733
+T(head), consequence, 0.733
+
+
+Result: {"injure": 0.902, "-protect": 0.774, "-favor": 0.768, "fire": 0.753, "change": 0.933, "difference": 0.826, "replace": 0.774, "exciting": 0.752, "@scenario_probability": 0.0005847176738860746}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 0, 1, 0, 0, 0, 0.0005847176738860746]

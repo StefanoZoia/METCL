@@ -1,0 +1,11 @@
+/c/en/religious	SimilarTo	/c/en/god_fearing	2.0	0.449
+/c/en/devout	Synonym	/c/en/god_fearing	2.0	0.769
+/c/en/god_fearing	SimilarTo	/c/en/religious	2.0	0.449
+/c/en/god_fearing	HasContext	/c/en/religion	1.0	0.299
+/c/en/god_fearing	DerivedFrom	/c/en/fearing	1.0	0.373
+/c/en/god_fearer	RelatedTo	/c/en/god_fearing	1.0	1.0
+/c/en/god_fearing	RelatedTo	/c/en/god	1.0	0.263
+/c/en/god_fearing	DerivedFrom	/c/en/fear	1.0	0.121
+/c/en/god_fearing	RelatedTo	/c/en/gods_fearing	1.0	0.155
+/c/en/god_fearing	RelatedTo	/c/en/religious	1.0	0.449
+/c/en/god_fearing	RelatedTo	/c/en/precept	1.0	0.152

@@ -1,0 +1,8 @@
+remembering: 0.822
+believing: 0.807
+higher_cognitive_process: 0.796
+-ignorance: 0.786
+determining_truth: 0.767
+learning: 0.763
+intentional_mental_state: 0.759
+reading: 0.747

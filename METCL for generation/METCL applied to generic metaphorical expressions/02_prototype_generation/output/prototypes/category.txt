@@ -1,0 +1,3 @@
+concept: 0.805
+mathematics: 0.75
+objects_and_morphisms_between_objects: 0.733

@@ -1,0 +1,8 @@
+move: 0.946
+change: 0.838
+sell: 0.833
+-stay: 0.828
+propose: 0.809
+-still: 0.807
+game: 0.799
+mouse: 0.773

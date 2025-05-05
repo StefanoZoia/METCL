@@ -1,0 +1,8 @@
+-light: 0.826
+metal: 0.804
+paperweight: 0.801
+actor: 0.799
+-weight: 0.794
+rock: 0.778
+character: 0.777
+-lightweight: 0.776

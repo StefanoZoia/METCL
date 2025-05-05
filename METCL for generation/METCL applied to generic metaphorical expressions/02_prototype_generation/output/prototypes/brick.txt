@@ -1,0 +1,8 @@
+building_material: 0.882
+construct: 0.873
+heavy: 0.846
+ceramic: 0.83
+brick_wall: 0.827
+break_window_pane: 0.814
+break_window: 0.814
+good_person: 0.804

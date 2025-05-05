@@ -1,0 +1,2 @@
+buying: 0.744
+getting_money_from: 0.684

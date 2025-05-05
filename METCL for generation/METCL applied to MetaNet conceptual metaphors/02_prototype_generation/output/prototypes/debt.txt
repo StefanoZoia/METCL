@@ -1,0 +1,8 @@
+indebtedness: 0.926
+liabilities: 0.907
+obligation: 0.873
+-credit: 0.823
+manageable_but_only_very_carefully: 0.812
+-payment: 0.775
+legal: 0.769
+-lend: 0.765

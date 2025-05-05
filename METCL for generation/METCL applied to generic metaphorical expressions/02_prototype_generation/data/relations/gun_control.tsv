@@ -1,0 +1,13 @@
+/c/en/gun_control	IsA	/c/en/regulation	2.0	0.407
+/c/en/gun_rights	RelatedTo	/c/en/gun_control	1.0	0.669
+/c/en/gun_control	RelatedTo	/c/en/gun	1.0	0.566
+/c/en/gun_control	RelatedTo	/c/en/gun_rights	1.0	0.669
+/c/en/gun_control	RelatedTo	/c/en/firearm	1.0	0.485
+/c/en/pro_gun	RelatedTo	/c/en/gun_control	1.0	0.082
+/c/en/gun_control	RelatedTo	/c/en/pro_control	1.0	0.082
+/c/en/gun_control	RelatedTo	/c/en/regulation	1.0	0.407
+/c/en/pro_control	Synonym	/c/en/gun_control	1.0	0.082
+/c/en/gun_control	RelatedTo	/c/en/support	1.0	0.127
+/c/en/gun_control	RelatedTo	/c/en/pro_gun	1.0	0.082
+/c/en/gun_control	RelatedTo	/c/en/arms_control	1.0	0.65
+/c/en/arms_control	RelatedTo	/c/en/gun_control	1.0	0.65

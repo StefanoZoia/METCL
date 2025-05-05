@@ -1,0 +1,23 @@
+Title: appetite-consume
+
+Head Concept Name: appetite
+Modifier Concept Name: consume
+
+
+
+
+
+T(modifier), spend, 0.867
+T(modifier), absorb, 0.855
+T(modifier), destroy, 0.84
+T(modifier), -produce, 0.74
+
+T(head), craving, 0.888
+T(head), eating_breakfast, 0.75
+T(head), eating, 0.741
+T(head), appeased_with_food, 0.733
+T(head), playing_cards, 0.68
+
+
+Result: {"spend": 0.867, "absorb": 0.855, "destroy": 0.84, "-produce": 0.74, "craving": 0.888, "eating_breakfast": 0.75, "eating": 0.741, "appeased_with_food": 0.733, "@scenario_probability": 5.333872228979164}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 1, 0, 5.333872228979164]

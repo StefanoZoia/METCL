@@ -1,0 +1,12 @@
+/c/en/gun_lobby	RelatedTo	/c/en/influence	1.0	0.075
+/c/en/gun_lobbies	FormOf	/c/en/gun_lobby	1.0	1.0
+/c/en/gun_lobby	HasContext	/c/en/us	1.0	0.094
+/c/en/gun_lobby	HasContext	/c/en/politics	1.0	0.046
+/c/en/gun_lobby	RelatedTo	/c/en/firearm	1.0	0.63
+/c/en/gun_lobby	RelatedTo	/c/en/ownership	1.0	0.119
+/c/en/gun_lobby	DerivedFrom	/c/en/lobby	1.0	0.157
+/c/en/gun_lobby	RelatedTo	/c/en/law	1.0	0.165
+/c/en/gun_lobby	RelatedTo	/c/en/citizen	1.0	0.01
+/c/en/gun_lobby	RelatedTo	/c/en/public_policy	1.0	0.215
+/c/en/gun_lobby	RelatedTo	/c/en/advocate	1.0	0.116
+/c/en/gun_lobby	RelatedTo	/c/en/access	1.0	0.054

@@ -1,0 +1,26 @@
+Title: quality-substance
+
+Head Concept Name: quality
+Modifier Concept Name: substance
+
+
+
+
+
+T(modifier), part, 0.816
+T(modifier), physical_entity, 0.794
+T(modifier), container, 0.779
+T(modifier), theology, 0.744
+
+T(head), reliable, 0.865
+T(head), relative_while_quantity_fixed, 0.846
+T(head), attribute, 0.827
+T(head), more_important_than_quantity, 0.825
+T(head), better_than_quantity, 0.813
+T(head), archaic, 0.786
+T(head), -workmanship, 0.786
+T(head), evaluative_quantity, 0.773
+
+
+Result: {"part": 0.816, "physical_entity": 0.794, "reliable": 0.865, "relative_while_quantity_fixed": 0.846, "attribute": 0.827, "more_important_than_quantity": 0.825, "better_than_quantity": 0.813, "-workmanship": 0.786, "@scenario_probability": 0.05681219263567275}
+Scenario: [1, 1, 0, 0, 1, 1, 1, 1, 1, 0, 1, 0, 0.05681219263567275]

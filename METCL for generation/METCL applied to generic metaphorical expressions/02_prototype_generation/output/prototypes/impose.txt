@@ -1,0 +1,5 @@
+compel: 0.765
+charge: 0.7623
+conscription: 0.7479
+communicate: 0.7182000000000001
+legal: 0.6696

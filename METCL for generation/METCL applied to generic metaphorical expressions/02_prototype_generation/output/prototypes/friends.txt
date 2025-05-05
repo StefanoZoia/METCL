@@ -1,0 +1,8 @@
+friend's_house: 0.916
+talking_about: 0.898
+borrow_money: 0.85
+meet_over_lunch: 0.844
+fraternity_house: 0.844
+meet_for_lunch: 0.844
+meet_for_coffee: 0.844
+lend_tools: 0.841

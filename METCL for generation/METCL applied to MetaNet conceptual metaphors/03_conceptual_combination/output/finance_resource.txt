@@ -1,0 +1,28 @@
+Title: finance-resource
+
+Head Concept Name: finance
+Modifier Concept Name: resource
+
+
+
+
+
+T(modifier), asset, 0.852
+T(modifier), assets, 0.838
+T(modifier), inventiveness, 0.824
+T(modifier), tangible_thing, 0.778
+T(modifier), localized_spatial_thing, 0.759
+T(modifier), group_of_things, 0.737
+T(modifier), album, 0.717
+T(modifier), book, 0.709
+
+T(head), economics, 0.865
+T(head), credit, 0.86
+T(head), commercial_enterprise, 0.855
+T(head), management, 0.844
+T(head), pay, 0.81
+T(head), knowing_how_stock_market_performed, 0.666
+
+
+Result: {"asset": 0.852, "assets": 0.838, "inventiveness": 0.824, "economics": 0.865, "credit": 0.86, "commercial_enterprise": 0.855, "management": 0.844, "pay": 0.81, "@scenario_probability": 0.009900807595851017}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0.009900807595851017]

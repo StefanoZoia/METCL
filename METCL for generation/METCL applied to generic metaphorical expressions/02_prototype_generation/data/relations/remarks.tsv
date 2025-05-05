@@ -1,0 +1,7 @@
+/c/en/guilt_trip	RelatedTo	/c/en/remarks	1.0	-0.053
+/c/en/remarks	RelatedTo	/c/en/remark	1.0	0.802
+/c/en/remarks	FormOf	/c/en/remark	1.0	0.802
+/c/en/remarks	RelatedTo	/c/en/remark	1.0	0.802
+/c/en/remarks	FormOf	/c/en/remark	1.0	0.802
+/c/en/remarks	FormOf	/c/en/remark	1.0	0.802
+/c/en/all_bark_and_no_bite	RelatedTo	/c/en/remarks	1.0	-0.098

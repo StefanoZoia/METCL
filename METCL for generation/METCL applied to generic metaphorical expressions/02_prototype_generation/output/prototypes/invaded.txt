@@ -1,0 +1,5 @@
+interpenetrate: 0.7758
+inhabit: 0.7749
+attack: 0.7623
+-evade: 0.6615
+we: 0.6066

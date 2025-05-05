@@ -1,0 +1,8 @@
+control: 0.7505999999999999
+capture: 0.7497
+stronghold: 0.7434
+affirm: 0.738
+cell: 0.7299000000000001
+think: 0.7236
+mug: 0.6975
+-release: 0.6930000000000001

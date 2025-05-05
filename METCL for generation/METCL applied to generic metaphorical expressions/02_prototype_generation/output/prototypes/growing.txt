@@ -1,0 +1,8 @@
+-decreasing: 0.828
+production: 0.818
+enhanced_by_additives: 0.818
+digestive_system: 0.81
+electronics: 0.789
+living: 0.788
+learning: 0.745
+seeing_new: 0.733

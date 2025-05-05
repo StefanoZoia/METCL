@@ -1,0 +1,8 @@
+process: 0.787
+require_tools: 0.7353
+affect: 0.7281000000000001
+manage: 0.7281000000000001
+psychology: 0.7218000000000001
+look_hung: 0.7191000000000001
+physical_entity: 0.7155
+body_part: 0.7146

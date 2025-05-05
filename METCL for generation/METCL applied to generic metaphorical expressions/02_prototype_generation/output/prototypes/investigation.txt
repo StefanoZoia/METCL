@@ -1,0 +1,6 @@
+work: 0.808
+happening_at_crime_scene: 0.808
+finding_truth: 0.8
+determining_truth: 0.75
+finding_truth_usually: 0.746
+discovering_truth: 0.712

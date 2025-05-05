@@ -1,0 +1,3 @@
+/c/en/household_income	RelatedTo	/c/en/total	1.0	0.014
+/c/en/household_incomes	FormOf	/c/en/household_income	1.0	1.0
+/c/en/household_income	RelatedTo	/c/en/household	1.0	0.4

@@ -1,0 +1,30 @@
+Title: advocacy-insanity
+
+Head Concept Name: advocacy
+Modifier Concept Name: insanity
+
+
+
+
+
+T(modifier), mental_illness, 0.877
+T(modifier), -sanity, 0.847
+T(modifier), advance_into_battle, 0.776
+T(modifier), -equilibrium, 0.771
+T(modifier), wage_war, 0.744
+T(modifier), kill_people, 0.743
+T(modifier), kill, 0.74
+T(modifier), run_in_marathon, 0.729
+
+T(head), support, 0.85
+T(head), supporting_structure, 0.746
+T(head), give, 0.745
+T(head), resource, 0.737
+T(head), dramaturgy, 0.735
+T(head), act, 0.731
+T(head), device, 0.726
+T(head), military, 0.725
+
+
+Result: {"mental_illness": 0.877, "-sanity": 0.847, "advance_into_battle": 0.776, "-equilibrium": 0.771, "wage_war": 0.744, "support": 0.85, "supporting_structure": 0.746, "give": 0.745, "@scenario_probability": 0.000399575623443746}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0.000399575623443746]

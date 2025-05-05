@@ -1,0 +1,5 @@
+matter_more_than_life: 0.7191000000000001
+-tyranny: 0.6903
+-slavery: 0.6705
+rocket: 0.6687
+-bondage: 0.621

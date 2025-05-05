@@ -1,0 +1,30 @@
+Title: steals-taxes
+
+Head Concept Name: steals
+Modifier Concept Name: taxes
+
+
+
+
+
+T(modifier), bills, 0.827
+T(modifier), fund_govenment_services, 0.816
+T(modifier), percentage_of_income, 0.804
+T(modifier), debt, 0.804
+T(modifier), going_up, 0.784
+T(modifier), money, 0.777
+T(modifier), -pay, 0.777
+T(modifier), source_of_revenue, 0.738
+
+T(head), baseball, 0.792
+T(head), have_no_money, 0.755
+T(head), gain, 0.742
+T(head), take, 0.737
+T(head), move, 0.729
+T(head), want_money, 0.724
+T(head), midgets, 0.711
+T(head), get, 0.701
+
+
+Result: {"bills": 0.827, "fund_govenment_services": 0.816, "percentage_of_income": 0.804, "debt": 0.804, "going_up": 0.784, "money": 0.777, "-pay": 0.777, "baseball": 0.792, "@scenario_probability": 0.00046034272250192616}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0.00046034272250192616]

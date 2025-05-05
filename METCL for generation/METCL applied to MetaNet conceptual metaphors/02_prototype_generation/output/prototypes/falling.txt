@@ -1,0 +1,8 @@
+broken_bones: 0.903
+losing_balance: 0.902
+losing_ballance: 0.866
+hitting_ground: 0.856
+gravity: 0.848
+avoiding_projectile: 0.847
+injuries: 0.843
+falling_process: 0.838

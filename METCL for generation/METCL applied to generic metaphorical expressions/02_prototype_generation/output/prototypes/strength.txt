@@ -1,0 +1,8 @@
+-weakness: 0.877
+prosperity: 0.818
+property: 0.803
+-weak: 0.775
+-disability: 0.762
+moving_car: 0.761
+wrestling: 0.757
+mechanical_property: 0.753

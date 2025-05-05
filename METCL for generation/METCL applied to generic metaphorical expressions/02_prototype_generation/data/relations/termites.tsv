@@ -1,0 +1,13 @@
+/c/en/termites	AtLocation	/c/en/forest	1.0	0.215
+/c/en/termites	FormOf	/c/en/termite	1.0	0.913
+/c/en/termites	CapableOf	/c/en/build_huge_nest	1.0	0.234
+/c/en/termites	RelatedTo	/c/en/termite	1.0	0.913
+/c/en/termites	CapableOf	/c/en/build_mound_for_home	1.0	0.234
+/c/en/termites	CapableOf	/c/en/invade_house	1.0	0.197
+/c/en/termites	RelatedTo	/c/en/termes	1.0	0.846
+/c/en/termites	CapableOf	/c/en/build_mounds	1.0	0.234
+/c/en/termites	AtLocation	/c/en/walls_of_house	1.0	0.146
+/c/en/termites	AtLocation	/c/en/apartment	1.0	0.17
+/c/en/termites	FormOf	/c/en/termes	1.0	0.846
+/c/en/wood	RelatedTo	/c/en/termites	0.28900000000000015	0.333
+/c/en/bore	RelatedTo	/c/en/termites	0.17600000000000016	0.06

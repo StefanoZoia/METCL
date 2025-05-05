@@ -1,0 +1,5 @@
+orthography: 0.919
+letter: 0.795
+skill: 0.758
+writing: 0.752
+effect_of_focusing_on_letters: 0.653

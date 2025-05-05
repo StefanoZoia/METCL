@@ -1,0 +1,8 @@
+/c/en/assessing	RelatedTo	/c/en/action	1.0	0.097
+/c/en/assessingly	DerivedFrom	/c/en/assessing	1.0	1.0
+/c/en/assessing	RelatedTo	/c/en/assess	1.0	0.856
+/c/en/assessing	FormOf	/c/en/assess	1.0	0.856
+/c/en/assessing	RelatedTo	/c/en/assessment	1.0	0.676
+/c/en/assessment	RelatedTo	/c/en/assessing	1.0	0.676
+/c/en/assessing	FormOf	/c/en/assess	1.0	0.856
+/c/en/value	RelatedTo	/c/en/assessing	0.10099999999999998	0.243

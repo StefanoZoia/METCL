@@ -1,0 +1,30 @@
+Title: gun_control-harm
+
+Head Concept Name: gun_control
+Modifier Concept Name: harm
+
+
+
+
+
+T(modifier), injure, 0.902
+T(modifier), -protect, 0.774
+T(modifier), -favor, 0.768
+T(modifier), fire, 0.753
+T(modifier), -heal, 0.73
+T(modifier), -help, 0.722
+T(modifier), killing, 0.707
+T(modifier), too_much_of, 0.689
+
+T(head), regulation, 0.866
+T(head), rule, 0.795
+T(head), control, 0.751
+T(head), dominance, 0.746
+T(head), embryology, 0.741
+T(head), organic_process, 0.72
+T(head), genetics, 0.696
+T(head), european_union_law, 0.692
+
+
+Result: {"injure": 0.902, "-protect": 0.774, "-favor": 0.768, "fire": 0.753, "regulation": 0.866, "rule": 0.795, "control": 0.751, "dominance": 0.746, "@scenario_probability": 0.0007232461735116405}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.0007232461735116405]

@@ -1,0 +1,17 @@
+/c/en/traineeship	IsA	/c/en/financial_aid	2.0	0.1
+/c/en/foreign_aid	IsA	/c/en/financial_aid	2.0	0.092
+/c/en/philanthropy	IsA	/c/en/financial_aid	2.0	0.068
+/c/en/fellowship	IsA	/c/en/financial_aid	2.0	0.071
+/c/en/financial_assistance	Synonym	/c/en/financial_aid	2.0	1.0
+/c/en/assistance	Synonym	/c/en/financial_aid	2.0	0.067
+/c/en/economic_aid	Synonym	/c/en/financial_aid	2.0	0.398
+/c/en/economic_assistance	Synonym	/c/en/financial_aid	2.0	0.398
+/c/en/grant	IsA	/c/en/financial_aid	2.0	-0.033
+/c/en/social_welfare	IsA	/c/en/financial_aid	2.0	0.109
+/c/en/financial_aid	IsA	/c/en/gift	2.0	-0.071
+/c/en/scholarship	IsA	/c/en/financial_aid	2.0	0.085
+/c/en/aid	Synonym	/c/en/financial_aid	2.0	0.074
+/c/en/grant_in_aid	IsA	/c/en/financial_aid	2.0	0.128
+/c/en/financial_aid	IsA	/c/en/authorized_agreement	1.0	0.426
+/c/en/financial_aid	IsA	/c/en/written_loan_contract	1.0	0.058
+/c/en/support	RelatedTo	/c/en/financial_aid	0.18000000000000016	0.018

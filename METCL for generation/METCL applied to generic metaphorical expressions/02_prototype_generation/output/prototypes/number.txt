@@ -1,0 +1,8 @@
+represent_order: 0.861
+identifying_house: 0.859
+phone_book: 0.858
+call_on_telephone: 0.846
+statistic: 0.841
+orginization: 0.839
+size: 0.837
+digit: 0.831

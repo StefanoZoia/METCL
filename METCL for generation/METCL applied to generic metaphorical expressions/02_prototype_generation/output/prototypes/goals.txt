@@ -1,0 +1,2 @@
+form_of_motivation: 0.74
+getting_in_shape: 0.68

@@ -1,0 +1,8 @@
+box_fruit: 0.854
+bottle_wine: 0.852
+fail_to_work: 0.844
+expensive: 0.842
+take_people_away_from_planet_earth: 0.831
+fly: 0.816
+serve_humanity: 0.814
+perform_work_humans_cannot_perform: 0.81

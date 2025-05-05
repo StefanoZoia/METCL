@@ -1,0 +1,8 @@
+annelid: 0.7704
+follower: 0.7254
+segmented_worm: 0.6912
+nautical: 0.6741
+archaic: 0.6714
+medicine: 0.6705
+heathenry: 0.6705
+paganism: 0.6579

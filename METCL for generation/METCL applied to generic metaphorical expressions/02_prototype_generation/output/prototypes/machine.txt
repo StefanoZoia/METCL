@@ -1,0 +1,8 @@
+wash_dishes: 0.908
+wash_clothes: 0.908
+wash_car: 0.908
+wash_dirty_clothes: 0.908
+vacuum: 0.878
+dispense_snacks: 0.878
+dispense_popcorn: 0.878
+dispense_cigarettes: 0.878

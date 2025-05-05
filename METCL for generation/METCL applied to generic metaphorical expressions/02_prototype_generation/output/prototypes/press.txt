@@ -1,0 +1,8 @@
+push: 0.861
+print_media: 0.852
+weightlifting: 0.839
+machine: 0.832
+flatten: 0.828
+press_corps: 0.825
+mass: 0.811
+wagering: 0.804

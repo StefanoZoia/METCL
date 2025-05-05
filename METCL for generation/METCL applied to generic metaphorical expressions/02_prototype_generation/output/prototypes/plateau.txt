@@ -1,0 +1,4 @@
+flat_area: 0.755
+broadcasting: 0.747
+surface_layer_top_surface: 0.733
+sports: 0.732

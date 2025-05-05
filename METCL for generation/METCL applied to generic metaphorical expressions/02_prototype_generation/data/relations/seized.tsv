@@ -1,0 +1,7 @@
+/c/en/seized	FormOf	/c/en/seize	1.0	0.657
+/c/en/seized	RelatedTo	/c/en/seize	1.0	0.657
+/c/en/booty	RelatedTo	/c/en/seized	1.0	0.056
+/c/en/hijacked	RelatedTo	/c/en/seized	1.0	0.452
+/c/en/unseized	DerivedFrom	/c/en/seized	1.0	0.121
+/c/en/siezed	FormOf	/c/en/seized	1.0	0.072
+/c/en/colony	RelatedTo	/c/en/seized	0.16999999999999993	0.007

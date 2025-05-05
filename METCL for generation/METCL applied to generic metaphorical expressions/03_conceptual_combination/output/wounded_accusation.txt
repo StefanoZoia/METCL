@@ -1,0 +1,20 @@
+Title: wounded-accusation
+
+Head Concept Name: wounded
+Modifier Concept Name: accusation
+
+
+
+
+
+T(modifier), assertion, 0.885
+T(modifier), charge, 0.878
+T(modifier), legal, 0.736
+T(modifier), film, 0.712
+
+T(head), people, 0.813
+T(head), physics, 0.748
+
+
+Result: {"assertion": 0.885, "charge": 0.878, "legal": 0.736, "film": 0.712, "people": 0.813, "@scenario_probability": 8.342316853226496}
+Scenario: [1, 1, 1, 1, 1, 0, 8.342316853226496]

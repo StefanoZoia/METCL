@@ -1,0 +1,25 @@
+Title: wealth-obscenity
+
+Head Concept Name: wealth
+Modifier Concept Name: obscenity
+
+
+
+
+
+T(modifier), indecency, 0.918
+T(modifier), profanity, 0.895
+T(modifier), phrase, 0.759
+
+T(head), abundance, 0.871
+T(head), financial_condition, 0.85
+T(head), property, 0.84
+T(head), material_resource, 0.792
+T(head), -poverty, 0.792
+T(head), economics, 0.774
+T(head), conquering_nation, 0.762
+T(head), -debt, 0.714
+
+
+Result: {"indecency": 0.918, "profanity": 0.895, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "material_resource": 0.792, "-poverty": 0.792, "economics": 0.774, "@scenario_probability": 0.40694286649915706}
+Scenario: [1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.40694286649915706]

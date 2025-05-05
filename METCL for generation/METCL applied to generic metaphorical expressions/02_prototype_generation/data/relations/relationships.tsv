@@ -1,0 +1,12 @@
+/c/en/relationships	CapableOf	/c/en/change_as_people_change	2.0	0.044
+/c/en/logic_diagram	RelatedTo	/c/en/relationships	1.0	0.016
+/c/en/stoichiometry	RelatedTo	/c/en/relationships	1.0	0.284
+/c/en/renormalization	RelatedTo	/c/en/relationships	1.0	0.218
+/c/en/relationships	CapableOf	/c/en/end_quickly	1.0	0.037
+/c/en/press_relations	RelatedTo	/c/en/relationships	1.0	-0.019
+/c/en/relationships	CapableOf	/c/en/last_for_lifetimes	1.0	-0.056
+/c/en/psychrometric_chart	RelatedTo	/c/en/relationships	1.0	0.148
+/c/en/relationships	RelatedTo	/c/en/relationship	1.0	0.812
+/c/en/relationships	CausesDesire	/c/en/live	1.0	0.105
+/c/en/relationships	IsA	/c/en/pure_gold	1.0	0.015
+/c/en/relationships	FormOf	/c/en/relationship	1.0	0.812

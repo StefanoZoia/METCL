@@ -1,0 +1,6 @@
+bridle: 0.81
+control: 0.7713
+strap: 0.7443
+leash: 0.7407
+stop: 0.7362
+driving: 0.7254

@@ -1,0 +1,30 @@
+Title: freedom-possession
+
+Head Concept Name: freedom
+Modifier Concept Name: possession
+
+
+
+
+
+T(modifier), control, 0.84
+T(modifier), relation, 0.818
+T(modifier), enchantment, 0.813
+T(modifier), district, 0.81
+T(modifier), house, 0.787
+T(modifier), sport, 0.776
+T(modifier), -absence, 0.755
+T(modifier), sports, 0.736
+
+T(head), -unfreedom, 0.875
+T(head), relative, 0.836
+T(head), good, 0.827
+T(head), universal_right, 0.826
+T(head), -liberty, 0.824
+T(head), allow_discourse, 0.821
+T(head), belief, 0.81
+T(head), state, 0.805
+
+
+Result: {"control": 0.84, "relation": 0.818, "-unfreedom": 0.875, "relative": 0.836, "good": 0.827, "universal_right": 0.826, "-liberty": 0.824, "allow_discourse": 0.821, "@scenario_probability": 9.43591236339186e-05}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 9.43591236339186e-05]

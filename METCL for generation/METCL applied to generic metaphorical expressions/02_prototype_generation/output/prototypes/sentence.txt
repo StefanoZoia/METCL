@@ -1,0 +1,8 @@
+convict: 0.917
+false: 0.876
+verb: 0.87
+end_with_period: 0.858
+confusing: 0.847
+paragraph: 0.846
+person: 0.836
+punishment: 0.835

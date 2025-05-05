@@ -1,0 +1,10 @@
+/c/en/operative	SimilarTo	/c/en/in_operation	2.0	0.073
+/c/en/operational	Synonym	/c/en/in_operation	2.0	-0.022
+/c/en/operating	Synonym	/c/en/in_operation	2.0	0.02
+/c/en/in_operation	SimilarTo	/c/en/operative	2.0	0.073
+/c/en/in_operation	RelatedTo	/c/en/operating	1.0	0.02
+/c/en/in_operation	RelatedTo	/c/en/functioning	1.0	0.043
+/c/en/in_operation	RelatedTo	/c/en/working	1.0	0.078
+/c/en/in_operation	RelatedTo	/c/en/activated	1.0	0.003
+/c/en/in_operation	RelatedTo	/c/en/functional	1.0	0.031
+/c/en/in_play	RelatedTo	/c/en/in_operation	1.0	0.447

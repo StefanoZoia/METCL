@@ -1,0 +1,8 @@
+judgment: 0.886
+choice: 0.873
+result: 0.82
+boxing: 0.802
+fork_in_road: 0.798
+baseball: 0.748
+play: 0.708
+hear_testimony: 0.67

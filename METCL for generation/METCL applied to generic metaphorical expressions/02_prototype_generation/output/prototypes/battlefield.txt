@@ -1,0 +1,5 @@
+battlefront: 0.865
+tract: 0.829
+sector: 0.761
+outdoor_location: 0.754
+unnatural_thing: 0.736

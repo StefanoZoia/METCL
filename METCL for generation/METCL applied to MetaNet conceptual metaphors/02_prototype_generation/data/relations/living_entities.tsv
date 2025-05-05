@@ -1,0 +1,7 @@
+/c/en/plants	IsA	/c/en/living_entities	2.0	-0.001
+/c/en/living_entities	CapableOf	/c/en/diving	1.0	-0.08
+/c/en/living_entities	CapableOf	/c/en/procreate	1.0	-0.025
+/c/en/dogs	IsA	/c/en/living_entities	1.0	0.093
+/c/en/living_entities	CapableOf	/c/en/eat	1.0	0.058
+/c/en/people	IsA	/c/en/living_entities	1.0	0.086
+/c/en/cats	IsA	/c/en/living_entities	1.0	0.047

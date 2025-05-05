@@ -1,0 +1,2 @@
+generic_path: 0.748
+enduring_thing_localized: 0.722

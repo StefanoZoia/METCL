@@ -1,0 +1,21 @@
+Title: reasoning-showing
+
+Head Concept Name: reasoning
+Modifier Concept Name: showing
+
+
+
+
+
+T(modifier), theater_hall, 0.702
+T(modifier), pregnant_lady, 0.683
+
+T(head), logic, 0.868
+T(head), thinking, 0.86
+T(head), analogical, 0.854
+T(head), inductive_or_deductive, 0.84
+T(head), mathematics, 0.796
+
+
+Result: {"theater_hall": 0.702, "pregnant_lady": 0.683, "logic": 0.868, "thinking": 0.86, "analogical": 0.854, "inductive_or_deductive": 0.84, "@scenario_probability": 5.237732523133392}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 5.237732523133392]

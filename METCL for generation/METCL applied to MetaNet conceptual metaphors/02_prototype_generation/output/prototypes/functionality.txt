@@ -1,0 +1,4 @@
+practicality: 0.872
+us: 0.754
+legal: 0.746
+organic_chemistry: 0.742

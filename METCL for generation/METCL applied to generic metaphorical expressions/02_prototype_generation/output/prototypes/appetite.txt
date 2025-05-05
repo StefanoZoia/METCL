@@ -1,0 +1,5 @@
+craving: 0.888
+eating_breakfast: 0.75
+eating: 0.741
+appeased_with_food: 0.733
+playing_cards: 0.68

@@ -1,0 +1,8 @@
+/c/en/lean_against	Synonym	/c/en/lean_on	2.0	1.0
+/c/en/lean_on	MannerOf	/c/en/touch	2.0	0.027
+/c/en/rest_on	Synonym	/c/en/lean_on	2.0	0.008
+/c/en/lean_on	DerivedFrom	/c/en/lean	1.0	0.293
+/c/en/lean_on	RelatedTo	/c/en/put_pressure	1.0	-0.016
+/c/en/lean_on	RelatedTo	/c/en/reprimand	1.0	-0.005
+/c/en/rely_on	Synonym	/c/en/lean_on	1.0	0.126
+/c/en/lean_on	RelatedTo	/c/en/criticize	1.0	0.102

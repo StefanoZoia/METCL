@@ -1,0 +1,5 @@
+-put: 0.696
+-deliver: 0.692
+-bring: 0.679
+-provide: 0.674
+-add: 0.668

@@ -1,0 +1,8 @@
+immorality: 0.875
+degradation: 0.854
+decay: 0.852
+inducement: 0.807
+death_of_innocent_people: 0.755
+linguistics: 0.751
+unnatural_thing: 0.74
+computing: 0.735

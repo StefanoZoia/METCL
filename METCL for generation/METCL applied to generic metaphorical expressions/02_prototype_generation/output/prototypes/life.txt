@@ -1,0 +1,8 @@
+living: 0.914
+finite: 0.886
+hard: 0.879
+good: 0.862
+unpredictable: 0.861
+water: 0.844
+absurd: 0.843
+full_of_chance: 0.841

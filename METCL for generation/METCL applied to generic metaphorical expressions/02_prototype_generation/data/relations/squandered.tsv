@@ -1,0 +1,11 @@
+/c/en/wasted	Synonym	/c/en/squandered	2.0	0.808
+/c/en/lost	SimilarTo	/c/en/squandered	2.0	0.543
+/c/en/squandered	SimilarTo	/c/en/lost	2.0	0.543
+/c/en/dissipation	RelatedTo	/c/en/squandered	1.0	0.324
+/c/en/squanderation	RelatedTo	/c/en/squandered	1.0	0.902
+/c/en/misspent	RelatedTo	/c/en/squandered	1.0	0.503
+/c/en/unsquandered	DerivedFrom	/c/en/squandered	1.0	0.168
+/c/en/squandered	RelatedTo	/c/en/squander	1.0	0.785
+/c/en/down_toilet	RelatedTo	/c/en/squandered	1.0	-0.014
+/c/en/squandered	FormOf	/c/en/squander	1.0	0.785
+/c/en/squandered	FormOf	/c/en/squander	1.0	0.785

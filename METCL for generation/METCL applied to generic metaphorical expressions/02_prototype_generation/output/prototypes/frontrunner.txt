@@ -1,0 +1,8 @@
+-rear: 0.8118000000000001
+running: 0.7902
+rival: 0.783
+athlete: 0.7803
+trip_over: 0.7785
+trip_himself: 0.7785
+gain_ground: 0.7668
+-back: 0.7659

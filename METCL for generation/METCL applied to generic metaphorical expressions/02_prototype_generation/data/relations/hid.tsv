@@ -1,0 +1,8 @@
+/c/en/hid	RelatedTo	/c/en/mexico	1.0	0.105
+/c/en/hiddest	DerivedFrom	/c/en/hid	1.0	0.528
+/c/en/hid	HasContext	/c/en/computing	1.0	0.023
+/c/en/hid	HasContext	/c/en/archaic	1.0	0.014
+/c/en/human_interface_device	Synonym	/c/en/hid	1.0	0.085
+/c/en/hid	FormOf	/c/en/hide	1.0	0.741
+/c/en/hid	FormOf	/c/en/hide	1.0	0.741
+/c/en/hids	FormOf	/c/en/hid	1.0	0.715

@@ -1,0 +1,30 @@
+Title: person-plants
+
+Head Concept Name: person
+Modifier Concept Name: plants
+
+
+
+
+
+T(modifier), poisonous, 0.904
+T(modifier), garden, 0.88
+T(modifier), flower_in_sun, 0.869
+T(modifier), purple_in_color, 0.868
+T(modifier), produce_oxygen, 0.864
+T(modifier), good_for_environment, 0.863
+T(modifier), edible, 0.863
+T(modifier), greenhouse, 0.862
+
+T(head), wave_to_friend, 0.94
+T(head), wave_goodbye, 0.94
+T(head), wave_to_another_person, 0.94
+T(head), wave_at_another_person, 0.94
+T(head), wave_hello_or_goodbye, 0.909
+T(head), wait_patiently, 0.908
+T(head), thank_god, 0.895
+T(head), god, 0.876
+
+
+Result: {"poisonous": 0.904, "wave_to_friend": 0.94, "wave_goodbye": 0.94, "wave_to_another_person": 0.94, "wave_at_another_person": 0.94, "wave_hello_or_goodbye": 0.909, "wait_patiently": 0.908, "thank_god": 0.895, "@scenario_probability": 4.725632004014153e-06}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 4.725632004014153e-06]

@@ -1,0 +1,5 @@
+thesis: 0.896
+treatise: 0.868
+published_work: 0.791
+document_type: 0.747
+long_term_study: 0.745

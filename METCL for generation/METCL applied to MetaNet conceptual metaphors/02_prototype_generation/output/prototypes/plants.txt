@@ -1,0 +1,8 @@
+poisonous: 0.904
+garden: 0.88
+flower_in_sun: 0.869
+purple_in_color: 0.868
+produce_oxygen: 0.864
+good_for_environment: 0.863
+edible: 0.863
+greenhouse: 0.862

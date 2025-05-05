@@ -1,0 +1,26 @@
+Title: institution-business
+
+Head Concept Name: institution
+Modifier Concept Name: business
+
+
+
+
+
+T(modifier), enterprise, 0.886
+T(modifier), business_activity, 0.879
+T(modifier), opening_early, 0.867
+T(modifier), making_money, 0.846
+T(modifier), selling_product, 0.846
+T(modifier), sector, 0.844
+T(modifier), business_district, 0.839
+T(modifier), market_new_product, 0.831
+
+T(head), establishment, 0.878
+T(head), organization, 0.851
+T(head), custom, 0.806
+T(head), department, 0.744
+
+
+Result: {"enterprise": 0.886, "business_activity": 0.879, "opening_early": 0.867, "making_money": 0.846, "selling_product": 0.846, "sector": 0.844, "establishment": 0.878, "organization": 0.851, "@scenario_probability": 0.04118160029096123}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0.04118160029096123]

@@ -1,0 +1,19 @@
+Title: take_away-right
+
+Head Concept Name: take_away
+Modifier Concept Name: right
+
+
+
+
+
+T(modifier), opposite_of_left, 0.856
+T(modifier), right_wrong, 0.854
+T(modifier), -left, 0.849
+T(modifier), entering_into_contract, 0.846
+T(modifier), -wrong, 0.838
+T(modifier), hand, 0.834
+T(modifier), common, 0.831
+T(modifier), turn, 0.83
+
+

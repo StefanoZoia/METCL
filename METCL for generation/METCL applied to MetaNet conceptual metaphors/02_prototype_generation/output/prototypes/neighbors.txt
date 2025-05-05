@@ -1,0 +1,5 @@
+borrow_tools: 0.861
+live_literally_miles_away: 0.812
+note_comings_and_goings: 0.803
+apartment: 0.8
+move_on_thursday: 0.78

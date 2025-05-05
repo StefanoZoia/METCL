@@ -1,0 +1,8 @@
+capture: 0.856
+hunt: 0.841
+bait: 0.82
+drain: 0.818
+hold: 0.816
+mouth: 0.811
+device: 0.809
+carriage: 0.804

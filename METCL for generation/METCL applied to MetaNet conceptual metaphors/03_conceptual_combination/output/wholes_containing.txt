@@ -1,0 +1,24 @@
+Title: wholes-containing
+
+Head Concept Name: wholes
+Modifier Concept Name: containing
+
+
+
+
+
+T(modifier), container, 0.791
+T(modifier), vessel, 0.69
+
+T(head), concept, 0.734
+T(head), object, 0.727
+T(head), -gimpy, 0.684
+T(head), -portion, 0.68
+T(head), -ground, 0.675
+T(head), parts, 0.668
+T(head), fraction, 0.654
+T(head), -mankind, 0.652
+
+
+Result: {"container": 0.791, "vessel": 0.69, "concept": 0.734, "object": 0.727, "-gimpy": 0.684, "-portion": 0.68, "-ground": 0.675, "parts": 0.668, "@scenario_probability": 0.7354559019544614}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0.7354559019544614]

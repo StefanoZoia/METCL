@@ -1,0 +1,25 @@
+Title: learning-acquiring
+
+Head Concept Name: learning
+Modifier Concept Name: acquiring
+
+
+
+
+
+T(modifier), getting, 0.8
+T(modifier), act, 0.783
+T(modifier), paying_by_check, 0.698
+
+T(head), intellegence, 0.954
+T(head), very_important, 0.941
+T(head), expanding_one's_mind, 0.908
+T(head), expanding_horizons, 0.908
+T(head), fun, 0.905
+T(head), acquiring_knowledge, 0.901
+T(head), learning_material, 0.9
+T(head), study, 0.894
+
+
+Result: {"getting": 0.8, "intellegence": 0.954, "very_important": 0.941, "expanding_one's_mind": 0.908, "expanding_horizons": 0.908, "fun": 0.905, "acquiring_knowledge": 0.901, "learning_material": 0.9, "@scenario_probability": 0.3018478618496075}
+Scenario: [1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.3018478618496075]

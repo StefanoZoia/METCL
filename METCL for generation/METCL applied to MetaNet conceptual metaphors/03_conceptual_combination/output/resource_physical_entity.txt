@@ -1,0 +1,26 @@
+Title: resource-physical_entity
+
+Head Concept Name: resource
+Modifier Concept Name: physical_entity
+
+
+
+
+
+T(modifier), entity, 0.791
+T(modifier), databases, 0.698
+T(modifier), television_episode, 0.672
+T(modifier), south_park, 0.653
+
+T(head), asset, 0.852
+T(head), assets, 0.838
+T(head), inventiveness, 0.824
+T(head), tangible_thing, 0.778
+T(head), localized_spatial_thing, 0.759
+T(head), group_of_things, 0.737
+T(head), album, 0.717
+T(head), book, 0.709
+
+
+Result: {"entity": 0.791, "asset": 0.852, "assets": 0.838, "inventiveness": 0.824, "tangible_thing": 0.778, "localized_spatial_thing": 0.759, "group_of_things": 0.737, "album": 0.717, "@scenario_probability": 0.14524412529103384}
+Scenario: [1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.14524412529103384]

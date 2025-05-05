@@ -1,0 +1,8 @@
+arrive: 0.7974
+happen: 0.7731
+be: 0.7704
+originate: 0.7695
+music: 0.764
+exist: 0.7505999999999999
+-go: 0.7461
+become: 0.7452

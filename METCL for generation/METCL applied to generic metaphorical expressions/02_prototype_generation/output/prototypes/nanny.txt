@@ -1,0 +1,8 @@
+child_care_worker: 0.851
+keeper: 0.829
+goat: 0.824
+push_stroller: 0.817
+woman: 0.804
+udder: 0.764
+pejorative: 0.761
+television_show: 0.738

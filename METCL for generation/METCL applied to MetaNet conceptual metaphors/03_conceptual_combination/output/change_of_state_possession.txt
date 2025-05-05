@@ -1,0 +1,30 @@
+Title: change_of_state-possession
+
+Head Concept Name: change_of_state
+Modifier Concept Name: possession
+
+
+
+
+
+T(modifier), control, 0.84
+T(modifier), relation, 0.818
+T(modifier), enchantment, 0.813
+T(modifier), district, 0.81
+T(modifier), house, 0.787
+T(modifier), sport, 0.776
+T(modifier), -absence, 0.755
+T(modifier), sports, 0.736
+
+T(head), change, 0.933
+T(head), difference, 0.826
+T(head), replace, 0.774
+T(head), unpleasant, 0.752
+T(head), exciting, 0.752
+T(head), jar, 0.733
+T(head), dress, 0.733
+T(head), consequence, 0.733
+
+
+Result: {"control": 0.84, "relation": 0.818, "enchantment": 0.813, "district": 0.81, "house": 0.787, "sport": 0.776, "change": 0.933, "difference": 0.826, "@scenario_probability": 0.000364436523444811}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.000364436523444811]

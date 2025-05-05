@@ -1,0 +1,30 @@
+Title: scale-paths
+
+Head Concept Name: scale
+Modifier Concept Name: paths
+
+
+
+
+
+T(modifier), way, 0.789
+T(modifier), park, 0.788
+T(modifier), route, 0.782
+T(modifier), line, 0.752
+T(modifier), topology, 0.691
+T(modifier), medicine, 0.68
+T(modifier), paganism, 0.679
+T(modifier), graph_theory, 0.674
+
+T(head), measuring_weight, 0.899
+T(head), measure_weight, 0.891
+T(head), size, 0.868
+T(head), weighing_people, 0.863
+T(head), weighing, 0.863
+T(head), weighing_purchases, 0.863
+T(head), weighing_trucks, 0.863
+T(head), weighing_objects, 0.863
+
+
+Result: {"way": 0.789, "measuring_weight": 0.899, "measure_weight": 0.891, "size": 0.868, "weighing": 0.863, "weighing_purchases": 0.863, "weighing_trucks": 0.863, "weighing_objects": 0.863, "@scenario_probability": 0.0004943937817327492}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 1, 1, 1, 1, 0.0004943937817327492]

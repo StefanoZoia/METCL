@@ -1,0 +1,26 @@
+Title: analysis-dissect
+
+Head Concept Name: analysis
+Modifier Concept Name: dissect
+
+
+
+
+
+T(modifier), cut, 0.836
+T(modifier), anatomy, 0.812
+T(modifier), pathology, 0.785
+T(modifier), surgery, 0.77
+
+T(head), investigation, 0.849
+T(head), reasoning, 0.836
+T(head), calculus, 0.832
+T(head), important_to_chess_players, 0.812
+T(head), criticism, 0.811
+T(head), mathematics, 0.81
+T(head), -synthesis, 0.8
+T(head), expressive_style, 0.792
+
+
+Result: {"cut": 0.836, "anatomy": 0.812, "investigation": 0.849, "reasoning": 0.836, "calculus": 0.832, "important_to_chess_players": 0.812, "criticism": 0.811, "mathematics": 0.81, "@scenario_probability": 0.04398667450507982}
+Scenario: [1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.04398667450507982]

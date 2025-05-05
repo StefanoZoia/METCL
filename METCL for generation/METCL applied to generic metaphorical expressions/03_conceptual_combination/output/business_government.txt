@@ -1,0 +1,30 @@
+Title: business-government
+
+Head Concept Name: business
+Modifier Concept Name: government
+
+
+
+
+
+T(modifier), corrupt, 0.897
+T(modifier), govern_country, 0.896
+T(modifier), polity, 0.874
+T(modifier), country, 0.839
+T(modifier), force_citizens_to_comply, 0.833
+T(modifier), rule_people, 0.832
+T(modifier), -fun, 0.829
+T(modifier), jealous_of_power, 0.827
+
+T(head), business, 0.946
+T(head), enterprise, 0.886
+T(head), business_activity, 0.879
+T(head), opening_early, 0.867
+T(head), making_money, 0.846
+T(head), selling_product, 0.846
+T(head), sector, 0.844
+T(head), business_district, 0.839
+
+
+Result: {"corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "business": 0.946, "enterprise": 0.886, "business_activity": 0.879, "opening_early": 0.867, "selling_product": 0.846, "@scenario_probability": 1.9619146803055717e-05}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 1, 0, 0, 1.9619146803055717e-05]

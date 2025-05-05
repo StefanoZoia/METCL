@@ -1,0 +1,8 @@
+levy: 0.89
+charge: 0.84
+-income: 0.807
+determine: 0.798
+-subsidy: 0.788
+-rebate: 0.785
+-refund: 0.778
+legalized_theft_by_government: 0.762

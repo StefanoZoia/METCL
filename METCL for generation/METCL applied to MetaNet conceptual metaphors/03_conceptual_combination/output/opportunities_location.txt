@@ -1,0 +1,29 @@
+Title: opportunities-location
+
+Head Concept Name: opportunities
+Modifier Concept Name: location
+
+
+
+
+
+T(modifier), space, 0.821
+T(modifier), workplace, 0.817
+T(modifier), object, 0.812
+T(modifier), place, 0.795
+T(modifier), south_africa, 0.739
+T(modifier), legal, 0.733
+T(modifier), index_card_drawer, 0.619
+
+T(head), possibility, 0.794
+T(head), situation, 0.707
+T(head), fork_in_road, 0.697
+T(head), nonstandard, 0.672
+T(head), jumping_at_chance, 0.668
+T(head), euro_english, 0.661
+T(head), -door, 0.634
+T(head), artificial_satellite, 0.628
+
+
+Result: {"space": 0.821, "workplace": 0.817, "object": 0.812, "place": 0.795, "south_africa": 0.739, "legal": 0.733, "possibility": 0.794, "situation": 0.707, "@scenario_probability": 0.007639764226808362}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.007639764226808362]

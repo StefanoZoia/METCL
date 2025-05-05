@@ -1,0 +1,6 @@
+/c/en/locations	RelatedTo	/c/en/location	1.0	0.802
+/c/en/downstairs_and_nest	IsA	/c/en/locations	1.0	-0.105
+/c/en/as_crow_flies	RelatedTo	/c/en/locations	1.0	0.01
+/c/en/locations	FormOf	/c/en/location	1.0	0.802
+/c/en/astronomy	RelatedTo	/c/en/locations	1.0	0.082
+/c/en/locations	FormOf	/c/en/location	1.0	0.802

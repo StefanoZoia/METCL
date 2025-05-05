@@ -1,0 +1,11 @@
+/c/en/chicken	RelatedTo	/c/en/tastes	1.843	0.106
+/c/en/tastes	RelatedTo	/c/en/taste	1.0	0.866
+/c/en/tastes	FormOf	/c/en/taste	1.0	0.866
+/c/en/tastes	FormOf	/c/en/taste	1.0	0.866
+/c/en/tastes	FormOf	/c/en/taste	1.0	0.866
+/c/en/mouthgasm	RelatedTo	/c/en/tastes	1.0	0.073
+/c/en/tastes	RelatedTo	/c/en/taste	1.0	0.866
+/c/en/tastes	FormOf	/c/en/taste	1.0	0.866
+/c/en/fashion	RelatedTo	/c/en/tastes	0.20100000000000007	0.094
+/c/en/bland	RelatedTo	/c/en/tastes	0.1499999999999999	0.216
+/c/en/castor	RelatedTo	/c/en/tastes	0.1339999999999999	-0.073

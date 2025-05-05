@@ -1,0 +1,4 @@
+/c/en/bond_for_general_purposes	RelatedTo	/c/en/taxpayers	1.0	-0.027
+/c/en/taxpayers	FormOf	/c/en/taxpayer	1.0	0.973
+/c/en/taxpayers	IsA	/c/en/government_stooges	1.0	0.137
+/c/en/taxpayers	RelatedTo	/c/en/taxpayer	1.0	0.973

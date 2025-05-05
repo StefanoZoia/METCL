@@ -1,0 +1,8 @@
+aave: 0.765
+pharmacology: 0.763
+nz: 0.752
+euphemistic: 0.752
+-fell: 0.752
+slang: 0.751
+southern_us: 0.744
+australian: 0.743

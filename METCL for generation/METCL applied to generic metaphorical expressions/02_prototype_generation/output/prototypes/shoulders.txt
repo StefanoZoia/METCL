@@ -1,0 +1,8 @@
+rotator_cuff: 0.7857000000000001
+torso: 0.7749
+scapula: 0.7605
+teres: 0.7524
+road: 0.7443
+body_part: 0.7415999999999999
+garment: 0.7407
+thrust: 0.7334999999999999

@@ -1,0 +1,8 @@
+flavor: 0.842
+persuade: 0.835
+pendant: 0.817
+particle_physics: 0.811
+object: 0.805
+protect: 0.8
+control: 0.799
+delight: 0.775

@@ -1,0 +1,8 @@
+flow: 0.85
+photographic_equipment: 0.848
+natural_disaster: 0.841
+disaster: 0.82
+fill: 0.818
+light: 0.818
+geological_phenomenon: 0.816
+filling: 0.812

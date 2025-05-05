@@ -1,0 +1,8 @@
+-found: 0.807
+-won: 0.791
+lost_and_found: 0.778
+-gain: 0.775
+-win: 0.769
+-find: 0.761
+-profit: 0.718
+television_season: 0.701

@@ -1,0 +1,30 @@
+Title: poverty-size
+
+Head Concept Name: poverty
+Modifier Concept Name: size
+
+
+
+
+
+T(modifier), how_big_or_small, 0.898
+T(modifier), magnitude, 0.883
+T(modifier), -bigness, 0.826
+T(modifier), important, 0.825
+T(modifier), change_magnitude, 0.816
+T(modifier), situation, 0.81
+T(modifier), classify, 0.808
+T(modifier), coat, 0.805
+
+T(head), financial_condition, 0.865
+T(head), undesirable, 0.833
+T(head), -wealth, 0.792
+T(head), drive_crime, 0.789
+T(head), situation, 0.763
+T(head), curse, 0.75
+T(head), get_money_from, 0.748
+T(head), mumbai, 0.747
+
+
+Result: {"how_big_or_small": 0.898, "magnitude": 0.883, "-bigness": 0.826, "important": 0.825, "change_magnitude": 0.816, "situation": 0.81, "financial_condition": 0.865, "undesirable": 0.833, "@scenario_probability": 0.0001597343686644868}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.0001597343686644868]

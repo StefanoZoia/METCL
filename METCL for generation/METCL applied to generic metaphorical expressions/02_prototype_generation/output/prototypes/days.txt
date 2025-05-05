@@ -1,0 +1,5 @@
+life: 0.828
+rain_cats_and_dogs: 0.813
+-month: 0.783
+shorter_in_winter: 0.782
+units_of_time: 0.767

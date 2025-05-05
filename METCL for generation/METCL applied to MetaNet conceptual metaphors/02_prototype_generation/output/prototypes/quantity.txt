@@ -1,0 +1,7 @@
+amount: 0.906
+mathematics: 0.823
+wins_out_over_quality: 0.802
+concept: 0.794
+metrology: 0.78
+scalar_or_vector_interval: 0.764
+-want: 0.68

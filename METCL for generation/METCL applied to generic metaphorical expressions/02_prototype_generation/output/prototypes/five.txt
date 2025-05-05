@@ -1,0 +1,8 @@
+-four: 0.872
+half_of_ten: 0.865
+cardinal: 0.847
+digit: 0.84
+cardinal_number: 0.802
+-four_one: 0.8
+number_of_fingers_have: 0.77
+smaller_than_seven: 0.752

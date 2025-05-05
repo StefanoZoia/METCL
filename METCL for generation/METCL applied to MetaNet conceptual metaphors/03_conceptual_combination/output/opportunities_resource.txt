@@ -1,0 +1,30 @@
+Title: opportunities-resource
+
+Head Concept Name: opportunities
+Modifier Concept Name: resource
+
+
+
+
+
+T(modifier), asset, 0.852
+T(modifier), assets, 0.838
+T(modifier), inventiveness, 0.824
+T(modifier), tangible_thing, 0.778
+T(modifier), localized_spatial_thing, 0.759
+T(modifier), group_of_things, 0.737
+T(modifier), album, 0.717
+T(modifier), book, 0.709
+
+T(head), possibility, 0.794
+T(head), situation, 0.707
+T(head), fork_in_road, 0.697
+T(head), nonstandard, 0.672
+T(head), jumping_at_chance, 0.668
+T(head), euro_english, 0.661
+T(head), -door, 0.634
+T(head), artificial_satellite, 0.628
+
+
+Result: {"asset": 0.852, "assets": 0.838, "inventiveness": 0.824, "tangible_thing": 0.778, "localized_spatial_thing": 0.759, "group_of_things": 0.737, "album": 0.717, "possibility": 0.794, "@scenario_probability": 0.0018926845311733804}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0.0018926845311733804]

@@ -1,0 +1,7 @@
+/c/en/gun_rights	RelatedTo	/c/en/gun_control	1.0	0.669
+/c/en/pro_control	RelatedTo	/c/en/gun_rights	1.0	-0.001
+/c/en/gun_control	RelatedTo	/c/en/gun_rights	1.0	0.669
+/c/en/gun_rights	RelatedTo	/c/en/pro_gun	1.0	-0.001
+/c/en/gun_rights	RelatedTo	/c/en/pro_control	1.0	-0.001
+/c/en/pro_gun	Synonym	/c/en/gun_rights	1.0	-0.001
+/c/en/gun_rights	RelatedTo	/c/en/entitlement	1.0	0.111

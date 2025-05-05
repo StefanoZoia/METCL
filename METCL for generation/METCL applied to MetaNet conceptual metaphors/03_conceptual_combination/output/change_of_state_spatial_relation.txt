@@ -1,0 +1,30 @@
+Title: change_of_state-spatial_relation
+
+Head Concept Name: change_of_state
+Modifier Concept Name: spatial_relation
+
+
+
+
+
+T(modifier), attitude, 0.764
+T(modifier), logic, 0.763
+T(modifier), assert, 0.752
+T(modifier), phrase, 0.752
+T(modifier), orientation, 0.751
+T(modifier), verb, 0.743
+T(modifier), point, 0.742
+T(modifier), assumption, 0.737
+
+T(head), change, 0.933
+T(head), difference, 0.826
+T(head), replace, 0.774
+T(head), unpleasant, 0.752
+T(head), exciting, 0.752
+T(head), jar, 0.733
+T(head), dress, 0.733
+T(head), consequence, 0.733
+
+
+Result: {"attitude": 0.764, "logic": 0.763, "assert": 0.752, "phrase": 0.752, "change": 0.933, "difference": 0.826, "replace": 0.774, "unpleasant": 0.752, "@scenario_probability": 0.00030308710526609744}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.00030308710526609744]

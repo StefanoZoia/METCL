@@ -1,0 +1,25 @@
+Title: curing-problem
+
+Head Concept Name: curing
+Modifier Concept Name: problem
+
+
+
+
+
+T(modifier), president_bush, 0.91
+T(modifier), quandry, 0.896
+T(modifier), difficulty, 0.884
+T(modifier), question, 0.863
+T(modifier), slow_work, 0.847
+T(modifier), -solution, 0.834
+T(modifier), -answer, 0.768
+T(modifier), cogitate, 0.763
+
+T(head), preferred_to_palliating, 0.834
+T(head), solving_problem, 0.816
+T(head), like_repairing, 0.749
+
+
+Result: {"president_bush": 0.91, "quandry": 0.896, "difficulty": 0.884, "question": 0.863, "slow_work": 0.847, "-solution": 0.834, "preferred_to_palliating": 0.834, "solving_problem": 0.816, "@scenario_probability": 0.41269402905088}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0.41269402905088]

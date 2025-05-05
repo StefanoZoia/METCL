@@ -1,0 +1,12 @@
+/c/en/bodyweights	FormOf	/c/en/bodyweight	1.0	1.0
+/c/en/bodyweight	RelatedTo	/c/en/organism	1.0	0.135
+/c/en/bodyweight	DerivedFrom	/c/en/weight	1.0	0.774
+/c/en/bodyweight	RelatedTo	/c/en/weight	1.0	0.774
+/c/en/bodyweight	DerivedFrom	/c/en/body	1.0	0.397
+/c/en/bodyweight	RelatedTo	/c/en/movement	1.0	0.252
+/c/en/bodyweight	RelatedTo	/c/en/mass	1.0	0.276
+/c/en/bodyweights	RelatedTo	/c/en/bodyweight	1.0	1.0
+/c/en/bodyweight	RelatedTo	/c/en/exercise	1.0	0.422
+/c/en/body_weight	FormOf	/c/en/bodyweight	1.0	0.109
+/c/en/bodyweight	RelatedTo	/c/en/resistance	1.0	0.341
+/c/en/bodyweight	RelatedTo	/c/en/physical	1.0	0.262

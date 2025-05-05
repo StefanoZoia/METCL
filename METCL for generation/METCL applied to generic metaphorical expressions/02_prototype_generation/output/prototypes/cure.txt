@@ -1,0 +1,8 @@
+preserve: 0.824
+change: 0.801
+harden: 0.795
+doctor: 0.776
+-disease: 0.775
+band: 0.743
+engineering: 0.741
+-poison: 0.71

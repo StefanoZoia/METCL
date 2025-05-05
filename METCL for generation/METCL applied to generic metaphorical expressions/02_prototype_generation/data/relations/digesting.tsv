@@ -1,0 +1,11 @@
+/c/en/digesting	RelatedTo	/c/en/digest	1.0	0.686
+/c/en/digesting	FormOf	/c/en/digest	1.0	0.686
+/c/en/digesting	IsA	/c/en/biological_transport	1.0	-0.01
+/c/en/digesting	FormOf	/c/en/digest	1.0	0.686
+/c/en/having_food	Causes	/c/en/digesting	1.0	0.286
+/c/en/digesting	IsA	/c/en/involuntary_bodily_function	1.0	-0.074
+/c/en/actinidin	RelatedTo	/c/en/digesting	1.0	-0.036
+/c/en/digesting	IsA	/c/en/biological_production	1.0	-0.01
+/c/en/digesting	IsA	/c/en/biological_decomposition	1.0	-0.01
+/c/en/reading	RelatedTo	/c/en/digesting	0.3420000000000001	0.415
+/c/en/stomach	RelatedTo	/c/en/digesting	0.17499999999999982	0.397

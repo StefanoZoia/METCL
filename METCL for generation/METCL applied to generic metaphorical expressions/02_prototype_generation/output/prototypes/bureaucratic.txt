@@ -1,0 +1,8 @@
+government: 0.7794
+official: 0.7731
+bureaucrats: 0.7677
+government_officials: 0.7505999999999999
+organization: 0.7325999999999999
+administrator: 0.7236
+system_of_running_bureaus: 0.7047
+organizational_theory: 0.6858000000000001

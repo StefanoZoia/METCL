@@ -1,0 +1,3 @@
+inhabit: 0.7839
+invade: 0.783
+pathology: 0.684

@@ -1,0 +1,8 @@
+narrow: 0.879
+-large: 0.875
+size: 0.873
+-big: 0.856
+back: 0.801
+miniature: 0.785
+pocket_sized_notebook: 0.783
+needle: 0.775

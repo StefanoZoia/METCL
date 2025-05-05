@@ -1,0 +1,8 @@
+arithmetic: 0.7569
+calculate: 0.7515
+number: 0.7443
+cause: 0.7434
+lend: 0.7308000000000001
+independent_variable: 0.7245
+mathematics: 0.7011000000000001
+economics: 0.6957

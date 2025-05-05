@@ -1,0 +1,8 @@
+worthlessness: 0.839
+pride: 0.826
+accompanies_arrogance: 0.805
+admiration_of_oneself: 0.759
+act_of_being_vain: 0.755
+musical_artist: 0.708
+earring: 0.686
+groom: 0.686

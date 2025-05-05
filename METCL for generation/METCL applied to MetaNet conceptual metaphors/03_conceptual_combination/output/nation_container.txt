@@ -1,0 +1,30 @@
+Title: nation-container
+
+Head Concept Name: nation
+Modifier Concept Name: container
+
+
+
+
+
+T(modifier), container_garden, 0.894
+T(modifier), containing, 0.877
+T(modifier), holding, 0.867
+T(modifier), storing_goods, 0.846
+T(modifier), cupboard, 0.841
+T(modifier), refrigerator, 0.838
+T(modifier), pantry, 0.835
+T(modifier), store_many_different_items, 0.833
+
+T(head), united_states, 0.857
+T(head), people, 0.836
+T(head), confederation, 0.831
+T(head), ready_troops, 0.808
+T(head), weather_storm_of_war, 0.789
+T(head), arm_citizens, 0.788
+T(head), -state, 0.787
+T(head), legal, 0.744
+
+
+Result: {"container_garden": 0.894, "containing": 0.877, "holding": 0.867, "storing_goods": 0.846, "cupboard": 0.841, "refrigerator": 0.838, "united_states": 0.857, "people": 0.836, "@scenario_probability": 6.332568847476782e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 6.332568847476782e-05]

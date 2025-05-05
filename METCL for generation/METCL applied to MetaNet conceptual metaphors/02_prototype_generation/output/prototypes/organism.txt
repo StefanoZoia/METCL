@@ -1,0 +1,8 @@
+system: 0.823
+living_thing: 0.816
+organs: 0.808
+biology: 0.808
+ecosystem: 0.791
+need: 0.787
+cells: 0.75
+cell: 0.738

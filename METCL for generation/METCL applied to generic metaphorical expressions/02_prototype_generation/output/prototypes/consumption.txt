@@ -1,0 +1,8 @@
+consume: 0.854
+demand: 0.846
+depletion: 0.836
+economics: 0.831
+bodily_process: 0.791
+buying_products: 0.782
+-production: 0.782
+pathology: 0.757

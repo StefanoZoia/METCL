@@ -1,0 +1,8 @@
+time_period: 0.88
+moment: 0.878
+linear: 0.874
+running: 0.871
+finite: 0.851
+age: 0.843
+endless: 0.84
+absolute: 0.836

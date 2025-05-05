@@ -1,0 +1,9 @@
+/c/en/blossoms	FormOf	/c/en/blossom	1.0	0.919
+/c/en/blossoms	FormOf	/c/en/blossom	1.0	0.919
+/c/en/blasoms	FormOf	/c/en/blossoms	1.0	0.005
+/c/en/blossoms	RelatedTo	/c/en/blossom	1.0	0.919
+/c/en/blossoms	FormOf	/c/en/blossom	1.0	0.919
+/c/en/blossoms	DerivedFrom	/c/en/blossom	1.0	0.919
+/c/en/blossoms	FormOf	/c/en/blossom	1.0	0.919
+/c/en/blossoms	RelatedTo	/c/en/blossom	1.0	0.919
+/c/en/flower	RelatedTo	/c/en/blossoms	0.27	0.667

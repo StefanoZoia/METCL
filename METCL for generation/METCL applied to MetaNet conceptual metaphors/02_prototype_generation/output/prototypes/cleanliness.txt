@@ -1,0 +1,8 @@
+next_to_godliness: 0.863
+-uncleanliness: 0.846
+good_thing: 0.84
+trait: 0.82
+habit: 0.803
+cleaning_clothes: 0.802
+cleaning: 0.796
+fight_sickness: 0.785

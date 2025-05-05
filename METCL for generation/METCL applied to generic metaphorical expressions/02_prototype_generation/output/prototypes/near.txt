@@ -1,0 +1,8 @@
+-away: 0.794
+-remote: 0.786
+crowd_space: 0.778
+-far_from: 0.77
+-distance: 0.75
+-beyond: 0.741
+us: 0.734
+-off_side: 0.718

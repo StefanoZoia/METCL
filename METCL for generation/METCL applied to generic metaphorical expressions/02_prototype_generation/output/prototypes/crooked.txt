@@ -1,0 +1,3 @@
+-straight: 0.826
+-square: 0.746
+-level: 0.674

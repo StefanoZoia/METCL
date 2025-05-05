@@ -1,0 +1,8 @@
+heat_up: 0.863
+colder_near_coast: 0.834
+weather: 0.828
+increase: 0.82
+droping_rapidly: 0.814
+dropping_quickly: 0.812
+thermodynamics: 0.798
+drop_to_zero: 0.796

@@ -1,0 +1,8 @@
+entrance: 0.7731
+web_site: 0.7353
+internet: 0.7137
+bridge_building: 0.7020000000000001
+cavity: 0.6930000000000001
+architecture: 0.6858000000000001
+boundary: 0.6813
+fiction: 0.6768000000000001

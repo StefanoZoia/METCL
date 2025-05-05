@@ -1,0 +1,30 @@
+Title: society-object
+
+Head Concept Name: society
+Modifier Concept Name: object
+
+
+
+
+
+T(modifier), thing, 0.843
+T(modifier), disapprove, 0.832
+T(modifier), become_broken, 0.817
+T(modifier), object_oriented_programming, 0.814
+T(modifier), content, 0.81
+T(modifier), belong_to_person, 0.809
+T(modifier), disappear_from_sight, 0.806
+T(modifier), computer_science, 0.803
+
+T(head), club, 0.865
+T(head), social_group, 0.857
+T(head), elite, 0.844
+T(head), socialising, 0.835
+T(head), group_of_people, 0.829
+T(head), organization, 0.829
+T(head), governed_by_rules_or_laws, 0.825
+T(head), cooperation, 0.817
+
+
+Result: {"thing": 0.843, "disapprove": 0.832, "club": 0.865, "social_group": 0.857, "elite": 0.844, "socialising": 0.835, "group_of_people": 0.829, "organization": 0.829, "@scenario_probability": 3.807096718984424e-05}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 3.807096718984424e-05]

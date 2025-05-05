@@ -1,0 +1,7 @@
+-inarticulate: 0.853
+connect: 0.825
+state: 0.815
+anatomy: 0.764
+zoology: 0.761
+music: 0.739
+hands: 0.667

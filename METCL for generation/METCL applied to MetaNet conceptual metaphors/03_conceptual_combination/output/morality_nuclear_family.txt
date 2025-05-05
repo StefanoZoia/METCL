@@ -1,0 +1,22 @@
+Title: morality-nuclear_family
+
+Head Concept Name: morality
+Modifier Concept Name: nuclear_family
+
+
+
+
+
+T(modifier), family, 0.781
+T(modifier), family_household, 0.753
+
+T(head), -amorality, 0.859
+T(head), quality, 0.828
+T(head), needless, 0.821
+T(head), belief_system, 0.818
+T(head), -baseness, 0.772
+T(head), archaic, 0.748
+
+
+Result: {"family": 0.781, "family_household": 0.753, "-amorality": 0.859, "quality": 0.828, "needless": 0.821, "belief_system": 0.818, "-baseness": 0.772, "@scenario_probability": 5.464920048197534}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 5.464920048197534]

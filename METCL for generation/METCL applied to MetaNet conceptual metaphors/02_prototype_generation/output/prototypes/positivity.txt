@@ -1,0 +1,3 @@
+-negativity: 0.867
+polarity: 0.84
+physics_and_chemistry: 0.729

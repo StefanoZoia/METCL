@@ -1,0 +1,8 @@
+winter_over_in_den: 0.857
+move: 0.85
+fish_for_salmon: 0.841
+mammal: 0.837
+hunt_rabbit: 0.83
+carnivore: 0.828
+investor: 0.825
+have: 0.825

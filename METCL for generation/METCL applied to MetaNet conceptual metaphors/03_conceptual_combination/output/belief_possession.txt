@@ -1,0 +1,30 @@
+Title: belief-possession
+
+Head Concept Name: belief
+Modifier Concept Name: possession
+
+
+
+
+
+T(modifier), control, 0.84
+T(modifier), relation, 0.818
+T(modifier), enchantment, 0.813
+T(modifier), district, 0.81
+T(modifier), house, 0.787
+T(modifier), sport, 0.776
+T(modifier), -absence, 0.755
+T(modifier), sports, 0.736
+
+T(head), faith, 0.878
+T(head), include_fantasy, 0.848
+T(head), subjective_sense_of_knowledge, 0.818
+T(head), trust, 0.813
+T(head), content, 0.804
+T(head), praying, 0.787
+T(head), -fact, 0.747
+T(head), human_mind, 0.732
+
+
+Result: {"control": 0.84, "relation": 0.818, "enchantment": 0.813, "district": 0.81, "faith": 0.878, "include_fantasy": 0.848, "subjective_sense_of_knowledge": 0.818, "trust": 0.813, "@scenario_probability": 0.00019571810161975024}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.00019571810161975024]

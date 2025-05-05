@@ -1,0 +1,8 @@
+anger_people: 0.807
+line: 0.7677
+list: 0.7587
+braid: 0.7542
+information_science: 0.7074
+bus_depot: 0.6912
+heraldry: 0.6831
+wait_in_line: 0.6786

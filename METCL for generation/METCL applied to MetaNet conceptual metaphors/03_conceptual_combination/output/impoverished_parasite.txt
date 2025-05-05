@@ -1,0 +1,26 @@
+Title: impoverished-parasite
+
+Head Concept Name: impoverished
+Modifier Concept Name: parasite
+
+
+
+
+
+T(modifier), organism, 0.869
+T(modifier), -commensal, 0.816
+T(modifier), plant, 0.813
+T(modifier), giardia, 0.802
+T(modifier), -mutualism, 0.797
+T(modifier), heterotroph, 0.78
+T(modifier), biology, 0.766
+T(modifier), pejorative, 0.76
+
+T(head), -wealthy, 0.787
+T(head), -rich, 0.759
+T(head), -luxurious, 0.735
+T(head), -luxury, 0.561
+
+
+Result: {"organism": 0.869, "-commensal": 0.816, "plant": 0.813, "giardia": 0.802, "-mutualism": 0.797, "heterotroph": 0.78, "biology": 0.766, "-wealthy": 0.787, "@scenario_probability": 0.11659232254362929}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0.11659232254362929]

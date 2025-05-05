@@ -1,0 +1,8 @@
+fun: 0.913
+game: 0.911
+doing_fun: 0.892
+relaxing: 0.891
+learning: 0.89
+having_fun: 0.889
+socialising: 0.885
+gamers: 0.879

@@ -1,0 +1,8 @@
+position: 0.841
+attitude: 0.7641
+orientation: 0.7515
+point: 0.7415999999999999
+assumption: 0.7371
+put: 0.7353
+relation: 0.7299000000000001
+bodily_property: 0.7290000000000001

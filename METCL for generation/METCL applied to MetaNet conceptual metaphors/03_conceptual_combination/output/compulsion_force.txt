@@ -1,0 +1,25 @@
+Title: compulsion-force
+
+Head Concept Name: compulsion
+Modifier Concept Name: force
+
+
+
+
+
+T(modifier), influence, 0.85
+T(modifier), thrust, 0.846
+T(modifier), act, 0.819
+T(modifier), intensity, 0.819
+T(modifier), organization, 0.813
+T(modifier), social_group, 0.81
+T(modifier), physical_phenomenon, 0.803
+T(modifier), mass, 0.774
+
+T(head), irrational_motive, 0.844
+T(head), irrational_impulse, 0.844
+T(head), causing, 0.797
+
+
+Result: {"influence": 0.85, "thrust": 0.846, "act": 0.819, "intensity": 0.819, "organization": 0.813, "social_group": 0.81, "irrational_motive": 0.844, "irrational_impulse": 0.844, "@scenario_probability": 0.204497617780872}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0.204497617780872]

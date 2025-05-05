@@ -1,0 +1,28 @@
+Title: information-contents
+
+Head Concept Name: information
+Modifier Concept Name: contents
+
+
+
+
+
+T(modifier), publication, 0.84
+T(modifier), table, 0.834
+T(modifier), list, 0.82
+T(modifier), container, 0.812
+T(modifier), box, 0.787
+T(modifier), -index, 0.744
+
+T(head), data, 0.884
+T(head), information_measure, 0.873
+T(head), knowledge, 0.834
+T(head), internet, 0.833
+T(head), message, 0.833
+T(head), change, 0.833
+T(head), discovery, 0.831
+T(head), communications, 0.83
+
+
+Result: {"publication": 0.84, "table": 0.834, "data": 0.884, "information_measure": 0.873, "knowledge": 0.834, "internet": 0.833, "message": 0.833, "change": 0.833, "@scenario_probability": 0.0013816512980817878}
+Scenario: [1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.0013816512980817878]

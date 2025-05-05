@@ -1,0 +1,24 @@
+Title: nature-nuclear_family
+
+Head Concept Name: nature
+Modifier Concept Name: nuclear_family
+
+
+
+
+
+T(modifier), family, 0.781
+T(modifier), family_household, 0.753
+
+T(head), very_hard, 0.87
+T(head), serene, 0.852
+T(head), divine, 0.851
+T(head), destructive, 0.843
+T(head), personality, 0.84
+T(head), type, 0.832
+T(head), wonderful, 0.831
+T(head), quality, 0.83
+
+
+Result: {"family": 0.781, "very_hard": 0.87, "serene": 0.852, "divine": 0.851, "destructive": 0.843, "personality": 0.84, "type": 0.832, "wonderful": 0.831, "@scenario_probability": 1.012783288779935}
+Scenario: [1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1.012783288779935]

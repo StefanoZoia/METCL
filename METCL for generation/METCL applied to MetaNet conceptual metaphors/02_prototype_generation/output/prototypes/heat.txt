@@ -1,0 +1,8 @@
+form_of_energy: 0.911
+temperature: 0.884
+oven: 0.864
+-cold: 0.861
+heater: 0.845
+cooking: 0.842
+energy: 0.836
+emotionality: 0.821

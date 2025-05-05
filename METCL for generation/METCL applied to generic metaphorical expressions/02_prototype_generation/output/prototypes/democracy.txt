@@ -1,0 +1,8 @@
+equality_for_everyone: 0.854
+open_media: 0.853
+political_orientation: 0.852
+political_system: 0.843
+good_thing: 0.84
+government_of_people: 0.816
+-dictatorship: 0.809
+government: 0.793

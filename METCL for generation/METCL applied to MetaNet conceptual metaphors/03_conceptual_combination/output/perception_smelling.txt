@@ -1,0 +1,23 @@
+Title: perception-smelling
+
+Head Concept Name: perception
+Modifier Concept Name: smelling
+
+
+
+
+
+T(modifier), enjoying_scent_of_daisy, 0.831
+T(modifier), knowing_when_food_has_spoiled, 0.802
+T(modifier), soap, 0.728
+T(modifier), buy_fresh_fruits_and_vegetables, 0.706
+T(modifier), -touch, 0.646
+
+T(head), cognition, 0.884
+T(head), conceptualization, 0.846
+T(head), basic_cognitive_process, 0.809
+T(head), sight, 0.765
+
+
+Result: {"enjoying_scent_of_daisy": 0.831, "knowing_when_food_has_spoiled": 0.802, "soap": 0.728, "buy_fresh_fruits_and_vegetables": 0.706, "-touch": 0.646, "cognition": 0.884, "conceptualization": 0.846, "basic_cognitive_process": 0.809, "@scenario_probability": 3.146175917138056}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 1, 0, 3.146175917138056]

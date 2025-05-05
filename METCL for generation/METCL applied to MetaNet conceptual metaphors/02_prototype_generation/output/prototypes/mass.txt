@@ -1,0 +1,8 @@
+mass_or_spatial_quantity: 0.857
+crowd: 0.852
+roman_catholic: 0.834
+prayer: 0.825
+protestant_church: 0.821
+body: 0.818
+high_mass: 0.816
+religious_music: 0.809

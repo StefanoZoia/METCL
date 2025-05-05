@@ -1,0 +1,30 @@
+Title: government-shepherding
+
+Head Concept Name: government
+Modifier Concept Name: shepherding
+
+
+
+
+
+T(modifier), tending, 0.789
+T(modifier), herder, 0.777
+T(modifier), bell_sheep, 0.773
+T(modifier), herdsman, 0.769
+T(modifier), clergyman, 0.742
+T(modifier), minding, 0.742
+T(modifier), tend, 0.731
+T(modifier), guard, 0.727
+
+T(head), corrupt, 0.897
+T(head), govern_country, 0.896
+T(head), polity, 0.874
+T(head), country, 0.839
+T(head), force_citizens_to_comply, 0.833
+T(head), rule_people, 0.832
+T(head), -fun, 0.829
+T(head), jealous_of_power, 0.827
+
+
+Result: {"tending": 0.789, "corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "country": 0.839, "force_citizens_to_comply": 0.833, "rule_people": 0.832, "-fun": 0.829, "@scenario_probability": 0.0002641902889438755}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.0002641902889438755]

@@ -1,0 +1,27 @@
+Title: wealth-disgusting
+
+Head Concept Name: wealth
+Modifier Concept Name: disgusting
+
+
+
+
+
+T(modifier), vomitous, 0.85
+T(modifier), make_throw_up, 0.798
+T(modifier), and_chewing_tobacco, 0.743
+T(modifier), poop, 0.734
+T(modifier), cheez_doodles, 0.707
+
+T(head), abundance, 0.871
+T(head), financial_condition, 0.85
+T(head), property, 0.84
+T(head), material_resource, 0.792
+T(head), -poverty, 0.792
+T(head), economics, 0.774
+T(head), conquering_nation, 0.762
+T(head), -debt, 0.714
+
+
+Result: {"vomitous": 0.85, "make_throw_up": 0.798, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "material_resource": 0.792, "-poverty": 0.792, "economics": 0.774, "@scenario_probability": 0.027922537200665856}
+Scenario: [1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.027922537200665856]

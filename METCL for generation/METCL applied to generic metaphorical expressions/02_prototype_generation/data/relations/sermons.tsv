@@ -1,0 +1,7 @@
+/c/en/sermons	AtLocation	/c/en/church	2.82842712474619	0.561
+/c/en/godcasting	RelatedTo	/c/en/sermons	2.0	0.105
+/c/en/godcast	RelatedTo	/c/en/sermons	2.0	0.105
+/c/en/sermons	FormOf	/c/en/sermon	1.0	0.867
+/c/en/sermons	RelatedTo	/c/en/sermon	1.0	0.867
+/c/en/minister	RelatedTo	/c/en/sermons	0.46199999999999974	0.305
+/c/en/pulpit	RelatedTo	/c/en/sermons	0.16500000000000004	0.574

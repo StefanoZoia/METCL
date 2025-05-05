@@ -1,0 +1,6 @@
+-inexistence: 0.869
+-nonexistence: 0.859
+awful_or_absurd: 0.825
+-nothingness: 0.804
+-defunction: 0.794
+-absence: 0.791

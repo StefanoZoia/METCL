@@ -1,0 +1,3 @@
+farming: 0.865
+fix: 0.82
+-thwart: 0.636

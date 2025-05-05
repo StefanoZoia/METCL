@@ -1,0 +1,22 @@
+Title: badness-disgusting
+
+Head Concept Name: badness
+Modifier Concept Name: disgusting
+
+
+
+
+
+T(modifier), vomitous, 0.85
+T(modifier), make_throw_up, 0.798
+T(modifier), and_chewing_tobacco, 0.743
+T(modifier), poop, 0.734
+T(modifier), cheez_doodles, 0.707
+
+T(head), intensity, 0.836
+T(head), moral_quality, 0.77
+T(head), evaluative_quantity, 0.747
+
+
+Result: {"vomitous": 0.85, "make_throw_up": 0.798, "and_chewing_tobacco": 0.743, "poop": 0.734, "cheez_doodles": 0.707, "intensity": 0.836, "moral_quality": 0.77, "@scenario_probability": 4.259352940972095}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 4.259352940972095]

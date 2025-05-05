@@ -1,0 +1,13 @@
+/c/en/citizens	CapableOf	/c/en/air_grievances	2.0	-0.052
+/c/en/citizens	FormOf	/c/en/citizen	2.0	0.784
+/c/en/citizens	AtLocation	/c/en/country	2.0	0.199
+/c/en/webocracy	RelatedTo	/c/en/citizens	1.0	0.088
+/c/en/citizens	CapableOf	/c/en/voice_opinion_in_parliament	1.0	0.01
+/c/en/citizens	CapableOf	/c/en/honor_laws	1.0	0.044
+/c/en/citizens	RelatedTo	/c/en/citizen	1.0	0.784
+/c/en/citizens	CapableOf	/c/en/dance_to_dictator's_tune	1.0	-0.021
+/c/en/citizens	CapableOf	/c/en/write_letters_to_senators	1.0	0.009
+/c/en/citizens	CapableOf	/c/en/voice_opinions	1.0	0.01
+/c/en/country	RelatedTo	/c/en/citizens	0.617	0.199
+/c/en/nation	RelatedTo	/c/en/citizens	0.5949999999999998	0.297
+/c/en/city	RelatedTo	/c/en/citizens	0.2490000000000001	0.314

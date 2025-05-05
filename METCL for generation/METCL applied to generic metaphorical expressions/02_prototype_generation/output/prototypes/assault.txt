@@ -1,0 +1,8 @@
+attack: 0.907
+battle: 0.837
+military: 0.823
+tort: 0.797
+crime: 0.775
+criminal: 0.772
+fencing: 0.748
+legal: 0.746

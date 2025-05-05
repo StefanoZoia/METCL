@@ -1,0 +1,8 @@
+government: 0.866
+bureaucrats: 0.853
+government_officials: 0.834
+organization: 0.814
+system_of_running_bureaus: 0.783
+organizational_theory: 0.762
+university: 0.75
+agent_non_geographical: 0.749

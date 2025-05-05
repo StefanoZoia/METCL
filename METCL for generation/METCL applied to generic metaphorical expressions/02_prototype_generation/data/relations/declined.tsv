@@ -1,0 +1,5 @@
+/c/en/declined	FormOf	/c/en/decline	1.0	0.657
+/c/en/declined	RelatedTo	/c/en/decline	1.0	0.657
+/c/en/declined	FormOf	/c/en/decline	1.0	0.657
+/c/en/popularity_of_breast_augmentation	HasA	/c/en/declined	1.0	0.15
+/c/en/undeclined	DerivedFrom	/c/en/declined	1.0	0.083

@@ -1,0 +1,8 @@
+bonus: 0.783
+payment: 0.7668
+fixed_charge: 0.7659
+prize: 0.756
+value: 0.747
+agreement: 0.7434
+contribution: 0.7424999999999999
+insurance: 0.738

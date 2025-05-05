@@ -1,0 +1,8 @@
+manufacture_things: 0.917
+manufacture_goods: 0.883
+produce_cars: 0.882
+plant: 0.873
+industrial_area: 0.869
+bottle_wine: 0.848
+bottle_medicine: 0.848
+bottle_water: 0.848

@@ -1,0 +1,8 @@
+follow: 0.946
+-unfollow: 0.849
+imitate: 0.838
+result: 0.832
+-lead: 0.815
+be: 0.814
+understand: 0.812
+travel: 0.809

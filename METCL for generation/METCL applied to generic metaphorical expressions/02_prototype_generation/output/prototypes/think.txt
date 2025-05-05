@@ -1,0 +1,8 @@
+think: 0.99
+you_are: 0.898
+imagine: 0.888
+do: 0.887
+thinking_being_alive: 0.885
+make_decision: 0.874
+relax: 0.873
+expect: 0.864

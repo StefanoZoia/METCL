@@ -1,0 +1,7 @@
+forbid: 0.7515
+television_episode: 0.712
+criminal: 0.7074
+slang: 0.6777
+history: 0.6714
+humorous: 0.6579
+worker: 0.6534

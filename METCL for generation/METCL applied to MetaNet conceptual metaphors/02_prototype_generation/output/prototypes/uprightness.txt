@@ -1,0 +1,8 @@
+righteousness: 0.9
+morality: 0.7812
+position: 0.7569
+goalpost: 0.756
+piano: 0.7434
+stance: 0.7325999999999999
+structural_member: 0.7146
+theology: 0.7038000000000001

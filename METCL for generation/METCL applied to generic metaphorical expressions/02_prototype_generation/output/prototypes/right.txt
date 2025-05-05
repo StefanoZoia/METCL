@@ -1,0 +1,8 @@
+opposite_of_left: 0.856
+right_wrong: 0.854
+-left: 0.849
+entering_into_contract: 0.846
+-wrong: 0.838
+hand: 0.834
+common: 0.831
+turn: 0.83

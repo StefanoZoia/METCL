@@ -1,0 +1,6 @@
+critical_appraisal: 0.8226
+disapproval: 0.7731
+writing: 0.7281000000000001
+-eulogy: 0.7101000000000001
+-compliment: 0.6894
+attending_classical_concert: 0.6192

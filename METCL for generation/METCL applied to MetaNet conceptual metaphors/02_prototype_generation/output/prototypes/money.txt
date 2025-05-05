@@ -1,0 +1,8 @@
+saving: 0.878
+pay_for: 0.874
+pay_for_sex: 0.874
+money_supply: 0.861
+currency: 0.858
+buy_food: 0.854
+value: 0.851
+banks: 0.851

@@ -1,0 +1,8 @@
+satisfaction: 0.901
+emotional_state: 0.859
+elusive_and_fleeting: 0.851
+-unhappiness: 0.85
+emotion: 0.847
+feeling: 0.827
+-sadness: 0.823
+come_from_very_simple_ideas: 0.813

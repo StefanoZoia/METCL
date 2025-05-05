@@ -1,0 +1,8 @@
+-lower: 0.851
+boot: 0.835
+shoe: 0.826
+piece_of_leather: 0.82
+vamp: 0.788
+shoemaking: 0.78
+-downer: 0.766
+footwear: 0.763

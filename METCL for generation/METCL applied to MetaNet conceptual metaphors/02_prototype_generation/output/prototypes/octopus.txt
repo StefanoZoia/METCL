@@ -1,0 +1,8 @@
+octopod: 0.921
+octopodiformes: 0.887
+cephalopod: 0.862
+ocean: 0.85
+seafood: 0.849
+mollusca: 0.816
+invertebrate: 0.796
+animal: 0.77

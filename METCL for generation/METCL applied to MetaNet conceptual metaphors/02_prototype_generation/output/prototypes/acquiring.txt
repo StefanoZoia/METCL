@@ -1,0 +1,3 @@
+getting: 0.8
+act: 0.783
+paying_by_check: 0.698

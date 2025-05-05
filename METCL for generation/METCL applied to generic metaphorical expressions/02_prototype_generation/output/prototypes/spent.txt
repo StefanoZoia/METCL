@@ -1,0 +1,8 @@
+consume: 0.7803
+spend_money: 0.7686
+past_tense_of_spend: 0.768
+pay: 0.7578
+money: 0.6957
+sleep: 0.6921
+-earn: 0.6813
+mining: 0.6651

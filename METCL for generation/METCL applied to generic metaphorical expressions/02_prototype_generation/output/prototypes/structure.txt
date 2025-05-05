@@ -1,0 +1,8 @@
+organize: 0.82
+artifact: 0.801
+cognition: 0.795
+logic: 0.786
+system: 0.786
+body_part: 0.778
+fishing: 0.759
+composite_type: 0.749

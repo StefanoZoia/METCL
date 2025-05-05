@@ -1,0 +1,8 @@
+very_hard: 0.87
+serene: 0.852
+divine: 0.851
+destructive: 0.843
+personality: 0.84
+type: 0.832
+wonderful: 0.831
+quality: 0.83

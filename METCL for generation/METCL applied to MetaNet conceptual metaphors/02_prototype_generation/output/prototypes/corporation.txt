@@ -1,0 +1,8 @@
+firm: 0.873
+hold_bank_account: 0.838
+organization: 0.812
+-proprietorship: 0.782
+large_business: 0.78
+-sole_proprietorship: 0.779
+historical: 0.763
+slang: 0.759

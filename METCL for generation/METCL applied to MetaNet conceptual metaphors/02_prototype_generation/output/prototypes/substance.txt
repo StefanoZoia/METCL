@@ -1,0 +1,4 @@
+part: 0.816
+physical_entity: 0.794
+container: 0.779
+theology: 0.744

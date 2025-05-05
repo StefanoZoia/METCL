@@ -1,0 +1,30 @@
+Title: computer-person
+
+Head Concept Name: computer
+Modifier Concept Name: person
+
+
+
+
+
+T(modifier), wave_to_friend, 0.94
+T(modifier), wave_goodbye, 0.94
+T(modifier), wave_to_another_person, 0.94
+T(modifier), wave_at_another_person, 0.94
+T(modifier), wave_hello_or_goodbye, 0.909
+T(modifier), wait_patiently, 0.908
+T(modifier), thank_god, 0.895
+T(modifier), god, 0.876
+
+T(head), computing, 0.916
+T(head), word_processing, 0.909
+T(head), cybernate, 0.885
+T(head), desktop, 0.884
+T(head), computing_information, 0.882
+T(head), electronic_device, 0.872
+T(head), calculating, 0.872
+T(head), machine, 0.871
+
+
+Result: {"wave_to_friend": 0.94, "wave_goodbye": 0.94, "wave_to_another_person": 0.94, "wave_at_another_person": 0.94, "wave_hello_or_goodbye": 0.909, "wait_patiently": 0.908, "computing": 0.916, "word_processing": 0.909, "@scenario_probability": 2.3242293107102083e-06}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 2.3242293107102083e-06]

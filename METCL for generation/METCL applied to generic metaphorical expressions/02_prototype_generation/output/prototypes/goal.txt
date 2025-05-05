@@ -1,0 +1,8 @@
+score: 0.87
+goalpost: 0.858
+game_equipment: 0.827
+soccer_game: 0.814
+content: 0.811
+gaelic_football: 0.808
+equal_score: 0.803
+plan_of_action: 0.798

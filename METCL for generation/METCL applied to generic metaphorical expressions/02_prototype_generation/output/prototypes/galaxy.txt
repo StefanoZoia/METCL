@@ -1,0 +1,8 @@
+universe: 0.881
+astronomy: 0.868
+space: 0.849
+solar_system: 0.84
+star: 0.837
+group_of_stars: 0.813
+enormous_group_of_stars: 0.803
+collection: 0.797

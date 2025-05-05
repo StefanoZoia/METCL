@@ -1,0 +1,8 @@
+sorting: 0.837
+space: 0.827
+state: 0.815
+change: 0.794
+change_of_integrity: 0.794
+-annexation: 0.792
+result: 0.785
+group_action: 0.783

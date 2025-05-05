@@ -1,0 +1,8 @@
+emotional_arousal: 0.905
+emotion: 0.837
+-boredom: 0.766
+bungee_jump_from_high_bridge: 0.765
+seeing_band: 0.764
+climbing_mountain: 0.757
+library: 0.745
+hockey_game: 0.735

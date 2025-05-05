@@ -1,0 +1,8 @@
+-softness: 0.871
+difficulty: 0.853
+consistency: 0.85
+quality: 0.845
+mechanical_property: 0.81
+disposition: 0.769
+tangible_physical_quantity: 0.757
+physics: 0.756

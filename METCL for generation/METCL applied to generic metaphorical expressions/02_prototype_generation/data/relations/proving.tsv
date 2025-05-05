@@ -1,0 +1,15 @@
+/c/en/proving	HasContext	/c/en/homeopathy	1.0	0.097
+/c/en/provings	FormOf	/c/en/proving	1.0	0.854
+/c/en/testing	RelatedTo	/c/en/proving	1.0	0.407
+/c/en/presentment_of_englishry	RelatedTo	/c/en/proving	1.0	0.149
+/c/en/taking_in_film	UsedFor	/c/en/proving	1.0	0.034
+/c/en/proving	FormOf	/c/en/prove	1.0	0.784
+/c/en/proving	RelatedTo	/c/en/prove	1.0	0.784
+/c/en/proving	RelatedTo	/c/en/substance	1.0	0.104
+/c/en/proving	RelatedTo	/c/en/experimentation	1.0	0.326
+/c/en/proving	RelatedTo	/c/en/ingest	1.0	0.006
+/c/en/test_flight	RelatedTo	/c/en/proving	1.0	0.009
+/c/en/proving	RelatedTo	/c/en/effect	1.0	0.114
+/c/en/experiment	RelatedTo	/c/en/proving	0.23899999999999988	0.272
+/c/en/test	RelatedTo	/c/en/proving	0.18400000000000016	0.333
+/c/en/theory	RelatedTo	/c/en/proving	0.17300000000000004	0.207

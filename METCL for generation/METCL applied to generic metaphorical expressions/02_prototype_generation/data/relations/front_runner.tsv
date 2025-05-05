@@ -1,0 +1,15 @@
+/c/en/front_runners	FormOf	/c/en/front_runner	2.0	1.0
+/c/en/favorite	Synonym	/c/en/front_runner	2.0	0.643
+/c/en/favourite	Synonym	/c/en/front_runner	2.0	0.654
+/c/en/front_runner	IsA	/c/en/rival	2.0	0.431
+/c/en/front_runner	RelatedTo	/c/en/front_running	1.0	1.0
+/c/en/front_runner	HasContext	/c/en/finance	1.0	0.136
+/c/en/front_runner	RelatedTo	/c/en/frontrunning	1.0	0.818
+/c/en/front_runner	RelatedTo	/c/en/winner	1.0	0.426
+/c/en/front_runner	RelatedTo	/c/en/contest	1.0	0.235
+/c/en/front_runner	DerivedFrom	/c/en/runner	1.0	0.266
+/c/en/frontrunner	FormOf	/c/en/front_runner	1.0	0.818
+/c/en/front_runner	RelatedTo	/c/en/election	1.0	0.341
+/c/en/front_runner	HasContext	/c/en/business	1.0	0.021
+/c/en/front_running	RelatedTo	/c/en/front_runner	1.0	1.0
+/c/en/front_runner	RelatedTo	/c/en/likely	1.0	0.257

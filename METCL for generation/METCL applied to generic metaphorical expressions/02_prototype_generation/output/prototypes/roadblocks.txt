@@ -1,0 +1,4 @@
+barrier: 0.8046
+vehicle_barrier: 0.6858000000000001
+geographical_thing: 0.684
+unnatural_thing: 0.6669

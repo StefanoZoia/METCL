@@ -1,0 +1,30 @@
+Title: resource-barrier
+
+Head Concept Name: resource
+Modifier Concept Name: barrier
+
+
+
+
+
+T(modifier), roadblock, 0.894
+T(modifier), obstacle, 0.883
+T(modifier), obstruction, 0.847
+T(modifier), boundary_situation, 0.812
+T(modifier), mechanism, 0.811
+T(modifier), preventing, 0.792
+T(modifier), physiology, 0.755
+T(modifier), unnatural_thing, 0.75
+
+T(head), asset, 0.852
+T(head), assets, 0.838
+T(head), inventiveness, 0.824
+T(head), tangible_thing, 0.778
+T(head), localized_spatial_thing, 0.759
+T(head), group_of_things, 0.737
+T(head), album, 0.717
+T(head), book, 0.709
+
+
+Result: {"roadblock": 0.894, "obstacle": 0.883, "obstruction": 0.847, "boundary_situation": 0.812, "mechanism": 0.811, "asset": 0.852, "assets": 0.838, "inventiveness": 0.824, "@scenario_probability": 0.0003824229605405824}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0.0003824229605405824]

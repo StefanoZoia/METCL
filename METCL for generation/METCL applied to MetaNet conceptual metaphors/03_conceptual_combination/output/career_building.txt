@@ -1,0 +1,30 @@
+Title: career-building
+
+Head Concept Name: career
+Modifier Concept Name: building
+
+
+
+
+
+T(modifier), building_materials, 0.913
+T(modifier), architect, 0.875
+T(modifier), tradesmen, 0.871
+T(modifier), shelter, 0.864
+T(modifier), man_made, 0.855
+T(modifier), housing, 0.852
+T(modifier), weather_storm, 0.848
+T(modifier), work, 0.841
+
+T(head), occupation, 0.866
+T(head), travel, 0.81
+T(head), progress, 0.802
+T(head), falconry, 0.729
+T(head), -term, 0.705
+T(head), -short, 0.696
+T(head), -short_term, 0.696
+T(head), going_to_work, 0.642
+
+
+Result: {"building_materials": 0.913, "architect": 0.875, "tradesmen": 0.871, "shelter": 0.864, "man_made": 0.855, "housing": 0.852, "weather_storm": 0.848, "occupation": 0.866, "@scenario_probability": 0.0005088240120850145}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0.0005088240120850145]

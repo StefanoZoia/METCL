@@ -1,0 +1,7 @@
+collapse: 0.946
+weaken: 0.836
+fold: 0.826
+happening: 0.817
+illness: 0.811
+change: 0.801
+cricket: 0.742

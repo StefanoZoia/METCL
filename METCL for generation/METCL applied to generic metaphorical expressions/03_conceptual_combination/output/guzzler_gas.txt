@@ -1,0 +1,30 @@
+Title: guzzler-gas
+
+Head Concept Name: guzzler
+Modifier Concept Name: gas
+
+
+
+
+
+T(modifier), gas, 0.915
+T(modifier), fuel, 0.893
+T(modifier), clothes_dryers, 0.892
+T(modifier), heating, 0.886
+T(modifier), gas_line, 0.881
+T(modifier), short_for_gasoline, 0.877
+T(modifier), cooking, 0.868
+T(modifier), gas_station, 0.864
+
+T(head), drinker, 0.885
+T(head), drunkard, 0.818
+T(head), drink_lot_of_booze, 0.815
+T(head), drink, 0.801
+T(head), eater, 0.796
+T(head), -nonalcoholic, 0.776
+T(head), -teetotaler, 0.769
+T(head), homeless_shelter, 0.769
+
+
+Result: {"gas": 0.915, "fuel": 0.893, "clothes_dryers": 0.892, "heating": 0.886, "gas_line": 0.881, "short_for_gasoline": 0.877, "cooking": 0.868, "drinker": 0.885, "@scenario_probability": 8.516220029756408e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 8.516220029756408e-05]

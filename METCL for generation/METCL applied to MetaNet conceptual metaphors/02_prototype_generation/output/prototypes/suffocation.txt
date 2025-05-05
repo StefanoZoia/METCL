@@ -1,0 +1,3 @@
+hypoxia: 0.857
+killing: 0.842
+death: 0.839

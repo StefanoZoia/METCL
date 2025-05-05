@@ -1,0 +1,30 @@
+Title: sale-democracy
+
+Head Concept Name: sale
+Modifier Concept Name: democracy
+
+
+
+
+
+T(modifier), equality_for_everyone, 0.854
+T(modifier), open_media, 0.853
+T(modifier), political_orientation, 0.852
+T(modifier), political_system, 0.843
+T(modifier), good_thing, 0.84
+T(modifier), government_of_people, 0.816
+T(modifier), -dictatorship, 0.809
+T(modifier), government, 0.793
+
+T(head), selling, 0.913
+T(head), selling_things_don't_need, 0.913
+T(head), selling_more_by_reducing_price, 0.913
+T(head), purchasing_things_cheaply, 0.881
+T(head), merchantability, 0.86
+T(head), store, 0.855
+T(head), -buy, 0.85
+T(head), marketing, 0.835
+
+
+Result: {"equality_for_everyone": 0.854, "open_media": 0.853, "selling": 0.913, "selling_things_don't_need": 0.913, "selling_more_by_reducing_price": 0.913, "purchasing_things_cheaply": 0.881, "merchantability": 0.86, "store": 0.855, "@scenario_probability": 2.4040184604370856e-05}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 2.4040184604370856e-05]

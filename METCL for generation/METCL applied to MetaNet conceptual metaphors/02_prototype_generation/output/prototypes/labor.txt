@@ -1,0 +1,8 @@
+work: 0.874
+give_birth: 0.842
+price_itself_out_of_market: 0.826
+class: 0.802
+experience: 0.799
+slave: 0.772
+australia: 0.763
+us: 0.745

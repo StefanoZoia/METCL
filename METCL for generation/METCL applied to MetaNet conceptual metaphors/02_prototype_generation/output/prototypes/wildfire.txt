@@ -1,0 +1,5 @@
+conflagration: 0.896
+burning: 0.833
+hazard: 0.78
+historical: 0.742
+comics_character: 0.691

@@ -1,0 +1,10 @@
+/c/en/discussing	FormOf	/c/en/discuss	1.0	0.783
+/c/en/discussing	RelatedTo	/c/en/discuss	1.0	0.783
+/c/en/discussing	FormOf	/c/en/discuss	1.0	0.783
+/c/en/discussing	IsA	/c/en/conversation	1.0	0.47
+/c/en/da_kine	RelatedTo	/c/en/discussing	1.0	0.193
+/c/en/chose_jugée	RelatedTo	/c/en/discussing	1.0	0.102
+/c/en/panel_discussion	IsA	/c/en/discussing	1.0	0.59
+/c/en/canvassing	IsA	/c/en/discussing	1.0	0.287
+/c/en/debating	IsA	/c/en/discussing	1.0	0.769
+/c/en/posting_message	UsedFor	/c/en/discussing	1.0	0.163

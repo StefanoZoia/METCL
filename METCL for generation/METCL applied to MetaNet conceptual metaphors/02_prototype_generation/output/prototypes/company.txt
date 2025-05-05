@@ -1,0 +1,8 @@
+market_new_product: 0.857
+organization: 0.856
+market_product: 0.854
+commit_crime: 0.84
+army_unit: 0.835
+unit: 0.833
+buy_another_company: 0.826
+military: 0.819

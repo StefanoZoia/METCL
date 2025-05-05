@@ -1,0 +1,30 @@
+Title: emotion-force
+
+Head Concept Name: emotion
+Modifier Concept Name: force
+
+
+
+
+
+T(modifier), influence, 0.85
+T(modifier), thrust, 0.846
+T(modifier), act, 0.819
+T(modifier), intensity, 0.819
+T(modifier), organization, 0.813
+T(modifier), social_group, 0.81
+T(modifier), physical_phenomenon, 0.803
+T(modifier), mass, 0.774
+
+T(head), feeling, 0.898
+T(head), pleasant, 0.853
+T(head), mind, 0.834
+T(head), way_of, 0.797
+T(head), cloud_ones_judgement, 0.796
+T(head), mental_quantity, 0.793
+T(head), human, 0.778
+T(head), thought, 0.766
+
+
+Result: {"influence": 0.85, "thrust": 0.846, "act": 0.819, "intensity": 0.819, "organization": 0.813, "feeling": 0.898, "pleasant": 0.853, "mind": 0.834, "@scenario_probability": 9.436972842752e-05}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 9.436972842752e-05]

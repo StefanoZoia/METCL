@@ -1,0 +1,30 @@
+Title: far-perfect
+
+Head Concept Name: far
+Modifier Concept Name: perfect
+
+
+
+
+
+T(modifier), -imperfect, 0.828
+T(modifier), better, 0.815
+T(modifier), -flawed, 0.789
+T(modifier), -faultful, 0.781
+T(modifier), -imperfection, 0.778
+T(modifier), grammar, 0.77
+T(modifier), -defective, 0.768
+T(modifier), -fallible, 0.764
+
+T(head), -away, 0.798
+T(head), -close, 0.797
+T(head), -closer, 0.776
+T(head), orbit, 0.762
+T(head), dialect, 0.752
+T(head), uk, 0.748
+T(head), -here, 0.738
+T(head), computing, 0.736
+
+
+Result: {"-imperfect": 0.828, "better": 0.815, "-flawed": 0.789, "-faultful": 0.781, "-imperfection": 0.778, "-away": 0.798, "-close": 0.797, "-closer": 0.776, "@scenario_probability": 0.00020686200718726154}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0.00020686200718726154]

@@ -1,0 +1,8 @@
+homeschool: 0.909
+school_own_children: 0.865
+school_child: 0.865
+feed_child: 0.854
+wave_to_children: 0.851
+name_child: 0.843
+name_baby: 0.843
+name_children: 0.843

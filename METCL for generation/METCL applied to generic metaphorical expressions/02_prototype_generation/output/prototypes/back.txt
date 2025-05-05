@@ -1,0 +1,8 @@
+-front: 0.851
+support: 0.834
+-forth: 0.834
+car_seat: 0.826
+-forward: 0.825
+chair: 0.821
+football: 0.818
+position: 0.808

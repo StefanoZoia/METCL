@@ -1,0 +1,8 @@
+-untaxed: 0.876
+levy: 0.801
+charge: 0.756
+-income: 0.7263000000000001
+determine: 0.7182000000000001
+-subsidy: 0.7092
+-rebate: 0.7065
+-refund: 0.7002

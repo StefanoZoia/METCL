@@ -1,0 +1,5 @@
+search: 0.7902
+rub: 0.7524
+topographic_point: 0.7362
+veterinary_medicine: 0.6948000000000001
+-polish: 0.657

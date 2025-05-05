@@ -1,0 +1,8 @@
+film: 0.8766
+movie: 0.8631
+artistic_expression: 0.8352
+cinema: 0.7893
+negative: 0.7866
+foil: 0.7722
+record: 0.7713
+sensitive_to_light: 0.7569

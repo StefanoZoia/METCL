@@ -1,0 +1,30 @@
+Title: consciousness-verticality
+
+Head Concept Name: consciousness
+Modifier Concept Name: verticality
+
+
+
+
+
+T(modifier), position, 0.841
+T(modifier), attitude, 0.764
+T(modifier), orientation, 0.751
+T(modifier), point, 0.742
+T(modifier), assumption, 0.737
+T(modifier), put, 0.735
+T(modifier), relation, 0.73
+T(modifier), bodily_property, 0.729
+
+T(head), awareness, 0.834
+T(head), cognitive_state, 0.831
+T(head), more_fundamental_than_space_time, 0.826
+T(head), awaking, 0.821
+T(head), memory_of_real_things_and_events, 0.797
+T(head), subjective_experience, 0.785
+T(head), experience, 0.763
+T(head), partially_mental_event, 0.753
+
+
+Result: {"position": 0.841, "attitude": 0.764, "awareness": 0.834, "cognitive_state": 0.831, "more_fundamental_than_space_time": 0.826, "awaking": 0.821, "memory_of_real_things_and_events": 0.797, "subjective_experience": 0.785, "@scenario_probability": 0.0003623319582361083}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.0003623319582361083]

@@ -1,0 +1,16 @@
+/c/en/curing	Synonym	/c/en/hardening	2.0	0.349
+/c/en/sanation	RelatedTo	/c/en/curing	1.0	0.203
+/c/en/curing	HasProperty	/c/en/preferred_to_palliating	1.0	0.06
+/c/en/curing	DerivedFrom	/c/en/cure	1.0	0.74
+/c/en/curing	IsA	/c/en/solving_problem	1.0	0.359
+/c/en/curing	RelatedTo	/c/en/cure	1.0	0.74
+/c/en/curings	FormOf	/c/en/curing	1.0	1.0
+/c/en/curer	RelatedTo	/c/en/curing	1.0	0.623
+/c/en/curing	IsA	/c/en/like_repairing	1.0	0.038
+/c/en/antiscorbutic	RelatedTo	/c/en/curing	1.0	0.115
+/c/en/linguica	RelatedTo	/c/en/curing	1.0	-0.019
+/c/en/curing	FormOf	/c/en/cure	1.0	0.74
+/c/en/photocuring	DerivedFrom	/c/en/curing	1.0	0.062
+/c/en/haymaking	RelatedTo	/c/en/curing	1.0	0.254
+/c/en/doctor	RelatedTo	/c/en/curing	0.871	0.116
+/c/en/medicine	RelatedTo	/c/en/curing	0.31700000000000017	0.169

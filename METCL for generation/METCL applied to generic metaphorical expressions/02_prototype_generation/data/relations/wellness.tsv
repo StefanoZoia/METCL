@@ -1,0 +1,16 @@
+/c/en/person	Desires	/c/en/wellness	2.0	-0.01
+/c/en/wellness	Synonym	/c/en/health	2.0	0.788
+/c/en/wellness	Synonym	/c/en/well_being	1.0	0.066
+/c/en/health	RelatedTo	/c/en/wellness	1.0	0.788
+/c/en/wellness	RelatedTo	/c/en/well	1.0	0.15
+/c/en/wellnesses	FormOf	/c/en/wellness	1.0	1.0
+/c/en/wellness	DerivedFrom	/c/en/well	1.0	0.15
+/c/en/wellness	RelatedTo	/c/en/state	1.0	0.09
+/c/en/wellness	RelatedTo	/c/en/quality	1.0	0.193
+/c/en/well_being	Synonym	/c/en/wellness	1.0	0.066
+/c/en/wellness	RelatedTo	/c/en/health	1.0	0.788
+/c/en/health	RelatedTo	/c/en/wellness	0.9699999999999998	0.788
+/c/en/disease	Antonym	/c/en/wellness	0.3570000000000002	0.158
+/c/en/fit	RelatedTo	/c/en/wellness	0.2599999999999998	0.19
+/c/en/disease	DistinctFrom	/c/en/wellness	0.18999999999999995	0.158
+/c/en/condition	RelatedTo	/c/en/wellness	0.1499999999999999	0.072

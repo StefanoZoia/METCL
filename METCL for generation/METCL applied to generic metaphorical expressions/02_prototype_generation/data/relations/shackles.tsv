@@ -1,0 +1,13 @@
+/c/en/handcuffs	Synonym	/c/en/shackles	1.0	0.687
+/c/en/iron	Synonym	/c/en/shackles	1.0	0.209
+/c/en/shackles	FormOf	/c/en/shackle	1.0	0.778
+/c/en/shackles	Synonym	/c/en/fetter	1.0	0.555
+/c/en/iron	RelatedTo	/c/en/shackles	1.0	0.209
+/c/en/irons	RelatedTo	/c/en/shackles	1.0	0.394
+/c/en/restraint	Synonym	/c/en/shackles	1.0	0.332
+/c/en/shackles	RelatedTo	/c/en/handcuffs	1.0	0.687
+/c/en/clavis	Synonym	/c/en/shackles	1.0	0.18
+/c/en/shackles	RelatedTo	/c/en/shackle	1.0	0.778
+/c/en/shackles	FormOf	/c/en/shackle	1.0	0.778
+/c/en/shackles	FormOf	/c/en/shackle	1.0	0.778
+/c/en/shackles	FormOf	/c/en/shackle	1.0	0.778

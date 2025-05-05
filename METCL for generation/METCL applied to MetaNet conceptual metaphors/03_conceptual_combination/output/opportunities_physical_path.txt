@@ -1,0 +1,24 @@
+Title: opportunities-physical_path
+
+Head Concept Name: opportunities
+Modifier Concept Name: physical_path
+
+
+
+
+
+T(modifier), generic_path, 0.748
+T(modifier), enduring_thing_localized, 0.722
+
+T(head), possibility, 0.794
+T(head), situation, 0.707
+T(head), fork_in_road, 0.697
+T(head), nonstandard, 0.672
+T(head), jumping_at_chance, 0.668
+T(head), euro_english, 0.661
+T(head), -door, 0.634
+T(head), artificial_satellite, 0.628
+
+
+Result: {"generic_path": 0.748, "enduring_thing_localized": 0.722, "possibility": 0.794, "situation": 0.707, "fork_in_road": 0.697, "nonstandard": 0.672, "jumping_at_chance": 0.668, "euro_english": 0.661, "@scenario_probability": 0.853655632221284}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0.853655632221284]

@@ -1,0 +1,25 @@
+Title: closely-related
+
+Head Concept Name: closely
+Modifier Concept Name: related
+
+
+
+
+
+T(modifier), mathematics, 0.749
+T(modifier), music, 0.745
+T(modifier), -climb, 0.669
+
+T(head), -open, 0.765
+T(head), end, 0.756
+T(head), approach, 0.754
+T(head), move, 0.741
+T(head), join, 0.737
+T(head), barricade, 0.729
+T(head), prosecute, 0.728
+T(head), trade, 0.727
+
+
+Result: {"mathematics": 0.749, "music": 0.745, "-open": 0.765, "end": 0.756, "approach": 0.754, "move": 0.741, "join": 0.737, "barricade": 0.729, "@scenario_probability": 0.23810331174088567}
+Scenario: [1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.23810331174088567]

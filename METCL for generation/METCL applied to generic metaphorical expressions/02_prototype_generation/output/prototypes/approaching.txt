@@ -1,0 +1,8 @@
+advance: 0.7632
+change_of_location: 0.747
+come: 0.7434
+movement: 0.7398
+address: 0.7398
+conceptualization: 0.738
+golf: 0.7236
+motion: 0.7227

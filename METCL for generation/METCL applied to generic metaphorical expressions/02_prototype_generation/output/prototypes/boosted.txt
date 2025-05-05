@@ -1,0 +1,8 @@
+increase: 0.7884
+aid: 0.7668
+push: 0.7595999999999999
+thrust: 0.7452
+canada: 0.6768000000000001
+engineering: 0.6723
+medicine: 0.6723
+slang: 0.6714

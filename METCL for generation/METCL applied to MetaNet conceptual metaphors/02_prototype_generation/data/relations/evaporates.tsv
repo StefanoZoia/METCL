@@ -1,0 +1,3 @@
+/c/en/evaporates	FormOf	/c/en/evaporate	1.0	0.928
+/c/en/evaporates	RelatedTo	/c/en/evaporate	1.0	0.928
+/c/en/water_heated	HasSubevent	/c/en/evaporates	1.0	0.053

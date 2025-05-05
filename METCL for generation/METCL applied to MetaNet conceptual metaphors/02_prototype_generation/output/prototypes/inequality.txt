@@ -1,0 +1,4 @@
+difference: 0.844
+mathematics: 0.786
+-equal: 0.764
+situation: 0.758

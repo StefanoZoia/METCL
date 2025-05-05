@@ -1,0 +1,5 @@
+reason: 0.7731
+understand: 0.7479
+mathematics: 0.7119000000000001
+give_clue: 0.6192
+do_crossword_puzzle: 0.6129000000000001

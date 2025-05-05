@@ -1,0 +1,8 @@
+election: 0.846
+-secondary: 0.829
+flight_feather: 0.804
+astronomy: 0.792
+celestial_body: 0.787
+chemistry: 0.748
+us: 0.744
+medicine: 0.74

@@ -1,0 +1,8 @@
+sensation: 0.859
+experience: 0.851
+perceive: 0.843
+-smell: 0.824
+modality: 0.817
+sense: 0.816
+discrimination: 0.811
+know: 0.806

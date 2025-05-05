@@ -1,0 +1,30 @@
+Title: understanding-following
+
+Head Concept Name: understanding
+Modifier Concept Name: following
+
+
+
+
+
+T(modifier), -aforementioned, 0.852
+T(modifier), -previous, 0.808
+T(modifier), -abovementioned, 0.807
+T(modifier), -aforesaid, 0.801
+T(modifier), multitude, 0.795
+T(modifier), -beforesaid, 0.773
+T(modifier), leader, 0.762
+T(modifier), -leading, 0.754
+
+T(head), knowing, 0.879
+T(head), analysing, 0.824
+T(head), -misunderstanding, 0.809
+T(head), mental_illness, 0.808
+T(head), thinking, 0.801
+T(head), come_in_sudden_flashes, 0.8
+T(head), bridge_cultural_differences, 0.789
+T(head), bridge_cultures, 0.789
+
+
+Result: {"-aforementioned": 0.852, "-previous": 0.808, "-abovementioned": 0.807, "-aforesaid": 0.801, "knowing": 0.879, "analysing": 0.824, "-misunderstanding": 0.809, "mental_illness": 0.808, "@scenario_probability": 0.00010171212798992334}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.00010171212798992334]

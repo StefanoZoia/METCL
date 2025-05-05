@@ -1,0 +1,13 @@
+/c/en/demount	RelatedTo	/c/en/mounting	1.0	0.285
+/c/en/demount	DerivedFrom	/c/en/mount	1.0	0.299
+/c/en/demounting	FormOf	/c/en/demount	1.0	1.0
+/c/en/mount	Antonym	/c/en/demount	1.0	0.299
+/c/en/demounting	RelatedTo	/c/en/demount	1.0	1.0
+/c/en/demounted	FormOf	/c/en/demount	1.0	1.0
+/c/en/demount	RelatedTo	/c/en/dismount	1.0	0.238
+/c/en/demounts	RelatedTo	/c/en/demount	1.0	1.0
+/c/en/demountable	DerivedFrom	/c/en/demount	1.0	1.0
+/c/en/demountable	DerivedFrom	/c/en/demount	1.0	1.0
+/c/en/demounts	FormOf	/c/en/demount	1.0	1.0
+/c/en/demounted	RelatedTo	/c/en/demount	1.0	1.0
+/c/en/dismantle	Synonym	/c/en/demount	1.0	0.36

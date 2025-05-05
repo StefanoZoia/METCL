@@ -1,0 +1,14 @@
+/c/en/intifadah	Synonym	/c/en/intifada	2.0	1.0
+/c/en/intifada	IsA	/c/en/rebellion	2.0	0.355
+/c/en/intefadah	FormOf	/c/en/intifada	1.0	0.088
+/c/en/intifadah	FormOf	/c/en/intifada	1.0	1.0
+/c/en/intifadist	DerivedFrom	/c/en/intifada	1.0	1.0
+/c/en/intifada	RelatedTo	/c/en/resistant	1.0	0.137
+/c/en/intifada	RelatedTo	/c/en/intifadist	1.0	1.0
+/c/en/intifadist	RelatedTo	/c/en/intifada	1.0	1.0
+/c/en/intifada	RelatedTo	/c/en/uprising	1.0	0.474
+/c/en/intifada	RelatedTo	/c/en/palestinian	1.0	0.542
+/c/en/intifadas	FormOf	/c/en/intifada	1.0	1.0
+/c/en/intifada	RelatedTo	/c/en/rebellious	1.0	0.21
+/c/en/intefadeh	FormOf	/c/en/intifada	1.0	0.088
+/c/en/intifada	RelatedTo	/c/en/israel	1.0	0.407

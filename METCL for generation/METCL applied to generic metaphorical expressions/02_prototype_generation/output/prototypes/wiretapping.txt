@@ -1,0 +1,5 @@
+investigation: 0.7461
+listen_in: 0.7443
+intelligence_collection: 0.7128000000000001
+information_gathering_device: 0.7056
+electrical_device: 0.6876

@@ -1,0 +1,30 @@
+Title: government-doctor
+
+Head Concept Name: government
+Modifier Concept Name: doctor
+
+
+
+
+
+T(modifier), prescribe_medicine, 0.913
+T(modifier), doctor's_office, 0.905
+T(modifier), medical_practitioner, 0.879
+T(modifier), prescribe_drug, 0.878
+T(modifier), prescribe_treatment, 0.878
+T(modifier), prescribe_narcotics, 0.878
+T(modifier), visit_patient_at_home, 0.877
+T(modifier), care_for_patients, 0.873
+
+T(head), corrupt, 0.897
+T(head), govern_country, 0.896
+T(head), polity, 0.874
+T(head), country, 0.839
+T(head), force_citizens_to_comply, 0.833
+T(head), rule_people, 0.832
+T(head), -fun, 0.829
+T(head), jealous_of_power, 0.827
+
+
+Result: {"prescribe_medicine": 0.913, "doctor's_office": 0.905, "medical_practitioner": 0.879, "prescribe_drug": 0.878, "prescribe_treatment": 0.878, "prescribe_narcotics": 0.878, "corrupt": 0.897, "govern_country": 0.896, "@scenario_probability": 1.0391193979691558e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1.0391193979691558e-05]

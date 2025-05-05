@@ -1,0 +1,8 @@
+ache: 0.868
+pain_person: 0.83
+ache_ailment_condition: 0.797
+make_person_crabby: 0.789
+pill: 0.728
+zack: 0.713
+impanel_jury: 0.684
+taking_bus: 0.651

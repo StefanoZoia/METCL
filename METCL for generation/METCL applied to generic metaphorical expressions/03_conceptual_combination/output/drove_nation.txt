@@ -1,0 +1,26 @@
+Title: drove-nation
+
+Head Concept Name: drove
+Modifier Concept Name: nation
+
+
+
+
+
+T(modifier), united_states, 0.857
+T(modifier), people, 0.836
+T(modifier), confederation, 0.831
+T(modifier), ready_troops, 0.808
+T(modifier), weather_storm_of_war, 0.789
+T(modifier), arm_citizens, 0.788
+T(modifier), -state, 0.787
+T(modifier), legal, 0.744
+
+T(head), crowd, 0.836
+T(head), chisel, 0.81
+T(head), animal_group, 0.804
+T(head), collective, 0.762
+
+
+Result: {"united_states": 0.857, "people": 0.836, "confederation": 0.831, "ready_troops": 0.808, "weather_storm_of_war": 0.789, "crowd": 0.836, "chisel": 0.81, "animal_group": 0.804, "@scenario_probability": 0.05685337081349293}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0.05685337081349293]

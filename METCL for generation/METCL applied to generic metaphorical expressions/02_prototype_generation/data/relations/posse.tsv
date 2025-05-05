@@ -1,0 +1,10 @@
+/c/en/posse_comitatus	Synonym	/c/en/posse	2.0	0.643
+/c/en/posse	IsA	/c/en/police	2.0	0.292
+/c/en/posse	HasContext	/c/en/jamaica	1.0	0.131
+/c/en/posse	RelatedTo	/c/en/criminal	1.0	0.196
+/c/en/crew	Synonym	/c/en/posse	1.0	0.416
+/c/en/posse	RelatedTo	/c/en/gang	1.0	0.591
+/c/en/posses	FormOf	/c/en/posse	1.0	0.414
+/c/en/posse	HasContext	/c/en/us	1.0	0.148
+/c/en/posse	RelatedTo	/c/en/vigilante	1.0	0.303
+/c/en/cortege	Synonym	/c/en/posse	1.0	0.27

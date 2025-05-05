@@ -1,0 +1,8 @@
+-imperfect: 0.828
+better: 0.815
+-flawed: 0.789
+-faultful: 0.781
+-imperfection: 0.778
+grammar: 0.77
+-defective: 0.768
+-fallible: 0.764

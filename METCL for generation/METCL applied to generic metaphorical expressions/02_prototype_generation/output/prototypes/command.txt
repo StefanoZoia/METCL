@@ -1,0 +1,8 @@
+order: 0.856
+military_unit: 0.851
+authority: 0.85
+military: 0.845
+dominate: 0.843
+status: 0.817
+demand: 0.815
+skillfulness: 0.81

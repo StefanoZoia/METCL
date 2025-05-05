@@ -1,0 +1,8 @@
+describing: 0.892
+describe: 0.879
+describe_characteristic_of: 0.845
+identifying_specific_characteristics: 0.824
+abstraction: 0.813
+identification: 0.81
+work_better: 0.805
+description: 0.793

@@ -1,0 +1,30 @@
+Title: problem-disease
+
+Head Concept Name: problem
+Modifier Concept Name: disease
+
+
+
+
+
+T(modifier), infectious, 0.909
+T(modifier), illness, 0.904
+T(modifier), deadly, 0.862
+T(modifier), ending_in_death, 0.843
+T(modifier), make_sick, 0.837
+T(modifier), -wanted_by_most_people, 0.831
+T(modifier), syndrome, 0.822
+T(modifier), rot_human_bodies, 0.819
+
+T(head), president_bush, 0.91
+T(head), quandry, 0.896
+T(head), difficulty, 0.884
+T(head), question, 0.863
+T(head), slow_work, 0.847
+T(head), -solution, 0.834
+T(head), -answer, 0.768
+T(head), cogitate, 0.763
+
+
+Result: {"infectious": 0.909, "illness": 0.904, "deadly": 0.862, "president_bush": 0.91, "quandry": 0.896, "difficulty": 0.884, "question": 0.863, "slow_work": 0.847, "@scenario_probability": 4.7462696711899565e-05}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 4.7462696711899565e-05]

@@ -1,0 +1,8 @@
+envy: 0.914
+emotion: 0.853
+resentment: 0.848
+watchfulness: 0.828
+destroy_relationship: 0.795
+distance_friends: 0.784
+deaths: 0.752
+archaic: 0.744

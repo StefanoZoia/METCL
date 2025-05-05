@@ -1,0 +1,30 @@
+Title: nation-vehicle
+
+Head Concept Name: nation
+Modifier Concept Name: vehicle
+
+
+
+
+
+T(modifier), travel, 0.868
+T(modifier), seat_nine, 0.852
+T(modifier), conveyance, 0.845
+T(modifier), receive_damage, 0.839
+T(modifier), driving, 0.837
+T(modifier), freeway, 0.834
+T(modifier), mobility, 0.829
+T(modifier), substance, 0.822
+
+T(head), united_states, 0.857
+T(head), people, 0.836
+T(head), confederation, 0.831
+T(head), ready_troops, 0.808
+T(head), weather_storm_of_war, 0.789
+T(head), arm_citizens, 0.788
+T(head), -state, 0.787
+T(head), legal, 0.744
+
+
+Result: {"travel": 0.868, "seat_nine": 0.852, "conveyance": 0.845, "receive_damage": 0.839, "driving": 0.837, "freeway": 0.834, "united_states": 0.857, "people": 0.836, "@scenario_probability": 6.316820392903078e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 6.316820392903078e-05]

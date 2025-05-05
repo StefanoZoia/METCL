@@ -1,0 +1,8 @@
+shooting: 0.916
+throw: 0.842
+hit: 0.828
+gun: 0.827
+fire: 0.824
+grow: 0.823
+bullet: 0.821
+pistol: 0.821

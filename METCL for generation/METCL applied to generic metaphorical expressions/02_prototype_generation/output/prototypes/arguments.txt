@@ -1,0 +1,8 @@
+persuade: 0.84
+evidence: 0.7659
+variable: 0.7434
+prove_to_valid: 0.7415999999999999
+prove_point: 0.7415999999999999
+summary: 0.7398
+logic: 0.7272000000000001
+result_in_bad_feelings: 0.7155

@@ -1,0 +1,3 @@
+disaster: 0.877
+natural_hazard: 0.763
+album: 0.72

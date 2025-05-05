@@ -1,0 +1,8 @@
+continent: 0.897
+eurasia: 0.883
+tartary: 0.855
+continent_in_northern_hemisphere: 0.839
+continent_on_earth: 0.839
+iberian_peninsula: 0.838
+france: 0.834
+germany: 0.832

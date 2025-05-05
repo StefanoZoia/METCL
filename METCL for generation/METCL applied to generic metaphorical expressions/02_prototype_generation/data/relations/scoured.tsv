@@ -1,0 +1,6 @@
+/c/en/scoured	SimilarTo	/c/en/worn	2.0	0.546
+/c/en/eroded	Synonym	/c/en/scoured	2.0	0.58
+/c/en/worn	SimilarTo	/c/en/scoured	2.0	0.546
+/c/en/scoured	RelatedTo	/c/en/scour	1.0	0.661
+/c/en/scoured	FormOf	/c/en/scour	1.0	0.661
+/c/en/unscoured	DerivedFrom	/c/en/scoured	1.0	0.051

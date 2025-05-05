@@ -1,0 +1,30 @@
+Title: corporation-person
+
+Head Concept Name: corporation
+Modifier Concept Name: person
+
+
+
+
+
+T(modifier), wave_to_friend, 0.94
+T(modifier), wave_goodbye, 0.94
+T(modifier), wave_to_another_person, 0.94
+T(modifier), wave_at_another_person, 0.94
+T(modifier), wave_hello_or_goodbye, 0.909
+T(modifier), wait_patiently, 0.908
+T(modifier), thank_god, 0.895
+T(modifier), god, 0.876
+
+T(head), firm, 0.873
+T(head), hold_bank_account, 0.838
+T(head), organization, 0.812
+T(head), -proprietorship, 0.782
+T(head), large_business, 0.78
+T(head), -sole_proprietorship, 0.779
+T(head), historical, 0.763
+T(head), slang, 0.759
+
+
+Result: {"wave_to_friend": 0.94, "wave_goodbye": 0.94, "wave_to_another_person": 0.94, "wave_at_another_person": 0.94, "wave_hello_or_goodbye": 0.909, "wait_patiently": 0.908, "thank_god": 0.895, "firm": 0.873, "@scenario_probability": 0.00011511444151444279}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0.00011511444151444279]

@@ -1,0 +1,8 @@
+-up: 0.872
+direction: 0.822
+strike: 0.82
+turn: 0.812
+highland: 0.806
+-upward: 0.802
+-across: 0.802
+hair: 0.799

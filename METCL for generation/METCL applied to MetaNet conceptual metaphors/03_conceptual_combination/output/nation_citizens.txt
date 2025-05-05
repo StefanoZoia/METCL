@@ -1,0 +1,29 @@
+Title: nation-citizens
+
+Head Concept Name: nation
+Modifier Concept Name: citizens
+
+
+
+
+
+T(modifier), air_grievances, 0.832
+T(modifier), country, 0.832
+T(modifier), honor_laws, 0.804
+T(modifier), voice_opinion_in_parliament, 0.797
+T(modifier), write_letters_to_senators, 0.797
+T(modifier), voice_opinions, 0.797
+T(modifier), dance_to_dictator's_tune, 0.791
+
+T(head), united_states, 0.857
+T(head), people, 0.836
+T(head), confederation, 0.831
+T(head), ready_troops, 0.808
+T(head), weather_storm_of_war, 0.789
+T(head), arm_citizens, 0.788
+T(head), -state, 0.787
+T(head), legal, 0.744
+
+
+Result: {"air_grievances": 0.832, "country": 0.832, "honor_laws": 0.804, "voice_opinions": 0.797, "united_states": 0.857, "people": 0.836, "confederation": 0.831, "ready_troops": 0.808, "@scenario_probability": 0.00044826698442064554}
+Scenario: [1, 1, 1, 0, 0, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.00044826698442064554]

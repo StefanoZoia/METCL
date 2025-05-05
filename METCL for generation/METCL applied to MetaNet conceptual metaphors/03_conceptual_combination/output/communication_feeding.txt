@@ -1,0 +1,28 @@
+Title: communication-feeding
+
+Head Concept Name: communication
+Modifier Concept Name: feeding
+
+
+
+
+
+T(modifier), provision, 0.831
+T(modifier), promoting, 0.798
+T(modifier), transferring_control, 0.798
+T(modifier), taking_care_of, 0.757
+T(modifier), directed_movement, 0.738
+T(modifier), making_grow, 0.726
+
+T(head), sender_and_receiver, 0.866
+T(head), connection, 0.85
+T(head), act, 0.815
+T(head), e_mail, 0.81
+T(head), cellphone, 0.804
+T(head), satelite, 0.804
+T(head), phone, 0.801
+T(head), abstraction, 0.799
+
+
+Result: {"provision": 0.831, "sender_and_receiver": 0.866, "connection": 0.85, "act": 0.815, "e_mail": 0.81, "cellphone": 0.804, "satelite": 0.804, "phone": 0.801, "@scenario_probability": 0.002991451780278808}
+Scenario: [1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.002991451780278808]

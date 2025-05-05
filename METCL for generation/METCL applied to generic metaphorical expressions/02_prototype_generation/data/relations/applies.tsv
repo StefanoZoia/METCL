@@ -1,0 +1,5 @@
+/c/en/applier	RelatedTo	/c/en/applies	1.0	0.593
+/c/en/applicant	RelatedTo	/c/en/applies	1.0	0.569
+/c/en/applies	FormOf	/c/en/apply	1.0	0.903
+/c/en/applies	RelatedTo	/c/en/apply	1.0	0.903
+/c/en/applies	FormOf	/c/en/apply	1.0	0.903

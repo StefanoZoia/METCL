@@ -1,0 +1,30 @@
+Title: resource-body_weight
+
+Head Concept Name: resource
+Modifier Concept Name: body_weight
+
+
+
+
+
+T(modifier), weight, 0.814
+T(modifier), weight_machines, 0.783
+T(modifier), importance, 0.752
+T(modifier), physical_property, 0.75
+T(modifier), oppression, 0.749
+T(modifier), coefficient, 0.738
+T(modifier), break_objects, 0.725
+T(modifier), statistics, 0.724
+
+T(head), asset, 0.852
+T(head), assets, 0.838
+T(head), inventiveness, 0.824
+T(head), tangible_thing, 0.778
+T(head), localized_spatial_thing, 0.759
+T(head), group_of_things, 0.737
+T(head), album, 0.717
+T(head), book, 0.709
+
+
+Result: {"weight": 0.814, "weight_machines": 0.783, "importance": 0.752, "asset": 0.852, "assets": 0.838, "inventiveness": 0.824, "tangible_thing": 0.778, "localized_spatial_thing": 0.759, "@scenario_probability": 0.00045001622879708227}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.00045001622879708227]

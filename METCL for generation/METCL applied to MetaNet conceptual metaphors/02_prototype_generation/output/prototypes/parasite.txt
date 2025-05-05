@@ -1,0 +1,8 @@
+organism: 0.869
+-commensal: 0.816
+plant: 0.813
+giardia: 0.802
+-mutualism: 0.797
+heterotroph: 0.78
+biology: 0.766
+pejorative: 0.76

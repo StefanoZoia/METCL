@@ -1,0 +1,4 @@
+-nonpolitical: 0.846
+pejorative: 0.77
+causes_of_war: 0.717
+money_everything: 0.673

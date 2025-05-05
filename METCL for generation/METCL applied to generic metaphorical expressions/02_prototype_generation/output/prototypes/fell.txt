@@ -1,0 +1,8 @@
+cut: 0.854
+descend: 0.842
+killing: 0.809
+sew: 0.789
+seam: 0.784
+-stood_up: 0.772
+-stood: 0.772
+-remained_standing: 0.766

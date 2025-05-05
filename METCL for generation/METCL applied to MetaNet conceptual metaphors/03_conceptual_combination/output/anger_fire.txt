@@ -1,0 +1,30 @@
+Title: anger-fire
+
+Head Concept Name: anger
+Modifier Concept Name: fire
+
+
+
+
+
+T(modifier), burn, 0.925
+T(modifier), provide_comfort, 0.921
+T(modifier), burn_things, 0.92
+T(modifier), burn_houses, 0.92
+T(modifier), burn_cloth, 0.92
+T(modifier), burn_tires, 0.92
+T(modifier), burn_flesh, 0.92
+T(modifier), burn_buildings, 0.903
+
+T(head), emotional_arousal, 0.895
+T(head), emotion, 0.874
+T(head), frustration, 0.864
+T(head), frustration_at_inability_to_control, 0.856
+T(head), arouse, 0.838
+T(head), unpleasant, 0.815
+T(head), feel, 0.809
+T(head), cause_people_to_yell, 0.807
+
+
+Result: {"burn": 0.925, "provide_comfort": 0.921, "burn_things": 0.92, "burn_houses": 0.92, "burn_cloth": 0.92, "burn_tires": 0.92, "burn_flesh": 0.92, "emotional_arousal": 0.895, "@scenario_probability": 1.3288765387114328e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1.3288765387114328e-05]

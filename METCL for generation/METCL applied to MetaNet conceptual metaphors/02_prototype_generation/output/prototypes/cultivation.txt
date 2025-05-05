@@ -1,0 +1,4 @@
+farming: 0.889
+production: 0.845
+growth: 0.83
+socialization: 0.82

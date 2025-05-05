@@ -1,0 +1,8 @@
+prosperity: 0.7866
+-ill_being: 0.784
+-poorly: 0.7605
+get_water: 0.7461
+drinking_water: 0.7343999999999999
+compartment: 0.7325999999999999
+shaft: 0.7325999999999999
+draw_water: 0.7325999999999999

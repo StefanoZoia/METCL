@@ -1,0 +1,8 @@
+think_about: 0.8019000000000001
+-inconsiderate: 0.7911
+-inconsiderateness: 0.7623
+assumption: 0.7578
+see: 0.7443
+hash_out: 0.7200000000000001
+-neglect: 0.7047
+parliamentary_procedure: 0.6993

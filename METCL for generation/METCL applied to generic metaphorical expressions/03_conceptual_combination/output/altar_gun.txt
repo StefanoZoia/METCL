@@ -1,0 +1,30 @@
+Title: altar-gun
+
+Head Concept Name: altar
+Modifier Concept Name: gun
+
+
+
+
+
+T(modifier), firearm_shoots_bullets, 0.931
+T(modifier), shooting_things, 0.915
+T(modifier), shoot, 0.904
+T(modifier), weapon, 0.903
+T(modifier), shot, 0.897
+T(modifier), gun_shop, 0.894
+T(modifier), holster, 0.889
+T(modifier), shoot_bullets, 0.883
+
+T(head), getting_married, 0.886
+T(head), pray_to_god, 0.883
+T(head), sacred, 0.88
+T(head), worship_god, 0.871
+T(head), sanctuary, 0.867
+T(head), kneeling_in_front_of, 0.861
+T(head), church, 0.858
+T(head), temple, 0.856
+
+
+Result: {"firearm_shoots_bullets": 0.931, "shooting_things": 0.915, "shoot": 0.904, "weapon": 0.903, "shot": 0.897, "gun_shop": 0.894, "holster": 0.889, "getting_married": 0.886, "@scenario_probability": 3.518457893643583e-06}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 3.518457893643583e-06]

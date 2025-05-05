@@ -1,0 +1,28 @@
+Title: morality-wholeness
+
+Head Concept Name: morality
+Modifier Concept Name: wholeness
+
+
+
+
+
+T(modifier), good_health, 0.858
+T(modifier), honesty, 0.818
+T(modifier), completeness, 0.787
+T(modifier), character, 0.759
+T(modifier), staying_fit, 0.756
+T(modifier), important_for_normal_living, 0.751
+T(modifier), good, 0.748
+T(modifier), necessary_for_long_life, 0.746
+
+T(head), -amorality, 0.859
+T(head), quality, 0.828
+T(head), needless, 0.821
+T(head), belief_system, 0.818
+T(head), -baseness, 0.772
+T(head), archaic, 0.748
+
+
+Result: {"good_health": 0.858, "honesty": 0.818, "completeness": 0.787, "-amorality": 0.859, "quality": 0.828, "needless": 0.821, "belief_system": 0.818, "-baseness": 0.772, "@scenario_probability": 0.004810537448198112}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0.004810537448198112]

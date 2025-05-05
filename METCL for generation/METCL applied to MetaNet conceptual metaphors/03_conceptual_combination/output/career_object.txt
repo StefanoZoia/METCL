@@ -1,0 +1,30 @@
+Title: career-object
+
+Head Concept Name: career
+Modifier Concept Name: object
+
+
+
+
+
+T(modifier), thing, 0.843
+T(modifier), disapprove, 0.832
+T(modifier), become_broken, 0.817
+T(modifier), object_oriented_programming, 0.814
+T(modifier), content, 0.81
+T(modifier), belong_to_person, 0.809
+T(modifier), disappear_from_sight, 0.806
+T(modifier), computer_science, 0.803
+
+T(head), occupation, 0.866
+T(head), travel, 0.81
+T(head), progress, 0.802
+T(head), falconry, 0.729
+T(head), -term, 0.705
+T(head), -short, 0.696
+T(head), -short_term, 0.696
+T(head), going_to_work, 0.642
+
+
+Result: {"thing": 0.843, "disapprove": 0.832, "become_broken": 0.817, "object_oriented_programming": 0.814, "content": 0.81, "belong_to_person": 0.809, "occupation": 0.866, "travel": 0.81, "@scenario_probability": 0.00042912958909944733}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.00042912958909944733]

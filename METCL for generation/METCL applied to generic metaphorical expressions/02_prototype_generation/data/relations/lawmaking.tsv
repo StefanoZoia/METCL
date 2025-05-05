@@ -1,0 +1,13 @@
+/c/en/lawmaking	Synonym	/c/en/legislation	2.0	0.801
+/c/en/lawmaking	RelatedTo	/c/en/pass	1.0	0.282
+/c/en/rulemaking	Synonym	/c/en/lawmaking	1.0	0.647
+/c/en/lawmaking	RelatedTo	/c/en/law	1.0	0.521
+/c/en/legislative	RelatedTo	/c/en/lawmaking	1.0	0.82
+/c/en/legific	RelatedTo	/c/en/lawmaking	1.0	0.588
+/c/en/lawmaking	RelatedTo	/c/en/enact	1.0	0.54
+/c/en/lawmaking	DerivedFrom	/c/en/law	1.0	0.521
+/c/en/lawmaker	RelatedTo	/c/en/lawmaking	1.0	0.639
+/c/en/lawmaking	RelatedTo	/c/en/lawmaker	1.0	0.639
+/c/en/lawmaking	DerivedFrom	/c/en/make	1.0	0.101
+/c/en/lawmaking	RelatedTo	/c/en/legislation	1.0	0.801
+/c/en/lawmakings	FormOf	/c/en/lawmaking	1.0	1.0

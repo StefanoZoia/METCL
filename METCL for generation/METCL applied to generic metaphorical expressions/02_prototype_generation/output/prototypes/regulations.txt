@@ -1,0 +1,8 @@
+rule: 0.7947000000000001
+control: 0.7515
+dominance: 0.7461
+embryology: 0.7407
+organic_process: 0.7200000000000001
+genetics: 0.6957
+european_union_law: 0.6921
+medicine: 0.6795

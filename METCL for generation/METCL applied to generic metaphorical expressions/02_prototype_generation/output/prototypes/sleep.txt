@@ -1,0 +1,8 @@
+lie_down_in_bed: 0.921
+lie_down_in_dark_room: 0.887
+turn_off_lights: 0.878
+go_to_bed: 0.873
+get_in_bed: 0.87
+get_into_bed: 0.87
+close_eyes: 0.869
+tired: 0.866

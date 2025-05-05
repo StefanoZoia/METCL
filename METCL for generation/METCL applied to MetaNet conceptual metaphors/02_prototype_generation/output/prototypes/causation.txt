@@ -1,0 +1,8 @@
+origin: 0.7551
+relation: 0.7515
+make: 0.7488
+justification: 0.747
+-effect: 0.7398
+act: 0.7299000000000001
+suffer_setback: 0.7209000000000001
+succeed_effect: 0.7146

@@ -1,0 +1,30 @@
+Title: change_of_state-maze
+
+Head Concept Name: change_of_state
+Modifier Concept Name: maze
+
+
+
+
+
+T(modifier), system, 0.833
+T(modifier), increase_efficiency, 0.82
+T(modifier), maze, 0.811
+T(modifier), intricate, 0.79
+T(modifier), -untangle, 0.784
+T(modifier), complex, 0.772
+T(modifier), perplexity, 0.769
+T(modifier), method, 0.767
+
+T(head), change, 0.933
+T(head), difference, 0.826
+T(head), replace, 0.774
+T(head), unpleasant, 0.752
+T(head), exciting, 0.752
+T(head), jar, 0.733
+T(head), dress, 0.733
+T(head), consequence, 0.733
+
+
+Result: {"system": 0.833, "increase_efficiency": 0.82, "maze": 0.811, "intricate": 0.79, "-untangle": 0.784, "change": 0.933, "difference": 0.826, "replace": 0.774, "@scenario_probability": 0.0002940122376466587}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0.0002940122376466587]

@@ -1,0 +1,30 @@
+Title: idea-food
+
+Head Concept Name: idea
+Modifier Concept Name: food
+
+
+
+
+
+T(modifier), nourishment, 0.92
+T(modifier), eating, 0.908
+T(modifier), sustenance, 0.906
+T(modifier), nourishing, 0.875
+T(modifier), resturant, 0.872
+T(modifier), energy, 0.871
+T(modifier), necessary_to_live, 0.865
+T(modifier), feed_animals, 0.863
+
+T(head), opinion, 0.841
+T(head), plan_for_action, 0.814
+T(head), central_meaning_purpose_or_concept, 0.807
+T(head), save_project, 0.802
+T(head), content, 0.801
+T(head), power_revolution, 0.791
+T(head), bridge_difference_between_cultures, 0.787
+T(head), philosophy, 0.776
+
+
+Result: {"nourishment": 0.92, "eating": 0.908, "sustenance": 0.906, "nourishing": 0.875, "resturant": 0.872, "energy": 0.871, "necessary_to_live": 0.865, "opinion": 0.841, "@scenario_probability": 7.070329677837289e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 7.070329677837289e-05]

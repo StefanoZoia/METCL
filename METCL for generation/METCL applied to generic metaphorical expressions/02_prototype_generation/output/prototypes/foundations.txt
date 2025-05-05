@@ -1,0 +1,8 @@
+build_house_on: 0.7605
+support: 0.756
+education: 0.7497
+structure: 0.7398
+non_profit_organization: 0.738
+relation: 0.7146
+closet: 0.7074
+cosmetics_market_category: 0.7074

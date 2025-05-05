@@ -1,0 +1,8 @@
+vigil: 0.85
+alarm: 0.843
+-sleep: 0.824
+wave: 0.818
+church_of_england: 0.763
+reception: 0.761
+start_new_day: 0.749
+-dream: 0.741

@@ -1,0 +1,7 @@
+/c/en/belong	Synonym	/c/en/belong_to	2.0	0.92
+/c/en/belong	MannerOf	/c/en/be	2.0	0.307
+/c/en/belong	MannerOf	/c/en/be	2.0	0.307
+/c/en/go	Synonym	/c/en/belong	2.0	0.173
+/c/en/belong	RelatedTo	/c/en/spouse	1.0	-0.118
+/c/en/ing	RelatedTo	/c/en/belong	1.0	-0.128
+/c/en/eirs	RelatedTo	/c/en/belong	1.0	0.02

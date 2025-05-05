@@ -1,0 +1,8 @@
+-arm: 0.876
+stand: 0.867
+tibialis: 0.855
+gangrene: 0.855
+hold: 0.847
+knee: 0.843
+tibial_vein: 0.843
+crus: 0.841

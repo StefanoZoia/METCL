@@ -1,0 +1,7 @@
+/c/en/considering	Synonym	/c/en/in_view_of	2.0	0.091
+/c/en/in_view_of	Synonym	/c/en/in_light_of	2.0	0.552
+/c/en/in_view_of	Synonym	/c/en/considering	1.0	0.091
+/c/en/in_view_of	Synonym	/c/en/given	1.0	0.017
+/c/en/in_view	RelatedTo	/c/en/in_view_of	1.0	1.0
+/c/en/in_light_of	Synonym	/c/en/in_view_of	1.0	0.552
+/c/en/in_view_of	RelatedTo	/c/en/considering	1.0	0.091

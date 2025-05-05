@@ -1,0 +1,5 @@
+spend: 0.7803
+absorb: 0.7695
+construed_with_with: 0.762
+destroy: 0.756
+-produce: 0.666

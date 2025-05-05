@@ -1,0 +1,8 @@
+ruler: 0.813
+teaspoon: 0.792
+caliper: 0.746
+foot: 0.735
+tablespoon: 0.728
+cup: 0.7
+laser: 0.687
+adding_up_numbers: 0.687

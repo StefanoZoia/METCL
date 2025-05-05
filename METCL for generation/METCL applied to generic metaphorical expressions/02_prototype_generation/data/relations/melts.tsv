@@ -1,0 +1,10 @@
+/c/en/melts	FormOf	/c/en/melt	1.0	0.936
+/c/en/glass_heated_enough	HasSubevent	/c/en/melts	1.0	0.039
+/c/en/melts	RelatedTo	/c/en/melt	1.0	0.936
+/c/en/melts	FormOf	/c/en/melt	1.0	0.936
+/c/en/chocolate	CapableOf	/c/en/melts	1.0	0.404
+/c/en/melts	RelatedTo	/c/en/melt	1.0	0.936
+/c/en/eating_ice_cream	HasSubevent	/c/en/melts	1.0	0.047
+/c/en/melts	FormOf	/c/en/melt	1.0	0.936
+/c/en/wax	RelatedTo	/c/en/melts	0.238	0.356
+/c/en/water	RelatedTo	/c/en/melts	0.16999999999999993	0.03

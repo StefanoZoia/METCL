@@ -1,0 +1,11 @@
+/c/en/fallen	RelatedTo	/c/en/casualties	1.0	0.261
+/c/en/casualties	FormOf	/c/en/casualty	1.0	0.679
+/c/en/claymore	RelatedTo	/c/en/casualties	1.0	0.132
+/c/en/walking_wounded	RelatedTo	/c/en/casualties	1.0	0.672
+/c/en/casualties	RelatedTo	/c/en/casualty	1.0	0.679
+/c/en/keraunomedicine	RelatedTo	/c/en/casualties	1.0	-0.052
+/c/en/fight_enemy	HasSubevent	/c/en/casualties	1.0	0.029
+/c/en/fighting_enemy	Causes	/c/en/casualties	1.0	0.127
+/c/en/loss	RelatedTo	/c/en/casualties	1.0	0.22
+/c/en/casualties	AtLocation	/c/en/hospital	1.0	0.18
+/c/en/casualties	FormOf	/c/en/casualty	1.0	0.679

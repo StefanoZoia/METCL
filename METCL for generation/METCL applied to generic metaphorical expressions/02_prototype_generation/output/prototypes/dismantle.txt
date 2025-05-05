@@ -1,0 +1,8 @@
+destroy: 0.8127000000000001
+grade: 0.7848
+altitude: 0.7605
+place: 0.7488
+remove: 0.7479
+-build: 0.7434
+part: 0.7415999999999999
+building: 0.7371

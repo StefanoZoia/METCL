@@ -1,0 +1,19 @@
+Title: social_status-grasp
+
+Head Concept Name: social_status
+Modifier Concept Name: grasp
+
+
+
+
+
+T(modifier), hold, 0.864
+T(modifier), object_oriented_design, 0.768
+T(modifier), software, 0.744
+
+T(head), sociology, 0.821
+T(head), house, 0.654
+
+
+Result: {"hold": 0.864, "object_oriented_design": 0.768, "software": 0.744, "sociology": 0.821, "@scenario_probability": 14.023846644940802}
+Scenario: [1, 1, 1, 1, 0, 14.023846644940802]

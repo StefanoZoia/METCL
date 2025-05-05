@@ -1,0 +1,20 @@
+Title: legislative_action-restraints
+
+Head Concept Name: legislative_action
+Modifier Concept Name: restraints
+
+
+
+
+
+T(modifier), restriction, 0.795
+T(modifier), discipline, 0.775
+T(modifier), control, 0.764
+T(modifier), device, 0.748
+
+T(head), legal_proceeding, 0.752
+T(head), group_activity, 0.747
+
+
+Result: {"restriction": 0.795, "discipline": 0.775, "control": 0.764, "device": 0.748, "legal_proceeding": 0.752, "@scenario_probability": 6.6988792475615995}
+Scenario: [1, 1, 1, 1, 1, 0, 6.6988792475615995]

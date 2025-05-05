@@ -1,0 +1,8 @@
+uncertain: 0.877
+-past: 0.85
+-now_for_people: 0.839
+unclear: 0.836
+tense: 0.823
+grow: 0.82
+time: 0.812
+grammar: 0.806

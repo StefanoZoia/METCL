@@ -1,0 +1,7 @@
+/c/en/veering	Synonym	/c/en/swerve	2.0	0.762
+/c/en/veering	FormOf	/c/en/veer	1.0	0.783
+/c/en/veerings	FormOf	/c/en/veering	1.0	1.0
+/c/en/veeringly	DerivedFrom	/c/en/veering	1.0	1.0
+/c/en/veering	RelatedTo	/c/en/veer	1.0	0.783
+/c/en/veering	RelatedTo	/c/en/swerve	1.0	0.762
+/c/en/slice	RelatedTo	/c/en/veering	0.2450000000000001	0.02

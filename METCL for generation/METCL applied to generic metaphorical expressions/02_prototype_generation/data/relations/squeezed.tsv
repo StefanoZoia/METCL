@@ -1,0 +1,10 @@
+/c/en/oranges	ReceivesAction	/c/en/squeezed	2.0	0.391
+/c/en/squashed	RelatedTo	/c/en/squeezed	1.0	0.467
+/c/en/squoze	RelatedTo	/c/en/squeezed	1.0	-0.006
+/c/en/oversqueezed	RelatedTo	/c/en/squeezed	1.0	0.135
+/c/en/squeezed	RelatedTo	/c/en/squeeze	1.0	0.681
+/c/en/straitened	RelatedTo	/c/en/squeezed	1.0	0.383
+/c/en/synchrosqueezed	DerivedFrom	/c/en/squeezed	1.0	0.018
+/c/en/squeezed	FormOf	/c/en/squeeze	1.0	0.681
+/c/en/oversqueezed	DerivedFrom	/c/en/squeezed	1.0	0.135
+/c/en/wine	RelatedTo	/c/en/squeezed	0.31899999999999995	0.093

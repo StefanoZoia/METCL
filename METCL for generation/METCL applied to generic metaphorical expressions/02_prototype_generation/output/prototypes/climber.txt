@@ -1,0 +1,7 @@
+climb_mountain: 0.928
+mountain: 0.887
+athlete: 0.847
+vine: 0.837
+hold_on_to_rope: 0.796
+near_top: 0.796
+cycling: 0.788

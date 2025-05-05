@@ -1,0 +1,8 @@
+decline: 0.7524
+geology: 0.7524
+geological_process: 0.7515
+decay: 0.7497
+damage: 0.7398
+environmental_condition: 0.7334999999999999
+-accretion: 0.7227
+-deposition: 0.7110000000000001

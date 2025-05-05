@@ -1,0 +1,6 @@
+publication: 0.84
+table: 0.834
+list: 0.82
+container: 0.812
+box: 0.787
+-index: 0.744

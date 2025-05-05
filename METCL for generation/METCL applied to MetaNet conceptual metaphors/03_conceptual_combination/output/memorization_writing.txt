@@ -1,0 +1,25 @@
+Title: memorization-writing
+
+Head Concept Name: memorization
+Modifier Concept Name: writing
+
+
+
+
+
+T(modifier), writing_instrument, 0.976
+T(modifier), jotting_notes, 0.931
+T(modifier), pen, 0.923
+T(modifier), thinking, 0.907
+T(modifier), paper, 0.904
+T(modifier), communicating_thoughts, 0.896
+T(modifier), written_communication, 0.892
+T(modifier), expressing_feelings, 0.891
+
+T(head), learning, 0.853
+T(head), remembering_phone_number, 0.827
+T(head), acting_in_play, 0.701
+
+
+Result: {"writing_instrument": 0.976, "jotting_notes": 0.931, "pen": 0.923, "thinking": 0.907, "paper": 0.904, "communicating_thoughts": 0.896, "written_communication": 0.892, "learning": 0.853, "@scenario_probability": 0.26432765420973364}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0.26432765420973364]

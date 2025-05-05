@@ -1,0 +1,8 @@
+opinion: 0.841
+plan_for_action: 0.814
+central_meaning_purpose_or_concept: 0.807
+save_project: 0.802
+content: 0.801
+power_revolution: 0.791
+bridge_difference_between_cultures: 0.787
+philosophy: 0.776

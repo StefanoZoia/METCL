@@ -1,0 +1,3 @@
+discussing: 0.883
+trying_to_convince: 0.79
+competition: 0.785

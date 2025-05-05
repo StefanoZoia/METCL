@@ -1,0 +1,4 @@
+object: 0.83
+artifact: 0.826
+economics: 0.802
+marketing: 0.767

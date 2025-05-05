@@ -1,0 +1,30 @@
+Title: infected-government
+
+Head Concept Name: infected
+Modifier Concept Name: government
+
+
+
+
+
+T(modifier), corrupt, 0.897
+T(modifier), govern_country, 0.896
+T(modifier), polity, 0.874
+T(modifier), country, 0.839
+T(modifier), force_citizens_to_comply, 0.833
+T(modifier), rule_people, 0.832
+T(modifier), -fun, 0.829
+T(modifier), jealous_of_power, 0.827
+
+T(head), pollute, 0.78
+T(head), virus, 0.77
+T(head), affect, 0.765
+T(head), corrupt, 0.75
+T(head), -disinfect, 0.743
+T(head), give, 0.724
+T(head), -pure, 0.698
+T(head), cockney_rhyming_slang, 0.695
+
+
+Result: {"corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "country": 0.839, "force_citizens_to_comply": 0.833, "rule_people": 0.832, "-fun": 0.829, "pollute": 0.78, "@scenario_probability": 0.00040338719213373774}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0.00040338719213373774]

@@ -1,0 +1,6 @@
+/c/en/seeing_story	Causes	/c/en/thinking_about	3.4641016151377544	0.348
+/c/en/contemplating	UsedFor	/c/en/thinking_about	2.82842712474619	0.658
+/c/en/work_of_art	UsedFor	/c/en/thinking_about	1.0	0.053
+/c/en/analysing	HasSubevent	/c/en/thinking_about	1.0	0.429
+/c/en/piece_of_information	UsedFor	/c/en/thinking_about	1.0	-0.014
+/c/en/consider	RelatedTo	/c/en/thinking_about	0.17300000000000004	0.431

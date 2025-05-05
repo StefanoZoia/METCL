@@ -1,0 +1,10 @@
+/c/en/committing_crime	IsA	/c/en/civil_faux_pa	2.0	-0.071
+/c/en/stabbing_to_death	HasSubevent	/c/en/committing_crime	2.0	0.174
+/c/en/obstructing_justice	Causes	/c/en/committing_crime	2.0	0.604
+/c/en/committing_crime	CapableOf	/c/en/lead_to_punishment	2.0	-0.032
+/c/en/obstructing_justice	HasSubevent	/c/en/committing_crime	2.0	0.604
+/c/en/committing_crime	IsA	/c/en/against_social_good	2.0	0.052
+/c/en/committing_crime	IsA	/c/en/civil_faux_pas	2.0	-0.071
+/c/en/committing_crime	Causes	/c/en/going_to_prison	1.0	-0.002
+/c/en/weapon	UsedFor	/c/en/committing_crime	1.0	0.043
+/c/en/killing_people	UsedFor	/c/en/committing_crime	1.0	0.128

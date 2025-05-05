@@ -1,0 +1,9 @@
+/c/en/being_good	CausesDesire	/c/en/compete	2.82842712474619	0.021
+/c/en/improving_yourself	UsedFor	/c/en/being_good	1.0	0.115
+/c/en/quality	RelatedTo	/c/en/being_good	0.32899999999999974	0.037
+/c/en/best	RelatedTo	/c/en/being_good	0.2759999999999998	-0.02
+/c/en/trouble	Antonym	/c/en/being_good	0.22299999999999986	0.206
+/c/en/able	RelatedTo	/c/en/being_good	0.19700000000000006	-0.019
+/c/en/virtue	RelatedTo	/c/en/being_good	0.17700000000000005	0.019
+/c/en/great	RelatedTo	/c/en/being_good	0.16400000000000015	0.04
+/c/en/kind	RelatedTo	/c/en/being_good	0.15600000000000014	-0.065

@@ -1,0 +1,4 @@
+law: 0.839
+defense: 0.838
+legal: 0.782
+chemistry: 0.758

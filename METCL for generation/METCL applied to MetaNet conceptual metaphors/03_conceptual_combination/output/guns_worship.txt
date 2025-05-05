@@ -1,0 +1,30 @@
+Title: guns-worship
+
+Head Concept Name: guns
+Modifier Concept Name: worship
+
+
+
+
+
+T(modifier), reverence, 0.877
+T(modifier), religion, 0.853
+T(modifier), love, 0.837
+T(modifier), chapel, 0.827
+T(modifier), church, 0.822
+T(modifier), temple, 0.816
+T(modifier), attend, 0.815
+T(modifier), activity, 0.814
+
+T(head), firearm_shoots_bullets, 0.838
+T(head), shooting_things, 0.824
+T(head), shoot, 0.814
+T(head), weapon, 0.813
+T(head), shot, 0.807
+T(head), gun_shop, 0.805
+T(head), holster, 0.8
+T(head), shoot_bullets, 0.795
+
+
+Result: {"reverence": 0.877, "religion": 0.853, "love": 0.837, "chapel": 0.827, "church": 0.822, "temple": 0.816, "firearm_shoots_bullets": 0.838, "shooting_things": 0.824, "@scenario_probability": 4.429225577399772e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 4.429225577399772e-05]

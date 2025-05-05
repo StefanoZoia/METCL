@@ -1,0 +1,7 @@
+exercise: 0.787
+lose_weight: 0.782
+disease: 0.781
+good_thing_to_correct: 0.737
+correctible: 0.729
+other_disease: 0.728
+one_impairment_person_might: 0.638

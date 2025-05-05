@@ -1,0 +1,5 @@
+break: 0.892
+burst: 0.858
+damage: 0.847
+archaic: 0.751
+video_game: 0.713

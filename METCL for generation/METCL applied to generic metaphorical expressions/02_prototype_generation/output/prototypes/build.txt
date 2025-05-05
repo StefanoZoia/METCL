@@ -1,0 +1,8 @@
+develop: 0.878
+create: 0.877
+establish: 0.871
+make: 0.845
+architecture: 0.832
+-demolish: 0.826
+better: 0.813
+intensify: 0.811

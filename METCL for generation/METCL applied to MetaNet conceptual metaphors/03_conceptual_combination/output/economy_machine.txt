@@ -1,0 +1,30 @@
+Title: economy-machine
+
+Head Concept Name: economy
+Modifier Concept Name: machine
+
+
+
+
+
+T(modifier), wash_dishes, 0.908
+T(modifier), wash_clothes, 0.908
+T(modifier), wash_car, 0.908
+T(modifier), wash_dirty_clothes, 0.908
+T(modifier), vacuum, 0.878
+T(modifier), dispense_snacks, 0.878
+T(modifier), dispense_popcorn, 0.878
+T(modifier), dispense_cigarettes, 0.878
+
+T(head), frugality, 0.864
+T(head), economic_action, 0.857
+T(head), efficiency, 0.832
+T(head), system, 0.816
+T(head), sector, 0.811
+T(head), heading_into_toilet, 0.804
+T(head), action, 0.79
+T(head), spending, 0.776
+
+
+Result: {"wash_dishes": 0.908, "wash_clothes": 0.908, "wash_car": 0.908, "wash_dirty_clothes": 0.908, "dispense_snacks": 0.878, "dispense_popcorn": 0.878, "dispense_cigarettes": 0.878, "frugality": 0.864, "@scenario_probability": 3.735500903218096e-05}
+Scenario: [1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 3.735500903218096e-05]

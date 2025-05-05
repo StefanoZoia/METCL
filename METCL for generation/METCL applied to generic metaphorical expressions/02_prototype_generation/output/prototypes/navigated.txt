@@ -1,0 +1,6 @@
+steer: 0.7803
+map: 0.6777
+computing: 0.6669
+vessel: 0.6561
+landmark: 0.6228
+underground_map: 0.6201

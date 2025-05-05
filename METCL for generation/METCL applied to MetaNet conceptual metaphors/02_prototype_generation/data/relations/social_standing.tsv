@@ -1,0 +1,6 @@
+/c/en/social_standing	RelatedTo	/c/en/social_class	1.0	0.153
+/c/en/social_standing	RelatedTo	/c/en/class	1.0	0.327
+/c/en/social_class	Synonym	/c/en/social_standing	1.0	0.153
+/c/en/social_standing	HasContext	/c/en/sociology	1.0	0.384
+/c/en/popular	RelatedTo	/c/en/social_standing	0.246	0.045
+/c/en/class	RelatedTo	/c/en/social_standing	0.242	0.327

@@ -1,0 +1,8 @@
+destroy_evidence: 0.848
+chemical_process: 0.834
+improved_if_masticate_food: 0.818
+learning: 0.812
+organic_process: 0.799
+intestine: 0.79
+eating: 0.755
+medicine: 0.751

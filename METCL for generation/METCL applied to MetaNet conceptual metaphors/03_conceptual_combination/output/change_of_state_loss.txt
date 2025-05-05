@@ -1,0 +1,30 @@
+Title: change_of_state-loss
+
+Head Concept Name: change_of_state
+Modifier Concept Name: loss
+
+
+
+
+
+T(modifier), losing_or_being_lost, 0.898
+T(modifier), -profit, 0.851
+T(modifier), failure, 0.849
+T(modifier), disadvantage, 0.839
+T(modifier), decline, 0.837
+T(modifier), -gain, 0.832
+T(modifier), experience, 0.818
+T(modifier), -victory, 0.814
+
+T(head), change, 0.933
+T(head), difference, 0.826
+T(head), replace, 0.774
+T(head), unpleasant, 0.752
+T(head), exciting, 0.752
+T(head), jar, 0.733
+T(head), dress, 0.733
+T(head), consequence, 0.733
+
+
+Result: {"losing_or_being_lost": 0.898, "-profit": 0.851, "failure": 0.849, "disadvantage": 0.839, "decline": 0.837, "-gain": 0.832, "change": 0.933, "difference": 0.826, "@scenario_probability": 0.0002616471088740261}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.0002616471088740261]

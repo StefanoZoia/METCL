@@ -1,0 +1,8 @@
+reliable: 0.865
+relative_while_quantity_fixed: 0.846
+attribute: 0.827
+more_important_than_quantity: 0.825
+better_than_quantity: 0.813
+archaic: 0.786
+-workmanship: 0.786
+evaluative_quantity: 0.773

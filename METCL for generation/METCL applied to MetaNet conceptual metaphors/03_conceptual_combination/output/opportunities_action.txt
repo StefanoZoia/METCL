@@ -1,0 +1,30 @@
+Title: opportunities-action
+
+Head Concept Name: opportunities
+Modifier Concept Name: action
+
+
+
+
+
+T(modifier), act, 0.864
+T(modifier), mechanism, 0.839
+T(modifier), -inaction, 0.835
+T(modifier), past_or_present, 0.833
+T(modifier), work, 0.825
+T(modifier), plot, 0.824
+T(modifier), cause_change, 0.812
+T(modifier), cause_effect, 0.812
+
+T(head), possibility, 0.794
+T(head), situation, 0.707
+T(head), fork_in_road, 0.697
+T(head), nonstandard, 0.672
+T(head), jumping_at_chance, 0.668
+T(head), euro_english, 0.661
+T(head), -door, 0.634
+T(head), artificial_satellite, 0.628
+
+
+Result: {"act": 0.864, "mechanism": 0.839, "-inaction": 0.835, "past_or_present": 0.833, "work": 0.825, "plot": 0.824, "cause_effect": 0.812, "possibility": 0.794, "@scenario_probability": 0.0018538245156481563}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0.0018538245156481563]

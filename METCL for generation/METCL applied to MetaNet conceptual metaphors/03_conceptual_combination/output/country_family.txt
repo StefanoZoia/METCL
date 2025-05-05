@@ -1,0 +1,30 @@
+Title: country-family
+
+Head Concept Name: country
+Modifier Concept Name: family
+
+
+
+
+
+T(modifier), relatives_house, 0.898
+T(modifier), kin, 0.881
+T(modifier), nice, 0.871
+T(modifier), lineage, 0.856
+T(modifier), house, 0.847
+T(modifier), family_unit, 0.842
+T(modifier), taxonomic_group, 0.837
+T(modifier), unit, 0.833
+
+T(head), a, 0.848
+T(head), world, 0.842
+T(head), america, 0.834
+T(head), region, 0.822
+T(head), honor_soldier, 0.81
+T(head), go_to_war_with_another_country, 0.8
+T(head), globe_map, 0.797
+T(head), asia, 0.797
+
+
+Result: {"relatives_house": 0.898, "kin": 0.881, "nice": 0.871, "lineage": 0.856, "house": 0.847, "family_unit": 0.842, "a": 0.848, "world": 0.842, "@scenario_probability": 3.783166442113392e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 3.783166442113392e-05]

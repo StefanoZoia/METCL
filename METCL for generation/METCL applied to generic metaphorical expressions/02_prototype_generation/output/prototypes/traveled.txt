@@ -1,0 +1,8 @@
+travel: 0.8513999999999999
+pack: 0.7938000000000001
+determine_destination: 0.7884
+pack_suitcase: 0.7866
+energy: 0.783
+save_money: 0.7677
+go_somewhere: 0.7677
+go_someplace: 0.7677

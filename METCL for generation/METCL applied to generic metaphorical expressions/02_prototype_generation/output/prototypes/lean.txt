@@ -1,0 +1,8 @@
+bend: 0.829
+-fat: 0.821
+trust: 0.81
+put: 0.798
+-fatty: 0.769
+us: 0.765
+-rich: 0.763
+slang: 0.753

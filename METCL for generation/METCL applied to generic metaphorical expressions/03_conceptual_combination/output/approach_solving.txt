@@ -1,0 +1,25 @@
+Title: approach-solving
+
+Head Concept Name: approach
+Modifier Concept Name: solving
+
+
+
+
+
+T(modifier), puzzle, 0.843
+T(modifier), thinking, 0.814
+T(modifier), computer, 0.705
+
+T(head), advance, 0.848
+T(head), come, 0.826
+T(head), address, 0.822
+T(head), conceptualization, 0.82
+T(head), golf, 0.804
+T(head), movement, 0.804
+T(head), motion, 0.803
+T(head), similarity, 0.803
+
+
+Result: {"puzzle": 0.843, "thinking": 0.814, "advance": 0.848, "come": 0.826, "address": 0.822, "conceptualization": 0.82, "golf": 0.804, "movement": 0.804, "@scenario_probability": 0.23976186868804245}
+Scenario: [1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.23976186868804245]

@@ -1,0 +1,30 @@
+Title: crime-animal
+
+Head Concept Name: crime
+Modifier Concept Name: animal
+
+
+
+
+
+T(modifier), petting, 0.9
+T(modifier), zoo, 0.877
+T(modifier), alive, 0.872
+T(modifier), food, 0.87
+T(modifier), animal_or_body_part, 0.868
+T(modifier), pet_store, 0.855
+T(modifier), fur, 0.853
+T(modifier), feel_pain, 0.848
+
+T(head), criminal_law, 0.865
+T(head), increasing, 0.848
+T(head), hate_crime, 0.843
+T(head), transgression, 0.841
+T(head), result_in_punishment, 0.836
+T(head), -good, 0.828
+T(head), activity, 0.806
+T(head), anger_person, 0.8
+
+
+Result: {"petting": 0.9, "zoo": 0.877, "alive": 0.872, "food": 0.87, "animal_or_body_part": 0.868, "pet_store": 0.855, "fur": 0.853, "criminal_law": 0.865, "@scenario_probability": 2.0697447614532965e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2.0697447614532965e-05]

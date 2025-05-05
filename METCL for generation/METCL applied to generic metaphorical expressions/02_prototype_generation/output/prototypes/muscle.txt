@@ -1,0 +1,8 @@
+muscle: 0.915
+lift_weights: 0.913
+muscular_structure: 0.894
+flexion: 0.892
+muscle_magazine: 0.883
+contractile_organ: 0.875
+flexing_arm: 0.871
+flexing: 0.871

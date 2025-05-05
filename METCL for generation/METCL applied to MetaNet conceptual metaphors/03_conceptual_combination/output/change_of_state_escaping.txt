@@ -1,0 +1,26 @@
+Title: change_of_state-escaping
+
+Head Concept Name: change_of_state
+Modifier Concept Name: escaping
+
+
+
+
+
+T(modifier), avoiding_undesirable_consequences, 0.883
+T(modifier), jumping_out_of_window, 0.775
+T(modifier), departure, 0.76
+T(modifier), running, 0.743
+
+T(head), change, 0.933
+T(head), difference, 0.826
+T(head), replace, 0.774
+T(head), unpleasant, 0.752
+T(head), exciting, 0.752
+T(head), jar, 0.733
+T(head), dress, 0.733
+T(head), consequence, 0.733
+
+
+Result: {"avoiding_undesirable_consequences": 0.883, "jumping_out_of_window": 0.775, "departure": 0.76, "change": 0.933, "difference": 0.826, "replace": 0.774, "unpleasant": 0.752, "exciting": 0.752, "@scenario_probability": 0.08581856311168523}
+Scenario: [1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.08581856311168523]

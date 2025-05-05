@@ -1,0 +1,8 @@
+facial_expression: 0.908
+grimace: 0.899
+happy: 0.892
+-frown: 0.879
+good_had_just_happened: 0.852
+warm_heart: 0.828
+light_up_room: 0.822
+please_another: 0.813

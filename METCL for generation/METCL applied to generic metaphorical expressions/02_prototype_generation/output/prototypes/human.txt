@@ -1,0 +1,8 @@
+emotional_distress: 0.882
+good: 0.868
+primate: 0.857
+laugh_at_joke: 0.856
+laugh_about_joke: 0.856
+talk_to_human: 0.854
+catch_bus: 0.853
+have_to_sleep: 0.853

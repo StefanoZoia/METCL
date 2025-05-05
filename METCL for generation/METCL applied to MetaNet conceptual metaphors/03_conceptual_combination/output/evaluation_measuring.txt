@@ -1,0 +1,30 @@
+Title: evaluation-measuring
+
+Head Concept Name: evaluation
+Modifier Concept Name: measuring
+
+
+
+
+
+T(modifier), ruler, 0.813
+T(modifier), teaspoon, 0.792
+T(modifier), caliper, 0.746
+T(modifier), foot, 0.735
+T(modifier), tablespoon, 0.728
+T(modifier), cup, 0.7
+T(modifier), laser, 0.687
+T(modifier), adding_up_numbers, 0.687
+
+T(head), appraisal, 0.914
+T(head), judgment, 0.854
+T(head), computing, 0.756
+T(head), programming, 0.752
+T(head), judging, 0.751
+T(head), mathematics, 0.735
+T(head), taking_care_of_proposals, 0.673
+T(head), handling_proposals, 0.662
+
+
+Result: {"ruler": 0.813, "teaspoon": 0.792, "caliper": 0.746, "appraisal": 0.914, "judgment": 0.854, "computing": 0.756, "programming": 0.752, "judging": 0.751, "@scenario_probability": 0.000993283517420165}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.000993283517420165]

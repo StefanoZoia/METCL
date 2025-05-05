@@ -1,0 +1,30 @@
+Title: happiness-up
+
+Head Concept Name: happiness
+Modifier Concept Name: up
+
+
+
+
+
+T(modifier), -down, 0.872
+T(modifier), opposite_of_down, 0.835
+T(modifier), direction, 0.827
+T(modifier), -same_as_down, 0.825
+T(modifier), -drop, 0.816
+T(modifier), computer, 0.811
+T(modifier), -downward, 0.808
+T(modifier), us, 0.782
+
+T(head), satisfaction, 0.901
+T(head), emotional_state, 0.859
+T(head), elusive_and_fleeting, 0.851
+T(head), -unhappiness, 0.85
+T(head), emotion, 0.847
+T(head), feeling, 0.827
+T(head), -sadness, 0.823
+T(head), come_from_very_simple_ideas, 0.813
+
+
+Result: {"-down": 0.872, "opposite_of_down": 0.835, "direction": 0.827, "satisfaction": 0.901, "emotional_state": 0.859, "elusive_and_fleeting": 0.851, "-unhappiness": 0.85, "emotion": 0.847, "@scenario_probability": 4.164805220193084e-05}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 4.164805220193084e-05]

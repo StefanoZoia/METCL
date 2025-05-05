@@ -1,0 +1,4 @@
+restriction: 0.7947000000000001
+discipline: 0.7749
+control: 0.7641
+device: 0.7479

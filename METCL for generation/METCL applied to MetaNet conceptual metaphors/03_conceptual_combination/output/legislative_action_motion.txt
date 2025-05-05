@@ -1,0 +1,24 @@
+Title: legislative_action-motion
+
+Head Concept Name: legislative_action
+Modifier Concept Name: motion
+
+
+
+
+
+T(modifier), proposal, 0.848
+T(modifier), energy, 0.818
+T(modifier), subject, 0.8
+T(modifier), state, 0.793
+T(modifier), -moving, 0.785
+T(modifier), locomotive, 0.772
+T(modifier), -standstill, 0.766
+T(modifier), law, 0.765
+
+T(head), legal_proceeding, 0.752
+T(head), group_activity, 0.747
+
+
+Result: {"proposal": 0.848, "energy": 0.818, "subject": 0.8, "state": 0.793, "-moving": 0.785, "locomotive": 0.772, "-standstill": 0.766, "legal_proceeding": 0.752, "@scenario_probability": 0.9133437915179783}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0.9133437915179783]

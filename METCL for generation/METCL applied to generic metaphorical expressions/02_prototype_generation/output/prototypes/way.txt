@@ -1,0 +1,8 @@
+journey: 0.84
+path: 0.838
+course: 0.834
+choice: 0.834
+condition: 0.815
+transportation_system: 0.807
+distance: 0.804
+path_to_somewhere: 0.797

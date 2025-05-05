@@ -1,0 +1,5 @@
+/c/en/child_care	Synonym	/c/en/childcare	2.0	0.946
+/c/en/child_care	FormOf	/c/en/childcare	1.0	0.946
+/c/en/child_care	IsA	/c/en/caring_for_people	1.0	0.35
+/c/en/babysitting	IsA	/c/en/child_care	1.0	0.698
+/c/en/child_care	CapableOf	/c/en/consist_of_babysitting	1.0	-0.053

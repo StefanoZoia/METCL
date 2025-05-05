@@ -1,0 +1,8 @@
+refer: 0.7632
+request: 0.7398
+denote: 0.7236
+pay_by_credit_card: 0.6165
+-give_up: 0.6156
+take_course: 0.6120000000000001
+-quit: 0.6093000000000001
+-up: 0.6039000000000001

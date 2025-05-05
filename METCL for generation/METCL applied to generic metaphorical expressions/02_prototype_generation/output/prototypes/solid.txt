@@ -1,0 +1,8 @@
+-liquid: 0.872
+substance: 0.827
+mathematics: 0.816
+wood: 0.786
+state_of_matter: 0.781
+solid_object: 0.777
+chemistry: 0.768
+ice: 0.767

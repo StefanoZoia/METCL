@@ -1,0 +1,17 @@
+/c/en/traveled	SimilarTo	/c/en/heavily_traveled	2.0	0.134
+/c/en/heavily_traveled	SimilarTo	/c/en/traveled	2.0	0.134
+/c/en/traveled	Synonym	/c/en/travelled	2.0	0.883
+/c/en/untraveled	DerivedFrom	/c/en/traveled	1.0	0.473
+/c/en/traveled	RelatedTo	/c/en/travel	1.0	0.549
+/c/en/traveled	HasContext	/c/en/us	1.0	0.003
+/c/en/traveled	FormOf	/c/en/travelled	1.0	0.883
+/c/en/traveled	RelatedTo	/c/en/experienced	1.0	0.237
+/c/en/travelled	FormOf	/c/en/traveled	1.0	0.883
+/c/en/traveled	RelatedTo	/c/en/frequented	1.0	0.465
+/c/en/traveled	RelatedTo	/c/en/traveler	1.0	0.379
+/c/en/traveled	DerivedFrom	/c/en/travel	1.0	0.549
+/c/en/traveled	FormOf	/c/en/travel	1.0	0.549
+/c/en/road	RelatedTo	/c/en/traveled	0.7069999999999999	0.263
+/c/en/distance	RelatedTo	/c/en/traveled	0.5489999999999999	0.212
+/c/en/rate	RelatedTo	/c/en/traveled	0.21700000000000008	0.031
+/c/en/path	RelatedTo	/c/en/traveled	0.20900000000000007	0.272

@@ -1,0 +1,2 @@
+-digestible: 0.871
+-indigestible: 0.7839

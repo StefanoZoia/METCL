@@ -1,0 +1,4 @@
+/c/en/unyielded	DerivedFrom	/c/en/yielded	1.0	0.056
+/c/en/yielded	FormOf	/c/en/yield	1.0	0.647
+/c/en/mileage	RelatedTo	/c/en/yielded	1.0	0.231
+/c/en/yielded	RelatedTo	/c/en/yield	1.0	0.647

@@ -1,0 +1,30 @@
+Title: corruption-force
+
+Head Concept Name: corruption
+Modifier Concept Name: force
+
+
+
+
+
+T(modifier), influence, 0.85
+T(modifier), thrust, 0.846
+T(modifier), act, 0.819
+T(modifier), intensity, 0.819
+T(modifier), organization, 0.813
+T(modifier), social_group, 0.81
+T(modifier), physical_phenomenon, 0.803
+T(modifier), mass, 0.774
+
+T(head), immorality, 0.875
+T(head), degradation, 0.854
+T(head), decay, 0.852
+T(head), inducement, 0.807
+T(head), death_of_innocent_people, 0.755
+T(head), linguistics, 0.751
+T(head), unnatural_thing, 0.74
+T(head), computing, 0.735
+
+
+Result: {"influence": 0.85, "thrust": 0.846, "act": 0.819, "intensity": 0.819, "organization": 0.813, "immorality": 0.875, "degradation": 0.854, "decay": 0.852, "@scenario_probability": 0.0001713260432307661}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0.0001713260432307661]

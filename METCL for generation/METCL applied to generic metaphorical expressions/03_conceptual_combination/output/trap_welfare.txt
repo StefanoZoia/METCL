@@ -1,0 +1,28 @@
+Title: trap-welfare
+
+Head Concept Name: trap
+Modifier Concept Name: welfare
+
+
+
+
+
+T(modifier), effect_recipients_by_making_lazy, 0.807
+T(modifier), government_paid_service, 0.764
+T(modifier), -wofare, 0.753
+T(modifier), -woefare, 0.752
+T(modifier), us, 0.725
+T(modifier), funded_by_tax, 0.692
+
+T(head), capture, 0.856
+T(head), hunt, 0.841
+T(head), bait, 0.82
+T(head), drain, 0.818
+T(head), hold, 0.816
+T(head), mouth, 0.811
+T(head), device, 0.809
+T(head), carriage, 0.804
+
+
+Result: {"effect_recipients_by_making_lazy": 0.807, "capture": 0.856, "hunt": 0.841, "bait": 0.82, "drain": 0.818, "hold": 0.816, "mouth": 0.811, "device": 0.809, "@scenario_probability": 0.00500691368479777}
+Scenario: [1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.00500691368479777]

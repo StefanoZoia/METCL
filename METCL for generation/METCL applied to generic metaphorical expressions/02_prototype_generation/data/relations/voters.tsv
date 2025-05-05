@@ -1,0 +1,14 @@
+/c/en/voters	CapableOf	/c/en/voice_opinions	2.0	0.134
+/c/en/voters	CapableOf	/c/en/supply_politicians_with_votes	1.0	-0.002
+/c/en/voters	CapableOf	/c/en/voice_approval	1.0	0.093
+/c/en/voters	CapableOf	/c/en/supply_politicians_with_mandate	1.0	-0.002
+/c/en/voters	CapableOf	/c/en/vote_in_local_elections	1.0	0.839
+/c/en/valence_issue	RelatedTo	/c/en/voters	1.0	-0.016
+/c/en/voters	CapableOf	/c/en/back_candidate	1.0	-0.062
+/c/en/voters	FormOf	/c/en/voter	1.0	0.823
+/c/en/voters	CapableOf	/c/en/tie_election	1.0	0.062
+/c/en/voters	DefinedAs	/c/en/plural_form_of_voter	1.0	-0.017
+/c/en/vote_by_mail	RelatedTo	/c/en/voters	1.0	0.839
+/c/en/voters	AtLocation	/c/en/country	1.0	0.109
+/c/en/republic	RelatedTo	/c/en/voters	0.2909999999999999	0.242
+/c/en/elect	RelatedTo	/c/en/voters	0.11899999999999977	0.522

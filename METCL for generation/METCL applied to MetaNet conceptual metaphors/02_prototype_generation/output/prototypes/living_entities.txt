@@ -1,0 +1,3 @@
+eat: 0.807
+procreate: 0.79
+diving: 0.779

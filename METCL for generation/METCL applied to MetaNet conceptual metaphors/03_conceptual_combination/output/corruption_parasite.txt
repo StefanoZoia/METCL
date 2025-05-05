@@ -1,0 +1,30 @@
+Title: corruption-parasite
+
+Head Concept Name: corruption
+Modifier Concept Name: parasite
+
+
+
+
+
+T(modifier), organism, 0.869
+T(modifier), -commensal, 0.816
+T(modifier), plant, 0.813
+T(modifier), giardia, 0.802
+T(modifier), -mutualism, 0.797
+T(modifier), heterotroph, 0.78
+T(modifier), biology, 0.766
+T(modifier), pejorative, 0.76
+
+T(head), immorality, 0.875
+T(head), degradation, 0.854
+T(head), decay, 0.852
+T(head), inducement, 0.807
+T(head), death_of_innocent_people, 0.755
+T(head), linguistics, 0.751
+T(head), unnatural_thing, 0.74
+T(head), computing, 0.735
+
+
+Result: {"organism": 0.869, "-commensal": 0.816, "plant": 0.813, "giardia": 0.802, "immorality": 0.875, "degradation": 0.854, "decay": 0.852, "inducement": 0.807, "@scenario_probability": 0.00025042885826124454}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.00025042885826124454]

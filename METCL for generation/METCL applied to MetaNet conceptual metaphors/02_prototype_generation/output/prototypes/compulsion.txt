@@ -1,0 +1,3 @@
+irrational_motive: 0.844
+irrational_impulse: 0.844
+causing: 0.797

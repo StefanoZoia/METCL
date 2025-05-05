@@ -1,0 +1,8 @@
+consideration: 0.8046
+thoughtfulness: 0.7911
+discussion: 0.7848
+scale: 0.772
+measure: 0.7632
+quantify: 0.7578
+count: 0.7389
+nautical: 0.6777

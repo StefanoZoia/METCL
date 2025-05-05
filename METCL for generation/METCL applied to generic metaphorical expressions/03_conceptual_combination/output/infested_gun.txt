@@ -1,0 +1,25 @@
+Title: infested-gun
+
+Head Concept Name: infested
+Modifier Concept Name: gun
+
+
+
+
+
+T(modifier), firearm_shoots_bullets, 0.931
+T(modifier), shooting_things, 0.915
+T(modifier), shoot, 0.904
+T(modifier), weapon, 0.903
+T(modifier), shot, 0.897
+T(modifier), gun_shop, 0.894
+T(modifier), holster, 0.889
+T(modifier), shoot_bullets, 0.883
+
+T(head), inhabit, 0.784
+T(head), invade, 0.783
+T(head), pathology, 0.684
+
+
+Result: {"firearm_shoots_bullets": 0.931, "shooting_things": 0.915, "shoot": 0.904, "weapon": 0.903, "shot": 0.897, "gun_shop": 0.894, "holster": 0.889, "inhabit": 0.784, "@scenario_probability": 0.31182247876114444}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0.31182247876114444]

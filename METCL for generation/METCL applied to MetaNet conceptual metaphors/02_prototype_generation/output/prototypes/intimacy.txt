@@ -1,0 +1,8 @@
+affection: 0.834
+more_frightening_than_sex: 0.825
+desirable: 0.818
+incompatible_with_workaholism: 0.818
+-solitude: 0.808
+marriage: 0.792
+family: 0.769
+kissing: 0.751

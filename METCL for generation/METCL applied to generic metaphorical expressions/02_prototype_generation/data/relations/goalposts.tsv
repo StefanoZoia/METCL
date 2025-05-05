@@ -1,0 +1,6 @@
+/c/en/between_pipes	RelatedTo	/c/en/goalposts	1.0	0.219
+/c/en/goalposts	FormOf	/c/en/goalpost	1.0	0.839
+/c/en/goalposts	RelatedTo	/c/en/goalpost	1.0	0.839
+/c/en/goalposts	RelatedTo	/c/en/7_10_split	1.0	0.0
+/c/en/7_10_split	Synonym	/c/en/goalposts	1.0	0.0
+/c/en/goalposts	HasContext	/c/en/bowling	1.0	0.322

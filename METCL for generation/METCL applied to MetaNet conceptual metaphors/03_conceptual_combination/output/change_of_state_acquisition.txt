@@ -1,0 +1,28 @@
+Title: change_of_state-acquisition
+
+Head Concept Name: change_of_state
+Modifier Concept Name: acquisition
+
+
+
+
+
+T(modifier), acquiring, 0.913
+T(modifier), transferred_property, 0.837
+T(modifier), merger_or_acquisition, 0.801
+T(modifier), -abandonment, 0.774
+T(modifier), computing, 0.742
+T(modifier), software, 0.735
+
+T(head), change, 0.933
+T(head), difference, 0.826
+T(head), replace, 0.774
+T(head), unpleasant, 0.752
+T(head), exciting, 0.752
+T(head), jar, 0.733
+T(head), dress, 0.733
+T(head), consequence, 0.733
+
+
+Result: {"acquiring": 0.913, "transferred_property": 0.837, "merger_or_acquisition": 0.801, "-abandonment": 0.774, "change": 0.933, "difference": 0.826, "replace": 0.774, "exciting": 0.752, "@scenario_probability": 0.0068586911916372305}
+Scenario: [1, 1, 1, 1, 0, 0, 1, 1, 1, 0, 1, 0, 0, 0, 0.0068586911916372305]

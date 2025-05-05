@@ -1,0 +1,8 @@
+mortal_sin: 0.855
+satisfaction: 0.842
+self_confidence: 0.825
+feeling: 0.823
+-humility: 0.823
+trait: 0.816
+feel: 0.811
+result_in_fall: 0.789

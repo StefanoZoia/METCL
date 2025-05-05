@@ -1,0 +1,7 @@
+outbreak: 0.9
+epidemiology: 0.845
+-endemic: 0.825
+medicine: 0.807
+physical_event: 0.745
+group_of_illnesses: 0.743
+stress: 0.683

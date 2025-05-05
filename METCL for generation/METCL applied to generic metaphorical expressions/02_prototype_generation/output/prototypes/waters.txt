@@ -1,0 +1,8 @@
+amniotic_cavity: 0.8424
+quench_thirst: 0.8307000000000001
+water: 0.8235
+liquid: 0.8136
+drink: 0.8082
+drinking: 0.8082
+hydration: 0.8073
+h2o: 0.801

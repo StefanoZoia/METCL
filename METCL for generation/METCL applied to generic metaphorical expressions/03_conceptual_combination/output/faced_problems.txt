@@ -1,0 +1,28 @@
+Title: faced-problems
+
+Head Concept Name: faced
+Modifier Concept Name: problems
+
+
+
+
+
+T(modifier), quandry, 0.889
+T(modifier), cause_headache, 0.884
+T(modifier), unsolvable, 0.884
+T(modifier), easy_to_solve, 0.828
+T(modifier), appear_difficult, 0.802
+T(modifier), opportunities_for_growth, 0.777
+
+T(head), head, 0.769
+T(head), facial, 0.769
+T(head), appearance, 0.752
+T(head), front, 0.751
+T(head), facial_vein, 0.749
+T(head), slang, 0.743
+T(head), surface, 0.742
+T(head), chin, 0.742
+
+
+Result: {"quandry": 0.889, "cause_headache": 0.884, "unsolvable": 0.884, "easy_to_solve": 0.828, "appear_difficult": 0.802, "opportunities_for_growth": 0.777, "head": 0.769, "facial": 0.769, "@scenario_probability": 0.005620590941664622}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0.005620590941664622]

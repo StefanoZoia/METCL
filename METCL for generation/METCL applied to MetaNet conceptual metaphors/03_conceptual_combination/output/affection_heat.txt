@@ -1,0 +1,30 @@
+Title: affection-heat
+
+Head Concept Name: affection
+Modifier Concept Name: heat
+
+
+
+
+
+T(modifier), form_of_energy, 0.911
+T(modifier), temperature, 0.884
+T(modifier), oven, 0.864
+T(modifier), -cold, 0.861
+T(modifier), heater, 0.845
+T(modifier), cooking, 0.842
+T(modifier), energy, 0.836
+T(modifier), emotionality, 0.821
+
+T(head), feeling, 0.832
+T(head), loving_another, 0.793
+T(head), -resentment, 0.766
+T(head), good_will, 0.762
+T(head), -loathing, 0.762
+T(head), -rancor, 0.757
+T(head), -grudge, 0.745
+T(head), archaic, 0.741
+
+
+Result: {"form_of_energy": 0.911, "temperature": 0.884, "oven": 0.864, "-cold": 0.861, "heater": 0.845, "cooking": 0.842, "energy": 0.836, "feeling": 0.832, "@scenario_probability": 0.00023368202433158552}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0.00023368202433158552]

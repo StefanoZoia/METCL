@@ -1,0 +1,29 @@
+Title: moved-congress
+
+Head Concept Name: moved
+Modifier Concept Name: congress
+
+
+
+
+
+T(modifier), legislature, 0.896
+T(modifier), meeting, 0.854
+T(modifier), decide_illegal, 0.804
+T(modifier), instruct_people, 0.79
+T(modifier), -senate, 0.78
+T(modifier), us, 0.774
+T(modifier), going_nowhere, 0.741
+
+T(head), move, 0.851
+T(head), change, 0.754
+T(head), sell, 0.75
+T(head), -stay, 0.745
+T(head), propose, 0.728
+T(head), -still, 0.726
+T(head), game, 0.719
+T(head), mouse, 0.696
+
+
+Result: {"legislature": 0.896, "meeting": 0.854, "decide_illegal": 0.804, "instruct_people": 0.79, "-senate": 0.78, "us": 0.774, "move": 0.851, "change": 0.754, "@scenario_probability": 0.0019790866682847315}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.0019790866682847315]

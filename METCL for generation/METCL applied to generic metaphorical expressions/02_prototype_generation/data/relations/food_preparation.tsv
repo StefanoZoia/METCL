@@ -1,0 +1,4 @@
+/c/en/cooking	UsedFor	/c/en/food_preparation	4.0	0.103
+/c/en/kitchen	UsedFor	/c/en/food_preparation	1.0	0.095
+/c/en/heat	RelatedTo	/c/en/food_preparation	0.1030000000000002	0.032
+/c/en/cook	RelatedTo	/c/en/food_preparation	0.10199999999999987	0.089

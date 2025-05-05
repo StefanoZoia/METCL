@@ -1,0 +1,25 @@
+Title: taxation-force
+
+Head Concept Name: taxation
+Modifier Concept Name: force
+
+
+
+
+
+T(modifier), influence, 0.85
+T(modifier), thrust, 0.846
+T(modifier), act, 0.819
+T(modifier), intensity, 0.819
+T(modifier), organization, 0.813
+T(modifier), social_group, 0.81
+T(modifier), physical_phenomenon, 0.803
+T(modifier), mass, 0.774
+
+T(head), imposition, 0.862
+T(head), process_results_in_taxes, 0.731
+T(head), activity_of_government, 0.721
+
+
+Result: {"influence": 0.85, "thrust": 0.846, "act": 0.819, "intensity": 0.819, "organization": 0.813, "social_group": 0.81, "physical_phenomenon": 0.803, "imposition": 0.862, "@scenario_probability": 0.3729240484620776}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0.3729240484620776]

@@ -1,0 +1,6 @@
+/c/en/arrived	RelatedTo	/c/en/arrive	1.0	0.75
+/c/en/arrival	RelatedTo	/c/en/arrived	1.0	0.637
+/c/en/arrived	FormOf	/c/en/arrive	1.0	0.75
+/c/en/unarrived	DerivedFrom	/c/en/arrived	1.0	0.068
+/c/en/arrived	FormOf	/c/en/arrive	1.0	0.75
+/c/en/went	Antonym	/c/en/arrived	0.2240000000000002	0.289

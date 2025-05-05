@@ -1,0 +1,7 @@
+permission: 0.865
+control: 0.848
+expert: 0.831
+wrong: 0.83
+person: 0.812
+book: 0.81
+used_in_singular_or_plural_form: 0.751

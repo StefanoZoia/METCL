@@ -1,0 +1,8 @@
+government: 0.855
+political_unit: 0.819
+attribute: 0.817
+emotional_state: 0.807
+levy_taxes: 0.805
+point_within_system: 0.794
+-nation: 0.787
+counties: 0.762

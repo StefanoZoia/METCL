@@ -1,0 +1,30 @@
+Title: government-driver
+
+Head Concept Name: government
+Modifier Concept Name: driver
+
+
+
+
+
+T(modifier), shift_gears, 0.888
+T(modifier), golfer, 0.848
+T(modifier), bus_passengers, 0.841
+T(modifier), starting_car, 0.835
+T(modifier), worker, 0.832
+T(modifier), utility_program, 0.824
+T(modifier), drive_car_in_reverse, 0.823
+T(modifier), drive_car, 0.823
+
+T(head), corrupt, 0.897
+T(head), govern_country, 0.896
+T(head), polity, 0.874
+T(head), country, 0.839
+T(head), force_citizens_to_comply, 0.833
+T(head), rule_people, 0.832
+T(head), -fun, 0.829
+T(head), jealous_of_power, 0.827
+
+
+Result: {"shift_gears": 0.888, "golfer": 0.848, "bus_passengers": 0.841, "starting_car": 0.835, "corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "country": 0.839, "@scenario_probability": 2.3960814897405747e-05}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 2.3960814897405747e-05]

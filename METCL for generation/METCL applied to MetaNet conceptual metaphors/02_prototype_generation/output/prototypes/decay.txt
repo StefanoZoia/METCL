@@ -1,0 +1,8 @@
+unsoundness: 0.841
+nuclear_reaction: 0.822
+decrease: 0.818
+natural_process: 0.807
+change: 0.802
+organic_phenomenon: 0.798
+-accretion: 0.767
+physics: 0.765

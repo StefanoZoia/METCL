@@ -1,0 +1,6 @@
+goal: 0.861
+instrumentality: 0.853
+help: 0.852
+capital: 0.816
+implementation: 0.78
+giving_assistance: 0.709

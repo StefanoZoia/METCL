@@ -1,0 +1,5 @@
+/c/en/sunless	Synonym	/c/en/cloud_covered	2.0	0.168
+/c/en/clouded	Synonym	/c/en/cloud_covered	2.0	0.282
+/c/en/overcast	Synonym	/c/en/cloud_covered	2.0	0.215
+/c/en/cloudy	SimilarTo	/c/en/cloud_covered	2.0	0.326
+/c/en/cloud_covered	SimilarTo	/c/en/cloudy	2.0	0.326

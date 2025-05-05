@@ -1,0 +1,30 @@
+Title: money-resource
+
+Head Concept Name: money
+Modifier Concept Name: resource
+
+
+
+
+
+T(modifier), asset, 0.852
+T(modifier), assets, 0.838
+T(modifier), inventiveness, 0.824
+T(modifier), tangible_thing, 0.778
+T(modifier), localized_spatial_thing, 0.759
+T(modifier), group_of_things, 0.737
+T(modifier), album, 0.717
+T(modifier), book, 0.709
+
+T(head), saving, 0.878
+T(head), pay_for, 0.874
+T(head), pay_for_sex, 0.874
+T(head), money_supply, 0.861
+T(head), currency, 0.858
+T(head), buy_food, 0.854
+T(head), value, 0.851
+T(head), banks, 0.851
+
+
+Result: {"asset": 0.852, "saving": 0.878, "pay_for": 0.874, "pay_for_sex": 0.874, "money_supply": 0.861, "currency": 0.858, "buy_food": 0.854, "banks": 0.851, "@scenario_probability": 0.00015102678827313615}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 0.00015102678827313615]

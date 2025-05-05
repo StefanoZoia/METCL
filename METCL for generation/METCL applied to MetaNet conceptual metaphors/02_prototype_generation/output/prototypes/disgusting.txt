@@ -1,0 +1,5 @@
+vomitous: 0.85
+make_throw_up: 0.798
+and_chewing_tobacco: 0.743
+poop: 0.734
+cheez_doodles: 0.707

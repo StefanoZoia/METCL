@@ -1,0 +1,8 @@
+firearm_shoots_bullets: 0.8379000000000001
+shooting_things: 0.8235
+shoot: 0.8136
+weapon: 0.8127000000000001
+shot: 0.8073
+gun_shop: 0.8046
+holster: 0.8001
+shoot_bullets: 0.7947000000000001

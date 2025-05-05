@@ -1,0 +1,8 @@
+/c/en/travels	FormOf	/c/en/travel	1.0	0.835
+/c/en/passenger	RelatedTo	/c/en/travels	1.0	0.332
+/c/en/travels	FormOf	/c/en/travel	1.0	0.835
+/c/en/travels	RelatedTo	/c/en/travel	1.0	0.835
+/c/en/guerrilla_traveler	RelatedTo	/c/en/travels	1.0	-0.037
+/c/en/travels	RelatedTo	/c/en/travel	1.0	0.835
+/c/en/travels	FormOf	/c/en/travel	1.0	0.835
+/c/en/contraflow	RelatedTo	/c/en/travels	1.0	0.318

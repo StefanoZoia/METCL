@@ -1,0 +1,8 @@
+armament: 0.866
+military: 0.825
+military_installation: 0.801
+facility: 0.777
+shop: 0.774
+military_organization: 0.767
+tangible_thing: 0.765
+gun: 0.736

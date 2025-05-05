@@ -1,0 +1,8 @@
+aim: 0.89
+bull's_eye: 0.874
+aim_at: 0.844
+reference_point: 0.803
+object: 0.798
+topographic_point: 0.795
+sports_equipment: 0.783
+arrow: 0.78

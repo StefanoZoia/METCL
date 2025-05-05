@@ -1,0 +1,843 @@
+Conceptual metaphor,Sentence,Source,Target,Type
+ABILITY TO EVALUATE GOVERNMENT IS ABILITY TO SEE,Government transparency enables the public to hold the government accountable for how they spend their money.,transparency,Government,NN
+ABILITY TO EVALUATE GOVERNMENT IS ABILITY TO SEE,Beijing has encouraged regional authorities to introduce sunshine policies that tackle corruption through increased transparency.,transparency,authorities,NN
+ANGER IS INSANITY,"I just touched him, and he went crazy.",,,-
+ANGER IS INSANITY,You're driving me nuts!,,,-
+ANGER IS INSANITY,I'm mad!,,,-
+ANGER IS INSANITY,"When the up threw him out of the game, Billy started foaming at the mouth.",,,-
+ANGER IS INSANITY,"If anything else goes wrong, I'll get hysterical.",,,-
+ANGER IS INSANITY,"He got so angry, he went out of his mind.",,,-
+ANGER IS INSANITY,"When my mother finds out, she'll have a fit.",,,-
+ANGER IS INSANITY,He's tearing his hair out!,,,-
+ANGER IS INSANITY,The loud music next door has got him climbing the walls!,,,-
+ANGER IS HEAT,He has a hot temper.,hot,temper,AN
+ANGER IS HEAT,He's burning with rage.,burning,rage,VN
+ANGER IS FIRE,Those are inflammatory remarks.,inflammatory,remarks,AN
+ANGER IS FIRE,She was doing a slow burn.,,,-
+ANGER IS FIRE,She was breathing fire.,,,-
+ANGER IS FIRE,Your insincere apology just added fuel to the fire.,,,-
+ANGER IS FIRE,"After the argument, Dave was smoldering for days.",,,-
+ANGER IS FIRE,He was consumed by his anger.,consumed,anger,VN
+ANGER IS FIRE,He's seeing red.,,,-
+ANALYZING IS DISSECTING,"The hallways are filled with the sounds of middle school students, primarily eighth graders, dissecting the second presidential debate from the evening before.",,,-
+AMOUNT OF PROGRESS TOWARD ENACTING LEGISLATION IS DISTANCE MOVED ALONG A PATH,"Senate Majority Leader Harry Reid, D-Nevada, told reporters that the next 24 hours would be ""very important"" toward efforts to reach a deal to lessen the harshest impacts of the fiscal cliff, a combination of broad tax hikes and deep spending cuts due to take effect at the start of the new year.",,,-
+AMOUNT OF PROGRESS IS AMOUNT OF DISTANCE MOVED,"President Obama said the international community has made great strides toward locking down loose nuclear material, but warned the threat of nuclear materials falling into the hands of terrorist remains.",,,-
+AMOUNT OF POVERTY IS SIZE OF GEOGRAPHIC FEATURE,WE CANNOT HAVE ISLANDS OF PROSPERITY NEXT TO OCEANS OF POVERTY AND SQUALOR,oceans,poverty,NN
+AMOUNT OF GUNS IS A FLUID,flood of guns,flood,guns,NN
+AMOUNT OF GUN VIOLENCE IS A FLUID,We have not found a way to stem this rising flood of gun violence.,flood,violence,NN
+AMOUNT OF GUN VIOLENCE IS A FLUID,We are drowning in an ocean of gun violence.,ocean,violence,NN
+ALTERNATIVES ARE DIFFERENT AVAILABLE PATHS,He started going down a bad life path.,path,life,NN
+WORDS ARE CONTAINERS,That remark is completely impenetrable.,impenetrable,remark,AN
+WORDS ARE CONTAINERS,"Whatever Emily meant, it's likely to be locked up in that cryptic little verse forever.",,,-
+WORDS ARE CONTAINERS,He writes sentences in such a way as to seal up the meaning in them.,,,-
+WINNING AN ELECTION IS WINNING A WAR,President Obama won a major victory in November.,,,-
+WINNING AN ELECTION IS WINNING A RACE,"In the Supervisors race, my candidate came out slightly ahead of his closest rival.",,,-
+WINNING AN ELECTION IS WINNING A BOXING MATCH,The Tea Party candidate knocked out the mainline Republican candidate in the primary.,,,-
+WHOLES ARE POSSESSORS,The eye possesses several parts.,possesses,parts,VN
+WHOLES ARE POSSESSORS,Which car part belongs to which car?,belongs,part,VN
+WHOLES ARE CONTAINERS,The book contains more than 150 recipes for cabbage.,,,-
+WELL-FUNCTIONING BUREAUCRACY IS A SMOOTHLY FUNCTIONING MACHINE,"Despite the debt crisis, the welfare bureaucracy continued to hum along, producing checks every month.",hum,bureaucracy,VN
+WELL-BEING IS WEALTH,Was it worth it?,,,-
+WELL-BEING IS WEALTH,The human cost of that disaster is enormous.,cost,human,AN
+WELL-BEING IS VERTICALITY,Things are looking up today!,,,-
+VOTING IS SPEAKING,The voters of Dillon have clearly spoken.,spoken,voters,VN
+VISUAL FIELD IS A CONTAINER,It's out of my field of vision.,,,-
+VISUAL FIELD IS A CONTAINER,The island is now in full view.,full,view,AN
+UNDERSTANDING IS GRASPING,He just can't seem to grasp the concept.,,,-
+UNDERSTANDING IS GRASPING,He got a good handle on the subject matter.,,,-
+UNDERSTANDING IS FOLLOWING,I don't follow you.,,,-
+UNDERSTANDING IS FOLLOWING,"This lecture will be fast-paced, so try to keep up!",,,-
+UNDERSTANDING IS DIGESTING,I haven't fully digested the main gist of that paper.,,,-
+UNCONTROLLED CRIME IS A RAMPAGING ANIMAL,Crime is stalking the youth of our major cities.,,,-
+UNCONTROLLED CRIME IS A RAMPAGING ANIMAL,"gang crime ravages inner cities, destroys families, and causes whole neighborhoods to hunker down in fear",,,-
+UNCONSCIOUS IS DOWN,He fell into a coma.,,,-
+TRUST RELATIONSHIPS ARE BUILDINGS,We are working hard to rebuild the trust of our customers.,rebuild,trust,VN-
+TRUST RELATIONSHIPS ARE BUILDINGS,The scandals have shaken the foundations of trust in the market.,foundations,trust,NN
+TRUST IN GOVERNMENT IS A BUILDING,"It is how, in every Western country, trust in government has suddenly, dramatically collapsed in the crisis' aftermath.",collapsed,trust,VN
+TIME PERIODS ARE CONTAINERS,My morning has been very full.,full,morning,AN
+TIME IS MONEY,We spent all day at the fair.,spent,day,VN
+TIME IS MONEY,Time-theft,theft,time,NN
+TIME IS A SUBSTANCE,The flow of time,flow,time,NN
+TIME IS A SUBSTANCE,"Like sands through the hourglass, so are the days of our lives.",sands,days,NN
+TIME IS A RESOURCE,Our time is valuable.,valuable,time,AN
+TIME IS A RESOURCE,We don't have much time.,,,-
+TIME IS A MOVING OBJECT,Time flies.,flies,time,VN
+TIME IS A MOVING OBJECT,The time will come when…,come,time,VN
+TIME IS A MOVING OBJECT,The time has long since gone when…,gone,time,VN
+TIME IS A MOVING OBJECT,The time for action has arrived.,arrived,time,VN
+TIME IS A LANDSCAPE THROUGH WHICH THE OBSERVER MOVES,That's all behind us now.,,,-
+TIME IS A LANDSCAPE THROUGH WHICH THE OBSERVER MOVES,You can't go back in time!,back,time,DN
+TIME IS A LANDSCAPE THROUGH WHICH THE OBSERVER MOVES,We're looking ahead to the future.,ahead,future,DN
+TIME IS A LANDSCAPE THROUGH WHICH THE OBSERVER MOVES,He has a great future in front of him.,front,future,DN
+TIME IS A COMMODITY,Don't waste your time.,waste,time,VN
+THINKING IS SPEAKING,I can barely hear myself think.,think,hear,VV
+THINKING IS SPEAKING,He's an articulate thinker.,articulate,thinker,AN
+THINKING IS SPEAKING,She doesn't listen to her conscience.,listen,conscience,VN
+THINKING IS SPEAKING,That sounds like a good idea.,,,-
+THINKING IS PERCEIVING,"For many weeks, I couldn't see how to solve the problem.",,,-
+THINKING IS PERCEIVING,"I see that the two lines must be equal, but I don't know how to prove it.",,,-
+THINKING IS OBJECT MANIPULATION,Let's toss some ideas around.,toss,ideas,VN
+THINKING IS MOVING,We're making progress on defining what kind of house we are looking for.,,,-
+THINKING IS LINGUISTIC ACTIVITY,I can't read her mind.,read,mind,VN
+THINKING IS LINGUISTIC ACTIVITY,I misread his intentions.,misread,intentions,VN
+THEORIES ARE COMPLEX STRUCTURES,Her theory requires the reader to understand  many interconnected factors.,interconnected,factors,AN
+THEORIES ARE BUILDINGS,Opponents tried to dismantle the theory piece by piece.,dismantle,theory,VN
+THEORIES ARE BUILDINGS,This theory has a solid foundation.,foundation,theory,NN
+THEORIES ARE BUILDINGS,The theoretical framework needs to be filled in with empirical data.,filled,framework,VN
+TERMINATION OF CONTROL IS LOSS OF A POSSESSION,"The dummies were 2-to-1 in favor of the Arizona immigration law; the court gutted it. Only those dummies, not in a state of denial, understand that we the people have lost control of our government.",lost,control,VN
+TERMINATION OF CONTROL IS LOSS OF A POSSESSION,"But meanwhile, you may not have noticed that our government gave away control of the Internet.",gave,control,VN
+TAXES ARE DUES,"Taxes, after all, are dues that we pay for the privileges of membership in an organized society",,,-
+TAXES ARE DISEASES,"During a panel discussion that included Washington Governor Christine Gregoire and Nevada Governor Brian Sandoval, Brown accused California lawmakers of adhering to ""the notion that taxes are like some kind of sexually transmitted disease,"" the Los Angeles Times reports.",disease,taxes,NN
+TAXES ARE DISEASES,Those insidious taxes infect every aspect of our lives.,infect,taxes,VN
+TAXATION IS THEFT,Government steals the people's wealth through overt and hidden taxes,steals,taxes,VN
+TAXATION IS SLAVERY,America Tax Slaves Work 6.5 Months Every Year to Pay for Government,slaves,tax,NN-
+TAXATION IS PUNISHMENT,"The state cannot pay its bills and poorly educates its young, and its taxation punishes whatever success that its suffocating regulatory regime does not prevent.",punishes,taxation,VN
+TAXATION IS CAUSING HARM,High sales taxes hurt local small businesses.,hurt,taxes,VN
+TAXATION IS CAUSING HARM,We are being taxed to death!,death,taxed,VN
+TAXATION IS A BURDEN,"According to the Tax Foundation, Texas residents on average shoulder the fifth lowest tax burden compared to other residents in the 50 states.",burden,tax,NN
+TAXATION IS A BURDEN,"The Obama campaign is taking a swipe at Mitt Romney's tax plan in a new television ad, saying it will create a ""heavy load"" for the middle class.",heavy load,tax plan,NN
+TAXATION IS A BURDEN,President Obama decided to target certain and specific products or services he deems unhealthy and levied heavy taxes on them.,heavy,taxes,AN
+TAXATION IS A BURDEN,Remember when President Obama literally laughed out loud at the idea his health-care plan would impose taxes on the middle class?,impose,taxes,VN
+TAXATION IS A BURDEN,"The new president delivered on his tax cut promises, which, combined with a recession in 2001, caused the tax burden to fall considerably.",burden,tax,NN
+TAXATION IS A BURDEN,New Taxes Burdensome for Farm and Ranch Families,burdensome,taxes,AN
+SYMPATHY IS WARMTH,She's cold as ice.,,,-
+SUBJUGATION IS DOWN,He is under my control.,under,control,VN
+SUBJUGATION IS DOWN,He fell from power.,fell,power,VN
+SUBJUGATION IS DOWN,His power is on the decline.,decline,power,NN
+STATUS IS VERTICALITY,He has a lofty position.,,,-
+STATUS IS VERTICALITY,She fell in status.,fell,status,VN
+STATUS IS VERTICALITY,He's a social climber.,climber,social,AN
+STATUS IS VERTICALITY,I reached a plateau in my career some years back.,plateau,career,NN
+STATE OF NATION IS LOCATION ALONG PATH,East Timor took the first steps toward independence in the 1990s.,steps,independence,NN
+STATE OF NATION IS LOCATION ALONG PATH,The country is slowly moving out of recession.,moving,recession,VN
+SOLVING A PROBLEM IS FIXING A BROKEN OBJECT,Pam Gulleson: “Social Security Isn’t Broken”,,,-
+SOLVING A PROBLEM IS FIXING A BROKEN OBJECT,Hempsted Building Department is broken,,,-
+SOCIETY IS A PERSON,Our society is suffering from many social problems.,suffering,society,VN
+SOCIETY IS A COMPLEX STRUCTURE,"Functionalism interprets each part of society in terms of how it contributes to the stability of the whole society. Society is more than the sum of its parts; rather, ...",part,society,NN
+SOCIAL PROBLEMS ARE PHYSICAL AFFLICTIONS,A cure for social ills? Prevention,ills,social,AN
+SOCIAL PROBLEMS ARE PHYSICAL AFFLICTIONS,UW researcher is a leader in showing how prevention techniques can pay off in curing social problems.,curing,problem,VN
+SOCIAL PROBLEMS ARE DISEASES,Our society is turning gangrene with dishonesty.,gangrene,dishonesty,NN
+SOCIAL PROBLEMS ARE DISEASES,اینگونه جنبشهای اجتماعی (social movements) در واقع یک بیماری اجتتماعی هستند.,,,-
+SOCIAL ORGANIZATIONS ARE PLANTS,My business is growing like a weed.,growing,business,VN
+SOCIAL GROUPS ARE CONTAINERS,Our circle of friends is quite diverse.,circle,friends,NN
+SOCIAL GROUPS ARE CONTAINERS,He's hasn't penetrated that group.,penetrated,group,VN
+SOCIAL GROUPS ARE BUILDINGS,He's about to rock the foundations of the literary establishment with his novel.,foundations,establishment,NN
+SOCIAL GROUPS ARE BUILDINGS,"By early afternoon, queues were already building up.",building,queues,VN
+SOCIAL GROUP IS A FABRIC,Cop scandals fray the social fabric.,fabric,social,AN
+SOCIAL GROUP IS A FABRIC,"Thus, we must reweave the torn fabric of rural American with thread strong enough to withstand the inevitable ravages of time.",,,-
+SIMILARITY IS PROXIMITY,Her hair is very near to his in color.,near,color,AN
+SIMILARITY IS PROXIMITY,That's far from a perfect circle.,far,perfect,AA
+SICKNESS IS DOWN,He's sinking fast.,,,-
+SICKNESS IS DOWN,He came down with the flu.,,,-
+SEQUENCE OF ACTIONS IS A SEQUENCE OF MOVEMENTS,"Create a complete, measurable, action plan which includes all the steps necessary to achieve your goal.",,,-
+SENSING IS SMELLING,I smell a rat.,,,-
+SELF-INITIATED STATE CHANGE IS SELF-PROPELLED MOTION,She climbed out of poverty.,,,-
+SELECTION IS ADOPTION,They adopted the customs of their neighbors.,adopted,customs,VN
+SEEKING KNOWLEDGE IS SEARCHING,He's looking for meaning in his life and isn't finding any.,looking for,meaning,VN
+SEEING IS TOUCHING,His eyes scoured the horizon.,scoured,horizon,VN
+SCALES ARE PATHS,The temperature shot up.,shot up,temperature,VN
+SCALES ARE PATHS,Fuel consumption rose to the highest it has been in 20 years.,rose,consumption,VN
+SAD IS DOWN,I'm feeling down.,,,-
+SAD IS DOWN,I'm depressed.,,,-
+SAD IS DOWN,He's really low these days.,,,-
+SAD IS DOWN,I fell into a depression.,,,-
+SAD IS DOWN,My spirits sank.,sank,spirits,VN
+ROMANTIC RELATIONSHIPS ARE VEHICLES,Our relationship is veering off-course.,veering,relationship,VN
+ROMANTIC RELATIONSHIP IS A JOURNEY,Where are we in this relationship?,,,-
+ROMANTIC RELATIONSHIP IS A JOURNEY,It feels like this relationship is going nowhere.,going,relationship,VN
+ROMANTIC RELATIONSHIP ENCOUNTERING DIFFICULTIES IS A VEHICLE ENCOUNTERING OBSTACLES,Our relationship is losing steam.,,,-
+REVOLUTION IS TOPPLING A PHYSICAL OBJECT,The coup toppled the brutal dictatorship.,toppled,dictatorship,VN
+REVOLUTION IS TOPPLING A PHYSICAL OBJECT,The Revolutionary and Napoleonic Wars tore down the ancient structure of Europe,structure,Europe,NN
+RELATIONSHIPS ARE PHYSICAL STRUCTURES,Their relationship is built on a solid foundation of trust and commitment.,built,relationship,VN
+RELATIONSHIPS ARE OBJECTS,Our relationship is rock solid.,solid,relationship,AN
+RELATIONSHIPS ARE OBJECTS,She has a fragile relationship with her mother as it is.,fragile,relationship,AN
+RELATIONSHIPS ARE CONTAINERS,She's trapped in a relationship with a scumbag.,,,-
+RELATIONSHIPS ARE CONTAINERS,They had a falling out.,,,-
+RELATIONSHIPS ARE COMPLEX STRUCTURES,It takes work to build any relationship.,build,relationship,VN
+RELATIONSHIPS ARE COMPLEX STRUCTURES,The relationship fell apart.,,,-
+RELATEDNESS IS PROXIMITY,These ideas are closely related.,closely,related,AR
+REFINING A LAW IS TRIMMING A PLANT,"I concede that it has become indispensable to prune legislation, but it seems to me that this must be done with prudence and thought.",prune,legislation,VN
+QUANTITY IS VERTICALITY,The number of books printed each year keeps going up.,,,-
+QUANTITY IS VERTICALITY,His income fell last year.,fell,income,VN
+QUANTITY IS SIZE,What is the size of your bank account?,size,bank account,NN
+QUANTITY IS SIZE,He doesn't know how big our national debt is.,big,debt,AN
+QUALITIES ARE SUBSTANCES,He has a lot of smarts.,,,-
+QUALITIES ARE SUBSTANCES,He's devoid of common sense.,,,-
+PURPOSEFUL THINKING IS GOAL-DIRECTED MOTION,We are trying to find the most elegant approach to solving this problem.,approach,solving,VN
+PURPOSEFUL ACTION IS SELF-PROPELLED MOTION TO A DESTINATION,She made great strides in her dissertation.,strides,dissertation,NN
+PURPOSEFUL ACTION IS SELF-PROPELLED MOTION TO A DESTINATION,We are sliding backward.,,,-
+PURPOSEFUL ACTION IS SELF-PROPELLED MOTION TO A DESTINATION,We are moving ahead.,,,-
+PURPOSEFUL ACTION IS SELF-PROPELLED MOTION TO A DESTINATION,We are going nowhere with this.,,,-
+PURPOSEFUL ACTION IS SELF-PROPELLED MOTION TO A DESTINATION,We have taken the first step.,,,-
+PURITY IS CLEANLINESS,He's pure evil.,,,-
+PURITY IS CLEANLINESS,Her soul was scrubbed clean of impurities.,scrubbed clean,soul,VN
+PURIFYING IS CLEANSING,You must cleanse your soul of sin.,cleanse,soul,VN
+PURIFYING IS CLEANSING,The impure must be washed clean through contrition.,washed,impure,VN
+PUBLIC EVALUABILITY OF GOVERMNENT IS TRANSPARENCY,Increased transparency has increased the public's confidence in government.,,,-
+PSYCHOLOGICAL HARM IS PHYSICAL INJURY,It was a traumatic experience.,,,-
+PSYCHOLOGICAL HARM IS PHYSICAL INJURY,Her death hurt him.,,,-
+PSYCHOLOGICAL HARM IS PHYSICAL INJURY,The accusation wounded her.,wounded,accusation,VN
+PSYCHOLOGICAL HARM IS PHYSICAL INJURY,He’s mentally ill/fit.,,,-
+PSYCHOLOGICAL HARM IS PHYSICAL INJURY,My pride was wounded.,wounded,pride,VN
+PSYCHOLOGICAL HARM IS PHYSICAL INJURY,"She recovered from the wound to her psyche, but scars remained.",wound,psyche,NN
+PROVING IS SHOWING,The marks on the carpet show that the perpetrator wore boots.,,,-
+PROGRESSING THROUGH LIFE IS MOVING THROUGH A TERRAIN,He's over the hill.,,,-
+PROGRESSING THROUGH LIFE IS MOVING THROUGH A TERRAIN,She's past her peak.,,,-
+PROGRESSING THROUGH LIFE IS MOVING THROUGH A TERRAIN,Life is full of peaks and valleys.,peaks,life,NN
+PROGRESSING THROUGH LIFE IS MOVING ALONG A PATH,"He made it this far in life without a partner, he can survive without one going forward.",,,-
+PROGRESS IS FORWARD MOTION ALONG A PATH,He hadn't made much headway in writing the termpaper.,headway,writing,VN
+PROGRESS IS FORWARD MOTION ALONG A PATH,Let's keep moving forward on this experiment.,,,-
+PROGRESS IS FORWARD MOTION ALONG A PATH,I'm afraid I haven't gotten very far in grading the exams.,,,-
+PREVENTING ENACTMENT OF LEGISLATION IS BLOCKING MOTION,House Republicans blocked the Democrats' attempts to move forward with the healthcare bill.,move forward,bill,VN
+PREVENTING ENACTMENT OF LEGISLATION IS BLOCKING MOTION,The Senator's filibuster halted the passage of the bill.,passage,bill,NN
+PREVENTED CHANGE OF STATE IS PREVENTED CHANGE OF LOCATION,"He's holding you back, you need to leave him.",,,-
+PREVENTED CHANGE OF STATE IS PREVENTED CHANGE OF LOCATION,I'm going to the top and nothing will stand in my way.,,,-
+PREPARING IDEAS TO BE UNDERSTOOD IS FOOD PREPARATION,They're just half-baked ideas.,half-baked,ideas,AN
+PREPARING IDEAS TO BE UNDERSTOOD IS FOOD PREPARATION,Just give me the raw facts.,raw,facts,AN
+PREPARING IDEAS TO BE UNDERSTOOD IS FOOD PREPARATION,I need to put this on the back burner for a while.,,,-
+POWER IS A POSSESSED OBJECT,He holds all the power.,holds,power,VN
+POVERTY IS A WEED,We are not free from the creeping vines of poverty.,vines,poverty,NN
+POVERTY IS A WEED,Mother Martha is working to loosen the strangling weeds of poverty and watching children blossom and thrive under her care.,weeds,poverty,NN
+POVERTY IS A MOTION IMPEDIMENT,"Though politically the country is free, its people remain chained by poverty.",chained,poverty,VN
+POVERTY IS A DISEASE,"The epidemic of poverty is spreading in America, and it's taking its toll on American families.",epidemic,poverty,NN
+POVERTY IS A DISEASE,"As President Obama has said, we can't treat the symptoms of poverty in isolation.",symptoms,poverty,NN
+POVERTY IS A CRIME,He appealed to logos (logic) by trying to analyze why poverty is a crime and tries to differentiate it from being poor.,crime,poverty,NN
+POLITICIANS ARE STAGE ACTORS,The President played his part magnificently.,,,-
+POLITICAL UNREST IS A WILDFIRE,The wildfire of revolution rapidly spread throughout the land.,wildfire,revolution,NN
+POLITICAL REGION IS A VEHICLE,They are rocking the ship of state.,ship,state,NN
+POLITICAL REGION IS A VEHICLE,Dirt threatens to sink ship of state,ship,state,NN
+PHYSICAL STRENGTH IS VERTICALITY,His strength declined as he aged.,declined,strength,VN
+PHASE OF AN ELECTION IS LEG IN A RACE,"As Election Day drew near, the candidates pulled into the final lap of the race.",race,Election,NN
+PHASE OF AN ELECTION IS LEG IN A RACE,Last Legs of Campaign Can Decide Race,Race,Campaign,NN
+PHASE OF AN ELECTION IS LEG IN A RACE,How both candidates fair in the final leg of campaigning will likely determine the winner in each state.,leg,campaigning,NN
+PEOPLE ARE PLANTS,Bloom where you are planted.,,,-
+PEOPLE ARE PLANTS,The young man is rather green and does not have enough experience to drive the large machinery.,green,man,AN
+PEOPLE ARE PLANTS,We saw the withered old woman.,withered,woman,AN
+Ongoing causation is nourishing,"Incurable sex offenders, lousy judges and the new media: Moral panic sustenance in the age of new media",sustanance,panic,NN
+ORGANIZATION IS PHYSICAL STRUCTURE,The Lakers' defense fell apart in the final quarter leading to an embarrassing upset.,fell apart,defense,VN
+ORGANIZATION IS PHYSICAL STRUCTURE,Which part of the theory don't you agree with?,,,-
+ORGANIZATION IS PHYSICAL STRUCTURE,I admire the way this automated collection system is put together.,,,-
+ORGANIZATION IS A MACHINE,"Since the enactment of SB 163 (Evans), the three branches of state government have been working smoothly in the transition process called for in that landmark legislation.",,,-
+OPPORTUNITIES ARE PORTALS,Opportunity is an open door.,door,opportunity,NN
+OPPORTUNITIES ARE PATHS,His job offer opened up new paths of opportunity for him.,paths,opportunity,NN
+OPPORTUNITIES ARE OBJECTS,We've got plenty of chances left.,,,-
+OPPORTUNITIES ARE OBJECTS,I've squandered every opportunity to advance my career.,squandered,opportunity,VN
+NONVISUAL PERCEPTUAL SPACE IS PHYSICAL SPACE,Here comes the beep!,,,-
+NEARBY COUNTRIES ARE NEIGHBORS,Canada is by far the closest of all our neighbors.,neighbors,Canada,NN
+NATURE IS AN AGENT,3rd #WinterWeatherAdvisory in 3 weeks. Think #MotherNature doesn't want an early spring :P,want,Mother Nature,VN
+NATURE IS AN AGENT,"Dear #Mothernature , please don't tease us Texans with this awesome weather until you plan on staying this way. Thanks:)",tease,Mother nature,VN
+NATURE IS AN AGENT,"Nature Tries to Shift Outer Banks, But Man Keeps Shoveling It Back",tries,Nature,VN
+NATURE IS A RESOURCE,"... we must deepen our understanding of the economic value of nature and invest in the vital services that it provides for us, if we are to have a truly sustainable economic future.",value,nature,NN
+NATURE IS A RESOURCE,"To start with, everything we are made of and everything we make comes from the environment.",comes,environment,VN
+NATIONS WHO ABUSE POWER ARE BULLIES,International Poll Finds U.S. Still Viewed As World's Bully,bully,U.S.,NN
+NATIONS NOT ABIDING BY INTERNATIONAL LAW ARE OUTLAWS,Great Powers and Outlaw States: Unequal Sovereigns in the International Legal Order,Outlaw,States,NN
+NATIONAL POLITICS IS A STAGE,"Romney Back on National Stage, If Only Briefly",,,-
+NATIONAL POLITICS IS A SPORTS FIELD,Obama accused the Republicans of moving the goalposts in the debate about the deficit.,goalposts,debate,NN
+NATIONAL POLITICS IS A BATTLEFIELD,Could Texas be a battleground state?,,,-
+NATIONAL POLITICS IS A BATTLEFIELD,Women: We Want You on the Political Battlefield,Battlefield,Political,AN
+NATIONAL POLITICAL FUNCTIONALITY IS PHYSICAL INTEGRITY,But Scott Brown’s win in the Massachusetts Senate race does raise a bigger question: is the system broken? I fear the answer is yes.,broken,system,AN
+NATIONAL INFRASTRUCTURE IS A BUILDING,Infrastructure: The Foundation for Wealth and Poverty Reduction,,,-
+NATIONAL INFRASTRUCTURE DETERIORATION IS BUILDING EROSION,"The infrastructure that is the foundation of our nation is eroding, endangering the whole structure of our economy.",foundation,nation,NN
+NATION IS CONTAINER,Our nation contains some of the best entrepreneurs in the world.,contains,nation,VN
+NATION IS AN OBJECT,Only one thing stands between Western civilization and chaos: the United States.,stands,United States,VN
+NATION IS A VEHICLE,"Saltykov explored the psychological problems resulting from the shifting of a nation's gears, of creating a new way of life.",gears,nation,NN
+NATION IS A PERSON,We must rouse our nation from its slumber.,rouse,nation,VN
+NATION IS A MACHINE,"If the President doesn't show some leadership, the country will grind to a halt.",grind,country,VN
+NATION IS A MACHINE,...and asked them to be serious towards bringing a full-fledged budget at the earliest to ensure that the country functions smoothly.,functions,country,VN
+NATION IS A FAMILY,"Our national arguments are family arguments, we still talk to each other at the end of the day.",family,national,AN
+NATION IS A COMPLEX STRUCTURE,"""Are They Parts of Our Nation? Tanzanian and Zambian University Students’ Attitude to the European and South Asian Minorities Compared""",parts,nation,NN
+NATION IS A COMPLEX STRUCTURE,No one built this country on their own. This nation is great because we built it together.,built,nation,VN
+NATION IS A BUILDING,"“This is a time to build a nation, brick by brick, pillar by pillar, not a time to tear down our brothers and sisters or pillage their property,”",build,nation,VN
+NATION IS A BUILDING,They represent the brick and mortar of our nation's developing infrastructure.,brick,nation,NN
+NATION IS A BUILDING,"""Our nation is built on the bedrock principle that governments derive their just powers from the consent of the governed.""",built,nation,VN
+NATION IS A BODY,Within a federalist framework the nation is a body in crisis threatened from within by one of its own. It is about to be dismembered.,body,nation,NN
+NATION IS A BODY,"Iowa is the heart of the nation, where everyone greets you with a smile and you wave at strangers!",heart,nation,NN
+NATION IS A BOAT,Scuttling the Ship of State to appease climate activists,ship,state,NN
+NATION IS A BOAT,Our country is burdened by debt and that may sink us in the rough waters ahead.,sink,country,VN
+MULTIPLICITY IS MASS,The grazing field was covered with sheep.,covered,sheep,VN
+MORE IS UP,The price of stocks rose.,,,-
+MORE IS UP,My to-do list is piling up!,,,-
+MORE IS BIG,He is trying to pay off his huge debt.,,,-
+MORE IS BIG,The city is expanding the number of recycling containers in parks.,expanding,number,VN
+MORALITY IS UPRIGHTNESS,He's an upstanding citizen.,,,-
+MORALITY IS UPRIGHTNESS,That was a low thing to do.,,,-
+MORALITY IS UPRIGHTNESS,He's a snake in the grass.,,,-
+MORALITY IS STRAIGHTNESS,Be straight with me.,,,-
+MORALITY IS STRAIGHTNESS,He's a crooked businessman.,,,-
+MORALITY IS PURITY,"He's pure of heart, and therefore would never hurt someone.",,,-
+MORALITY IS A STRAIGHT PATH,He is a deviant.,,,-
+MORALITY IS A STRAIGHT PATH,He deviated from the straight and narrow.,,,-
+MORALITY IS A STRAIGHT PATH,She strayed.,,,-
+MORAL IS STRAIGHT,Be straight with me.,,,-
+MORAL IS STRAIGHT,God-fearing men must keep strictly to the straight and narrow.,straight,god-fearing,AN
+MORAL AGENTS ARE NURTURING PARENTS,The government takes good care of its people.,take care,government,VN
+MORAL AGENTS ARE NURTURING PARENTS,The CEO looks after her employees with motherly kindness.,,,-
+MORAL AGENTS ARE NURTURING PARENTS,"With gentle care and attention, the pastor's congregation will flourish.",,,-
+MORAL ACTION IS A FINANCIAL TRANSACTION,He's morally bankrupt.,bankrupt,morally,DN
+MONEY TRANSFER IS FLUID MOTION,cash flow,flow,cash,NN
+MONEY TRANSFER IS FLUID MOTION,The money is gushing out of my retirement account.,gushing out,money,VN
+MONEY IS A LIQUID,The money is all dried up.,dried,money,AN
+MONEY IS A LIQUID,Liquid assets.,liquid,assets,AN
+MONEY IS A LIQUID,Currency,,,-
+MONEY IS A LIQUID,He's just sponging off of you.,,,-
+MIND IS A MACHINE,We're still trying to grind out the solution to this equation.,grind,solution,VN
+MIND IS A MACHINE,My mind isn't operating today.,operating,mind,VN
+MIND IS A MACHINE,Boy the wheels are turning now!,,,-
+MIND IS A MACHINE,I'm a little rusty today.,,,-
+MIND IS A MACHINE,We've been working on this problem all day and now we're running out of steam.,,,-
+MIND IS A CONTAINER,It's all in your mind.,in,mind,DN
+MIND IS A CONTAINER,Keep it in the back of your mind.,back,mind,DN
+MIND IS A COMPUTER,She came to a calculated decision.,calculated,decision,AN
+MIND IS A BODY,Do the exercises at the end of this chapter.,,,-
+MEMORIZATION IS WRITING,Let me make a mental note of that.,note,mental,AN
+MEMORIZATION IS WRITING,It's imprinted in my mind forever.,imprinted,mind,VN
+MEANS ARE PATHS,Do it this way.,,,-
+MEANS ARE PATHS,However you want to go about it is fine with me,,,-
+MANNER OF ACTION IS MANNER OF MOVEMENT,We're skipping right along.,,,-
+MANNER OF ACTION IS MANNER OF MOVEMENT,I'm walking on egg shells.,,,-
+MANNER OF ACTION IS MANNER OF MOVEMENT,We slogged through it.,,,-
+MAKING RELATED IS CAUSING CONTACT,It is unclear how the new law applies to this situation.,applies,law,VN
+MAKING A DECISION IS WEIGHING,"Before we draw any conclusions, we must weigh both sides of the issue.",weigh,issue,VN
+MACHINES ARE PEOPLE,The engine is dying; we need to repair it.,dying,engine,VN
+LOW STATUS IS DOWN,He is low on the totem pole.,,,-
+LOSING AN ELECTION IS LOSING A WAR,"It was a hard-fought battle, but in the end Romney didn't have the numbers to overpower Obama.",overpower,Obama,VN
+LOSING AN ELECTION IS LOSING A WAR,"While at first the numbers were on his side, eventually Gore had to admit defeat to Bush in 2000.",defeat,Bush,VN
+LOSING AN ELECTION IS LOSING A RACE,"While Perry appeared to be the frontrunner, Romney came out ahead in the GOP primary.",frontrunner,primary,NN
+LOSING AN ELECTION IS LOSING A RACE,"In the presidential race of 2008, John McCain came up short.",race,presidential,AN
+LOSING AN ELECTION IS LOSING A RACE,"During the Republican primary, several candidates jockeyed for the frontrunner position, but Huntsman quickly fell behind and bowed out.",,,-
+LOSING AN ELECTION IS LOSING A BOXING MATCH,"During the Democratic primary in 2008, John Edwards came out swinging but was swiftly knocked out of the election.",knocked out,election,VN
+LIFE IS A SEQUENCE OF MOTIONS,It's time to take the next big step in my life.,step,life,NN
+LIFE IS A JOURNEY,She hasn't gone as far in life as her parents had hoped.,far,life,DN
+LIFE IS A JOURNEY,His life has taken a good course.,course,life,NN
+LIFE IS A JOURNEY,I go where my path leads me.,,,-
+LIFE IS A JOURNEY,I go where my path leads me.,,,-
+LIFE IS A JOURNEY,"As I've traveled through life, I've made a lot of friends along the way.",traveled,life,VN
+LIFE IS A JOURNEY,"He has changed his direction in life, and taken a more spiritual path.",direction,life,NN
+LESS IS SMALL,She has very little money.,little,money,AN
+LESS IS SMALL,The number of available parking spaces continues to shrink.,shrink,number,VN
+LESS IS DOWN,Her temperature is going down.,,,-
+LEGISLATIVE ACTIVITY IS MAKING OBJECTS,"Congress is producing little this election year that will become law, yet both parties are churning out bills designed to make the other side look bad.",churning out,bills,VN
+LEARNING IS ACQUIRING,This gives me a great idea!,give,idea,VN
+LEARNING IS ACQUIRING,I got a much better idea of what was going on after the last meeting.,got,idea,VN
+LEARNING IS ACQUIRING,"She had acquired an intimate knowledge of the terrain, which now helped her to travel quickly.",acquired,knowledge,VN
+LEARNING IS ACQUIRING,Her experience gave her a great deal of knowledge.,gave,experience,VN
+LEADING A NATION IS STEERING A BOAT,The president is steering the country into unknown waters.,steering,country,VN
+LEADING A NATION IS DRIVING A VEHICLE,The president drove the nation into a ditch.,drove,nation,VN
+LEADING A NATION IS DRIVING A VEHICLE,Obama on GOP: 'They Drove The Country Into A Ditch...Now They Want The Keys Back',drove,country,VN
+LEADING A NATION IS DRIVING A VEHICLE,Where was he when he drove our country off a cliff?,drove,country,VN
+LEADER OF A NATION IS HEAD OF BODY,"Obama is the head of the country, whether some people don't like democracy or not.",head,country,NN
+LAWS ARE PLANTS,Out of these discussions will grow legislation of farreaching importance.,grow,legislation,VN
+LAWS ARE PHYSICAL STRUCTURES,dismantle gun laws,dismantle,laws,VN
+LAWS ARE OBJECTS,How to Build A Law,build,law,VN
+LAW ENFORCEMENT IS SUPPORTING A STRUCTURE,"Aug 25, 2010 – And so, two of the main pillars of our democracy—a free press and the courts—will be assailed at the same time.",pillars,democracy,NN
+KNOWING IS TOUCHING,"I've almost got an idea, but I can't quite put my finger on it.",put my finger,idea,VN
+KNOWING IS TOUCHING,I could never put my finger on what the problem was. I felt crazy at times and there were so many times that I would approach him with a very well-thought out ...,put my finger,problem,VN
+KNOWING IS SEEING,I see what you mean.,see,mean,VV
+KNOWING IS PERCEIVING,I see what you mean.,see,mean,VV
+KNOWING IS PERCEIVING,Something doesn't smell quite right here.,,,-
+KNOWING IS PERCEIVING,Listen to what your father tells you.,,,-
+KNOWING IS PERCEIVING,"I have no idea what my friends are doing, they've kept me completely in the dark.",,,-
+JUDGES ARE SPORTS REFEREES,"Feb 24, 2007 – A judge is often thought of in terms of a referree. But can a judge really be as objective as a sporting umpire?",referee,judge,NN
+INTERRELATEDNESS IS PHYSICAL INTERCONNECTEDNESS,Emigration has threatened to unravel the fabric of this small society.,fabric,society,NN
+INTERRELATEDNESS IS PHYSICAL INTERCONNECTEDNESS,The chairman has managed to weave together quite a coalition,weave,coalition,VN
+INTERNATIONAL RELATIONS ARE INTERPERSONAL RELATIONSHIPS,Which country is your country's best friend?,friend,country,NN
+INTERNATIONAL DISAGREEMENTS ARE QUARRELS,Japan's Spat With China Takes Big Toll on Tourism,,,-
+INTERNATIONAL ASSOCIATION IS CONNECTION,France has close ties to former colony Tunisia,,,-
+INTERESTING IDEAS ARE APPETIZING FOODS,She's the kind of person you always need to sugar-coat it for to get her to do anything.,,,-
+INTEREST IN IDEAS IS APPETITE FOR FOOD,He has an appetite for learning.,appetite,learning,VN
+INTEREST IN IDEAS IS APPETITE FOR FOOD,He has an insatiable curiosity.,insatiable,curiosity,AN
+INTENSITY OF ACTIVITY IS HEAT,Trading has really heated up this week.,heated up,trading,VN
+INSTITUTIONS ARE PEOPLE,"Their practices and policies have put them right in the cross hairs and it is only a matter of time before someone pulls the trigger. When that happens, one will be left to wonder whether it is a suicide, a homicide or a mercy killing.",,,-
+INSTITUTIONS ARE BUILDINGS,The Crumbling Walls of the Roman Catholic Church,walls,Church,NN
+INSTITUTIONS ARE BUILDINGS,Institutional reform,,,-
+INSTITUTION IS AN ORGANISM,"May 27, 2011 – The “health” of an institution is measured by the effectiveness of its organization and mission, and also by how well it plans for the future.",health,institution,NN
+INSTITUTION IS A VEHICLE,I would venture to conclude from this that institutions are vehicles of subcultures driven by groups of people with a common destination,vehicles,institution,NN
+INSTITUTION IS A MACHINE,"More especially, the analogy mentioned between institutions and machines must not be interpreted as proposing the theory that institutions are machines—in some essentialist sense.",machines,institution,NN
+INSTITUTION IS A FACTORY,"Society’s great institutions are factories of ideas, regularly churning out new frameworks, insights, and understanding.",factories,institutions,NN
+INSTITUTION IS A FACTORY,"In this view, educational instititions are factories that take less productive workers as their raw materials, apply doses of training, and create more productive workers as outputs.",factories,institutions,NN
+INSTITUTION IS A BUSINESS,"Religious institutions are businesses, the sermons are infomercials, the verse are nothing but commercial slogans.",businesses,institutions,NN
+INSTITUTION IS A BUSINESS,"Institutions Are Businesses, Too",Businesses,Institutions,NN
+INHIBITTING ENACTMENT OF LEGISLATION IS IMPEDING MOTION,Senate Republicans blocked legislation Wednesday that would have established a  billion jobs program putting veterans back to work tending to the country's federal lands and bolstering local police and fire departments.,blocked,legislation,VN
+INHIBITTING ENACTMENT OF LEGISLATION IS IMPEDING MOTION,This mini-controversy erupted when Republicans introduced a string of amendments in a final effort to obstruct passage of the reconciliation bill.,obstruct,bill,VN
+INFORMATION IS CONTENTS,The detective couldn't get much information out of the partial shoe print.,get out,information,VN
+INFORMATION IS CONTENTS,Tree rings contain the story of the region.,contain,story,VN
+INFORMATION IS CONTENTS,It was years before the fossils yielded any valuable information.,yielded,information,VN
+INFLUENTIAL NATIONS ARE LEADERS,Germany Leads the World,leads,Germany,VN
+INFLUENTIAL NATIONS ARE LEADERS,China leads successful wildlife crime crackdown,leads,China,VN
+INEQUALITY IS BEING ON DIFFERENT VERTICAL LEVELS,The upwardly mobile are moving into nicer neighborhoods.,,,-
+INEQUALITY IS BEING ON DIFFERENT VERTICAL LEVELS,Moving up the social ladder: The bottom rung vs the top rung,ladder,social,AN
+INEFFICIENT GOVERNMENT IS A BLOATED BODY,"Tax Revolt: The Rebellion Against an Overbearing, Bloated, Arrogant, and Abusive Government",,,-
+INEFFICIENT GOVERNMENT IS A BLOATED BODY,Tom Barrett: Put state government on a diet,diet,government,NN
+INEFFECTIVE GOVERNMENT IS A POORLY-MANAGED BUSINESS,"The point, however, is that saying that government is inefficient because it does not turn a profit is the equivalent of saying that Peyton Manning is a poor quarterback because he doesn’t hit enough home runs. He’s not supposed to.",,,-
+INEFFECTIVE GOVERNMENT IS A POORLY-MANAGED BUSINESS,"The business of municipal government is, in general, the most poorly managed business in the world.",business,government,NN
+INCREASING GOVERNMENT DEBT IS RISING WATER LEVEL,"Debt, debt, debt; we're drowning in it. This morning, the Office for National Statistics published the latest estimates of public sector borrowing. Though borrowing is falling faster than anticipated, thanks to the fact that spending cuts are finally beginning to kick in, the national debt has risen to 64.2 per cent of GDP. More significantly, we now owe more than £1 trillion, or around £16,000 for every person in the country.",drowning,debt,VN
+INCREASING EVALUABILITY OF GOVERNMENT IS INCREASING TRANSPARENCY,"Increasing transparency in government (title of article, International Journal on World Peace)",transparency,government,NN
+INCREASING EVALUABILITY OF GOVERNMENT IS INCREASING LIGHT,"Stay up to date on Sunlight’s work in D.C., throughout the country and around the world, as well as the latest open government, transparency and technology news.",,,-
+INCREASE IN CRIME IS SPREAD OF DISEASE,"As It Opens to Outsiders, Cuba Is Infected by Crime",infected,crime,VN
+INCITING GOVERNING ACTION IS FORCED MOVEMENT,"Bloomberg Goes to Washington to Push Gun Laws, but Senate Has Other Ideas",,,-
+INCITING GOVERNING ACTION IS FORCED MOVEMENT,Livingston County judge: Cuomo administration steamrolled lawmakers on gay marriage vote,,,-
+INABILITY TO EVALUATE GOVERNMENT IS INABILITY TO SEE,"The World Bank has issued its latest index of corruption and transparency. The world’s largest democracy, India, is looking a bit red-faced.",,,-
+IMPORTANT IS CENTRAL,The issue is central to these negotiations.,central,issue,AN
+IMPORTANCE IS WEIGHT,That's a lightweight issue.,lightweight,issue,AN
+IMPORTANCE IS WEIGHT,This is a substantive / substantial problem for us.,substantial,problem,AN
+IMPORTANCE IS SIZE,A big part of this mission was not to contaminate the planet with Earth organisms.,,,-
+IMPORTANCE IS SIZE,Texaco is a relatively small player in the California gasoline market but a bigger factor in the Eastern states that want to follow California's lead.,small,player,AN
+IMMORALITY IS DISEASE,'It’s sick and disgusting that a painting like this can go on show so soon after my daughter was murdered.,,,-
+IMMORALITY IS DEGENERATION,The consequence of idolatry is the moral disintegration of human society.,disintegration,moral,AN
+IMMORAL IS CROOKED,He's a crooked politician.,crooked,politician,AN
+ILLEGAL ACTIVITY IS BREAKING A PHYSICAL OBJECT,Shatter the rules of the market economy,shatter,rules,VN
+IDEAS ARE POSSESSIONS,I have an idea.,have,idea,VN
+IDEAS ARE POSSESSIONS,She gave me a good idea.,gave,idea,VN
+IDEAS ARE POSSESSIONS,Keep your opinion to yourself!,,,-
+IDEAS ARE PEOPLE,The theory of relativity gave birth to an enormous number of ideas in physics.,gave birth,ideas,VN
+IDEAS ARE PEOPLE,He is the father of modern biology.,father,biology,NN
+IDEAS ARE PEOPLE,Whose brainchild was that?,,,-
+IDEAS ARE PEOPLE,Look at what his ideas have spawned.,spawned,ideas,VN
+IDEAS ARE PEOPLE,Those ideas died off in the Middle Ages.,died,ideas,VN
+IDEAS ARE PEOPLE,His ideas will live on forever.,live,ideas,VN
+IDEAS ARE PEOPLE,Cognitive psychology is still in its infancy.,infancy,cognitive psychology,NN
+IDEAS ARE PEOPLE,That's an idea that ought to be resurrected.,resurrected,idea,VN
+IDEAS ARE PEOPLE,He breathed new life into that idea.,breathed new life,idea,VN
+IDEAS ARE OBJECTS,You'd need an electron microscope to find the point of this essay.,,,-
+IDEAS ARE FOOD,"This is what happens when science serves up facts more indigestible than evolution. We end up with a society where the masses live in outright ignorance and denial, while the dominant institutions, thanks to market and political expediency, continually reorganize themselves around actionable intelligence as it comes in.",indigestible,facts,AN
+IDEAS ARE FOOD,Food for thought nust be appetizing. Chemistry students usually can write acceptable exposition if they know good writing is expected,food,thought,NN
+HIGH STATUS IS UP,He has a lofty position.,,,-
+HIGH STATUS IS UP,He'll rise to the top.,rise,top,VN
+HIGH STATUS IS UP,He's at the peak of his career.,peak,career,NN
+HIGH STATUS IS UP,He's climbing the ladder of success.,ladder,success,NN
+HIGH STATUS IS UP,In that community there is little opportunity for upward mobility.,,,-
+HIGH STATUS IS UP,They are at the bottom of the social hierarchy.,hierarchy,social,AN
+HIGH STATUS IS UP,She fell in status.,fell,status,VN
+HIERARCHY IS A VERTICAL STRUCTURE,He's gone over my head to the top supervisor.,top,supervisor,AN
+HELP IS PHYSICAL SUPPORT,Our work in the African continent [. . .] is supported by Tear Fund,,,-
+HELP IS PHYSICAL SUPPORT,Our conservation program needs your support.,,,-
+HELP IS PHYSICAL SUPPORT,I've really been leaning on my friends the past few months.,,,-
+HEALTH IS VERTICALITY,He's down with the flu.,down,flu,NN
+HEALTH IS UP,He's at the peak of health.,peak,health,NN
+HEALTH IS UP,He's in top shape.,top,shape,AN
+HAPPY IS UP,That boosted my spirits.,boosted,spirits,VN
+HAPPY IS UP,My spirits rose.,rose,spirits,VN
+HAPPY IS UP,You're in high spirits.,high,spirits,AN
+HAPPY IS UP,Thinking about her always gives me a lift.,,,-
+HAPPINESS IS VERTICALITY,I'm soaring with joy.,soaring,joy,VN
+HAPPINESS IS VERTICALITY,His spirits fell.,fell,spirits,VN
+GUNS ARE PESTS,gun-infested state,infested,gun,AN
+GUNS ARE OBJECTS OF WORSHIP,altar of gun ownership,altar,gun,NN
+GUNS ARE OBJECTS OF WORSHIP,worship guns,worship,guns,VN
+GUNS ARE OBJECTS OF WORSHIP,glorify firearms,glorify,firearms,VN
+GUNS ARE DRUGS,"The primary reason Americans are addicted to guns is due to the National Rifle Association's very effective — and immoral — campaign to instill fear into the heart of our citizens, which has paralyzed the soul of America.",addicted,guns,VN
+GUNS ARE A NATURAL DISASTER,avalanche of guns,avalanche,guns,NN
+GUNS ARE A DISEASE,‘America’s gun disease is a national security issue’,disease,gun,NN
+GUN VIOLENCE IS A PHYSICAL AFFLICTION,cancerous gun violence,cancerous,gun violence,AN
+GUN VIOLENCE IS A PHYSICAL AFFLICTION,plague of gun violence,plague,gun violence,NN
+GUN DEBATE IS A LIVING ENTITY,Cynicism has killed the gun-control debate,killed,debate,VN
+GUN CONTROL REGULATION IS A MOTION IMPEDIMENT,saddle the American people with gun control,saddle,gun control,VN
+GUN CONTROL REGULATION IS A MOTION IMPEDIMENT,gun control trap,trap,gun control,NN
+GUN CONTROL REGULATION IS A DISEASE,gun control sickness,sickness,gun control,NN
+GUN CONTROL IS PHYSICAL RESTRAINT,oppressive shackles of gun control,shackles,gun control,NN
+GUN CONTROL ADVOCACY IS PHYSICAL HARM,the gun lobby has squashed federal funding,squashed,gun lobby,VN
+GUIDED ACTION IS GUIDED MOTION ALONG A PATH,She guided him through the problem.,guided,problem,VN
+GUIDED ACTION IS GUIDED MOTION ALONG A PATH,She walked him through the analysis.,walked,analysis,VN
+GUIDED ACTION IS GUIDED MOTION ALONG A PATH,She led him through the rough parts of the course.,led,course,VN
+GROUPS ARE POSSESSORS,The Milky Way belongs to a cluster of galaxies.,belongs,cluster,VN
+GROUPS ARE POSSESSORS,Our galaxy has at least 100 billion planets.,has,galaxy,VN
+GROUPS ARE PART-WHOLE STRUCTURES,"Earth is part of the group of ""terrestrial"" planets.",part,group,NN
+GROUPS ARE CONTAINERS,This group contains twenty members.,contains,group,VN
+GROUPS ARE CONTAINERS,There are twenty members in this group.,in,group,DN
+GREED IS HUNGER,He salivated with the thought of earning more money.,salivated,earning,VV
+GREED IS HUNGER,The robber baron hungered for even greater profits.,hungered,profits,VN
+GOVERNMENTAL AGREEMENT IS PHYSICAL PROXIMITY,House Democrats and Republicans moved closer to agreeing on a budget today.,moved closer,Democrats and Republicans,VN
+GOVERNMENT'S POSITIVE TREATMENT OF RIGHTS IS SUPPORTING A PHYSICAL STRUCTURE,The government must shore up support for our religious freedoms.,shore up,freedom,VN
+GOVERNMENT'S POSITIVE TREATMENT OF RIGHTS IS STRENGTHENING AN OBJECT,We need to strengthen our civil liberties.,strengthen,liberties,VN
+GOVERNMENT'S HARMFUL TREATMENT OF RIGHTS IS TRESPASSING,These gay marriage laws have invaded our religious rights.,invaded,laws,VN
+GOVERNMENT'S HARMFUL TREATMENT OF RIGHTS IS TRESPASSING,The government needs to stay out of my bedroom.,stay out,government,VN
+GOVERNMENT'S HARMFUL TREATMENT OF RIGHTS IS TRAMPLING ON AN OBJECT,The government's move to censor the internet is trampling all over our rights to free speech and freedom of the press.,trampling,rights,VN
+GOVERNMENT'S HARMFUL TREATMENT OF RIGHTS IS THEFT,Overturning Roe v. Wade would steal away our right to privacy.,steal,rights,VN
+GOVERNMENT'S HARMFUL TREATMENT OF RIGHTS IS INVADING A TERRITORY,The government overstepped a line when they proposed wiretapping citizens' phone lines.,overstepped,wiretapping,VV
+GOVERNMENT'S HARMFUL TREATMENT OF RIGHTS IS INVADING A TERRITORY,Gay marriage is encroaching on our religious freedoms.,encroaching,freedom,VN
+GOVERNMENT'S HARMFUL TREATMENT OF RIGHTS IS DAMAGING A PHYSICAL STRUCTURE,Every new bill the President proposes chips away at our freedoms.,chips away,freedom,VN
+GOVERNMENT'S HARMFUL TREATMENT OF RIGHTS IS DAMAGING A PHYSICAL STRUCTURE,Imposing martial law will undermine the very foundations of democracy.,undermine,imposing,VV
+GOVERNMENT'S HARMFUL TREATMENT OF RIGHTS IS ATTACKING,Gun control is an assault on our civil liberties.,assault,liberties,NN
+GOVERNMENT REGULATION IS SUFFOCATION,The entrepreneur was suffocated by the all the onerous regulations he had to follow.,suffocated,regulations,VN
+GOVERNMENT REGULATION IS SUFFOCATION,Small business in the United States is literally being suffocated by red tape.,suffocated,red tape,VN
+GOVERNMENT REGULATION IS A PHYSICAL CONSTRAINT,The restrictive regulations are holding back innovation.,holding back,regulations,VN
+GOVERNMENT REGULATION IS A PHYSICAL CONSTRAINT,Any greater government regulation will only handcuff the industry and reduce the significant benefits hedge funds offer to the markets.,handcuff,regulation,VN
+GOVERNMENT REGULATION IS A BURDEN,The burdens of regulation on corporations hold down their profit margins.,burden,regulations,NN
+GOVERNMENT REGULATION IS A BARRIER,All these rules and regulations are obstacles to innovation.,obstacles,regulations,NN
+GOVERNMENT POWER IS BODILY STRENGTH,"Obama, Dems flex muscles on energy policy as platform embraces options",,,-
+GOVERNMENT POWER IS BODILY STRENGTH,China Using Government Muscle to Turbo Charge its Auto Industry,muscle,government,NN
+GOVERNMENT POWER IS BODILY STRENGTH,India government regains its muscle with reforms,muscle,government,NN
+GOVERNMENT IS REFEREE,"Government should be a referee, not an active player",referee,government,NN
+GOVERNMENT IS AN ORGANISM,Withered government: leave it to the rich,withered,government,AN
+GOVERNMENT IS AN ORGANISM,"“Government is not a machine, but a living thing. It falls, not under the theory of the universe, but under the theory of organic life. It is accountable to Darwin, not to Newton. It is modified by its environment, necessitated by its tasks, shaped to its functions by the sheer pressure of life. No living thing can have its organs offset against each other, as checks, and live.""",living thing,government,NN
+GOVERNMENT IS A SLAVE MASTER,"There can be no doubt that the federal government is the new slave master, something the Founding Fathers warned us against.",slave master,government,NN
+GOVERNMENT IS A SHEPHERD,Citizen Sheep Government Shepherds,Shepherds,government,NN
+GOVERNMENT IS A SHEPHERD,"Such a power does not destroy, but it prevents existence; it does not tyrannize, but it compresses, enervates, extinguishes, and stupefies a people, till each nation is reduced to nothing better than a flock of timid and industrious animals, of which the government is the shepherd.",shepherd,government,NN
+GOVERNMENT IS A SHEPHERD,Obama and the Progressives do not believe this. They believe they must decide what is best. In their view Americans are sheep and they are the shepherd.,shepherd,Obama and the Progressives,NN
+GOVERNMENT IS A SERVANT,The government should cater to the needs of its citizens.,cater,government,VN
+GOVERNMENT IS A POLICEMAN,"A proper government is only a policeman, acting as an agent of man’s self-defense, and, as such, may resort to force only against those who start the use of force.",policeman,government,NN
+GOVERNMENT IS A PERSON,"The US government loves you. In fact, it loves you so much that it’s willing shackle your legs together. Just to protect you – tough love, baby. Now, it may hurt a bit but just try to breathe through the pain. Remember – it hurts the government more than it hurts you.",loves,government,VN
+GOVERNMENT IS A PATIENT,The government is infected with corruption.,infected,government,VN
+GOVERNMENT IS A PATIENT,We must cure our ailing democracy with an infusion of new politicians.,cure,democracy,VN
+GOVERNMENT IS A PARENT,Big Father: The Government as Parent,Parent,Government,NN
+GOVERNMENT IS A PARENT,"Doctrine of Parens Patriae."" Parens Patriae means literally, ""parent of the country."" It refers traditionally to the role of STATE as sovereign and guardian of persons under legal disability.",parent,country,NN
+GOVERNMENT IS A LEADER,"""In my view, the federal government should lead the way.  The bill we’ve introduced requires the federal government to increase its use of renewable electricity and reduce its overall energy consumption in federal buildings, both new and old.  We can’t expect consumers to embrace energy efficient technology if their government does not do the same.""",lead,government,VN
+GOVERNMENT IS A LEADER,Parents are so uneducated about health that they will follow the government down any misguided path.,follow,government,VN
+GOVERNMENT IS A DRIVER,The Syrian government is driving Syria into a dangerous zone.,driving,government,VN
+GOVERNMENT IS A DRIVER,The current Japanese government is steering the country toward Socialism.,steering,government,VN
+GOVERNMENT IS A DRIVER,"Signal left, turn right: central rhetoric and local reform in China.",,,-
+GOVERNMENT IS A DOCTOR,to promote his fantasy that big government can cure our nation's ills.,cure,government,VN
+GOVERNMENT IS A DISEASE,"Once the stage has been set, radical surgery will be required to actually remove the malignant tumor that Cancerous Government has become.",Cancerous,Government,AN
+GOVERNMENT IS A CHILDCARE PROVIDER,I believe in personal responsibility and the government shouldn't be a babysitter but I also believe in compassion for less advantageous people.,babysitter,government,NN
+GOVERNMENT IS A CHILDCARE PROVIDER,"Can I decide what size soda I want to drink? No, that’s the nanny state’s job.",nanny,state,NN
+GOVERNMENT IS A BUSINESS,One of the worst-run businesses in the United States is also the largest business in the nation. The federal government is in financial disarray. It spends more than it makes and its investments are not based on sound financial principles.,financial disarray,government,AN
+GOVERNMENT INSTITUTION IS A PHYSICAL STRUCTURE,Rising food prices can topple governments,topple,governments,VN
+GOVERNMENT INSTITUTION IS A PHYSICAL STRUCTURE,Afghanistan's government could collapse after 2014.,collapse,government,VN
+GOVERNMENT INSTITUTION IS A MACHINE,"If the injustice is part of the necessary friction of the machine of government, let it go, let it go: perchance it will wear smooth--certainly the machine will wear out. If the injustice has a spring, or a pulley, or a rope, or a crank, exclusively for itself, then perhaps you may consider whether the remedy will not be worse than the evil; but if it is of such a nature that it requires you to be the agent of injustice to another, then I say, break the law. Let your life be a counter-friction to stop the machine. What I have to do is to see, at any rate, that I do not lend myself to the wrong which I condemn.",machine,government,NN
+GOVERNMENT INSTITUTION IS A MACHINE,"They had elected him (Jackson) to conduct the Government and to keep and remove its moneys, and he meant to do so on the principle that it was a simple machine.",conduct,government,VN
+GOVERNMENT INSTITUTION IS A BODY,This responsibility falls squarely on the shoulders of the government.,shoulders,government,NN
+GOVERNMENT FUNCTIONALITY IS VERTICALITY,The government was toppled.,toppled,government,VN
+GOVERNMENT FUNCTIONALITY IS VERTICALITY,The government fell.,fell,government,VN
+GOVERNMENT DEBT IS OCEAN,The western world is drowning in an ocean of debt unlike anything the world has ever seen before,ocean,debt,NN
+GOVERNMENT ASSISTANCE IS SUPPORT,The poor in our country need a boost up.,,,-
+GOVERNMENT ASSISTANCE IS SUPPORT,"In times of need, the impoverished should be able to lean on our government for support.",lean on,government,VN
+GOVERNMENT ASSISTANCE IS SUPPORT,We need welfare as a safety net.,safety net,welfare,NN
+GOVERNMENT ASSISTANCE IS AN ADDICTIVE DRUG,Our country's poor are addicted to welfare.,addicted,welfare,VN
+GOVERNMENT ASSISTANCE IS AN ADDICTIVE DRUG,We have a nation of welfare addicts who will always depend on the government for their next fix.,addicts,welfare,NN
+GOVERNMENT ASSISTANCE IS A TRAP,...trapping so many people in state dependency robs them of their human dignity.,trapping,state dependency,VN
+GOVERNMENT ASSISTANCE IS A TRAP,[T]he federal government's welfare assistance programs intended to help those in need instead effectively trap people into dependence,trap,welfare,VN
+GOVERNMENT ASSISTANCE IS A HANDOUT,"The poor deserve a hand up, not a handout.",,,-
+GOVERNMENT ASSISTANCE IS A HANDOUT,"The government shouldn't just give handouts, it needs to encourage people to get jobs instead.",handout,government,NN
+GOVERNMENT AND CITIZENS ARE PARTNERS,"As citizens, we must work together with our government to advance the good of our nation.",,,-
+GOVERNING ACTION IS MOTION,Congress moved quickly to avoid a governmental shutdown.,moved,Congress,VN
+GOVERNING ACTION IS MOTION,The state took a big step toward banning assault weapons.,took a step,state,VN
+GOVERNING ACTION IS MOTION,The legislature is considering an alternative approach to deficit reduction.,approach,legislature,NN
+GOVERNING ACTION IS MOTION,Postal Service bill faces roadblocks,roadblocks,bills,NN
+GAINING POWER IS GAINING A POSSESSION,The rebels wrested control of the capital city from the ruling party in a bloody coup.,,,-
+FUTURE OF A NATION IS PATH OF BOAT,Our President will chart a path to prosperity.,path,prosperity,NN
+FUTURE OF A NATION IS PATH OF BOAT,We will navigate the choppy waters of recession into smooth fiscal sailing.,waters,recession,NN
+FUTURE OF A NATION IS PATH OF BOAT,'Pakistan's economy has ability to navigate through choppy waters',navigate,economy,VN
+FUNCTIONALITY IS VERTICALITY,The servers are back up after having been down for days.,,,-
+FUNCTIONAL LEGISLATURE IS A FUNCTIONING MACHINE,"With a heavy Republican majority, Congress churned out bill after bill.",churned out,bill,VN
+FUNCTIONAL LEGISLATURE IS A FUNCTIONING MACHINE,"With a unified House and Senate, the well-oiled gears of government turn smoothly.",well-oiled gears,government,NN
+FUNCTIONAL LEGISLATURE IS A FUNCTIONING MACHINE,"""I look forward to helping keep the legislative wheels turning smoothly in our 105-day session""",wheels,legislation,NN
+FUNCTIONAL LEGISLATURE IS A FUNCTIONING MACHINE,Cloture would make the legislative gears turn smoothly.,gears,legislative,AN
+FULLY COMMUNICATING A SEQUENCE OF THOUGHT IS SPELLING,Do I need to spell it out for you?,,,-
+FULLY COMMUNICATING A SEQUENCE OF THOUGHT IS SPELLING,The theory is spelled out in chapter 4.,spelled out,theory,VN
+FULLY COMMUNICATING A SEQUENCE OF THOUGHT IS SPELLING,Follow the letter of the law.,letter,law,NN
+FREEDOM OF ACTION IS THE LACK OF IMPEDIMENTS TO MOVEMENT,Break out of your daily routine.,,,-
+FREEDOM OF ACTION IS THE LACK OF IMPEDIMENTS TO MOVEMENT,Workers of the world throw off your chains!,,,-
+FORMING WORDS IS SHAPING,You should form your words carefully.,,,-
+FORMING WORDS IS SHAPING,This is a well-crafted sentence.,well-crafted,sentence,VN
+FORMING WORDS IS SHAPING,Promises should be articulated clearly.,articulated,Promises,VN
+FORCES ARE OBJECTS,A large force is needed to move a heavy object.,large,force,AN
+FORCE TRANSFER IS OBJECT TRANSFER,She gave him a push.,gave,push,VN
+FORCE TRANSFER IS OBJECT TRANSFER,He gave me a vicious kick.,gave,kick,VN
+FINANCIAL RESOURCES ARE PHYSICAL RESOURCES,"Again, if by any chance, we should ultimately win out in such a war, what would it cost us in treasure and in blood?",blood,cost,VN
+EXPLOITATION OF RESOURCES IS A PARASITIC INFECTION,Should Welfare parasites be allowed to bleed working Americans for the rest of their lives without attempting to help themselves?,parasites,welfare,NN
+EXPERIENCING A STATE IS POSSESSING AN OBJECT,I have a headache.,have,headache,VN
+EXPERIENCING A STATE IS BEING AT A LOCATION,I'm in love.,in,love,DN
+EXPERIENCING A STATE IS BEING AT A LOCATION,She's out of her depression.,out,depression,DN
+EXPERIENCING A STATE IS BEING AT A LOCATION,She's close to insanity.,close,insanity,DN
+EXPERIENCING A STATE IS BEING AT A LOCATION,"When at rest, the computer goes into hibernation.",goes,hibernation,VN
+EXPERIENCING A STATE IS BEING AT A LOCATION,He's at an advanced stage in his studies.,is at,advanced stage,VN
+EXPERIENCING A STATE IS BEING AT A LOCATION,What state is the project in?,in,state,DN
+EXPERIENCED STATE IS A PROXIMATE OBJECT,I can feel a headache approaching,approaching,headache,VN
+EXPERIENCED STATE IS A PROXIMATE OBJECT,My symptoms went away.,went away,symptoms,VN
+EXISTING IS BEING PHYSICALLY AT THIS LOCATION,All the bridges that used to span this river are now gone.,,,-
+EXISTENCE IS VISIBILITY,The dodo disappeared in the 1600s.,,,-
+EVIL IS DARK,The Bible clearly teaches that our struggle to live righteously is a struggle against the dark forces of Satan that seeks to rule us.,dark forces,Satan,NN
+ESSENTIAL IS INTERNAL,It's what's on the inside that counts.,,,-
+ESSENTIAL IS INTERNAL,She only has surface charm.,,,-
+EQUALITY IS BEING ON THE SAME VERTICAL LEVEL,"In economic development, the equivalent of having a level playing field is equality of access to basic services.",,,-
+ENVIRONMENTAL HARM IS PHYSICAL INJURY,The oil spill has caused a shock to the environment.,shock,environment,NN
+ENVIRONMENTAL HARM IS PHYSICAL INJURY,Smog pollution is an environmental malaise.,malaise,environmental,NN
+ENVIRONMENTAL HARM IS PHYSICAL INJURY,Ecologists are nursing the Bay back to health.,nursing,Bay,VN
+ENTITLEMENT HOLDERS ARE LEECHES,The welfare queens will suck this nation's coffers dry.,,,-
+ENTITLEMENT HOLDERS ARE LEECHES,"The ""takers"" in this society are leeches on the success of job creators.",leeches,takers,NN
+END OF AN ACTION IS THE END OF A PATH,We are reaching the end of the house-buying process.,reaching the end,process,VN
+END OF AN ACTION IS THE END OF A PATH,"Finally, all my educational goals are in reach.",reach,goals,DN
+END OF AN ACTION IS THE END OF A PATH,We are entering the last stages of filing for bankruptcy.,entering,stages,VN
+ENACTING LEGISLATION IS CAUSING MOTION ALONG A PATH,"Democrats Push Through Historic, Controversial Health Care Legislation",push through,legislation,VN
+ENACTING LEGISLATION IS CAUSING MOTION ALONG A PATH,The Senate voted 92-5 Tuesday to move the bill forward to a full vote later this week.,move,bill,VN
+EMOTIONS ARE SUBSTANCES,He's filled with jealousy.,filled,jealousy,VN
+EMOTIONS ARE SUBSTANCES,She's overflowing with love.,overflowing,love,VN
+EMOTIONS ARE OBJECTS,You have to set your jealousy aside.,set aside,jealousy,VN
+EMOTIONS ARE OBJECTS,He hid his love from her.,hid,love,VN
+EMOTIONALLY MILD IS EXPERIENCING MILD TEMPERATURE,She's lukewarm about him.,,,-
+EMOTIONALLY INTENSE IS HOT,He is a man of fiery passions.,fiery,passions,AN
+EMOTIONALLY INTENSE IS HOT,The argument really heated up when she accused him of losing the car on purpose.,,,-
+EMOTIONALLY INDIFFERENT IS COLD,She's so cold towards him.,,,-
+EMOTIONALLY INDIFFERENT IS COLD,Ice-queen,,,-
+EMOTIONAL INTIMACY IS PHYSICAL PROXIMITY,They're very close.,,,-
+EMOTIONAL INTENSITY IS TEMPERATURE,"As the argument continued, things really heated up.",,,-
+EMOTIONAL INTENSITY IS TEMPERATURE,Their relationship cooled off and they soon parted ways.,cooled off,relationship,VN
+EMOTIONAL INTENSITY IS TEMPERATURE,His mother was always cold and unloving when he was a child.,cold,unloving,AA
+EMOTION IS PRESSURE IN A CONTAINER,He's bursting with excitement.,bursting,excitement,VN
+EMOTION IS PRESSURE IN A CONTAINER,That joke is side-splittingly funny.,side-splittingly,funny,DA
+ELECTION IS WAR,...the fight for the White House is being waged on intensely local terrain...,fight,White House,NN
+ELECTION IS WAR,the war for the presidency is nearly over,war,presidency,NN
+ELECTION IS WAR,"Mr. Romney will likely fight hard in the state, given his family ties, but he has an uphill battle.",,,-
+ELECTION IS WAR,"Both sides girded for battle, as they knew the general election would be a hard-won fight.",fight,election,NN
+ELECTION IS WAR,The underdog and his advisers plotted how best to overpower the incumbent.,,,-
+ELECTION IS WAR,"Campaign Craft: The Strategies, Tactics, and Art of Political Campaign Management",Tactics,Campaign,NN
+ELECTION IS A RACE,The GOP presidential race has a new front-runner: Gov. Rick Perry.,race,presidential,AN
+ELECTION IS A RACE,"This year's US presidential election is shaping up to be a very close race, with the incumbent currently in front, but his challenger close on his heels.",race,election,NN
+ELECTION IS A RACE,"At the turn, it's Obama by a nose.",,,-
+ELECTION IS A RACE,"Noem sprints to election finish line with stop in Elk Point, SD.",finish line,election,NN
+ELECTION IS A RACE,"The race continues as Perry and Romney jockey for position, with Gingrich trailing behind.",,,-
+ELECTION IS A RACE,"With the official start of primary season, candidates were off and running as they sought to quickly raise millions of dollars for ad buys.",running,candidates,VN
+ELECTION IS A RACE,The Iowa caucuses in January 2012 serve as the starting line of the marathon primary-election campaigns necessary ...,marathon,primary-election,NN
+ELECTION IS A RACE,Hutchinson the front-runner in 2014 governor's race,race,governor,NN
+ELECTION IS A GAME,"Too often it is post mortem head scratching, as if democratic strategists do not realize every candidate is a pawn on the national. chessboard",chessboard,national,AN
+ELECTION IS A BOXING MATCH,the candidates came out punching,,,-
+ELECTION IS A BOXING MATCH,"Beasley won the first round of Democratic primary for lieutenant governor in 1970, but failed to win a majority.",round,Democratic primary,NN
+EFFICIENT GOVERNMENT IS A LEAN BODY,Randy has a plan to turn a bloated government of Washington bureaucrats into a lean and efficient government,lean,government,AN
+EFFECTIVE GOVERNMENT INSTITUTION IS A WELL-FUNCTIONING MACHINE,"Our state government, a well oiled machine of efficiency.",well oiled machine,efficiency,NN
+EFFECTIVE GOVERNMENT INSTITUTION IS A HEALTHY BODY,"Like some it is supposed to serve, Massachusetts government has become flabby.",flabby,government,AN
+EDUCATIONAL EVALUATION IS GAMBLING,"Apparently, I’m not the only parent who’s concerned about high stakes testing.",stakes,testing,NN
+EDUCATION IS A RESOURCE,A good education is a powerful resource.,resource,education,NN
+ECONOMY IS A MACHINE,"With The Economy Humming, Will Manufacturing Software Help Manufacturers Stay In Tune?",humming,economy,VN
+ECONOMY IS A MACHINE,"""Although we have a long way to go before we can put this recession behind us, the gears of our economic engine do appear ... to be slowly turning once again,""",engine,economic,AN
+ECONOMY IS A COMPLEX STRUCTURE,The economy is falling apart.,falling apart,economy,VN
+ECONOMY IS A BODY,force-feed the economy back to health,health,economy,NN
+EASE OF ACTION IS EASE OF MOTION ALONG A PATH,It is smooth sailing from here on in in the application process.,,,-
+EASE OF ACTION IS EASE OF MOTION ALONG A PATH,It's all downhill for the rest of the course.,,,-
+DISTURBING IDEAS ARE DISGUSTING FOODS,The very thought of it makes me sick.,makes me sick,thought,VN
+DISTURBING IDEAS ARE DISGUSTING FOODS,That's bullshit!,,,-
+DISTINGUISHING IS DIVIDING,What separates the men from the boys?,,,-
+DISEASE TREATMENT IS WAR,The doctors at the CDC led the way to victory against the flu epidemic.,victory,epidemic,NN
+DISEASE TREATMENT IS WAR,"The cancer patient fought a long, hard, battle, but she eventually succumbed to her disease.",battle,cancer patient,NN
+DISEASE TREATMENT IS WAR,A Triumph in the War Against Cancer,war,cancer,NN
+DISEASE TREATMENT IS WAR,"With nothing left in their leukemia-fighting arsenal, the doctors were down to Dilaudid, a derivative of morphine...",arsenal,leukemia,NN
+DISAGREEMENT IS DIVISION,Americans are divided as to whether a third major party is needed in U.S. politics today,,,-
+DIPLOMACY IS WAR,"The Weapons of Diplomacy, and the Human Factor",weapons,diplomacy,NN
+DIFFICULTY IS HEAVINESS,I have a heavy workload this year.,,,-
+DIFFICULTY IS HEAVINESS,This situation is hard to bear.,bear,hard,AV
+DIFFICULTY IS HARDNESS,This is a very hard problem to solve.,hard,problem,AN
+DIFFICULTIES IN PROGRESSING THROUGH LIFE ARE IMPEDIMENTS TO MOTION ALONG A PATH,My life is going nowhere - I'm just spinning my wheels.,going nowhere,life,VN
+DIFFICULTIES IN KNOWING ARE VISUAL OBSTRUCTIONS,Recently enacted policies provide cover for companies engaged in illicit activities.,,,-
+DIFFICULTIES IN A ROMANTIC RELATIONSHIP ARE IMPEDIMENTS TO MOTION ALONG A PATH,We have a lot of hurdles to get over in our relationship.,hurdles,relationship,NN
+DIFFICULTIES ARE IMPEDIMENTS TO MOVEMENT,Our project has hit a roadblock.,,,-
+DIFFICULTIES ARE IMPEDIMENTS TO MOVEMENT,What's holding you back from pursuing your dreams?,,,-
+DIFFICULTIES ARE IMPEDIMENTS TO MOVEMENT,They faced some tough problems at the beginning of their marriage but got over them quickly.,faced,problems,VN
+DIFFERENT MEANS OF ACHIEVING A PURPOSE ARE DIFFERENT PATHS TO A DESTINATION,"To be cool, you have to wear your overalls this way.",,,-
+DIFFERENT MEANS OF ACHIEVING A PURPOSE ARE DIFFERENT PATHS TO A DESTINATION,She solved the problem a different way.,different way,solved,NN
+DIFFERENT MEANS OF ACHIEVING A PURPOSE ARE DIFFERENT PATHS TO A DESTINATION,Do it any way you can.,,,-
+DIFFERENT MEANS OF ACHIEVING A PURPOSE ARE DIFFERENT PATHS TO A DESTINATION,However you want to go about repairing it is fine with me.,,,-
+DEVELOPING AN ATTRIBUTE IS CULTIVATION,Tips on how to cultivate openness to change.,cultivate,openness,VN
+DESIRE IS HUNGER,He's drooling over a new car.,,,-
+DESIRE IS HUNGER,He hungered for her attention.,,,-
+DEMOCRATIC IDEOLOGY IS A COMMODITY,democracy for sale,sale,democracy,NN
+DEMOCRACY IS A PLANT,plant the seeds of democracy,seeds,democracy,NN
+DEMOCRACY IS A PLANT,democracy blossoms,blossoms,democracy,VN
+DEMOCRACY IS A BIRD,fledgling democracy,fledging,democracy,VN
+DEMOCRACY IS A BIRD,democracy spreads its wings,wings,democracy,NN
+DEGREE OF SIMILARITY IS DEGREE OF PROXIMITY,"To us, culture and spirituality are very close concepts.",,,-
+DEGREE OF MORALITY IS PHYSICAL HEIGHT,He is a person of very high moral standards.,high,moral standards,AN
+DEGREE IS DISTANCE ALONG A PATH,He is far more intelligent than he looks.,,,-
+DEBT IS PHYSICAL IMPEDIMENTS TO MOTION,Debt is holding me back from reaching my goals.,holding back, debt,VN
+DEBT IS AN ORGANISM,Credit card debt has been growing significantly,growing,debt,VN
+DEBATING IS ONE-ON-ONE PHYSICAL FIGHTING,Obama and Romney Strike Blows Over Benghazi,strike blows,Obama and Romney,VN
+CRITICIZING IS ATTACKING,He attacked the speaker with harsh words of criticism.,attacked,criticism,VN
+CRIME IS AN ANIMAL,Crime is a beast ravaging the city.,beast,crime,NN
+CRIME IS A DISEASE,Crime has infected communities everywhere.,infected,crime,VN
+CREATING IS MAKING,The solution only created more problems.,,,-
+CREATING A LAW IS GROWING A PLANT,Out of these discussions will grow legislation of farreaching importance.,grow,legislation,VN
+CORRUPTION IS EROSION,Corruption is eroding the public trust in government.,eroding,corruption,VN
+CORRUPTION IS DECAY,Stopping the rot in public life.,,,-
+CORRUPTION IS A TERMITE INFESTATION,"Our nation has been infested with the termites of corruption, the worms of immorality, and a virus of indifference and apathy.",termites,corruption,NN
+CORRUPTION IS A DISEASE,Our government is afflicted with the cancer of corruption.,cancer,corruption,NN
+CORRUPTION IS A DISEASE,Corrupt officials are infecting our government at every level.,infecting,corrupt officials,VN
+CORRUPTION IS A DESTRUCTIVE NATURAL PROCESS,California Cities Struggling Under Wave of Corruption,wave,corruption,NN
+CORRUPTION IS A DESTRUCTIVE NATURAL PROCESS,FIFA facing corruption 'tsunami',tsunami,corruption,NN
+COOPERATIVE NATIONS ARE GOOD CITIZENS,Rescuing Iranian Sailors? U.S. Says It Is Just Doing Its Duty,,,-
+CONTROL IS VERTICALITY,Report to your superiors for duty.,,,-
+CONTROL IS VERTICALITY,He's the low man on the totem pole.,,,-
+CONTROL IS VERTICALITY,Napoleon's skill at the siege of Toulon while only an artillery captain under General Jacques Dugommier was to start Napoleon on the path of greatness; a rise to power that was to be incredibly rapid.,,,-
+CONTROL IS VERTICALITY,Relax. We've got everything under control.,under,control,DN
+CONTROL IS UP,I am on top of the situation.,,,-
+CONTROL IS UP,He's in a superior position.,,,-
+CONTROL IS UP,He's in the high command.,high,command,AN
+CONTROL IS UP,He's in the upper echelon.,upper,echelon,AN
+CONTROL IS UP,His power rose.,rose,power,VN
+CONTROL IS OBJECT MANIPULATION,He's putty in her hands.,,,-
+CONTROL IS A POSSESSION,He has control over all the workers.,,,-
+CONTROL IS A POSSESSION,The president kept his hold on power.,hold,power,NN
+CONTROL IS A POSSESSION,She regained control of the assembly.,regained,control,VN
+CONTROL IS A POSSESSION,He possesses the power to heal small animals.,,,-
+CONTROL IS A BOUNDED REGION,His actions are beyond my control.,beyond,control,DN
+CONTROL IS A BOUNDED REGION,The whole situation spiraled out of (our) control.,out,control,DN
+CONTROL IS A BOUNDED REGION,He returned to power.,returned,power,VN
+CONTROL IS A BOUNDED REGION,The president is in control of the executive branch.,in,control,DN
+CONTROL IS A BOUNDED REGION,President Mubarak has stepped down from power.,,,-
+CONSUMING TOO MANY RESOURCES IS EATING TOO MUCH FOOD,Developing nations are gobbling up our fossil fuels at any alarming rate.,gobbling up,fossil fues,VN
+CONSUMING TOO MANY RESOURCES IS EATING TOO MUCH FOOD,The United States' insatiable appetite for electronics will entirely consume our supply of rare metals.,appetite,consume,VN
+CONSUMING RESOURCES IS EATING,This SUV sure is a gas guzzler.,guzzler,gas,AN
+CONSUMING RESOURCES IS EATING,Demand for paper goods is eating away at our planet's forests.,eating away,forests,VN
+CONSTITUENTS ARE CONTENTS,There is both cotton and polyester in that shirt.,,,-
+CONSTITUENTS ARE CONTENTS,This drink is loaded with vitamins.,,,-
+CONSTITUENTS ARE CONTENTS,Our agenda is packed with events.,,,-
+CONSTITUENTS ARE CONTENTS,There are seven days in a week.,,,-
+CONSIDERING THE IMPORTANCE OF RIGHTS IS PLAYING A GAME,“Your dead kids don’t trump my Constitutional rights.”,trump,Constitutional rights,VN
+CONSCIOUSNESS IS VERTICALITY,I'm up!,,,-
+CONSCIOUS IS UP,Wake up!,up,wake,DV
+COMPULSION IS A COMPELLING FORCE,Vanity finally drove me to have the operation.,drove,vanity,VN
+COMPETITION IS A RACE,The arms race.,,,-
+COMPETITION IS A RACE,"We’ve been playing chess for years, and he’s finally pulling ahead of me.",pulling ahead,playing,VV
+COMPETITION IS A RACE,"He’s a better writer than I am, and he’s widening the distance.",better writer,widening,VN
+COMPANY IS A COMPLEX STRUCTURE,We have to restructure this firm.,restructure,firm,VN
+COMMUNICATING IS SHOWING,Let me illustrate the theory with some examples.,,,-
+COMMUNICATING IS SHOWING,I'm now going to show you that you are wrong.,,,-
+COMMUNICATING IS POINTING,He pointed out that global warming is real.,,,-
+COMMUNICATING IS OBJECT TRANSFER,You gave me a great idea!,gave,idea,VN
+COMMUNICATING IS OBJECT TRANSFER,Try to pack more thoughts into fewer words.,pack,words,VN
+COMMUNICATING IS OBJECT TRANSFER,Whenever you have a good idea practice capturing it in words.,capturing,words,VN
+COMMUNICATING IS OBJECT TRANSFER,Don't force your meanings into the wrong words.,,,-
+COMMUNICATING IS OBJECT TRANSFER,Try to get your thoughts across better.,across,thoghts,DN
+COMMUNICATING IS OBJECT TRANSFER,You still have to give me an idea of what you mean.,give,idea,VN
+COMMUNICATING IS GUIDING,This book will guide you step by step how to apply for citizenship.,,,-
+COMMUNICATING IS FEEDING,I've been feeding him stock market tips for weeks.,,,-
+COMMUNICATING IS DRAWING A PICTURE,Do I have to draw a picture for you?,,,-
+COMMUNICATING IS DRAWING A PICTURE,He painted an idyllic picture of their life together.,,,-
+COGNIZING IS BODILY FUNCTIONING,My mind was racing.,racing,mind,VN
+COGNIZING IS BODILY FUNCTIONING,My mind is tired.,tired,mind,AN
+CITIZENS ARE SLAVES,This new slavery is a total dependence by individuals and families on government for the materials and funds necessary to maintain a minimum standard of living.,slavery,individuals,NN
+CITIZENS ARE SLAVES,...the people of America’s needs and priorities become second to the needs of the state and the people of America become enslaved to the state.,enslaved,state,AN
+CITIZENS ARE EYES AND EARS,Snitch Culture: How Citizens are Turned into the Eyes and Ears of the State,eyes and ears,citizens,NN
+CITIZENS ARE EMPLOYERS,Nine reasons why we should fire Congress,,,-
+CITIZEN RIGHTS ARE TERRITORIES,We need to protect our rights from infringement.,protect,rights,VN
+CITIZEN RIGHTS ARE SHIELDS FROM HARM,Do gun rights protect against tyranny?,protect,rights,VN
+CITIZEN RIGHTS ARE POSSESSIONS,Don't let anyone take away your right to vote.,take away,right,VN
+CITIZEN RIGHTS ARE PHYSICAL STRUCTURES,One down of the three pillars of “unalienable” rights that hold up this great country of ours.,pillars,rights,NN
+CITIZEN RIGHTS ARE PHYSICAL STRUCTURES,"This is an usagainst-them battle, but the “them” are those who would dismantle our rights.",dismantle,rights,VN
+CHANGE OF STATE IS CHANGE OF POSSESSION,I got a headache.,,,-
+CHANGE OF STATE IS CHANGE OF POSSESSION,My headache went away.,,,-
+CHANGE OF STATE IS CHANGE OF LOCATION,He went crazy.,,,-
+CHANGE OF STATE IS CHANGE OF LOCATION,He fell into a depression.,,,-
+CHANGE OF STATE IS CHANGE OF LOCATION,I came out of my depression.,,,-
+CHANGE OF STATE IS CHANGE OF LOCATION,He went over the edge.,,,-
+CHANGE OF STATE IS CHANGE OF LOCATION,Things have gone from bad to worse lately.,gone,from bad to worse,?
+CHANGE IS LOSS,My headache went away.,,,-
+CHANGE IS LOSS,He lost his faith.,,,-
+CHANGE IS LOSS,He got rid of his headache.,,,-
+CHANGE IS ACQUISITION,I got a headache.,,,-
+CHANGE IN CONTROLLER IS TRANSFER OF POSSESSION,The US handed over control of the prisoners to Afghan authorities.,handed,control,VN
+CHANGE IN CONTROLLER IS TRANSFER OF POSSESSION,The Democrats wrested control of four governerships from the Republicans,wrested,control,VN
+CHANGE IN CONTROLLER IS TRANSFER OF POSSESSION,The government acquired control of the company's assets.,acquired,control,VN
+CERTAIN IS FIRM,The plans for the trip have finally been firmed up.,,,-
+CERTAIN IS FIRM,Next year's budget is fairly solid at this point.,,,-
+CENSORSHIP IS PHYSICAL RESTRAINING OF MOUTH,"... allow courts to circumvent the First Amendment, slowly eroding the freedom of the press in a much more subtle manner than if they gagged the media directly.",gagged,media,VN
+CENSORSHIP IS PHYSICAL RESTRAINING OF MOUTH,The government should not muzzle the press.,muzzle,press,VN
+CAUSING ECONOMIC HARDSHIP IS CAUSING PHYSICAL HARM,Another round of cuts will cripple the economy.,cripple,economy,VN
+CAUSING DECREASE IN CRIME IS TREATING DISEASE,Thriving community centers have proven to be an effective treatment against violent crime in a number of neighborhoods.,treatment,crime,NN
+CAUSES ARE FORCES,The trial thrust O.J.'s attorney's into the limelight.,,,-
+CAUSES ARE FORCES,FDR's leadership brought the country out of the depression.,,,-
+CAUSES ARE FORCES,That experience pushed him over the edge,,,-
+CAUSED INABILITY TO ACT IS PREVENTION OF MOTION ALONG A PATH,Regulations keep me from moving ahead with this housing project.,,,-
+CAUSED INABILITY TO ACT IS PREVENTION OF MOTION ALONG A PATH,Sudden illness stopped his progress.,,,-
+CAUSED INABILITY TO ACT IS PREVENTION OF MOTION ALONG A PATH,He's really gotten hung up at that step in the process.,,,-
+CAUSED INABILITY TO ACT IS PREVENTION OF MOTION ALONG A PATH,He is so caught up in his work he can't do anything else.,,,-
+CAUSED INABILITY TO ACT IS PREVENTION OF MOTION ALONG A PATH,He was held up in the meeting.,,,-
+CAUSED CHANGE OF STATE IS CAUSED CHANGE OF LOCATION,She was forced into an arranged marriage.,,,-
+CAUSED CHANGE OF STATE IS CAUSED CHANGE OF LOCATION,Her parents kept pushing her until she succeeded.,,,-
+CAUSATION IS OBJECT TRANSFER,The noise is giving me a headache.,,,-
+CATEGORIES ARE BOUNDED REGIONS,Tomatoes technically fall within the fruit category.,within,category,DN
+CATEGORIES ARE BOUNDED REGIONS,"I wouldn't put him in the friend category, exactly.",put,category,DN
+CAREER IS A COMPLEX STRUCTURE,How to make a career out of things you would do even for free.,make,career,VN
+CAREER IS A BUILDING,Stars whose careers collapsed in a relatively short amount of time,collapsed,career,VN
+BUSINESSES ARE LIVING ENTITIES,Here are some tips to grow your business.,grow,business,VN
+BUSINESS COMPETITION IS COMPETITIVE SPORTS,It's Now Apple And Samsung's Game To Lose--Everyone Else Is An Also-Ran,,,-
+BUREAUCRATS ARE MACHINE PARTS,"You could call me just a work-for-hire hack, and a willing, contented cog in a bureaucratic machine.",machine,bureaucratic,AN
+BUREAUCRACY IS A MACHINE,"Confronted with the grinding cogs of bureaucracy, but needing a new cap, Coltrane shrugged and filled out the form.",cogs,bureaucracy,NN
+BUREACRACY IS AN OCTOPUS,The creation of this board of unelected bureaucrats is yet another tentacle of the Obama Administration digging its way into the doctors-patient relationship.,tentacle,bureaucrats,NN
+BUREACRACY IS A MAZE,Lost in the bureaucratic maze of city's criminal justice system,maze,bureaucratic,AN
+BODY IS A CONTAINER FOR EMOTIONS,He was filled with anger.,filled,anger,VN
+BODY IS A CONTAINER FOR EMOTIONS,She couldn't contain her joy.,contain,joy,VN
+BODY IS A CONTAINER FOR EMOTIONS,She was brimming with rage.,briming,rage,VN
+BELIEFS ARE POSSESSIONS,Hold on to your beliefs and never let them go.,hold on,beliefs,VN
+BEING POISED TO KNOW IS BEING POSITIONED TO SEE WELL,The prescribing physician is in the best position to evaluate a patient's treatment history and options.,,,-
+BEING IMMORAL IS BEING LOW,I refuse to stoop to that kind of behavior.,stoop,behaviour,VN
+BEING GOOD IS BEING UPRIGHT,He is an upstanding citizen.,,,-
+BEING ALIVE IS BEING PHYSICALLY AT THIS LOCATION,He's no longer with us.,,,-
+BEING ALIVE IS BEING PHYSICALLY AT THIS LOCATION,He's gone / departed.,,,-
+BAD IS STINKY,This movie stinks!,,,-
+ATTRIBUTES OF GOVERNMENT ARE ENTITIES,"In a democratic government, authority is given to it by the people.",given,authority,VN
+ATTRIBUTES ARE POSSESSIONS,She has a sunny disposition.,has,sunny disposition,VN
+ATTRIBUTES ARE POSSESSIONS,This place has lost a lot of its charm.,lost,charm,VN
+ATTRIBUTES ARE POSSESSIONS,The new mustache gave him an older appearance.,gave,appearance,VN
+ATTRIBUTES ARE ENTITIES,"If you soak it in water, the wood will lose its rigidity.",,,-
+ATTAINING CONTROL IS GAINING A POSSESSION,"You could talk about the dealerships, auto dealerships that were closed down when the government got control of a couple of the auto companies, an awful lot of people lost jobs, businesses were closed, and so on.",got,control,VN
+ATTAINING CONTROL IS GAINING A POSSESSION,"The Shadow Party: How George Soros, Hillary Clinton, and Sixties Radicals Seized Control of the Democratic Party",seized,control,VN
+ASSISTANCE IS SUPPORT,Our conservation program needs your support.,,,-
+ASSISTANCE IS SUPPORT,I've really been leaning on my friends the past few months.,leaning on,friends,VN
+ASSESSING IS MEASURING,We need to know how big of a problem that is.,,,-
+ARITHMETIC IS OBJECT CONSTRUCTION,Five is made up of two plus three.,made up,five,VN
+ARITHMETIC IS OBJECT CONSTRUCTION,"If you put 2 and 2 together, you get 4.",put,2 and 2,VN
+ARGUMENT IS WAR,He bombarded them with clever arguments.,bombarded,arguments,VN
+ARGUMENT IS WAR,His criticisms were right on target.,target,criticisms,NN
+ARGUMENT IS PHYSICAL COMBAT,Your claims are indefensible.,indefensible,claims,AN
+ARGUMENT IS PHYSICAL COMBAT,He attacked every weak point in my argument.,attacked,argument,VN
+ARGUMENT IS PHYSICAL COMBAT,His criticisms were right on target.,target,criticisms,NN
+ARGUMENT IS PHYSICAL COMBAT,I blew his argument out of the water.,blew,argument,VN
+ARGUMENT IS PHYSICAL COMBAT,I've never won an argument with him.,won,argument,VN
+ARGUMENT IS PHYSICAL COMBAT,"You disagree? OK, shoot!",shoot,disagree,VV
+ARGUMENT IS PHYSICAL COMBAT,"If you use that strategy, he'll wipe you out.",,,-
+ARGUMENT IS PHYSICAL COMBAT,He shot down all of my arguments.,shot down,argument,VN
+ANGER IS THE HEAT OF FLUID IN A CONTAINER,You make my blood boil.,,,-
+ANGER IS THE HEAT OF FLUID IN A CONTAINER,I had reached the boiling point.,,,-
+ANGER IS PRESSURE IN A CONTAINER,He was just about to burst with anger.,burst,anger,VN
+ALTERNATIVE LEGISLATION IS ALTERNATIVE PATH,"Fitch said in a report on Dec. 19 that it expected Congress to find a way to pull back from the “fiscal cliff,” but that it would not be “a credible plan to reduce the federal budget deficit and stabilize government debt over the medium term.”",,,-
+ALLIANCES ARE FRIENDSHIPS,There seems to be growing friendship between Shia Iran and its Sunni-dominated neighbours.,friendship,Iran,VN
+AID TO KNOWING IS A LIGHT SOURCE,Ecologists Shed New Light On Effects of Light Pollution On Wildlife,,,-
+AGREEMENT IS PHYSICAL PROXIMITY,We're finally on the same page.,,,-
+AGREEMENT IS PHYSICAL PROXIMITY,Who's with me?,,,-
+AFFECTION IS WARMTH,She's warming up to her new brother-in-law.,,,-
+ADVOCATING GUN CONTROL IS ZEALOTRY,"Of course, gun control fanatics pay little attention to facts.",fanatics,gun control,NN
+ADDRESSING SOCIAL PROBLEMS IS WAGING WAR,"The most powerful weapon in the war against obesity might be something we all understand: cold, hard cash.",war,obesity,NN
+ADDRESSING SOCIAL PROBLEMS IS WAGING WAR,How America's losing the war on poverty,war,poverty,NN
+ADDRESSING SOCIAL PROBLEMS IS TREATING AN ILLNESS,Debt Ceiling Deal: Wrong Diagnosis Leads to Wrong Treatment for What Ails the Economy,ails,economy,VN
+ADDRESSING POVERTY IS TREATING AN ILLNESS,Improving access to education is the only sure way to cure us of poverty.,cure,poverty,VN
+ADDRESSING CRIME IS CONTROLLING AN ANIMAL,"Law enforcement officers have often described these arrests as a way of reining in criminals whose other, more serious activities present a danger to the public.",reining,criminals,VN
+ACTIVITIES ARE JOURNEYS,Do it over.,,,-
+ACTIVITIES ARE JOURNEYS,"In the course of the investigation, new evidence was found.",course,investigation,NN
+ACTIVITIES ARE JOURNEYS,Follow along as I assemble this.,follow,assemble,VV
+ACTIVITIES ARE JOURNEYS,Follow these steps in assembly.,follow,assembly,VN
+ACTIVITIES ARE BOUNDED REGIONS IN SPACE,How did Jerry get out of washing the windows?,get out,washing,VN
+ACTIVITIES ARE BOUNDED REGIONS IN SPACE,"Outside of washing the windows, what else did you do?",outside,washing,DN
+ACTIVITIES ARE BOUNDED REGIONS IN SPACE,I put a lot of energy into washing the windows.,put,washing,VV
+ACTIVITIES ARE BOUNDED REGIONS IN SPACE,I get a lot of satisfaction out of washing windows.,out,washing,DN
+ACTION IS SELF-PROPELLED MOTION ALONG A PATH,He exercised to the point of exhaustion.,,,-
+ACTION IS SELF-PROPELLED MOTION ALONG A PATH,She squeezed her way to thinner thighs.,way,squeezed,VN
+ACTION IS SELF-PROPELLED MOTION ALONG A PATH,He drank himself out of the promotion.,,,-
+ACTION IS SELF-PROPELLED MOTION ALONG A PATH,He went on with what he was doing.,,,-
+ACTION IS SELF-PROPELLED MOTION ALONG A PATH,She went back to sleep.,went,sleep,VV
+ACTION IS SELF-PROPELLED MOTION ALONG A PATH,She successfully navigated her way through the contract negotiations.,navigated,negotiations,NN
+ACTION IS MOTION ALONG A PATH,Devastation from the hurricane thrust the nation into recession.,,,-
+ACTION IS MOTION ALONG A PATH,Congress' refusal to compromise is moving the country toward economic ruin.,moving,refusal,VV
+ACTION IS MOTION,This computer program turns the power on and off.,,,-
+ACTION IS BEING IN A LOCATION,The car is in motion.,in,motion,DN
+ACTION IS BEING IN A LOCATION,I'm going to leave.,going to,leave,VV
+ACTION IS BEING IN A LOCATION,She's close to resigning.,close,resigning,DN
+ACQUIRING IDEAS IS EATING,We pitched them the idea and they ate it right up.,ate,idea,VN
+ACQUIRING IDEAS IS EATING,He's been feeding her lies all these years.,feeding,lies,VN
+ACQUIRING IDEAS IS EATING,This article is hard to digest.,digest,article,VN
+ACHIEVING POWER IS MOVING UPWARDS,"Hitler's rise to power cannot be attributed to one event, but a mixture of factors including events happening outside Germany...",rise,power,NN
+ACHIEVING POWER IS MOVING UPWARDS,Regensburg’s political influence reached its peak when Regensburg was city of the Perpetual Diet or General Assembly of the Imperial Estates of the Holy Roman Empire from 1663 to 1806.,peak,influence,NN
+ACHIEVING A PURPOSE IS REACHING A DESTINATION,We've reached the end.,,,-
+ACHIEVING A PURPOSE IS REACHING A DESTINATION,We are seeing the light at the end of the tunnel.,,,-
+ACHIEVING A PURPOSE IS REACHING A DESTINATION,We only have  short way to go.,,,-
+ACHIEVING A PURPOSE IS REACHING A DESTINATION,We're where we wanted to go.,,,-
+ACHIEVING A PURPOSE IS REACHING A DESTINATION,The goal is a long way off.,way,goal,NN
+ACHIEVING A PURPOSE IS REACHING A DESTINATION,He is just floating around.,,,-
+ACHIEVING A PURPOSE IS ACQUIRING A DESIRED OBJECT,They just handed him the job.,handed,job,VN
+ACHIEVING A PURPOSE IS ACQUIRING A DESIRED OBJECT,Seize the opportunity.,seize,opportunity,VN
+ACHIEVING A PURPOSE IS ACQUIRING A DESIRED OBJECT,"I kept getting close to a world championship, but it kept escaping me.",escaping,world championship,VN
+ACHIEVING A PURPOSE IS ACQUIRING A DESIRED OBJECT,He finally managed to get a smile out of her.,get,smile,VN
+ACHIEVING A PURPOSE IS ACQUIRING A DESIRED OBJECT,She landed four huge accounts this year.,landed,accounts,VN
+ABUSIVE POLITICAL LEADERS ARE PHYSICAL BULLIES,Will House Republicans Get Bullied into a Tax Hike By Obama?,bullied,House Republicans,VN
+ABUSIVE POLITICAL LEADERS ARE PHYSICAL BULLIES,"On the other hand, it's making him look indecisive, and as Pat said, he's being pushed around by the generals, by the Secretary of State and by others.",pushed around,he,VN
+ABILITY TO KNOW IS ABILITY TO SEE,The US is blind to the limits of Palestinian politics.,,,-
+ABILITY TO KNOW IS ABILITY TO SEE,The issue was exposed to the light of day.,exposed,issue,VN
+ABILITY TO KNOW IS ABILITY TO SEE,The government covered up the high levels of radiation.,,,-
+ABILITY TO EVALUATE IS ABILITY TO SEE,His judgement is clouded.,clouded,judgement,AN

@@ -1,0 +1,8 @@
+sentient_beings: 0.881
+upsetting_people: 0.866
+shake_nation: 0.859
+ending_reign: 0.853
+change: 0.834
+fun: 0.822
+regime_change: 0.816
+-evolution: 0.809

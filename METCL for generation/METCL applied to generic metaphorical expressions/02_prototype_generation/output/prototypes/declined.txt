@@ -1,0 +1,8 @@
+decrease: 0.7983
+drop: 0.7965
+descend: 0.7569
+inflect: 0.7569
+-increase: 0.738
+condition: 0.7263000000000001
+-incline: 0.7209000000000001
+popularity_of_breast_augmentation: 0.714

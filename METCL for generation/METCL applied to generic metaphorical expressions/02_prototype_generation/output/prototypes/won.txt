@@ -1,0 +1,4 @@
+-lost: 0.791
+-lose: 0.724
+-defeat: 0.7
+cash_in: 0.689

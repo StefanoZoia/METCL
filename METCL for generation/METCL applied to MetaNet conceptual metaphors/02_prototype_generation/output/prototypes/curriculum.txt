@@ -1,0 +1,3 @@
+classroom: 0.833
+norm: 0.768
+what_instructor_plans_to_teach: 0.744

@@ -1,0 +1,25 @@
+Title: curriculum-motion
+
+Head Concept Name: curriculum
+Modifier Concept Name: motion
+
+
+
+
+
+T(modifier), proposal, 0.848
+T(modifier), energy, 0.818
+T(modifier), subject, 0.8
+T(modifier), state, 0.793
+T(modifier), -moving, 0.785
+T(modifier), locomotive, 0.772
+T(modifier), -standstill, 0.766
+T(modifier), law, 0.765
+
+T(head), classroom, 0.833
+T(head), norm, 0.768
+T(head), what_instructor_plans_to_teach, 0.744
+
+
+Result: {"proposal": 0.848, "energy": 0.818, "subject": 0.8, "state": 0.793, "-moving": 0.785, "locomotive": 0.772, "classroom": 0.833, "norm": 0.768, "@scenario_probability": 0.2401757711242574}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0.2401757711242574]

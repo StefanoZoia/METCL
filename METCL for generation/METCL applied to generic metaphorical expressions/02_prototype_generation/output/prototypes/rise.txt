@@ -1,0 +1,8 @@
+-fall: 0.82
+look: 0.804
+astronomy: 0.802
+change_of_location: 0.8
+-descend: 0.8
+motion: 0.798
+travel: 0.796
+undertake: 0.793

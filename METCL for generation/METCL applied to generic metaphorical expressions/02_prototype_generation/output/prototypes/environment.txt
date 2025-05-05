@@ -1,0 +1,8 @@
+situation: 0.836
+geographical_area: 0.811
+spatial_thing: 0.781
+computing: 0.776
+region: 0.772
+site: 0.763
+programming: 0.753
+delicate_balance_of_nature: 0.749

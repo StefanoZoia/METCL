@@ -1,0 +1,7 @@
+protecting_partially_tangible: 0.915
+helping: 0.811
+obstructing_justice: 0.803
+lock: 0.77
+event: 0.738
+situation: 0.737
+chess_king: 0.656

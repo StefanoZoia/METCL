@@ -1,0 +1,8 @@
+privacy: 0.826
+cave: 0.799
+surprise: 0.765
+underground_area: 0.753
+action_on_object: 0.739
+action_performed_by_animals: 0.739
+drawer: 0.738
+sitting_quietly: 0.658

@@ -1,0 +1,8 @@
+track_event: 0.88
+track_meet: 0.8280000000000001
+obstacle: 0.8244
+barrier: 0.8055
+footrace: 0.7821
+vault: 0.7415999999999999
+sport: 0.7191000000000001
+sports_equipment: 0.6804

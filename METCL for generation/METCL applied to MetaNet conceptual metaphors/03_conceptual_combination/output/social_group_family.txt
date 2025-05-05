@@ -1,0 +1,25 @@
+Title: social_group-family
+
+Head Concept Name: social_group
+Modifier Concept Name: family
+
+
+
+
+
+T(modifier), relatives_house, 0.898
+T(modifier), kin, 0.881
+T(modifier), nice, 0.871
+T(modifier), lineage, 0.856
+T(modifier), house, 0.847
+T(modifier), family_unit, 0.842
+T(modifier), taxonomic_group, 0.837
+T(modifier), unit, 0.833
+
+T(head), group, 0.822
+T(head), group_of_things, 0.775
+T(head), group_of_social_beings, 0.775
+
+
+Result: {"relatives_house": 0.898, "kin": 0.881, "nice": 0.871, "lineage": 0.856, "house": 0.847, "family_unit": 0.842, "taxonomic_group": 0.837, "group": 0.822, "@scenario_probability": 0.24469125560998567}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0.24469125560998567]

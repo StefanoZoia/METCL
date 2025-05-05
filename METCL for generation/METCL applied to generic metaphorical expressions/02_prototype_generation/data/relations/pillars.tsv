@@ -1,0 +1,7 @@
+/c/en/pillars	FormOf	/c/en/pillar	2.82842712474619	0.918
+/c/en/pillars	FormOf	/c/en/pillar	2.0	0.918
+/c/en/lats	RelatedTo	/c/en/pillars	1.0	0.159
+/c/en/pillars	RelatedTo	/c/en/pillar	1.0	0.918
+/c/en/column	RelatedTo	/c/en/pillars	0.30600000000000005	0.451
+/c/en/bridge	RelatedTo	/c/en/pillars	0.1549999999999998	0.145
+/c/en/support	RelatedTo	/c/en/pillars	0.137	0.143

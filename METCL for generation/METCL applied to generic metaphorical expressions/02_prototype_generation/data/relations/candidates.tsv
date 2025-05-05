@@ -1,0 +1,8 @@
+/c/en/candidates	RelatedTo	/c/en/candidate	1.0	0.91
+/c/en/make_cut	RelatedTo	/c/en/candidates	1.0	0.046
+/c/en/valence_issue	RelatedTo	/c/en/candidates	1.0	0.003
+/c/en/alternative_vote	RelatedTo	/c/en/candidates	1.0	0.75
+/c/en/candidates	FormOf	/c/en/candidate	1.0	0.91
+/c/en/ballot	RelatedTo	/c/en/candidates	0.31300000000000017	0.528
+/c/en/political	RelatedTo	/c/en/candidates	0.2570000000000001	0.316
+/c/en/elect	RelatedTo	/c/en/candidates	0.18800000000000017	0.516

@@ -1,0 +1,8 @@
+defend: 0.905
+trade: 0.814
+assist: 0.814
+shield: 0.795
+-harm: 0.774
+travel: 0.751
+bar: 0.749
+aviation: 0.746

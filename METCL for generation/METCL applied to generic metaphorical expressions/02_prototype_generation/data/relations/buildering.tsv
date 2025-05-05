@@ -1,0 +1,6 @@
+/c/en/buildering	DerivedFrom	/c/en/building	1.0	0.404
+/c/en/builderer	DerivedFrom	/c/en/buildering	1.0	1.0
+/c/en/buildering	DerivedFrom	/c/en/bouldering	1.0	-0.011
+/c/en/builder	DerivedFrom	/c/en/buildering	1.0	0.946
+/c/en/buildering	Synonym	/c/en/rooftopping	1.0	0.001
+/c/en/buildering	RelatedTo	/c/en/building	1.0	0.404

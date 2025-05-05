@@ -1,0 +1,8 @@
+malignant_tumor: 0.923
+disease: 0.874
+bad: 0.869
+oncology: 0.863
+neoplasm_condition: 0.855
+hurry_death: 0.848
+result_in_death: 0.837
+kill: 0.835

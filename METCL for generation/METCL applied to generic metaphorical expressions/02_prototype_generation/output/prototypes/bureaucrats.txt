@@ -1,0 +1,5 @@
+bureaucracy: 0.924
+official: 0.7731
+administrator: 0.7236
+wmf_jargon: 0.6651
+end_of_line: 0.6561

@@ -1,0 +1,8 @@
+restraint: 0.856
+policy: 0.832
+system: 0.819
+-détente: 0.798
+physics: 0.793
+-rollback: 0.778
+-regime_change: 0.777
+mathematics: 0.74

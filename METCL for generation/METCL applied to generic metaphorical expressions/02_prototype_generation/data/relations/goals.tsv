@@ -1,0 +1,12 @@
+/c/en/person	Desires	/c/en/goals	2.0	-0.071
+/c/en/goals	FormOf	/c/en/goal	1.0	0.849
+/c/en/goals	RelatedTo	/c/en/goal	1.0	0.849
+/c/en/game_sheet	RelatedTo	/c/en/goals	1.0	0.154
+/c/en/g	RelatedTo	/c/en/goals	1.0	0.089
+/c/en/getting_in_shape	UsedFor	/c/en/goals	1.0	0.034
+/c/en/sniper	RelatedTo	/c/en/goals	1.0	0.242
+/c/en/gf	RelatedTo	/c/en/goals	1.0	0.253
+/c/en/goals	FormOf	/c/en/goal	1.0	0.849
+/c/en/goals	IsA	/c/en/form_of_motivation	1.0	0.0
+/c/en/career	RelatedTo	/c/en/goals	0.1499999999999999	0.183
+/c/en/field	RelatedTo	/c/en/goals	0.13600000000000012	0.054

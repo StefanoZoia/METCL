@@ -1,0 +1,8 @@
+electronic_devices: 0.889
+light_emitting_diod: 0.875
+electronics: 0.843
+electronic_equipment: 0.842
+light_dark_space: 0.842
+display_panel: 0.83
+indicating_state: 0.823
+indicator_lights: 0.821

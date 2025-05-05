@@ -1,0 +1,8 @@
+drinker: 0.885
+drunkard: 0.8181
+drink_lot_of_booze: 0.8154
+drink: 0.801
+eater: 0.7965
+-nonalcoholic: 0.7758
+-teetotaler: 0.7695
+homeless_shelter: 0.7686

@@ -1,0 +1,8 @@
+war: 0.887
+expedition: 0.868
+operation: 0.845
+race: 0.833
+venture: 0.829
+raise_awareness_about_issue: 0.821
+africa: 0.803
+project: 0.801

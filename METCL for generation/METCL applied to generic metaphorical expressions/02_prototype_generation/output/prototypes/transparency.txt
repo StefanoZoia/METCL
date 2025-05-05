@@ -1,0 +1,5 @@
+clearness: 0.88
+physical_phenomenon: 0.783
+facet_collection: 0.771
+signal_processing: 0.748
+photography: 0.737

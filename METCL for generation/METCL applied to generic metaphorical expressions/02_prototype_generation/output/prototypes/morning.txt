@@ -1,0 +1,8 @@
+-afternoon: 0.889
+-night: 0.88
+-evening: 0.85
+time_period: 0.824
+-nighttime: 0.797
+-late: 0.793
+early_morning_hour: 0.792
+-dusk: 0.788

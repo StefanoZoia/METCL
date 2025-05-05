@@ -1,0 +1,5 @@
+/c/en/humans	HasA	/c/en/physical_strength	1.0	0.028
+/c/en/one_form_of_power	IsA	/c/en/physical_strength	1.0	-0.079
+/c/en/climbing_mountain	HasPrerequisite	/c/en/physical_strength	1.0	0.07
+/c/en/might	RelatedTo	/c/en/physical_strength	0.2789999999999999	-0.026
+/c/en/force	RelatedTo	/c/en/physical_strength	0.24800000000000022	0.074

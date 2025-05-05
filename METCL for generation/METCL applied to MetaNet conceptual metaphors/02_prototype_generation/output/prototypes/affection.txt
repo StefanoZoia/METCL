@@ -1,0 +1,8 @@
+feeling: 0.832
+loving_another: 0.793
+-resentment: 0.766
+good_will: 0.762
+-loathing: 0.762
+-rancor: 0.757
+-grudge: 0.745
+archaic: 0.741

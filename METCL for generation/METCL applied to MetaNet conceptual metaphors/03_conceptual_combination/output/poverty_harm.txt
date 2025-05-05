@@ -1,0 +1,30 @@
+Title: poverty-harm
+
+Head Concept Name: poverty
+Modifier Concept Name: harm
+
+
+
+
+
+T(modifier), injure, 0.902
+T(modifier), -protect, 0.774
+T(modifier), -favor, 0.768
+T(modifier), fire, 0.753
+T(modifier), -heal, 0.73
+T(modifier), -help, 0.722
+T(modifier), killing, 0.707
+T(modifier), too_much_of, 0.689
+
+T(head), financial_condition, 0.865
+T(head), undesirable, 0.833
+T(head), -wealth, 0.792
+T(head), drive_crime, 0.789
+T(head), situation, 0.763
+T(head), curse, 0.75
+T(head), get_money_from, 0.748
+T(head), mumbai, 0.747
+
+
+Result: {"injure": 0.902, "-protect": 0.774, "-favor": 0.768, "financial_condition": 0.865, "undesirable": 0.833, "-wealth": 0.792, "drive_crime": 0.789, "situation": 0.763, "@scenario_probability": 0.0004960108119115678}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.0004960108119115678]

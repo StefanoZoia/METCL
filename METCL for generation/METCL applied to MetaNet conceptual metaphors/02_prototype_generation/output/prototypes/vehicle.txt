@@ -1,0 +1,8 @@
+travel: 0.868
+seat_nine: 0.852
+conveyance: 0.845
+receive_damage: 0.839
+driving: 0.837
+freeway: 0.834
+mobility: 0.829
+substance: 0.822

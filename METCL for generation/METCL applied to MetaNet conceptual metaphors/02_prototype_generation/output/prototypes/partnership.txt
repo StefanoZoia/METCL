@@ -1,0 +1,6 @@
+relationship: 0.87
+contract: 0.844
+business: 0.83
+organization: 0.802
+cricket: 0.777
+agent_non_geographical: 0.722

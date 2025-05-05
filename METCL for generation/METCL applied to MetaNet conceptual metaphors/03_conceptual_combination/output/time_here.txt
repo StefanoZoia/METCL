@@ -1,0 +1,30 @@
+Title: time-here
+
+Head Concept Name: time
+Modifier Concept Name: here
+
+
+
+
+
+T(modifier), -away, 0.836
+T(modifier), location, 0.813
+T(modifier), -that, 0.787
+T(modifier), abstract, 0.759
+T(modifier), paper_dog, 0.744
+T(modifier), -far, 0.738
+T(modifier), british, 0.735
+T(modifier), historical, 0.729
+
+T(head), time_period, 0.88
+T(head), moment, 0.878
+T(head), linear, 0.874
+T(head), running, 0.871
+T(head), finite, 0.851
+T(head), age, 0.843
+T(head), endless, 0.84
+T(head), absolute, 0.836
+
+
+Result: {"-away": 0.836, "time_period": 0.88, "moment": 0.878, "linear": 0.874, "running": 0.871, "finite": 0.851, "age": 0.843, "endless": 0.84, "@scenario_probability": 0.00022469219970748308}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.00022469219970748308]

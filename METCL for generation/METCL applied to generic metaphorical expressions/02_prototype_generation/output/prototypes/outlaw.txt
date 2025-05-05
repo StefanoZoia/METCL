@@ -1,0 +1,6 @@
+forbid: 0.835
+criminal: 0.786
+slang: 0.753
+history: 0.746
+humorous: 0.731
+worker: 0.726

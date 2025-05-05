@@ -1,0 +1,28 @@
+Title: multiplex-mass
+
+Head Concept Name: multiplex
+Modifier Concept Name: mass
+
+
+
+
+
+T(modifier), mass_or_spatial_quantity, 0.857
+T(modifier), crowd, 0.852
+T(modifier), roman_catholic, 0.834
+T(modifier), prayer, 0.825
+T(modifier), protestant_church, 0.821
+T(modifier), body, 0.818
+T(modifier), high_mass, 0.816
+T(modifier), religious_music, 0.809
+
+T(head), cinema, 0.883
+T(head), telecommunication, 0.819
+T(head), juggling, 0.789
+T(head), botany, 0.755
+T(head), medicine, 0.733
+T(head), computing, 0.73
+
+
+Result: {"mass_or_spatial_quantity": 0.857, "crowd": 0.852, "roman_catholic": 0.834, "prayer": 0.825, "protestant_church": 0.821, "body": 0.818, "cinema": 0.883, "telecommunication": 0.819, "@scenario_probability": 0.0031956281447392356}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0.0031956281447392356]

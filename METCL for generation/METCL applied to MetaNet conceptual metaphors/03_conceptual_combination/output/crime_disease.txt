@@ -1,0 +1,30 @@
+Title: crime-disease
+
+Head Concept Name: crime
+Modifier Concept Name: disease
+
+
+
+
+
+T(modifier), infectious, 0.909
+T(modifier), illness, 0.904
+T(modifier), deadly, 0.862
+T(modifier), ending_in_death, 0.843
+T(modifier), make_sick, 0.837
+T(modifier), -wanted_by_most_people, 0.831
+T(modifier), syndrome, 0.822
+T(modifier), rot_human_bodies, 0.819
+
+T(head), criminal_law, 0.865
+T(head), increasing, 0.848
+T(head), hate_crime, 0.843
+T(head), transgression, 0.841
+T(head), result_in_punishment, 0.836
+T(head), -good, 0.828
+T(head), activity, 0.806
+T(head), anger_person, 0.8
+
+
+Result: {"infectious": 0.909, "illness": 0.904, "deadly": 0.862, "ending_in_death": 0.843, "criminal_law": 0.865, "increasing": 0.848, "hate_crime": 0.843, "transgression": 0.841, "@scenario_probability": 3.016335122061137e-05}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 3.016335122061137e-05]

@@ -1,0 +1,26 @@
+Title: intimacy-proximity
+
+Head Concept Name: intimacy
+Modifier Concept Name: proximity
+
+
+
+
+
+T(modifier), nearness, 0.927
+T(modifier), vicinity, 0.899
+T(modifier), gestalt_law_of_organization, 0.798
+T(modifier), -distance, 0.777
+
+T(head), affection, 0.834
+T(head), more_frightening_than_sex, 0.825
+T(head), desirable, 0.818
+T(head), incompatible_with_workaholism, 0.818
+T(head), -solitude, 0.808
+T(head), marriage, 0.792
+T(head), family, 0.769
+T(head), kissing, 0.751
+
+
+Result: {"nearness": 0.927, "vicinity": 0.899, "gestalt_law_of_organization": 0.798, "affection": 0.834, "more_frightening_than_sex": 0.825, "desirable": 0.818, "incompatible_with_workaholism": 0.818, "-solitude": 0.808, "@scenario_probability": 0.06600241242417246}
+Scenario: [1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.06600241242417246]

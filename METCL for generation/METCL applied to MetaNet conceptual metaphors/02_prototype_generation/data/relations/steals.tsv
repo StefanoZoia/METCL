@@ -1,0 +1,14 @@
+/c/en/steals	RelatedTo	/c/en/baserunner	1.0	0.376
+/c/en/snatcher	RelatedTo	/c/en/steals	1.0	0.378
+/c/en/steals	RelatedTo	/c/en/stolen_bases	1.0	0.212
+/c/en/bank_robber	RelatedTo	/c/en/steals	1.0	0.281
+/c/en/glommer	RelatedTo	/c/en/steals	1.0	0.041
+/c/en/steals	RelatedTo	/c/en/steal	1.0	0.807
+/c/en/steals	FormOf	/c/en/steal	1.0	0.807
+/c/en/steals	RelatedTo	/c/en/steal	1.0	0.807
+/c/en/steals	FormOf	/c/en/steal	1.0	0.807
+/c/en/shoplifter	RelatedTo	/c/en/steals	1.0	0.267
+/c/en/steals	HasContext	/c/en/baseball	1.0	0.232
+/c/en/robber	RelatedTo	/c/en/steals	0.16800000000000015	0.208
+/c/en/thief	RelatedTo	/c/en/steals	0.1459999999999999	0.408
+/c/en/ant	RelatedTo	/c/en/steals	0.13100000000000023	0.015

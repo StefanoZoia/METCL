@@ -1,0 +1,21 @@
+Title: difficulty-cause_harm
+
+Head Concept Name: difficulty
+Modifier Concept Name: cause_harm
+
+
+
+
+
+T(modifier), hurt_else, 0.714
+T(modifier), nostroms, 0.701
+
+T(head), condition, 0.805
+T(head), quality, 0.799
+T(head), cognitive_factor, 0.794
+T(head), -ease, 0.756
+T(head), evaluative_quantity, 0.713
+
+
+Result: {"hurt_else": 0.714, "nostroms": 0.701, "condition": 0.805, "quality": 0.799, "cognitive_factor": 0.794, "-ease": 0.756, "@scenario_probability": 5.546041105245577}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 5.546041105245577]

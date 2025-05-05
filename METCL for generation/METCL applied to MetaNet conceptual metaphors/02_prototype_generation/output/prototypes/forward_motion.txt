@@ -1,0 +1,8 @@
+change_of_location: 0.7415999999999999
+develop: 0.7407
+motion: 0.7371
+-regress: 0.7254
+-retrogress: 0.7200000000000001
+matter_of_perspective: 0.6669
+-regression: 0.6588
+-failing: 0.6408

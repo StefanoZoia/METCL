@@ -1,0 +1,24 @@
+Title: cancerous-government
+
+Head Concept Name: cancerous
+Modifier Concept Name: government
+
+
+
+
+
+T(modifier), corrupt, 0.897
+T(modifier), govern_country, 0.896
+T(modifier), polity, 0.874
+T(modifier), country, 0.839
+T(modifier), force_citizens_to_comply, 0.833
+T(modifier), rule_people, 0.832
+T(modifier), -fun, 0.829
+T(modifier), jealous_of_power, 0.827
+
+T(head), -noncancerous, 0.897
+T(head), oncology, 0.847
+
+
+Result: {"corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "country": 0.839, "force_citizens_to_comply": 0.833, "rule_people": 0.832, "-fun": 0.829, "-noncancerous": 0.897, "@scenario_probability": 0.8039456347139012}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0.8039456347139012]

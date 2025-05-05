@@ -1,0 +1,6 @@
+effect_recipients_by_making_lazy: 0.807
+government_paid_service: 0.764
+-wofare: 0.753
+-woefare: 0.752
+us: 0.725
+funded_by_tax: 0.692

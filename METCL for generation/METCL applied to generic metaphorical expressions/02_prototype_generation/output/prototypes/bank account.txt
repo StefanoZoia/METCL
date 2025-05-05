@@ -1,0 +1,2 @@
+bank_account: 0.745
+paying_by_check: 0.735

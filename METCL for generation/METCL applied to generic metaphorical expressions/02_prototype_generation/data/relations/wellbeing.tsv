@@ -1,0 +1,16 @@
+/c/en/wellbeing	IsA	/c/en/prosperity	2.0	0.458
+/c/en/eudaimonia	Synonym	/c/en/wellbeing	2.0	0.759
+/c/en/well_being	Synonym	/c/en/wellbeing	2.0	0.07
+/c/en/eudaemonia	Synonym	/c/en/wellbeing	2.0	0.759
+/c/en/health	IsA	/c/en/wellbeing	2.0	0.663
+/c/en/fool's_paradise	IsA	/c/en/wellbeing	2.0	0.066
+/c/en/welfare	Synonym	/c/en/wellbeing	2.0	0.656
+/c/en/upbeat	Synonym	/c/en/wellbeing	2.0	0.13
+/c/en/feldenkrais_method	RelatedTo	/c/en/wellbeing	1.0	0.198
+/c/en/happiness	RelatedTo	/c/en/wellbeing	1.0	0.523
+/c/en/going_for_swim	Causes	/c/en/wellbeing	1.0	0.133
+/c/en/wellbeings	RelatedTo	/c/en/wellbeing	1.0	1.0
+/c/en/behalf	RelatedTo	/c/en/wellbeing	1.0	0.148
+/c/en/salutogenesis	RelatedTo	/c/en/wellbeing	1.0	0.108
+/c/en/wellbeing	FormOf	/c/en/well_being	1.0	0.07
+/c/en/wellbeings	FormOf	/c/en/wellbeing	1.0	1.0

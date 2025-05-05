@@ -1,0 +1,2 @@
+destroying_sensitive_vegetation: 0.824
+getting_hurt: 0.756

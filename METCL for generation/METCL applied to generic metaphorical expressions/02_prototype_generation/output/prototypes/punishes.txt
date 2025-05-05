@@ -1,0 +1,8 @@
+spank: 0.801
+send_to_room: 0.7938000000000001
+misbehaved: 0.7821
+slap: 0.7767000000000001
+teach_to_obey: 0.7749
+vengeance: 0.7677
+revenge: 0.7659
+lied: 0.7632

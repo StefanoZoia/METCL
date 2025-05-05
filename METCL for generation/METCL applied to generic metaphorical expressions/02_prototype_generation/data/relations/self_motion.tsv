@@ -1,0 +1,5 @@
+/c/en/self_activity	RelatedTo	/c/en/self_motion	1.0	0.198
+/c/en/inertness	RelatedTo	/c/en/self_motion	1.0	-0.028
+/c/en/self_motion	RelatedTo	/c/en/motion	1.0	-0.065
+/c/en/self_motion	DerivedFrom	/c/en/motion	1.0	-0.065
+/c/en/self_motions	FormOf	/c/en/self_motion	1.0	1.0

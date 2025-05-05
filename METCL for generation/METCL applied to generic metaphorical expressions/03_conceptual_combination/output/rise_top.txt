@@ -1,0 +1,30 @@
+Title: rise-top
+
+Head Concept Name: rise
+Modifier Concept Name: top
+
+
+
+
+
+T(modifier), -bottom, 0.875
+T(modifier), complete, 0.823
+T(modifier), hit, 0.817
+T(modifier), reach, 0.815
+T(modifier), inning, 0.815
+T(modifier), covering, 0.815
+T(modifier), spin, 0.81
+T(modifier), turn, 0.809
+
+T(head), -fall, 0.82
+T(head), look, 0.804
+T(head), astronomy, 0.802
+T(head), change_of_location, 0.8
+T(head), -descend, 0.8
+T(head), motion, 0.798
+T(head), travel, 0.796
+T(head), undertake, 0.793
+
+
+Result: {"-bottom": 0.875, "complete": 0.823, "hit": 0.817, "reach": 0.815, "inning": 0.815, "covering": 0.815, "spin": 0.81, "-fall": 0.82, "@scenario_probability": 5.350176935219694e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 5.350176935219694e-05]

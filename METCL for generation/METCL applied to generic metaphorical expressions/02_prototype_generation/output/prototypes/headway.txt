@@ -1,0 +1,6 @@
+progress: 0.901
+coal_mining: 0.768
+nautical: 0.766
+situation: 0.756
+transport: 0.75
+-sternway: 0.742

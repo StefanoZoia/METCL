@@ -1,0 +1,8 @@
+corrupt: 0.921
+govern_country: 0.875
+talk_nonsense: 0.859
+fool_masses: 0.858
+run_for_president: 0.853
+legislate: 0.853
+field_questions: 0.848
+advance_agendas: 0.846

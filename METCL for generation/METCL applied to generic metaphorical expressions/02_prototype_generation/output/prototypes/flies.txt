@@ -1,0 +1,8 @@
+fly: 0.957
+insects: 0.893
+fly_paper: 0.887
+swatting: 0.884
+pests: 0.841
+stick_to_paper: 0.834
+boring: 0.833
+space: 0.825

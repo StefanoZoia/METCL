@@ -1,0 +1,8 @@
+president_bush: 0.91
+quandry: 0.896
+difficulty: 0.884
+question: 0.863
+slow_work: 0.847
+-solution: 0.834
+-answer: 0.768
+cogitate: 0.763

@@ -1,0 +1,30 @@
+Title: anger-heat
+
+Head Concept Name: anger
+Modifier Concept Name: heat
+
+
+
+
+
+T(modifier), form_of_energy, 0.911
+T(modifier), temperature, 0.884
+T(modifier), oven, 0.864
+T(modifier), -cold, 0.861
+T(modifier), heater, 0.845
+T(modifier), cooking, 0.842
+T(modifier), energy, 0.836
+T(modifier), emotionality, 0.821
+
+T(head), emotional_arousal, 0.895
+T(head), emotion, 0.874
+T(head), frustration, 0.864
+T(head), frustration_at_inability_to_control, 0.856
+T(head), arouse, 0.838
+T(head), unpleasant, 0.815
+T(head), feel, 0.809
+T(head), cause_people_to_yell, 0.807
+
+
+Result: {"form_of_energy": 0.911, "temperature": 0.884, "oven": 0.864, "-cold": 0.861, "emotional_arousal": 0.895, "emotion": 0.874, "frustration": 0.864, "frustration_at_inability_to_control": 0.856, "@scenario_probability": 2.7527869094264626e-05}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 2.7527869094264626e-05]

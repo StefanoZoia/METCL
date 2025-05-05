@@ -1,0 +1,8 @@
+judge: 0.912
+settle_disputes: 0.91
+settle_argument: 0.906
+settle_cases: 0.871
+settle_arguments: 0.871
+prophets: 0.86
+old_testament: 0.841
+rule_courtrooms: 0.84

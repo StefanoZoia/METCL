@@ -1,0 +1,8 @@
+state: 0.843
+important_to_people: 0.821
+social_networking: 0.773
+legal: 0.765
+canada: 0.748
+almost_always_used_to_modify_another_noun: 0.736
+medicine: 0.733
+helping: 0.691

@@ -1,0 +1,21 @@
+Title: goodness-lightness
+
+Head Concept Name: goodness
+Modifier Concept Name: lightness
+
+
+
+
+
+T(modifier), -darkness, 0.853
+T(modifier), -heaviness, 0.843
+T(modifier), value, 0.817
+T(modifier), -dark, 0.738
+
+T(head), christianity, 0.763
+T(head), euphemistic, 0.72
+T(head), -bad, 0.525
+
+
+Result: {"-darkness": 0.853, "-heaviness": 0.843, "value": 0.817, "-dark": 0.738, "christianity": 0.763, "euphemistic": 0.72, "@scenario_probability": 11.313726300401033}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 11.313726300401033]

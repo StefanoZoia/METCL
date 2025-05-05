@@ -1,0 +1,17 @@
+/c/en/unloving	SimilarTo	/c/en/loveless	2.0	0.629
+/c/en/unaffectionate	SimilarTo	/c/en/unloving	2.0	0.775
+/c/en/unromantic	SimilarTo	/c/en/unloving	2.0	0.614
+/c/en/unloving	RelatedTo	/c/en/coldhearted	2.0	0.637
+/c/en/unloving	SimilarTo	/c/en/frigid	2.0	0.456
+/c/en/unloving	SimilarTo	/c/en/unromantic	2.0	0.614
+/c/en/coldhearted	RelatedTo	/c/en/unloving	2.0	0.637
+/c/en/loveless	SimilarTo	/c/en/unloving	2.0	0.629
+/c/en/frigid	SimilarTo	/c/en/unloving	2.0	0.456
+/c/en/unloving	SimilarTo	/c/en/unaffectionate	2.0	0.775
+/c/en/unlovingness	RelatedTo	/c/en/unloving	1.0	1.0
+/c/en/unloving	RelatedTo	/c/en/loving	1.0	0.416
+/c/en/unlovingly	DerivedFrom	/c/en/unloving	1.0	1.0
+/c/en/unlovingly	RelatedTo	/c/en/unloving	1.0	1.0
+/c/en/unloving	FormOf	/c/en/unlove	1.0	0.471
+/c/en/unloving	DerivedFrom	/c/en/loving	1.0	0.416
+/c/en/unlovingness	DerivedFrom	/c/en/unloving	1.0	1.0

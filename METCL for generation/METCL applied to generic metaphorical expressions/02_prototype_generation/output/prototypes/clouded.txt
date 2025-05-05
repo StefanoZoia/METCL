@@ -1,0 +1,8 @@
+dark: 0.7668
+billow: 0.765
+hide_sun: 0.7641
+block_sun: 0.7614
+bringing_rain: 0.7587
+sleet: 0.7578
+cover_sun: 0.7569
+gloom: 0.756

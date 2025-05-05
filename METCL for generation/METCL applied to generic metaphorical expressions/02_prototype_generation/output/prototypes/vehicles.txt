@@ -1,0 +1,8 @@
+move_on_water: 0.835
+slow_down: 0.809
+move_through_space: 0.807
+move_through_air: 0.807
+kill_people: 0.807
+cross_water_using_ferry: 0.801
+wheels: 0.8
+travel_on_roads: 0.795

@@ -1,0 +1,8 @@
+nourishment: 0.92
+eating: 0.908
+sustenance: 0.906
+nourishing: 0.875
+resturant: 0.872
+energy: 0.871
+necessary_to_live: 0.865
+feed_animals: 0.863

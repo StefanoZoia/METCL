@@ -1,0 +1,26 @@
+Title: constituents-contents
+
+Head Concept Name: constituents
+Modifier Concept Name: contents
+
+
+
+
+
+T(modifier), publication, 0.84
+T(modifier), table, 0.834
+T(modifier), list, 0.82
+T(modifier), container, 0.812
+T(modifier), box, 0.787
+T(modifier), -index, 0.744
+
+T(head), voter, 0.762
+T(head), syntagma, 0.742
+T(head), grammar, 0.74
+T(head), write_to_congressperson, 0.725
+T(head), sentence, 0.722
+T(head), legal, 0.687
+
+
+Result: {"publication": 0.84, "table": 0.834, "list": 0.82, "container": 0.812, "box": 0.787, "-index": 0.744, "voter": 0.762, "syntagma": 0.742, "@scenario_probability": 0.09607644789643602}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0.09607644789643602]

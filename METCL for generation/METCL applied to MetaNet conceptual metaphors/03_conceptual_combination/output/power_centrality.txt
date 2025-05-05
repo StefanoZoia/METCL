@@ -1,0 +1,24 @@
+Title: power-centrality
+
+Head Concept Name: power
+Modifier Concept Name: centrality
+
+
+
+
+
+T(modifier), position, 0.834
+T(modifier), mathematics, 0.749
+
+T(head), fleeting, 0.831
+T(head), physics, 0.809
+T(head), battery, 0.798
+T(head), physical_phenomenon, 0.796
+T(head), provide, 0.793
+T(head), causal_agent, 0.791
+T(head), quality, 0.789
+T(head), -impotence, 0.772
+
+
+Result: {"position": 0.834, "fleeting": 0.831, "physics": 0.809, "battery": 0.798, "physical_phenomenon": 0.796, "provide": 0.793, "causal_agent": 0.791, "quality": 0.789, "@scenario_probability": 1.008711094741772}
+Scenario: [1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1.008711094741772]

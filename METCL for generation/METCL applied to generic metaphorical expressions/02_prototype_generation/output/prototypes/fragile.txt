@@ -1,0 +1,8 @@
+-unbreakable: 0.809
+-resilient: 0.804
+eggshells: 0.8
+-indestructible: 0.799
+-strong: 0.793
+-durable: 0.785
+-nonbreakable: 0.757
+porcelain: 0.737

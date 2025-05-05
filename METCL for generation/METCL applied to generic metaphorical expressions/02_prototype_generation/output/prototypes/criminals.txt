@@ -1,0 +1,8 @@
+jail: 0.88
+people: 0.872
+violent: 0.855
+use_guns_to_commit_crimes: 0.846
+break_laws: 0.845
+stupid: 0.838
+case_joint: 0.834
+lie_to_interrogators: 0.815

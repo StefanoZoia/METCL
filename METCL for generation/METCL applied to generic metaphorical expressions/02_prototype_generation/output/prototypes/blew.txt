@@ -1,0 +1,2 @@
+album: 0.729
+extended_play: 0.729

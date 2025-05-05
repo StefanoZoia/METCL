@@ -1,0 +1,8 @@
+entrance: 0.852
+entranceway: 0.852
+entryway: 0.838
+enclosing: 0.82
+-egress: 0.796
+stage_door: 0.791
+passing_through: 0.752
+action: 0.739

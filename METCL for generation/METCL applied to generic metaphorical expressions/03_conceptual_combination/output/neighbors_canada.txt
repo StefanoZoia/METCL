@@ -1,0 +1,27 @@
+Title: neighbors-canada
+
+Head Concept Name: neighbors
+Modifier Concept Name: canada
+
+
+
+
+
+T(modifier), in_north_america, 0.936
+T(modifier), baffin_island, 0.893
+T(modifier), maritime_provinces, 0.886
+T(modifier), ontario, 0.885
+T(modifier), quebec, 0.883
+T(modifier), north_of_united_states, 0.88
+T(modifier), alberta, 0.878
+T(modifier), northwest_territories, 0.877
+
+T(head), borrow_tools, 0.861
+T(head), live_literally_miles_away, 0.812
+T(head), note_comings_and_goings, 0.803
+T(head), apartment, 0.8
+T(head), move_on_thursday, 0.78
+
+
+Result: {"in_north_america": 0.936, "baffin_island": 0.893, "maritime_provinces": 0.886, "ontario": 0.885, "quebec": 0.883, "north_of_united_states": 0.88, "alberta": 0.878, "borrow_tools": 0.861, "@scenario_probability": 0.007716621642249023}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0.007716621642249023]

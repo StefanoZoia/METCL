@@ -1,0 +1,4 @@
+goal: 0.7794
+volition: 0.7776
+medicine: 0.6795
+getting_in_line: 0.6201

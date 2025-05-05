@@ -1,0 +1,8 @@
+dried_plum: 0.918
+dried_fruit: 0.859
+plum: 0.836
+dried_food: 0.816
+horticulture: 0.797
+fiber_rich_food: 0.751
+living_thing: 0.747
+slang: 0.744

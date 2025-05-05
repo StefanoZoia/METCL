@@ -1,0 +1,8 @@
+team: 0.856
+contestant: 0.832
+person: 0.825
+best_opponent: 0.825
+sporting_event: 0.816
+proud: 0.815
+head_ball: 0.813
+field_ball: 0.813

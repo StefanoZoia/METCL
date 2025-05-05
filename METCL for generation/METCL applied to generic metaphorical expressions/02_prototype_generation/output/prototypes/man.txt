@@ -1,0 +1,8 @@
+-woman: 0.87
+male: 0.854
+-boy: 0.84
+lover: 0.825
+-female: 0.816
+-lady: 0.815
+subordinate: 0.811
+international_intelligence_agency: 0.807

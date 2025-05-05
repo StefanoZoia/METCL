@@ -1,0 +1,8 @@
+mean_section_of_text: 0.854
+direct_one's_location: 0.852
+way: 0.844
+read: 0.843
+journey: 0.84
+text: 0.83
+bible: 0.826
+getting_from_one_place_to_another: 0.819

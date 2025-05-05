@@ -1,0 +1,22 @@
+Title: taxation-burden
+
+Head Concept Name: taxation
+Modifier Concept Name: burden
+
+
+
+
+
+T(modifier), charge, 0.849
+T(modifier), idea, 0.815
+T(modifier), concern, 0.805
+T(modifier), music, 0.753
+T(modifier), medicine, 0.728
+
+T(head), imposition, 0.862
+T(head), process_results_in_taxes, 0.731
+T(head), activity_of_government, 0.721
+
+
+Result: {"charge": 0.849, "idea": 0.815, "concern": 0.805, "music": 0.753, "medicine": 0.728, "imposition": 0.862, "process_results_in_taxes": 0.731, "@scenario_probability": 5.3680478809688426}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 5.3680478809688426]

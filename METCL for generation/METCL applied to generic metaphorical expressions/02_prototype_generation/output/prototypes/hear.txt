@@ -1,0 +1,8 @@
+perceive: 0.836
+listening_to_radio: 0.815
+pick_up: 0.802
+probe: 0.793
+-see: 0.79
+ear: 0.769
+-deaf: 0.768
+-speak: 0.758

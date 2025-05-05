@@ -1,0 +1,7 @@
+sameness: 0.866
+-inequation: 0.861
+equivalence_relation: 0.847
+-discrimination: 0.827
+status: 0.82
+mathematics: 0.781
+-difference: 0.776

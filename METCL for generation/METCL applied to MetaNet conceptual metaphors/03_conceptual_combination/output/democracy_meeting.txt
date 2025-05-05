@@ -1,0 +1,30 @@
+Title: democracy-meeting
+
+Head Concept Name: democracy
+Modifier Concept Name: meeting
+
+
+
+
+
+T(modifier), gathering, 0.887
+T(modifier), assembly, 0.873
+T(modifier), convergence, 0.843
+T(modifier), quakerism, 0.794
+T(modifier), social_gathering, 0.792
+T(modifier), council, 0.785
+T(modifier), stranger, 0.744
+T(modifier), rural, 0.737
+
+T(head), equality_for_everyone, 0.854
+T(head), open_media, 0.853
+T(head), political_orientation, 0.852
+T(head), political_system, 0.843
+T(head), good_thing, 0.84
+T(head), government_of_people, 0.816
+T(head), -dictatorship, 0.809
+T(head), government, 0.793
+
+
+Result: {"gathering": 0.887, "assembly": 0.873, "convergence": 0.843, "equality_for_everyone": 0.854, "open_media": 0.853, "political_orientation": 0.852, "political_system": 0.843, "good_thing": 0.84, "@scenario_probability": 0.00012945089584076526}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.00012945089584076526]

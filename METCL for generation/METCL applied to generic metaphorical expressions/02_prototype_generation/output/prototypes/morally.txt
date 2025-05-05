@@ -1,0 +1,7 @@
+-immorally: 0.848
+-immoral: 0.7893
+-amoral: 0.7668
+meaning: 0.7461
+-non_moral: 0.6786
+propositional_information: 0.6777
+-ugly: 0.6426

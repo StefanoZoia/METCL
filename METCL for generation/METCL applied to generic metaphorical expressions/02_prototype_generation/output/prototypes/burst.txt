@@ -1,0 +1,6 @@
+break: 0.865
+jump: 0.835
+emerge: 0.824
+activity: 0.812
+bubble: 0.779
+village: 0.728

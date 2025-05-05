@@ -1,0 +1,29 @@
+Title: waters-recession
+
+Head Concept Name: waters
+Modifier Concept Name: recession
+
+
+
+
+
+T(modifier), macroeconomic_event, 0.814
+T(modifier), economic_condition, 0.812
+T(modifier), procession, 0.809
+T(modifier), -boom, 0.807
+T(modifier), cession, 0.802
+T(modifier), destroy_economy, 0.784
+T(modifier), album, 0.702
+
+T(head), amniotic_cavity, 0.842
+T(head), quench_thirst, 0.831
+T(head), water, 0.824
+T(head), liquid, 0.814
+T(head), drink, 0.808
+T(head), drinking, 0.808
+T(head), hydration, 0.807
+T(head), h2o, 0.801
+
+
+Result: {"macroeconomic_event": 0.814, "economic_condition": 0.812, "procession": 0.809, "amniotic_cavity": 0.842, "quench_thirst": 0.831, "water": 0.824, "liquid": 0.814, "drinking": 0.808, "@scenario_probability": 0.000367797842215617}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 1, 0, 0, 0.000367797842215617]

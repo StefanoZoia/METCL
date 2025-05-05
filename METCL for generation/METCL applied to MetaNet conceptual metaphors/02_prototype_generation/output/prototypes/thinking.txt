@@ -1,0 +1,8 @@
+deducing: 0.924
+brain: 0.908
+thought: 0.898
+reasoning: 0.897
+deciding: 0.896
+pondering: 0.896
+learning: 0.895
+solving_problems: 0.894

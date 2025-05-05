@@ -1,0 +1,26 @@
+Title: institution-body
+
+Head Concept Name: institution
+Modifier Concept Name: body
+
+
+
+
+
+T(modifier), torso, 0.852
+T(modifier), coffin, 0.843
+T(modifier), body_substance, 0.837
+T(modifier), funeral, 0.835
+T(modifier), system, 0.83
+T(modifier), structure, 0.829
+T(modifier), message, 0.827
+T(modifier), mass, 0.818
+
+T(head), establishment, 0.878
+T(head), organization, 0.851
+T(head), custom, 0.806
+T(head), department, 0.744
+
+
+Result: {"torso": 0.852, "coffin": 0.843, "body_substance": 0.837, "funeral": 0.835, "system": 0.83, "structure": 0.829, "establishment": 0.878, "organization": 0.851, "@scenario_probability": 0.040354780381893614}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0.040354780381893614]

@@ -1,0 +1,7 @@
+pollute: 0.867
+virus: 0.856
+affect: 0.85
+corrupt: 0.833
+-disinfect: 0.826
+give: 0.804
+-disinfectant: 0.762

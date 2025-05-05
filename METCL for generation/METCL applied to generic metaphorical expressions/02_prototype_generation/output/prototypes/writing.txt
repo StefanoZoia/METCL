@@ -1,0 +1,8 @@
+writing_instrument: 0.976
+jotting_notes: 0.931
+pen: 0.923
+writing: 0.915
+thinking: 0.907
+paper: 0.904
+communicating_thoughts: 0.896
+written_communication: 0.892

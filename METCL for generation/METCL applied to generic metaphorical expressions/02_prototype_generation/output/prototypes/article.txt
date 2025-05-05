@@ -1,0 +1,8 @@
+newspaper: 0.877
+writer: 0.87
+section: 0.868
+reading: 0.866
+magazine_in_stores: 0.864
+magazine_in_store: 0.864
+piece: 0.86
+newspaper_in_newspaper: 0.856

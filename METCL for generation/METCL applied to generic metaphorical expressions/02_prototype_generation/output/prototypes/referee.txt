@@ -1,0 +1,8 @@
+judge: 0.876
+football: 0.855
+time_race: 0.851
+hockey_game: 0.846
+sport: 0.837
+official: 0.834
+review: 0.826
+soccer_game: 0.818

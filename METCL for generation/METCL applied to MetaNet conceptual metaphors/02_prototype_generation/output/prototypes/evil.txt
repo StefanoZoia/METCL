@@ -1,0 +1,8 @@
+bad: 0.868
+very_very_bad: 0.825
+providing_opposition_to_good: 0.797
+torture: 0.778
+-good: 0.766
+computing: 0.746
+programming: 0.733
+slang: 0.731

@@ -1,0 +1,16 @@
+/c/en/safety_net	IsA	/c/en/guarantee	2.0	0.249
+/c/en/safety_net	IsA	/c/en/net	2.0	0.125
+/c/en/safety_net	RelatedTo	/c/en/security	1.0	0.629
+/c/en/safety_net	RelatedTo	/c/en/horizontal	1.0	0.075
+/c/en/safety_net	RelatedTo	/c/en/trapeze_artist	1.0	0.058
+/c/en/safety_net	RelatedTo	/c/en/program	1.0	0.045
+/c/en/social_safety_net	DerivedFrom	/c/en/safety_net	1.0	0.115
+/c/en/safety_net	RelatedTo	/c/en/aerialist	1.0	0.084
+/c/en/safety_net	DerivedFrom	/c/en/net	1.0	0.125
+/c/en/safety_net	RelatedTo	/c/en/disadvantage	1.0	-0.08
+/c/en/safety_net	RelatedTo	/c/en/governmental	1.0	0.062
+/c/en/catch_fence	RelatedTo	/c/en/safety_net	1.0	0.127
+/c/en/safety_net	RelatedTo	/c/en/catch_fence	1.0	0.127
+/c/en/safety_net	RelatedTo	/c/en/tightrope_walker	1.0	0.044
+/c/en/safety_net	RelatedTo	/c/en/misfortune	1.0	0.059
+/c/en/safety_nets	FormOf	/c/en/safety_net	1.0	1.0

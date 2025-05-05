@@ -1,0 +1,3 @@
+calamity: 0.864
+wave: 0.862
+ripple: 0.792

@@ -1,0 +1,4 @@
+advancing_into_battle: 0.767
+metal_rod: 0.758
+action_on_object: 0.746
+weapon: 0.679

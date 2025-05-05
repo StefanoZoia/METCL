@@ -1,0 +1,3 @@
+repair_shop: 0.816
+environment: 0.807
+euphemistic: 0.764

@@ -1,0 +1,5 @@
+condition: 0.7245
+quality: 0.7191000000000001
+cognitive_factor: 0.7146
+-ease: 0.6804
+evaluative_quantity: 0.6416999999999999

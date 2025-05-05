@@ -1,0 +1,15 @@
+/c/en/prisoners	CapableOf	/c/en/scape_from_jail	4.47213595499958	-0.035
+/c/en/prisoners	CapableOf	/c/en/attempt_escape	4.0	0.043
+/c/en/prisoners	AtLocation	/c/en/jail	4.0	0.773
+/c/en/prisoners	AtLocation	/c/en/prison	2.82842712474619	0.796
+/c/en/prisoners	CapableOf	/c/en/attempt_to_escape	2.82842712474619	0.043
+/c/en/prisoners	CapableOf	/c/en/live_on_bread_and_water	2.82842712474619	-0.02
+/c/en/prisoners	CapableOf	/c/en/long_to_free	1.0	0.091
+/c/en/prisoners	AtLocation	/c/en/military_base	1.0	0.072
+/c/en/getting_in_line	UsedFor	/c/en/prisoners	1.0	0.045
+/c/en/prisoners	ReceivesAction	/c/en/deprived_of_dignity	1.0	0.039
+/c/en/prisoners	RelatedTo	/c/en/prisoner	1.0	0.886
+/c/en/prisoners	FormOf	/c/en/prisoner	1.0	0.886
+/c/en/prisoners	ReceivesAction	/c/en/plunged_into_psychosis	1.0	-0.021
+/c/en/prisoners	FormOf	/c/en/prisoner	1.0	0.886
+/c/en/cell	RelatedTo	/c/en/prisoners	0.9260000000000002	0.319

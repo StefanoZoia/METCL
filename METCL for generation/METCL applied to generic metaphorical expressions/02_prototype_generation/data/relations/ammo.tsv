@@ -1,0 +1,11 @@
+/c/en/bullet	RelatedTo	/c/en/ammo	5.606068140863077	0.684
+/c/en/ammo	Synonym	/c/en/ammunition	2.0	0.932
+/c/en/ammo	RelatedTo	/c/en/ammunition	1.0	0.932
+/c/en/ammo	Synonym	/c/en/ammo_up	1.0	0.26
+/c/en/ammos	FormOf	/c/en/ammo	1.0	0.26
+/c/en/ammo'd	FormOf	/c/en/ammo	1.0	0.26
+/c/en/headstamp	RelatedTo	/c/en/ammo	1.0	0.023
+/c/en/ammo	RelatedTo	/c/en/sand	1.0	0.214
+/c/en/ammoing	FormOf	/c/en/ammo	1.0	0.26
+/c/en/ammunition	Synonym	/c/en/ammo	1.0	0.932
+/c/en/ammoed	FormOf	/c/en/ammo	1.0	0.26

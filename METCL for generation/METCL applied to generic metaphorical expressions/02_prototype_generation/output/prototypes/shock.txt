@@ -1,0 +1,8 @@
+surprise: 0.889
+dismay: 0.885
+disgust: 0.844
+collapse: 0.832
+earthquake: 0.827
+collide: 0.821
+treat: 0.818
+mass: 0.807

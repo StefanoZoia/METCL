@@ -1,0 +1,8 @@
+war: 0.946
+conflict: 0.888
+bad_thing: 0.88
+fight: 0.865
+fighting_between_countries: 0.859
+battle: 0.858
+-peace: 0.853
+campaign: 0.849

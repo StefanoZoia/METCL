@@ -1,0 +1,10 @@
+/c/en/go_somewhere	HasSubevent	/c/en/arriving	2.0	0.034
+/c/en/going_somewhere	Causes	/c/en/arriving	2.0	0.122
+/c/en/to	RelatedTo	/c/en/arriving	1.0	0.134
+/c/en/arriving	RelatedTo	/c/en/arrive	1.0	0.824
+/c/en/arriving	FormOf	/c/en/arrive	1.0	0.824
+/c/en/arrival	RelatedTo	/c/en/arriving	1.0	0.731
+/c/en/arriving	FormOf	/c/en/arrive	1.0	0.824
+/c/en/come	RelatedTo	/c/en/arriving	0.34299999999999997	0.379
+/c/en/appear	RelatedTo	/c/en/arriving	0.16599999999999993	0.169
+/c/en/early	RelatedTo	/c/en/arriving	0.10199999999999987	0.234

@@ -1,0 +1,25 @@
+Title: guns-natural_disaster
+
+Head Concept Name: guns
+Modifier Concept Name: natural_disaster
+
+
+
+
+
+T(modifier), disaster, 0.877
+T(modifier), natural_hazard, 0.763
+T(modifier), album, 0.72
+
+T(head), firearm_shoots_bullets, 0.838
+T(head), shooting_things, 0.824
+T(head), shoot, 0.814
+T(head), weapon, 0.813
+T(head), shot, 0.807
+T(head), gun_shop, 0.805
+T(head), holster, 0.8
+T(head), shoot_bullets, 0.795
+
+
+Result: {"disaster": 0.877, "firearm_shoots_bullets": 0.838, "shooting_things": 0.824, "shoot": 0.814, "weapon": 0.813, "shot": 0.807, "gun_shop": 0.805, "holster": 0.8, "@scenario_probability": 0.2833383853431121}
+Scenario: [1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.2833383853431121]

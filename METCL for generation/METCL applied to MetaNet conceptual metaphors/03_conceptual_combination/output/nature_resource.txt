@@ -1,0 +1,30 @@
+Title: nature-resource
+
+Head Concept Name: nature
+Modifier Concept Name: resource
+
+
+
+
+
+T(modifier), asset, 0.852
+T(modifier), assets, 0.838
+T(modifier), inventiveness, 0.824
+T(modifier), tangible_thing, 0.778
+T(modifier), localized_spatial_thing, 0.759
+T(modifier), group_of_things, 0.737
+T(modifier), album, 0.717
+T(modifier), book, 0.709
+
+T(head), very_hard, 0.87
+T(head), serene, 0.852
+T(head), divine, 0.851
+T(head), destructive, 0.843
+T(head), personality, 0.84
+T(head), type, 0.832
+T(head), wonderful, 0.831
+T(head), quality, 0.83
+
+
+Result: {"asset": 0.852, "assets": 0.838, "very_hard": 0.87, "serene": 0.852, "divine": 0.851, "destructive": 0.843, "personality": 0.84, "type": 0.832, "@scenario_probability": 0.00015547325521310157}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.00015547325521310157]

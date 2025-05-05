@@ -1,0 +1,8 @@
+group_theory: 0.836
+like_club_but_without_officers: 0.828
+honor_individual: 0.825
+set: 0.822
+classify: 0.821
+semigroup: 0.82
+molecule: 0.816
+include_individuals: 0.801

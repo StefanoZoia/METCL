@@ -1,0 +1,12 @@
+/c/en/traveled	Synonym	/c/en/travelled	2.0	0.883
+/c/en/cosmopolitan	SimilarTo	/c/en/travelled	2.0	0.211
+/c/en/travelled	SimilarTo	/c/en/cosmopolitan	2.0	0.211
+/c/en/dead_reckoning	RelatedTo	/c/en/travelled	1.0	0.283
+/c/en/travelled	FormOf	/c/en/traveled	1.0	0.883
+/c/en/byway	RelatedTo	/c/en/travelled	1.0	0.222
+/c/en/travelled	FormOf	/c/en/travel	1.0	0.545
+/c/en/travelled	RelatedTo	/c/en/travel	1.0	0.545
+/c/en/run	RelatedTo	/c/en/travelled	1.0	0.174
+/c/en/travellable	RelatedTo	/c/en/travelled	1.0	0.728
+/c/en/traveled	FormOf	/c/en/travelled	1.0	0.883
+/c/en/untravelled	DerivedFrom	/c/en/travelled	1.0	0.38

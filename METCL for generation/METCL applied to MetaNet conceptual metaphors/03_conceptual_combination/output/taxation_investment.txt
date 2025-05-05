@@ -1,0 +1,25 @@
+Title: taxation-investment
+
+Head Concept Name: taxation
+Modifier Concept Name: investment
+
+
+
+
+
+T(modifier), assets, 0.878
+T(modifier), -divestment, 0.835
+T(modifier), finance, 0.833
+T(modifier), double_money, 0.818
+T(modifier), committedness, 0.816
+T(modifier), skin, 0.799
+T(modifier), promotion, 0.799
+T(modifier), dressing, 0.796
+
+T(head), imposition, 0.862
+T(head), process_results_in_taxes, 0.731
+T(head), activity_of_government, 0.721
+
+
+Result: {"assets": 0.878, "-divestment": 0.835, "finance": 0.833, "double_money": 0.818, "committedness": 0.816, "skin": 0.799, "promotion": 0.799, "imposition": 0.862, "@scenario_probability": 0.343444788251105}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0.343444788251105]

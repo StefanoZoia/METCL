@@ -1,0 +1,8 @@
+-bottom: 0.875
+complete: 0.823
+hit: 0.817
+reach: 0.815
+inning: 0.815
+covering: 0.815
+spin: 0.81
+turn: 0.809

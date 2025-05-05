@@ -1,0 +1,8 @@
+nakedness: 0.811
+-cooked: 0.794
+sugar_refining: 0.776
+sugar_trade: 0.77
+fandom: 0.737
+slang: 0.736
+manga: 0.731
+anime: 0.72

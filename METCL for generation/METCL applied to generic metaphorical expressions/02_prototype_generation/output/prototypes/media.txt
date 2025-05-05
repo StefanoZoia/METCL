@@ -1,0 +1,8 @@
+media: 0.915
+news: 0.831
+consumer_discretionary: 0.828
+-print: 0.769
+mind_controle: 0.758
+linguistics: 0.753
+anatomy: 0.749
+historical: 0.746

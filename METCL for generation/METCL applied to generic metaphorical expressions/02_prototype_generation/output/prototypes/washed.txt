@@ -1,0 +1,8 @@
+cleanse: 0.7902
+clean: 0.783
+-dirty: 0.7668
+streambed: 0.7551
+watercolor: 0.7461
+water_base_paint: 0.7398
+stand: 0.7263000000000001
+west: 0.7245

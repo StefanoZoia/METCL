@@ -1,0 +1,25 @@
+Title: positivity-verticality
+
+Head Concept Name: positivity
+Modifier Concept Name: verticality
+
+
+
+
+
+T(modifier), position, 0.841
+T(modifier), attitude, 0.764
+T(modifier), orientation, 0.751
+T(modifier), point, 0.742
+T(modifier), assumption, 0.737
+T(modifier), put, 0.735
+T(modifier), relation, 0.73
+T(modifier), bodily_property, 0.729
+
+T(head), -negativity, 0.867
+T(head), polarity, 0.84
+T(head), physics_and_chemistry, 0.729
+
+
+Result: {"position": 0.841, "attitude": 0.764, "orientation": 0.751, "point": 0.742, "assumption": 0.737, "put": 0.735, "-negativity": 0.867, "polarity": 0.84, "@scenario_probability": 0.28008429208219693}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0.28008429208219693]

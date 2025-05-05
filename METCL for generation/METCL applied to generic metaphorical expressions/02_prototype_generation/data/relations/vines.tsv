@@ -1,0 +1,8 @@
+/c/en/vines	FormOf	/c/en/vine	2.0	0.801
+/c/en/vines	HasA	/c/en/flowers	1.0	0.344
+/c/en/arbor	RelatedTo	/c/en/vines	1.0	0.329
+/c/en/vines	AtLocation	/c/en/jungle	1.0	0.231
+/c/en/vines	AtLocation	/c/en/forest	1.0	0.173
+/c/en/grape	RelatedTo	/c/en/vines	0.28800000000000026	0.635
+/c/en/trellis	RelatedTo	/c/en/vines	0.16400000000000015	0.47
+/c/en/wine	RelatedTo	/c/en/vines	0.10199999999999987	0.502

@@ -1,0 +1,30 @@
+Title: health-economy
+
+Head Concept Name: health
+Modifier Concept Name: economy
+
+
+
+
+
+T(modifier), frugality, 0.864
+T(modifier), economic_action, 0.857
+T(modifier), efficiency, 0.832
+T(modifier), system, 0.816
+T(modifier), sector, 0.811
+T(modifier), heading_into_toilet, 0.804
+T(modifier), action, 0.79
+T(modifier), spending, 0.776
+
+T(head), wellbeing, 0.903
+T(head), condition, 0.839
+T(head), good, 0.835
+T(head), important, 0.825
+T(head), eating_vegetables, 0.824
+T(head), eating_apple, 0.824
+T(head), -sickness, 0.809
+T(head), everyone, 0.801
+
+
+Result: {"frugality": 0.864, "economic_action": 0.857, "efficiency": 0.832, "wellbeing": 0.903, "condition": 0.839, "good": 0.835, "important": 0.825, "eating_vegetables": 0.824, "@scenario_probability": 5.68247273533231e-05}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 5.68247273533231e-05]

@@ -1,0 +1,8 @@
+-defeat: 0.882
+success: 0.866
+conquer_opponent: 0.821
+ending: 0.818
+-loss: 0.814
+celebrate: 0.806
+play_soccer: 0.8
+when_one_opponent_defeats_another: 0.783

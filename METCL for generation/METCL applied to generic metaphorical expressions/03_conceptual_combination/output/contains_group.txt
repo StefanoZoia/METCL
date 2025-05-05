@@ -1,0 +1,29 @@
+Title: contains-group
+
+Head Concept Name: contains
+Modifier Concept Name: group
+
+
+
+
+
+T(modifier), group_theory, 0.836
+T(modifier), like_club_but_without_officers, 0.828
+T(modifier), honor_individual, 0.825
+T(modifier), set, 0.822
+T(modifier), classify, 0.821
+T(modifier), semigroup, 0.82
+T(modifier), molecule, 0.816
+T(modifier), include_individuals, 0.801
+
+T(head), be, 0.759
+T(head), arithmetic, 0.733
+T(head), -release, 0.696
+T(head), mathematics, 0.685
+T(head), -let, 0.615
+T(head), -let_go, 0.614
+T(head), -go, 0.603
+
+
+Result: {"group_theory": 0.836, "like_club_but_without_officers": 0.828, "honor_individual": 0.825, "set": 0.822, "classify": 0.821, "semigroup": 0.82, "molecule": 0.816, "be": 0.759, "@scenario_probability": 0.005875412198206398}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0.005875412198206398]

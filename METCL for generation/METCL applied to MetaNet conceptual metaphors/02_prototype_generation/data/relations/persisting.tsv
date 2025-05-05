@@ -1,0 +1,12 @@
+/c/en/persisting	SimilarTo	/c/en/continuous	2.0	0.48
+/c/en/dogging	Synonym	/c/en/persisting	2.0	0.398
+/c/en/continuous	SimilarTo	/c/en/persisting	2.0	0.48
+/c/en/persisting	FormOf	/c/en/persist	1.0	0.756
+/c/en/persisting	FormOf	/c/en/persist	1.0	0.756
+/c/en/persisting	RelatedTo	/c/en/persist	1.0	0.756
+/c/en/perseverating	RelatedTo	/c/en/persisting	1.0	0.346
+/c/en/persistingly	DerivedFrom	/c/en/persisting	1.0	1.0
+/c/en/persistings	FormOf	/c/en/persisting	1.0	1.0
+/c/en/long_lasting	RelatedTo	/c/en/persisting	1.0	0.304
+/c/en/ask_for	RelatedTo	/c/en/persisting	1.0	0.051
+/c/en/persisting	RelatedTo	/c/en/persistence	1.0	0.558

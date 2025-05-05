@@ -1,0 +1,13 @@
+/c/en/entrapment	HasContext	/c/en/law	2.0	0.237
+/c/en/entrapment	IsA	/c/en/defense	2.0	0.235
+/c/en/entrapment	HasContext	/c/en/legal	1.0	0.187
+/c/en/motti	RelatedTo	/c/en/entrapment	1.0	0.352
+/c/en/entrapment	DerivedFrom	/c/en/entrap	1.0	0.625
+/c/en/trap	RelatedTo	/c/en/entrapment	1.0	0.452
+/c/en/entrapments	FormOf	/c/en/entrapment	1.0	1.0
+/c/en/holstein_lewis_fracture	RelatedTo	/c/en/entrapment	1.0	-0.079
+/c/en/entrapment	RelatedTo	/c/en/entrap	1.0	0.625
+/c/en/entrapment	RelatedTo	/c/en/law_enforcement	1.0	0.258
+/c/en/entrapment	DerivedFrom	/c/en/entrap	1.0	0.625
+/c/en/entrapment	HasContext	/c/en/chemistry	1.0	0.076
+/c/en/insidiousness	RelatedTo	/c/en/entrapment	1.0	0.145

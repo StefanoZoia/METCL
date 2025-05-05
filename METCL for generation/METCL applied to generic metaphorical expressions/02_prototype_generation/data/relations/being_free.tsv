@@ -1,0 +1,4 @@
+/c/en/getting_away_with_crime	UsedFor	/c/en/being_free	1.0	0.29
+/c/en/being_free	HasProperty	/c/en/important	1.0	0.055
+/c/en/getting_away_with_crime	Causes	/c/en/being_free	1.0	0.29
+/c/en/independent	RelatedTo	/c/en/being_free	0.21700000000000008	0.048

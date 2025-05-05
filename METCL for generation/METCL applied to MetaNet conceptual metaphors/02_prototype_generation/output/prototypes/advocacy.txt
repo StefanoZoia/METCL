@@ -1,0 +1,8 @@
+support: 0.85
+supporting_structure: 0.7461
+give: 0.7452
+resource: 0.7371
+dramaturgy: 0.7353
+act: 0.7308000000000001
+device: 0.7263000000000001
+military: 0.7254

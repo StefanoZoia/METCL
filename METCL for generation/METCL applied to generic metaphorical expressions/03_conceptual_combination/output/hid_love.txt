@@ -1,0 +1,24 @@
+Title: hid-love
+
+Head Concept Name: hid
+Modifier Concept Name: love
+
+
+
+
+
+T(modifier), love, 0.946
+T(modifier), wonderful_and_frightening, 0.891
+T(modifier), blind, 0.884
+T(modifier), hard_work, 0.879
+T(modifier), contagious, 0.873
+T(modifier), painful, 0.867
+T(modifier), fix_many_problems, 0.864
+T(modifier), hurt, 0.859
+
+T(head), computing, 0.746
+T(head), archaic, 0.744
+
+
+Result: {"love": 0.946, "wonderful_and_frightening": 0.891, "blind": 0.884, "hard_work": 0.879, "contagious": 0.873, "painful": 0.867, "fix_many_problems": 0.864, "computing": 0.746, "@scenario_probability": 1.1533336667578928}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1.1533336667578928]

@@ -1,0 +1,2 @@
+/c/en/using_television	HasPrerequisite	/c/en/eyes_and_ears	1.0	-0.022
+/c/en/normal_features_of_human_body	IsA	/c/en/eyes_and_ears	1.0	0.001

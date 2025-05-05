@@ -1,0 +1,30 @@
+Title: wealth-scale
+
+Head Concept Name: wealth
+Modifier Concept Name: scale
+
+
+
+
+
+T(modifier), measuring_weight, 0.899
+T(modifier), measure_weight, 0.891
+T(modifier), size, 0.868
+T(modifier), weighing_people, 0.863
+T(modifier), weighing, 0.863
+T(modifier), weighing_purchases, 0.863
+T(modifier), weighing_trucks, 0.863
+T(modifier), weighing_objects, 0.863
+
+T(head), abundance, 0.871
+T(head), financial_condition, 0.85
+T(head), property, 0.84
+T(head), material_resource, 0.792
+T(head), -poverty, 0.792
+T(head), economics, 0.774
+T(head), conquering_nation, 0.762
+T(head), -debt, 0.714
+
+
+Result: {"measuring_weight": 0.899, "measure_weight": 0.891, "size": 0.868, "weighing": 0.863, "weighing_purchases": 0.863, "weighing_trucks": 0.863, "weighing_objects": 0.863, "abundance": 0.871, "@scenario_probability": 7.350694388275281e-05}
+Scenario: [1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 7.350694388275281e-05]

@@ -1,0 +1,8 @@
+/c/en/ant	RelatedTo	/c/en/parasites	1.0	0.283
+/c/en/parasites	FormOf	/c/en/parasite	1.0	0.88
+/c/en/botfly	RelatedTo	/c/en/parasites	1.0	0.401
+/c/en/parasites	RelatedTo	/c/en/parasite	1.0	0.88
+/c/en/parasites	FormOf	/c/en/parasite	1.0	0.88
+/c/en/liftin	RelatedTo	/c/en/parasites	1.0	0.363
+/c/en/oxantel	RelatedTo	/c/en/parasites	1.0	0.059
+/c/en/plasmodiophorid	RelatedTo	/c/en/parasites	1.0	0.526

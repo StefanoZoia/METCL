@@ -1,0 +1,30 @@
+Title: referee-government
+
+Head Concept Name: referee
+Modifier Concept Name: government
+
+
+
+
+
+T(modifier), corrupt, 0.897
+T(modifier), govern_country, 0.896
+T(modifier), polity, 0.874
+T(modifier), country, 0.839
+T(modifier), force_citizens_to_comply, 0.833
+T(modifier), rule_people, 0.832
+T(modifier), -fun, 0.829
+T(modifier), jealous_of_power, 0.827
+
+T(head), judge, 0.876
+T(head), football, 0.855
+T(head), time_race, 0.851
+T(head), hockey_game, 0.846
+T(head), sport, 0.837
+T(head), official, 0.834
+T(head), review, 0.826
+T(head), soccer_game, 0.818
+
+
+Result: {"corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "country": 0.839, "judge": 0.876, "football": 0.855, "time_race": 0.851, "hockey_game": 0.846, "@scenario_probability": 2.260103278583735e-05}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 2.260103278583735e-05]

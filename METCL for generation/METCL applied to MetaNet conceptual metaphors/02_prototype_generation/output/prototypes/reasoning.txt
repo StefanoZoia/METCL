@@ -1,0 +1,5 @@
+logic: 0.868
+thinking: 0.86
+analogical: 0.854
+inductive_or_deductive: 0.84
+mathematics: 0.796

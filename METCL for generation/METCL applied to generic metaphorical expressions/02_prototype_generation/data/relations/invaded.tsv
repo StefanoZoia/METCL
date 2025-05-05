@@ -1,0 +1,8 @@
+/c/en/country	NotDesires	/c/en/invaded	1.0	0.134
+/c/en/lombard	RelatedTo	/c/en/invaded	1.0	0.12
+/c/en/noninvaded	DerivedFrom	/c/en/invaded	1.0	0.148
+/c/en/invadee	RelatedTo	/c/en/invaded	1.0	0.85
+/c/en/invaded	RelatedTo	/c/en/invade	1.0	0.8
+/c/en/invasible	RelatedTo	/c/en/invaded	1.0	0.488
+/c/en/invaded	FormOf	/c/en/invade	1.0	0.8
+/c/en/uninvaded	DerivedFrom	/c/en/invaded	1.0	0.232

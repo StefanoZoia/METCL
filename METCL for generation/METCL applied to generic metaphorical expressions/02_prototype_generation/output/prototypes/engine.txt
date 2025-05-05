@@ -1,0 +1,8 @@
+motor: 0.904
+fuel_to_operate: 0.878
+car: 0.873
+automobile: 0.866
+power: 0.856
+camshaft: 0.85
+piston: 0.837
+work: 0.834

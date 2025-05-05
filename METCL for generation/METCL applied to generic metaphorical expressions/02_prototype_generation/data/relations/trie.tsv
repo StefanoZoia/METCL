@@ -1,0 +1,16 @@
+/c/en/merkle_tree	RelatedTo	/c/en/trie	1.0	0.165
+/c/en/prefix_tree	RelatedTo	/c/en/trie	1.0	0.226
+/c/en/subtrie	RelatedTo	/c/en/trie	1.0	0.068
+/c/en/trie	RelatedTo	/c/en/tree	1.0	0.418
+/c/en/trie	Synonym	/c/en/prefix_tree	1.0	0.226
+/c/en/directed_acyclic_word_graph	RelatedTo	/c/en/trie	1.0	0.082
+/c/en/subtrie	DerivedFrom	/c/en/trie	1.0	0.068
+/c/en/trie	RelatedTo	/c/en/keys	1.0	0.189
+/c/en/trie	RelatedTo	/c/en/strings	1.0	0.307
+/c/en/trie	RelatedTo	/c/en/data_structure	1.0	0.115
+/c/en/trie	RelatedTo	/c/en/associative_array	1.0	0.246
+/c/en/tries	FormOf	/c/en/trie	1.0	0.349
+/c/en/trie	HasContext	/c/en/computer_science	1.0	0.261
+/c/en/radix_tree	RelatedTo	/c/en/trie	1.0	0.3
+/c/en/trie	EtymologicallyRelatedTo	/c/en/try	0.25	0.241
+/c/en/trie	EtymologicallyRelatedTo	/c/en/retrieval	0.25	0.164

@@ -1,0 +1,11 @@
+/c/en/mcdonaldization	RelatedTo	/c/en/institutions	1.0	0.306
+/c/en/individualist_anarchism	RelatedTo	/c/en/institutions	1.0	0.116
+/c/en/display_cabinet	AtLocation	/c/en/institutions	1.0	0.053
+/c/en/separatism	RelatedTo	/c/en/institutions	1.0	0.17
+/c/en/anarcho_capitalism	RelatedTo	/c/en/institutions	1.0	0.102
+/c/en/exoterism	RelatedTo	/c/en/institutions	1.0	0.139
+/c/en/business_to_institutions	RelatedTo	/c/en/institutions	1.0	0.108
+/c/en/ragging	RelatedTo	/c/en/institutions	1.0	0.37
+/c/en/banks	IsA	/c/en/institutions	1.0	0.572
+/c/en/institutions	FormOf	/c/en/institution	1.0	0.69
+/c/en/ombudsman	RelatedTo	/c/en/institutions	1.0	0.269

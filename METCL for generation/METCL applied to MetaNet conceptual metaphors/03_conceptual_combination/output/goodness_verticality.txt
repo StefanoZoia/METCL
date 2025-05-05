@@ -1,0 +1,25 @@
+Title: goodness-verticality
+
+Head Concept Name: goodness
+Modifier Concept Name: verticality
+
+
+
+
+
+T(modifier), position, 0.841
+T(modifier), attitude, 0.764
+T(modifier), orientation, 0.751
+T(modifier), point, 0.742
+T(modifier), assumption, 0.737
+T(modifier), put, 0.735
+T(modifier), relation, 0.73
+T(modifier), bodily_property, 0.729
+
+T(head), christianity, 0.763
+T(head), euphemistic, 0.72
+T(head), -bad, 0.525
+
+
+Result: {"position": 0.841, "attitude": 0.764, "orientation": 0.751, "point": 0.742, "assumption": 0.737, "put": 0.735, "relation": 0.73, "christianity": 0.763, "@scenario_probability": 0.3893645008816683}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0.3893645008816683]

@@ -1,0 +1,5 @@
+/c/en/queues	FormOf	/c/en/queue	1.0	0.936
+/c/en/queues	CapableOf	/c/en/anger_people	1.0	0.059
+/c/en/queues	RelatedTo	/c/en/queue	1.0	0.936
+/c/en/queues	FormOf	/c/en/queue	1.0	0.936
+/c/en/wait	RelatedTo	/c/en/queues	0.18999999999999995	0.406

@@ -1,0 +1,5 @@
+travel: 0.89
+stage: 0.754
+-walk: 0.744
+collective: 0.743
+video_game: 0.709

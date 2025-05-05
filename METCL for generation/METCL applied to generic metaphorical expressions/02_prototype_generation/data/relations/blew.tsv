@@ -1,0 +1,9 @@
+/c/en/blowed	Synonym	/c/en/blew	1.0	0.829
+/c/en/blew	FormOf	/c/en/blow	1.0	0.798
+/c/en/blew	RelatedTo	/c/en/blow	1.0	0.798
+/c/en/blew	FormOf	/c/en/blow	1.0	0.798
+/c/en/blews	FormOf	/c/en/blew	1.0	0.739
+/c/en/blew	IsA	/c/en/album	0.5	0.081
+/c/en/blew	InstanceOf	/c/en/extended_play	0.5	0.081
+/c/en/blew	genre	/c/en/grunge	0.5	0.081
+/c/en/blew	Synonym	/c/en/blew	0.5	1.0

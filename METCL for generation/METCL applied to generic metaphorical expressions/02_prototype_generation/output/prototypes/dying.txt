@@ -1,0 +1,8 @@
+life: 0.906
+death: 0.894
+living: 0.883
+ending_life: 0.873
+ending_live: 0.873
+mortals: 0.865
+committing_suicide: 0.856
+desease_accident_or_old_age: 0.849

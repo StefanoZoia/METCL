@@ -1,0 +1,8 @@
+advance: 0.848
+come: 0.826
+address: 0.822
+conceptualization: 0.82
+golf: 0.804
+movement: 0.804
+motion: 0.803
+similarity: 0.803

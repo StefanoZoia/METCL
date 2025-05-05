@@ -1,0 +1,8 @@
+-small: 0.856
+-little: 0.846
+-tiny: 0.77
+uk: 0.764
+bdsm: 0.754
+archaic: 0.75
+slang: 0.728
+haystack: 0.715

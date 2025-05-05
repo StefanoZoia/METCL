@@ -1,0 +1,3 @@
+jungle: 0.791
+forest: 0.779
+flowers: 0.762

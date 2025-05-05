@@ -1,0 +1,2 @@
+air_locomotion: 0.777
+wings: 0.751

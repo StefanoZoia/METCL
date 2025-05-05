@@ -1,0 +1,10 @@
+/c/en/nurturance	IsA	/c/en/care	2.0	0.555
+/c/en/nurturances	RelatedTo	/c/en/nurturance	1.0	1.0
+/c/en/nurturance	RelatedTo	/c/en/emotional	1.0	0.416
+/c/en/nurturance	RelatedTo	/c/en/care	1.0	0.555
+/c/en/nurturant	RelatedTo	/c/en/nurturance	1.0	1.0
+/c/en/nurture	RelatedTo	/c/en/nurturance	1.0	0.61
+/c/en/nurturance	HasContext	/c/en/psychology	1.0	0.243
+/c/en/nurturance	DerivedFrom	/c/en/nurture	1.0	0.61
+/c/en/nurturances	FormOf	/c/en/nurturance	1.0	1.0
+/c/en/nurturance	RelatedTo	/c/en/physical	1.0	0.271

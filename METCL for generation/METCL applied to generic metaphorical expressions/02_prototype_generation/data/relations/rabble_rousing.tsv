@@ -1,0 +1,8 @@
+/c/en/instigative	Synonym	/c/en/rabble_rousing	2.0	0.442
+/c/en/incitive	Synonym	/c/en/rabble_rousing	2.0	0.54
+/c/en/rabble_rousing	SimilarTo	/c/en/provocative	2.0	0.536
+/c/en/incendiary	Synonym	/c/en/rabble_rousing	2.0	0.531
+/c/en/seditious	Synonym	/c/en/rabble_rousing	2.0	0.533
+/c/en/provocative	SimilarTo	/c/en/rabble_rousing	2.0	0.536
+/c/en/inflammatory	Synonym	/c/en/rabble_rousing	2.0	0.511
+/c/en/rabble_rousing	FormOf	/c/en/rabblerousing	1.0	0.701

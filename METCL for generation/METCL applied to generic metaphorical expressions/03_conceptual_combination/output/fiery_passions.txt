@@ -1,0 +1,25 @@
+Title: fiery-passions
+
+Head Concept Name: fiery
+Modifier Concept Name: passions
+
+
+
+
+
+T(modifier), romance, 0.758
+T(modifier), agony, 0.748
+T(modifier), emotion, 0.744
+T(modifier), feeling, 0.741
+T(modifier), affection, 0.74
+T(modifier), sexual_desire, 0.716
+T(modifier), christianity, 0.683
+T(modifier), -apathy, 0.66
+
+T(head), -level_headed, 0.741
+T(head), internet_slang, 0.666
+T(head), british, 0.665
+
+
+Result: {"romance": 0.758, "agony": 0.748, "emotion": 0.744, "feeling": 0.741, "affection": 0.74, "sexual_desire": 0.716, "christianity": 0.683, "-level_headed": 0.741, "@scenario_probability": 0.3188715637859551}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0.3188715637859551]

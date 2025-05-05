@@ -1,0 +1,8 @@
+petting: 0.9
+zoo: 0.877
+alive: 0.872
+food: 0.87
+animal_or_body_part: 0.868
+pet_store: 0.855
+fur: 0.853
+feel_pain: 0.848

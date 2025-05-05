@@ -1,0 +1,8 @@
+press: 0.897
+move: 0.891
+urge: 0.857
+force: 0.845
+-pull: 0.84
+propulsion: 0.83
+progress: 0.829
+approach: 0.808

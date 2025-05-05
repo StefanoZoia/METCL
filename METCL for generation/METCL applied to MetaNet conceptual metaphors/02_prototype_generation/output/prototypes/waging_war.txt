@@ -1,0 +1,8 @@
+armies: 0.947
+weapons: 0.927
+conquering_enemies: 0.901
+soldiers: 0.886
+hitler: 0.883
+enemy: 0.883
+hurting_others: 0.881
+enemies: 0.88

@@ -1,0 +1,6 @@
+/c/en/road_blocks	FormOf	/c/en/roadblocks	1.0	0.121
+/c/en/roadblocks	FormOf	/c/en/roadblock	1.0	0.915
+/c/en/roadblocks	FormOf	/c/en/roadblock	1.0	0.915
+/c/en/roadblocks	FormOf	/c/en/road_blocks	1.0	0.121
+/c/en/roadblocks	RelatedTo	/c/en/roadblock	1.0	0.915
+/c/en/roadblocks	RelatedTo	/c/en/roadblock	1.0	0.915

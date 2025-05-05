@@ -1,0 +1,9 @@
+/c/en/legislative_deliberation	IsA	/c/en/legislative_action	1.0	0.927
+/c/en/filibustering	IsA	/c/en/legislative_action	1.0	0.414
+/c/en/legislating	IsA	/c/en/legislative_action	1.0	0.591
+/c/en/legislative_action	IsA	/c/en/legal_proceeding	1.0	0.05
+/c/en/legislative_vote	IsA	/c/en/legislative_action	1.0	0.927
+/c/en/address_to_legislative_body	IsA	/c/en/legislative_action	1.0	-0.102
+/c/en/legislative_action	IsA	/c/en/group_activity	1.0	0.027
+/c/en/passing_law	IsA	/c/en/legislative_action	1.0	0.119
+/c/en/introducing_bill	IsA	/c/en/legislative_action	1.0	0.133

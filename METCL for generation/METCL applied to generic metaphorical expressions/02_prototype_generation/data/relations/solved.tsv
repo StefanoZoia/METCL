@@ -1,0 +1,16 @@
+/c/en/resolved	Synonym	/c/en/solved	2.0	0.751
+/c/en/diakoptics	RelatedTo	/c/en/solved	1.0	0.02
+/c/en/solved	RelatedTo	/c/en/solution	1.0	0.48
+/c/en/solved	RelatedTo	/c/en/answered	1.0	0.53
+/c/en/solved	RelatedTo	/c/en/explained	1.0	0.3
+/c/en/cold_case	RelatedTo	/c/en/solved	1.0	0.425
+/c/en/solved	FormOf	/c/en/solve	1.0	0.82
+/c/en/unsolved	DerivedFrom	/c/en/solved	1.0	0.668
+/c/en/unsolved	RelatedTo	/c/en/solved	1.0	0.668
+/c/en/solved	RelatedTo	/c/en/solve	1.0	0.82
+/c/en/rubix_cube	ReceivesAction	/c/en/solved	1.0	0.134
+/c/en/approximation_algorithm	RelatedTo	/c/en/solved	1.0	0.015
+/c/en/solved	FormOf	/c/en/solve	1.0	0.82
+/c/en/problem	RelatedTo	/c/en/solved	0.5190000000000001	0.629
+/c/en/solution	RelatedTo	/c/en/solved	0.19499999999999984	0.48
+/c/en/answer	RelatedTo	/c/en/solved	0.14800000000000013	0.326

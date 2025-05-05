@@ -1,0 +1,7 @@
+strengthen: 0.946
+-weaken: 0.891
+-enervate: 0.846
+-enfeeble: 0.816
+change: 0.813
+-atrophy: 0.767
+suspension_cable: 0.686

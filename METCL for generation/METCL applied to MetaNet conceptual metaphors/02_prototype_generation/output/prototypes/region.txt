@@ -1,0 +1,6 @@
+location: 0.838
+state: 0.8
+site: 0.774
+tangible_thing: 0.753
+historical: 0.748
+anatomy: 0.747

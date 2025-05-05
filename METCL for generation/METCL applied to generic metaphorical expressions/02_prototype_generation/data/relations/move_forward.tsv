@@ -1,0 +1,13 @@
+/c/en/nonachiever	RelatedTo	/c/en/move_forward	1.0	-0.014
+/c/en/move_forward	RelatedTo	/c/en/modernize	1.0	0.173
+/c/en/moving_forward	FormOf	/c/en/move_forward	1.0	0.231
+/c/en/moves_forward	FormOf	/c/en/move_forward	1.0	0.345
+/c/en/advance_into_battle	HasPrerequisite	/c/en/move_forward	1.0	0.007
+/c/en/move_forward	RelatedTo	/c/en/progress	1.0	0.178
+/c/en/moved_forward	FormOf	/c/en/move_forward	1.0	0.148
+/c/en/advance	RelatedTo	/c/en/move_forward	0.8529999999999998	0.2
+/c/en/progress	RelatedTo	/c/en/move_forward	0.2530000000000001	0.178
+/c/en/walk	RelatedTo	/c/en/move_forward	0.21099999999999985	0.066
+/c/en/heel	Antonym	/c/en/move_forward	0.1499999999999999	0.014
+/c/en/motion	RelatedTo	/c/en/move_forward	0.14100000000000001	0.117
+/c/en/step	RelatedTo	/c/en/move_forward	0.10199999999999987	0.119

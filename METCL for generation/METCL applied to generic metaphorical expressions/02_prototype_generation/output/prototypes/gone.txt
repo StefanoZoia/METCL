@@ -1,0 +1,6 @@
+archaic: 0.76
+british: 0.718
+-remain: 0.714
+-here: 0.661
+time_irretrievable_once: 0.648
+wash_dirt_from_between_toes: 0.625

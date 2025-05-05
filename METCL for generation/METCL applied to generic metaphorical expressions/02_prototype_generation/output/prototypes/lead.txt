@@ -1,0 +1,8 @@
+toxic: 0.89
+very_heavy: 0.858
+precede: 0.854
+advantage: 0.849
+leadership: 0.841
+dangerous_to_eat: 0.836
+heavy: 0.835
+compete: 0.834

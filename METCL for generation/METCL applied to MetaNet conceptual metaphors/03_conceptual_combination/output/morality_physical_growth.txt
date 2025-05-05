@@ -1,0 +1,22 @@
+Title: morality-physical_growth
+
+Head Concept Name: morality
+Modifier Concept Name: physical_growth
+
+
+
+
+
+T(modifier), increase_in_mass, 0.747
+T(modifier), becoming, 0.745
+
+T(head), -amorality, 0.859
+T(head), quality, 0.828
+T(head), needless, 0.821
+T(head), belief_system, 0.818
+T(head), -baseness, 0.772
+T(head), archaic, 0.748
+
+
+Result: {"increase_in_mass": 0.747, "becoming": 0.745, "-amorality": 0.859, "quality": 0.828, "needless": 0.821, "belief_system": 0.818, "-baseness": 0.772, "@scenario_probability": 5.171477947574024}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 5.171477947574024]

@@ -1,0 +1,30 @@
+Title: economy-body
+
+Head Concept Name: economy
+Modifier Concept Name: body
+
+
+
+
+
+T(modifier), torso, 0.852
+T(modifier), coffin, 0.843
+T(modifier), body_substance, 0.837
+T(modifier), funeral, 0.835
+T(modifier), system, 0.83
+T(modifier), structure, 0.829
+T(modifier), message, 0.827
+T(modifier), mass, 0.818
+
+T(head), frugality, 0.864
+T(head), economic_action, 0.857
+T(head), efficiency, 0.832
+T(head), system, 0.816
+T(head), sector, 0.811
+T(head), heading_into_toilet, 0.804
+T(head), action, 0.79
+T(head), spending, 0.776
+
+
+Result: {"torso": 0.852, "coffin": 0.843, "body_substance": 0.837, "funeral": 0.835, "system": 0.83, "frugality": 0.864, "economic_action": 0.857, "efficiency": 0.832, "@scenario_probability": 4.4308974534939695e-05}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 4.4308974534939695e-05]

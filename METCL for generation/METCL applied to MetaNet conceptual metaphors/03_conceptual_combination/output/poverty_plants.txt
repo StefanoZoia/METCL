@@ -1,0 +1,30 @@
+Title: poverty-plants
+
+Head Concept Name: poverty
+Modifier Concept Name: plants
+
+
+
+
+
+T(modifier), poisonous, 0.904
+T(modifier), garden, 0.88
+T(modifier), flower_in_sun, 0.869
+T(modifier), purple_in_color, 0.868
+T(modifier), produce_oxygen, 0.864
+T(modifier), good_for_environment, 0.863
+T(modifier), edible, 0.863
+T(modifier), greenhouse, 0.862
+
+T(head), financial_condition, 0.865
+T(head), undesirable, 0.833
+T(head), -wealth, 0.792
+T(head), drive_crime, 0.789
+T(head), situation, 0.763
+T(head), curse, 0.75
+T(head), get_money_from, 0.748
+T(head), mumbai, 0.747
+
+
+Result: {"poisonous": 0.904, "garden": 0.88, "flower_in_sun": 0.869, "purple_in_color": 0.868, "produce_oxygen": 0.864, "good_for_environment": 0.863, "edible": 0.863, "financial_condition": 0.865, "@scenario_probability": 0.00012761238048120853}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0.00012761238048120853]

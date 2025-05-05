@@ -1,0 +1,5 @@
+ardor: 0.8298000000000001
+intolerance: 0.783
+israelite: 0.738
+-apathy: 0.7110000000000001
+historical: 0.6642

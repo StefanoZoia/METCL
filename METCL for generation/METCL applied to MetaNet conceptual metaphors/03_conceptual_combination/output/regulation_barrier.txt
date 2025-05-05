@@ -1,0 +1,30 @@
+Title: regulation-barrier
+
+Head Concept Name: regulation
+Modifier Concept Name: barrier
+
+
+
+
+
+T(modifier), roadblock, 0.894
+T(modifier), obstacle, 0.883
+T(modifier), obstruction, 0.847
+T(modifier), boundary_situation, 0.812
+T(modifier), mechanism, 0.811
+T(modifier), preventing, 0.792
+T(modifier), physiology, 0.755
+T(modifier), unnatural_thing, 0.75
+
+T(head), rule, 0.883
+T(head), control, 0.835
+T(head), dominance, 0.829
+T(head), embryology, 0.823
+T(head), organic_process, 0.8
+T(head), genetics, 0.773
+T(head), european_union_law, 0.769
+T(head), medicine, 0.755
+
+
+Result: {"roadblock": 0.894, "obstacle": 0.883, "obstruction": 0.847, "boundary_situation": 0.812, "rule": 0.883, "control": 0.835, "dominance": 0.829, "embryology": 0.823, "@scenario_probability": 0.00016896795817681115}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.00016896795817681115]

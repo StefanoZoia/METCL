@@ -1,0 +1,30 @@
+Title: grind-solution
+
+Head Concept Name: grind
+Modifier Concept Name: solution
+
+
+
+
+
+T(modifier), solving_problem, 0.917
+T(modifier), method, 0.844
+T(modifier), -problem, 0.834
+T(modifier), mixture, 0.832
+T(modifier), success, 0.81
+T(modifier), statement, 0.803
+T(modifier), set, 0.779
+T(modifier), fluid_substance, 0.776
+
+T(head), crush, 0.855
+T(head), dance, 0.814
+T(head), break_up, 0.812
+T(head), degree, 0.805
+T(head), make, 0.793
+T(head), mean_to_rub_against, 0.79
+T(head), shape, 0.788
+T(head), metalworking, 0.769
+
+
+Result: {"solving_problem": 0.917, "method": 0.844, "-problem": 0.834, "mixture": 0.832, "success": 0.81, "crush": 0.855, "dance": 0.814, "break_up": 0.812, "@scenario_probability": 9.952022231780855e-05}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 9.952022231780855e-05]

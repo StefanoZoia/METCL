@@ -1,0 +1,9 @@
+/c/en/attacked	FormOf	/c/en/attack	1.0	0.595
+/c/en/attacked	HasSubevent	/c/en/fight_back	1.0	0.183
+/c/en/unattackable	RelatedTo	/c/en/attacked	1.0	0.05
+/c/en/unattacked	DerivedFrom	/c/en/attacked	1.0	0.05
+/c/en/kill	MotivatedByGoal	/c/en/attacked	1.0	0.161
+/c/en/attackable	RelatedTo	/c/en/attacked	1.0	0.683
+/c/en/attacked	RelatedTo	/c/en/attack	1.0	0.595
+/c/en/animal	NotDesires	/c/en/attacked	1.0	0.104
+/c/en/swarming	RelatedTo	/c/en/attacked	1.0	0.27

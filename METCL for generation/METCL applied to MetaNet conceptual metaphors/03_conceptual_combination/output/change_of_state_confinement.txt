@@ -1,0 +1,24 @@
+Title: change_of_state-confinement
+
+Head Concept Name: change_of_state
+Modifier Concept Name: confinement
+
+
+
+
+
+T(modifier), restraint, 0.854
+T(modifier), subjugation, 0.811
+
+T(head), change, 0.933
+T(head), difference, 0.826
+T(head), replace, 0.774
+T(head), unpleasant, 0.752
+T(head), exciting, 0.752
+T(head), jar, 0.733
+T(head), dress, 0.733
+T(head), consequence, 0.733
+
+
+Result: {"restraint": 0.854, "subjugation": 0.811, "change": 0.933, "difference": 0.826, "replace": 0.774, "unpleasant": 0.752, "exciting": 0.752, "consequence": 0.733, "@scenario_probability": 1.220797286247054}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1.220797286247054]

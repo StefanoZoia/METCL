@@ -1,0 +1,8 @@
+computing: 0.791
+meet: 0.787
+astronomy: 0.772
+statistics: 0.763
+military: 0.762
+linguistics: 0.755
+army: 0.754
+education: 0.74

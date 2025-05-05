@@ -1,0 +1,25 @@
+Title: decision_making-spatial_relation
+
+Head Concept Name: decision_making
+Modifier Concept Name: spatial_relation
+
+
+
+
+
+T(modifier), attitude, 0.764
+T(modifier), logic, 0.763
+T(modifier), assert, 0.752
+T(modifier), phrase, 0.752
+T(modifier), orientation, 0.751
+T(modifier), verb, 0.743
+T(modifier), point, 0.742
+T(modifier), assumption, 0.737
+
+T(head), higher_cognitive_process, 0.813
+T(head), council, 0.798
+T(head), making, 0.786
+
+
+Result: {"attitude": 0.764, "logic": 0.763, "assert": 0.752, "phrase": 0.752, "orientation": 0.751, "verb": 0.743, "higher_cognitive_process": 0.813, "council": 0.798, "@scenario_probability": 0.17328660501632467}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0.17328660501632467]

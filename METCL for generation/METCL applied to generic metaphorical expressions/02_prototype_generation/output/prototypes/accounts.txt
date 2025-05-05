@@ -1,0 +1,4 @@
+ledger: 0.785
+banks: 0.766
+settled_monthy: 0.761
+general_ledger: 0.675

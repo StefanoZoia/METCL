@@ -1,0 +1,8 @@
+consume: 0.873
+periodical: 0.857
+decompose: 0.846
+disintegrate: 0.82
+permit: 0.819
+process: 0.812
+abridge: 0.812
+get_picture: 0.803

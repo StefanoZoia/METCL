@@ -1,0 +1,12 @@
+/c/en/incomes	ReceivesAction	/c/en/taxed	1.0	0.598
+/c/en/taxed	FormOf	/c/en/tax	1.0	0.81
+/c/en/taxed	FormOf	/c/en/tax	1.0	0.81
+/c/en/taxed	RelatedTo	/c/en/tax	1.0	0.81
+/c/en/undertaxed	DerivedFrom	/c/en/taxed	1.0	0.02
+/c/en/taxed	RelatedTo	/c/en/taxation	1.0	0.795
+/c/en/taxed	DefinedAs	/c/en/past_tense_of_word_tax	1.0	0.075
+/c/en/taxation	RelatedTo	/c/en/taxed	1.0	0.795
+/c/en/tea	RelatedTo	/c/en/taxed	1.0	0.148
+/c/en/taxed	Antonym	/c/en/untaxed	1.0	0.725
+/c/en/untaxed	DerivedFrom	/c/en/taxed	1.0	0.725
+/c/en/property	RelatedTo	/c/en/taxed	0.2240000000000002	0.158

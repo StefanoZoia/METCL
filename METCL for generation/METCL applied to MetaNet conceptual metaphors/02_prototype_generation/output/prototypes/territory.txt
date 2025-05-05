@@ -1,0 +1,6 @@
+area: 0.858
+geographical_area: 0.843
+canada: 0.774
+games: 0.741
+ecology: 0.741
+sports: 0.738

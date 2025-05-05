@@ -1,0 +1,7 @@
+/c/en/paths	FormOf	/c/en/path	1.0	0.898
+/c/en/paths	FormOf	/c/en/path	1.0	0.898
+/c/en/paths	AtLocation	/c/en/park	1.0	0.216
+/c/en/paths	FormOf	/c/en/path	1.0	0.898
+/c/en/paths	RelatedTo	/c/en/path	1.0	0.898
+/c/en/glory	RelatedTo	/c/en/paths	0.17700000000000005	0.143
+/c/en/mountain	RelatedTo	/c/en/paths	0.10199999999999987	0.076

@@ -1,0 +1,8 @@
+building_materials: 0.913
+architect: 0.875
+tradesmen: 0.871
+shelter: 0.864
+man_made: 0.855
+housing: 0.852
+weather_storm: 0.848
+work: 0.841

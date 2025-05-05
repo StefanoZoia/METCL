@@ -1,0 +1,8 @@
+thinking: 0.906
+subjective: 0.894
+cognition: 0.856
+think_about: 0.842
+remember: 0.842
+intelligence: 0.836
+recall: 0.827
+perceive_external_envrnment_and_recollect_data: 0.823

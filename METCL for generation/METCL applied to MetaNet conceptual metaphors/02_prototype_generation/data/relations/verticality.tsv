@@ -1,0 +1,6 @@
+/c/en/uprightness	Synonym	/c/en/verticality	2.0	0.255
+/c/en/verticality	IsA	/c/en/position	2.0	0.248
+/c/en/erectness	Synonym	/c/en/verticality	2.0	0.134
+/c/en/verticalness	Synonym	/c/en/verticality	2.0	0.64
+/c/en/verticality	RelatedTo	/c/en/verticalness	1.0	0.64
+/c/en/verticalities	FormOf	/c/en/verticality	1.0	1.0

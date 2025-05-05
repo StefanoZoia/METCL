@@ -1,0 +1,8 @@
+care: 0.87
+health_profession: 0.857
+infant_feeding: 0.84
+feeding: 0.819
+caring_for_people: 0.814
+medical_treatment: 0.785
+taking_care_of: 0.744
+attention: 0.74

@@ -1,0 +1,8 @@
+superior: 0.822
+boss: 0.818
+management: 0.815
+fire_employee: 0.811
+colleague: 0.789
+group_projects: 0.785
+skilled_worker: 0.778
+person: 0.77

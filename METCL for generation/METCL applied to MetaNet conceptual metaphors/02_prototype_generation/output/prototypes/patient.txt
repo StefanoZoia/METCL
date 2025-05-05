@@ -1,0 +1,8 @@
+suffering_from_disease: 0.877
+-impatient: 0.846
+take_pill: 0.842
+wait_in_lobby: 0.84
+battle_disease: 0.838
+visit_hospital: 0.833
+visit_doctor: 0.833
+table: 0.826

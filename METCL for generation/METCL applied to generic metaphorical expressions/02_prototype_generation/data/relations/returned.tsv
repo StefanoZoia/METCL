@@ -1,0 +1,16 @@
+/c/en/feral	RelatedTo	/c/en/returned	1.0	0.074
+/c/en/unreturnable	RelatedTo	/c/en/returned	1.0	0.756
+/c/en/find_lost_item	MotivatedByGoal	/c/en/returned	1.0	0.084
+/c/en/dead_letter	RelatedTo	/c/en/returned	1.0	-0.061
+/c/en/returned	FormOf	/c/en/return	1.0	0.747
+/c/en/recached	RelatedTo	/c/en/returned	1.0	0.239
+/c/en/unrequited	RelatedTo	/c/en/returned	1.0	0.286
+/c/en/feral_cat	RelatedTo	/c/en/returned	1.0	0.165
+/c/en/open_box	RelatedTo	/c/en/returned	1.0	-0.019
+/c/en/nonreturned	DerivedFrom	/c/en/returned	1.0	0.217
+/c/en/unreturned	DerivedFrom	/c/en/returned	1.0	0.756
+/c/en/unreturned	RelatedTo	/c/en/returned	1.0	0.756
+/c/en/returned	RelatedTo	/c/en/return	1.0	0.747
+/c/en/reply	RelatedTo	/c/en/returned	0.3769999999999998	0.103
+/c/en/change	RelatedTo	/c/en/returned	0.137	0.0
+/c/en/back	RelatedTo	/c/en/returned	0.1120000000000001	0.437

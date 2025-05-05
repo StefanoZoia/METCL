@@ -1,0 +1,8 @@
+help: 0.7542
+resource: 0.7461
+authorized_agreement: 0.7452
+activity: 0.7263000000000001
+-support: 0.7119000000000001
+-hinder: 0.7092
+gift: 0.7029000000000001
+written_loan_contract: 0.6786

@@ -1,0 +1,7 @@
+space: 0.821
+workplace: 0.817
+object: 0.812
+place: 0.795
+south_africa: 0.739
+legal: 0.733
+index_card_drawer: 0.619

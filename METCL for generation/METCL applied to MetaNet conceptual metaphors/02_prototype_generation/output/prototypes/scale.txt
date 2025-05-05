@@ -1,0 +1,8 @@
+measuring_weight: 0.899
+measure_weight: 0.891
+size: 0.868
+weighing_people: 0.863
+weighing: 0.863
+weighing_purchases: 0.863
+weighing_trucks: 0.863
+weighing_objects: 0.863

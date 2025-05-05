@@ -1,0 +1,8 @@
+/c/en/timespans	FormOf	/c/en/timespan	1.0	1.0
+/c/en/timespan	RelatedTo	/c/en/interval	1.0	0.55
+/c/en/timespan	DerivedFrom	/c/en/time	1.0	0.535
+/c/en/yearlong	RelatedTo	/c/en/timespan	1.0	0.374
+/c/en/period	Synonym	/c/en/timespan	1.0	0.624
+/c/en/calendar_day	RelatedTo	/c/en/timespan	1.0	0.168
+/c/en/timespan	DerivedFrom	/c/en/span	1.0	0.68
+/c/en/water_year	RelatedTo	/c/en/timespan	1.0	-0.031

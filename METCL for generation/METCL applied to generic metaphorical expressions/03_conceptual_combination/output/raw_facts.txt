@@ -1,0 +1,30 @@
+Title: raw-facts
+
+Head Concept Name: raw
+Modifier Concept Name: facts
+
+
+
+
+
+T(modifier), false, 0.868
+T(modifier), true, 0.866
+T(modifier), useful_but_aren't_always, 0.849
+T(modifier), information, 0.84
+T(modifier), myths_in_disguise, 0.814
+T(modifier), explain_problem, 0.809
+T(modifier), statistics_to_verify_findings, 0.795
+T(modifier), context_dependent, 0.787
+
+T(head), nakedness, 0.811
+T(head), -cooked, 0.794
+T(head), sugar_refining, 0.776
+T(head), sugar_trade, 0.77
+T(head), fandom, 0.737
+T(head), slang, 0.736
+T(head), manga, 0.731
+T(head), anime, 0.72
+
+
+Result: {"false": 0.868, "true": 0.866, "useful_but_aren't_always": 0.849, "information": 0.84, "myths_in_disguise": 0.814, "explain_problem": 0.809, "statistics_to_verify_findings": 0.795, "nakedness": 0.811, "@scenario_probability": 0.000269077985581948}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0.000269077985581948]

@@ -1,0 +1,8 @@
+firearm_shoots_bullets: 0.931
+shooting_things: 0.915
+shoot: 0.904
+weapon: 0.903
+shot: 0.897
+gun_shop: 0.894
+holster: 0.889
+shoot_bullets: 0.883

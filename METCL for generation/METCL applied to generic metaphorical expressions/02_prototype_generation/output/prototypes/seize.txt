@@ -1,0 +1,4 @@
+take: 0.856
+overwhelm: 0.831
+hook: 0.811
+nautical: 0.75

@@ -1,0 +1,8 @@
+gathering: 0.871
+whole: 0.821
+group_action: 0.819
+machine: 0.816
+auditorium: 0.792
+military: 0.753
+computing: 0.751
+us: 0.733

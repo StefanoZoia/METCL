@@ -1,0 +1,16 @@
+/c/en/boat	HasA	/c/en/sails	2.0	0.594
+/c/en/sailboats	HasA	/c/en/sails	2.0	0.837
+/c/en/sails	FormOf	/c/en/sail	2.0	0.879
+/c/en/boat	RelatedTo	/c/en/sails	1.479	0.594
+/c/en/sails	RelatedTo	/c/en/sail	1.0	0.879
+/c/en/fabric	UsedFor	/c/en/sails	1.0	0.165
+/c/en/yachter	RelatedTo	/c/en/sails	1.0	0.6
+/c/en/sit_out	RelatedTo	/c/en/sails	1.0	-0.041
+/c/en/sails	RelatedTo	/c/en/sail	1.0	0.879
+/c/en/sails	FormOf	/c/en/sail	1.0	0.879
+/c/en/sails	FormOf	/c/en/sail	1.0	0.879
+/c/en/sails	FormOf	/c/en/sail	1.0	0.879
+/c/en/wind	RelatedTo	/c/en/sails	0.28500000000000014	0.401
+/c/en/yacht	RelatedTo	/c/en/sails	0.17600000000000016	0.581
+/c/en/mast	RelatedTo	/c/en/sails	0.16800000000000015	0.488
+/c/en/boating	RelatedTo	/c/en/sails	0.16699999999999982	0.434

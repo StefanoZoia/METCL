@@ -1,0 +1,8 @@
+attempt: 0.855
+measure_up: 0.808
+effort: 0.7497
+another_name_for_effort: 0.7443
+do: 0.7443
+scoring_when_playing_rugby: 0.7325999999999999
+scoring_in_rugby: 0.7325999999999999
+pain: 0.7299000000000001

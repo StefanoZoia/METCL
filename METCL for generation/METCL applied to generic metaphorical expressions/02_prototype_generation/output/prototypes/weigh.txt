@@ -1,0 +1,4 @@
+measure: 0.848
+quantify: 0.842
+count: 0.821
+nautical: 0.753

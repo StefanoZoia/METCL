@@ -1,0 +1,16 @@
+/c/en/trespassing	Synonym	/c/en/encroaching	2.0	0.557
+/c/en/no_entry	RelatedTo	/c/en/trespassing	1.0	0.1
+/c/en/untrespassing	DerivedFrom	/c/en/trespassing	1.0	0.003
+/c/en/trespassing	IsA	/c/en/violating_obligation	1.0	0.383
+/c/en/trespassing	IsA	/c/en/illegal_action	1.0	0.037
+/c/en/squatting	IsA	/c/en/trespassing	1.0	0.22
+/c/en/trespassing	RelatedTo	/c/en/private	1.0	0.139
+/c/en/nontrespassing	DerivedFrom	/c/en/trespassing	1.0	0.059
+/c/en/trespassings	FormOf	/c/en/trespassing	1.0	1.0
+/c/en/breaking_and_entering	IsA	/c/en/trespassing	1.0	0.555
+/c/en/trespassing	FormOf	/c/en/trespass	1.0	0.861
+/c/en/trespassing	IsA	/c/en/going	1.0	0.088
+/c/en/trespassing	RelatedTo	/c/en/entry	1.0	0.292
+/c/en/trespassing	RelatedTo	/c/en/trespass	1.0	0.861
+/c/en/trespassing	RelatedTo	/c/en/unauthorized	1.0	0.365
+/c/en/trespassing	RelatedTo	/c/en/property	1.0	0.357

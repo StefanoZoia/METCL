@@ -1,0 +1,8 @@
+faith: 0.7902
+include_fantasy: 0.7632
+subjective_sense_of_knowledge: 0.7362
+trust: 0.7317
+content: 0.7236
+people: 0.712
+praying: 0.7083
+-fact: 0.6723

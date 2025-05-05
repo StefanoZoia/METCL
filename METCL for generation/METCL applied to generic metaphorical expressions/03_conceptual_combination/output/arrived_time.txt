@@ -1,0 +1,29 @@
+Title: arrived-time
+
+Head Concept Name: arrived
+Modifier Concept Name: time
+
+
+
+
+
+T(modifier), time_period, 0.88
+T(modifier), moment, 0.878
+T(modifier), linear, 0.874
+T(modifier), running, 0.871
+T(modifier), finite, 0.851
+T(modifier), age, 0.843
+T(modifier), endless, 0.84
+T(modifier), absolute, 0.836
+
+T(head), -depart, 0.794
+T(head), -went, 0.762
+T(head), succeed, 0.735
+T(head), -leave, 0.718
+T(head), -disembark, 0.717
+T(head), -departure, 0.699
+T(head), archaic, 0.661
+
+
+Result: {"time_period": 0.88, "moment": 0.878, "linear": 0.874, "running": 0.871, "finite": 0.851, "age": 0.843, "endless": 0.84, "-depart": 0.794, "@scenario_probability": 0.002370457185235471}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0.002370457185235471]

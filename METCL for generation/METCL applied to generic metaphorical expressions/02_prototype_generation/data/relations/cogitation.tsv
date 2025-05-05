@@ -1,0 +1,15 @@
+/c/en/cogitation	IsA	/c/en/contemplation	2.0	0.645
+/c/en/cogitation	IsA	/c/en/idea	2.0	0.291
+/c/en/lucubration	IsA	/c/en/cogitation	2.0	0.013
+/c/en/study	Synonym	/c/en/cogitation	2.0	0.28
+/c/en/cogitation	RelatedTo	/c/en/cogitating	1.0	1.0
+/c/en/cogitate	RelatedTo	/c/en/cogitation	1.0	0.593
+/c/en/cogitation	RelatedTo	/c/en/thought	1.0	0.369
+/c/en/cogitation	RelatedTo	/c/en/deliberation	1.0	0.533
+/c/en/cogitative	RelatedTo	/c/en/cogitation	1.0	1.0
+/c/en/cogitation	RelatedTo	/c/en/cogitate	1.0	0.593
+/c/en/cogitations	FormOf	/c/en/cogitation	1.0	1.0
+/c/en/cogitation	RelatedTo	/c/en/meditation	1.0	0.37
+/c/en/cogitation	HasProperty	/c/en/intense_thinking	1.0	0.096
+/c/en/precogitation	RelatedTo	/c/en/cogitation	1.0	0.119
+/c/en/cogitatingly	RelatedTo	/c/en/cogitation	1.0	1.0

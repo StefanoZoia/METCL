@@ -1,0 +1,30 @@
+Title: time-front
+
+Head Concept Name: time
+Modifier Concept Name: front
+
+
+
+
+
+T(modifier), -rear, 0.902
+T(modifier), -back, 0.851
+T(modifier), -behind, 0.842
+T(modifier), confront, 0.838
+T(modifier), appearance, 0.827
+T(modifier), position, 0.823
+T(modifier), atmospheric_phenomenon, 0.814
+T(modifier), lie, 0.812
+
+T(head), time_period, 0.88
+T(head), moment, 0.878
+T(head), linear, 0.874
+T(head), running, 0.871
+T(head), finite, 0.851
+T(head), age, 0.843
+T(head), endless, 0.84
+T(head), absolute, 0.836
+
+
+Result: {"-rear": 0.902, "-back": 0.851, "time_period": 0.88, "moment": 0.878, "linear": 0.874, "running": 0.871, "finite": 0.851, "age": 0.843, "@scenario_probability": 2.3293036284646032e-05}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 2.3293036284646032e-05]

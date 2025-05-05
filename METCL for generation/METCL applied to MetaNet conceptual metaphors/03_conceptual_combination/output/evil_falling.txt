@@ -1,0 +1,30 @@
+Title: evil-falling
+
+Head Concept Name: evil
+Modifier Concept Name: falling
+
+
+
+
+
+T(modifier), broken_bones, 0.903
+T(modifier), losing_balance, 0.902
+T(modifier), losing_ballance, 0.866
+T(modifier), hitting_ground, 0.856
+T(modifier), gravity, 0.848
+T(modifier), avoiding_projectile, 0.847
+T(modifier), injuries, 0.843
+T(modifier), falling_process, 0.838
+
+T(head), bad, 0.868
+T(head), very_very_bad, 0.825
+T(head), providing_opposition_to_good, 0.797
+T(head), torture, 0.778
+T(head), -good, 0.766
+T(head), computing, 0.746
+T(head), programming, 0.733
+T(head), slang, 0.731
+
+
+Result: {"broken_bones": 0.903, "losing_balance": 0.902, "losing_ballance": 0.866, "hitting_ground": 0.856, "gravity": 0.848, "avoiding_projectile": 0.847, "injuries": 0.843, "bad": 0.868, "@scenario_probability": 0.00017307235290948115}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0.00017307235290948115]

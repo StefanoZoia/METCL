@@ -1,0 +1,4 @@
+cut: 0.836
+anatomy: 0.812
+pathology: 0.785
+surgery: 0.77

@@ -1,0 +1,2 @@
+-free: 0.778
+-independent: 0.725

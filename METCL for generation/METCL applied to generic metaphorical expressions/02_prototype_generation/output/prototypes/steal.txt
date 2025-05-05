@@ -1,0 +1,8 @@
+have_no_money: 0.839
+gain: 0.825
+take: 0.819
+move: 0.81
+baseball: 0.804
+want_money: 0.804
+midgets: 0.79
+get: 0.779

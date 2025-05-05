@@ -1,0 +1,30 @@
+Title: ocean-ocean
+
+Head Concept Name: ocean
+Modifier Concept Name: ocean
+
+
+
+
+
+T(modifier), sailing, 0.888
+T(modifier), sail, 0.887
+T(modifier), swimming, 0.885
+T(modifier), beach, 0.881
+T(modifier), diving, 0.878
+T(modifier), fish, 0.877
+T(modifier), swim_in, 0.873
+T(modifier), place_to_swim, 0.866
+
+T(head), sailing, 0.888
+T(head), sail, 0.887
+T(head), swimming, 0.885
+T(head), beach, 0.881
+T(head), diving, 0.878
+T(head), fish, 0.877
+T(head), swim_in, 0.873
+T(head), place_to_swim, 0.866
+
+
+Result: {"sailing": 0.888, "sail": 0.887, "swimming": 0.885, "beach": 0.881, "@scenario_probability": 2.45956583802412e-06}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 2.45956583802412e-06]

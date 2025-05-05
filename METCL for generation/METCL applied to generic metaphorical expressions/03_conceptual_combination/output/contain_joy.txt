@@ -1,0 +1,29 @@
+Title: contain-joy
+
+Head Concept Name: contain
+Modifier Concept Name: joy
+
+
+
+
+
+T(modifier), emotion, 0.85
+T(modifier), positive_stimulus, 0.834
+T(modifier), dishwashing_soap, 0.833
+T(modifier), -sadness, 0.821
+T(modifier), dog, 0.811
+T(modifier), enter_room, 0.808
+T(modifier), trip_on_stairs, 0.804
+T(modifier), -sorrow, 0.803
+
+T(head), be, 0.843
+T(head), arithmetic, 0.814
+T(head), -release, 0.773
+T(head), mathematics, 0.761
+T(head), -let, 0.683
+T(head), -let_go, 0.682
+T(head), -go, 0.67
+
+
+Result: {"emotion": 0.85, "positive_stimulus": 0.834, "dishwashing_soap": 0.833, "-sadness": 0.821, "dog": 0.811, "enter_room": 0.808, "be": 0.843, "arithmetic": 0.814, "@scenario_probability": 0.001519160665876432}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0.001519160665876432]

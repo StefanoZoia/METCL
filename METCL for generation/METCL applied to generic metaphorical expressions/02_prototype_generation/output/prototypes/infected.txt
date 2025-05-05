@@ -1,0 +1,8 @@
+pollute: 0.7803
+virus: 0.7704
+affect: 0.765
+corrupt: 0.7497
+-disinfect: 0.7434
+give: 0.7236
+-pure: 0.6984
+cockney_rhyming_slang: 0.6948000000000001

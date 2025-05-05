@@ -1,0 +1,27 @@
+Title: note-mental
+
+Head Concept Name: note
+Modifier Concept Name: mental
+
+
+
+
+
+T(modifier), -physical, 0.843
+T(modifier), biology, 0.766
+T(modifier), uk, 0.755
+T(modifier), anatomy, 0.751
+T(modifier), zoology, 0.728
+
+T(head), musical_notation, 0.864
+T(head), perceive, 0.861
+T(head), comment, 0.855
+T(head), remind_yourself, 0.854
+T(head), communication, 0.844
+T(head), write_message, 0.839
+T(head), melody, 0.837
+T(head), tone, 0.828
+
+
+Result: {"-physical": 0.843, "musical_notation": 0.864, "perceive": 0.861, "comment": 0.855, "remind_yourself": 0.854, "communication": 0.844, "write_message": 0.839, "melody": 0.837, "@scenario_probability": 0.018124955928208113}
+Scenario: [1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.018124955928208113]

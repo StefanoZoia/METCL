@@ -1,0 +1,5 @@
+sell_products_and_services: 0.809
+collect_money: 0.802
+city: 0.785
+serving_customers: 0.707
+supposed_to_make_money: 0.644

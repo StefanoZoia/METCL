@@ -1,0 +1,16 @@
+/c/en/zealotry	Synonym	/c/en/fanaticism	2.0	0.766
+/c/en/fanatism	Synonym	/c/en/fanaticism	2.0	0.952
+/c/en/fanaticism	IsA	/c/en/intolerance	2.0	0.433
+/c/en/fanaticism	RelatedTo	/c/en/fanatic	2.0	0.668
+/c/en/fanatical	RelatedTo	/c/en/fanaticism	1.0	0.735
+/c/en/religionism	Synonym	/c/en/fanaticism	1.0	0.317
+/c/en/fanaticism	RelatedTo	/c/en/fanatical	1.0	0.735
+/c/en/fanaticism	DerivedFrom	/c/en/icism	1.0	0.018
+/c/en/fanaticalness	RelatedTo	/c/en/fanaticism	1.0	0.676
+/c/en/bigotry	RelatedTo	/c/en/fanaticism	1.0	0.58
+/c/en/colorum	RelatedTo	/c/en/fanaticism	1.0	0.02
+/c/en/fanaticism	DerivedFrom	/c/en/fanatic	1.0	0.668
+/c/en/dianamania	RelatedTo	/c/en/fanaticism	1.0	-0.067
+/c/en/mania	RelatedTo	/c/en/fanaticism	1.0	0.404
+/c/en/zealotry	RelatedTo	/c/en/fanaticism	1.0	0.766
+/c/en/fanaticisms	FormOf	/c/en/fanaticism	1.0	1.0

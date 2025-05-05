@@ -1,0 +1,30 @@
+Title: suffering-society
+
+Head Concept Name: suffering
+Modifier Concept Name: society
+
+
+
+
+
+T(modifier), club, 0.865
+T(modifier), social_group, 0.857
+T(modifier), elite, 0.844
+T(modifier), socialising, 0.835
+T(modifier), group_of_people, 0.829
+T(modifier), organization, 0.829
+T(modifier), governed_by_rules_or_laws, 0.825
+T(modifier), cooperation, 0.817
+
+T(head), pain, 0.889
+T(head), misery, 0.887
+T(head), war, 0.772
+T(head), emotion, 0.764
+T(head), -happiness, 0.761
+T(head), life_of_sentient_being, 0.758
+T(head), consequence_of_war, 0.719
+T(head), commit_suicide, 0.715
+
+
+Result: {"club": 0.865, "social_group": 0.857, "elite": 0.844, "socialising": 0.835, "group_of_people": 0.829, "organization": 0.829, "pain": 0.889, "misery": 0.887, "@scenario_probability": 0.00022597517356238525}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.00022597517356238525]

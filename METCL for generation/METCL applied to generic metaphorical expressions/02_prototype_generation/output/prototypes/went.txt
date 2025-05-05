@@ -1,0 +1,5 @@
+-came: 0.815
+archaic: 0.77
+nonstandard: 0.763
+-arrived: 0.762
+-stay: 0.684

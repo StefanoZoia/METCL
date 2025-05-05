@@ -1,0 +1,10 @@
+/c/en/neighbors	CapableOf	/c/en/borrow_tools	2.0	0.123
+/c/en/neighbors	CapableOf	/c/en/note_comings_and_goings	1.0	0.04
+/c/en/neighborship	RelatedTo	/c/en/neighbors	1.0	1.0
+/c/en/neighbors	AtLocation	/c/en/apartment	1.0	0.273
+/c/en/neighbors	FormOf	/c/en/neighbor	1.0	0.875
+/c/en/neighbors	CapableOf	/c/en/move_on_thursday	1.0	-0.076
+/c/en/neighbors	RelatedTo	/c/en/neighbor	1.0	0.875
+/c/en/neighbors	CapableOf	/c/en/live_literally_miles_away	1.0	0.086
+/c/en/neighbors	RelatedTo	/c/en/neighbor	1.0	0.875
+/c/en/neighbors	FormOf	/c/en/neighbor	1.0	0.875

@@ -1,0 +1,8 @@
+control: 0.84
+relation: 0.818
+enchantment: 0.813
+district: 0.81
+house: 0.787
+sport: 0.776
+-absence: 0.755
+sports: 0.736

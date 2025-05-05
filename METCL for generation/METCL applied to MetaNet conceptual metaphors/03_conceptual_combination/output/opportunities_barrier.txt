@@ -1,0 +1,30 @@
+Title: opportunities-barrier
+
+Head Concept Name: opportunities
+Modifier Concept Name: barrier
+
+
+
+
+
+T(modifier), roadblock, 0.894
+T(modifier), obstacle, 0.883
+T(modifier), obstruction, 0.847
+T(modifier), boundary_situation, 0.812
+T(modifier), mechanism, 0.811
+T(modifier), preventing, 0.792
+T(modifier), physiology, 0.755
+T(modifier), unnatural_thing, 0.75
+
+T(head), possibility, 0.794
+T(head), situation, 0.707
+T(head), fork_in_road, 0.697
+T(head), nonstandard, 0.672
+T(head), jumping_at_chance, 0.668
+T(head), euro_english, 0.661
+T(head), -door, 0.634
+T(head), artificial_satellite, 0.628
+
+
+Result: {"roadblock": 0.894, "obstacle": 0.883, "obstruction": 0.847, "boundary_situation": 0.812, "mechanism": 0.811, "preventing": 0.792, "physiology": 0.755, "possibility": 0.794, "@scenario_probability": 0.0023320457182104074}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0.0023320457182104074]

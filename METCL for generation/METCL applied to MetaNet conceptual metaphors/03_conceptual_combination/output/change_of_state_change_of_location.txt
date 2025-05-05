@@ -1,0 +1,30 @@
+Title: change_of_state-change_of_location
+
+Head Concept Name: change_of_state
+Modifier Concept Name: change_of_location
+
+
+
+
+
+T(modifier), movement, 0.822
+T(modifier), sonata, 0.755
+T(modifier), happening, 0.749
+T(modifier), change, 0.738
+T(modifier), clock, 0.729
+T(modifier), animation_in_it's_purest_form, 0.708
+T(modifier), movement_or_shape_change, 0.707
+T(modifier), dancing, 0.706
+
+T(head), change, 0.933
+T(head), difference, 0.826
+T(head), replace, 0.774
+T(head), unpleasant, 0.752
+T(head), exciting, 0.752
+T(head), jar, 0.733
+T(head), dress, 0.733
+T(head), consequence, 0.733
+
+
+Result: {"movement": 0.822, "sonata": 0.755, "happening": 0.749, "change": 0.933, "difference": 0.826, "replace": 0.774, "unpleasant": 0.752, "exciting": 0.752, "@scenario_probability": 0.000533017034002412}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.000533017034002412]

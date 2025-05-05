@@ -1,0 +1,17 @@
+/c/en/taxing	Synonym	/c/en/burdensome	2.0	0.512
+/c/en/burdensome	Synonym	/c/en/taxing	1.0	0.512
+/c/en/taxingly	DerivedFrom	/c/en/taxing	1.0	1.0
+/c/en/taxingly	RelatedTo	/c/en/taxing	1.0	1.0
+/c/en/giving_favor	HasProperty	/c/en/taxing	1.0	0.043
+/c/en/untaxing	RelatedTo	/c/en/taxing	1.0	0.462
+/c/en/gruelling	RelatedTo	/c/en/taxing	1.0	0.405
+/c/en/taxing	FormOf	/c/en/tax	1.0	0.635
+/c/en/taxing	FormOf	/c/en/tax	1.0	0.635
+/c/en/untaxing	DerivedFrom	/c/en/taxing	1.0	0.462
+/c/en/work	HasProperty	/c/en/taxing	1.0	0.107
+/c/en/nontaxing	DerivedFrom	/c/en/taxing	1.0	0.523
+/c/en/mind_bending	RelatedTo	/c/en/taxing	1.0	0.272
+/c/en/taxation	RelatedTo	/c/en/taxing	1.0	0.637
+/c/en/taxing	RelatedTo	/c/en/tax	1.0	0.635
+/c/en/taxings	FormOf	/c/en/taxing	1.0	1.0
+/c/en/nontaxing	RelatedTo	/c/en/taxing	1.0	0.523

@@ -1,0 +1,8 @@
+financial_condition: 0.865
+undesirable: 0.833
+-wealth: 0.792
+drive_crime: 0.789
+situation: 0.763
+curse: 0.75
+get_money_from: 0.748
+mumbai: 0.747

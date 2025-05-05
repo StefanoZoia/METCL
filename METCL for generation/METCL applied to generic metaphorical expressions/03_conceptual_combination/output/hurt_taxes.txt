@@ -1,0 +1,30 @@
+Title: hurt-taxes
+
+Head Concept Name: hurt
+Modifier Concept Name: taxes
+
+
+
+
+
+T(modifier), bills, 0.827
+T(modifier), fund_govenment_services, 0.816
+T(modifier), percentage_of_income, 0.804
+T(modifier), debt, 0.804
+T(modifier), going_up, 0.784
+T(modifier), money, 0.777
+T(modifier), -pay, 0.777
+T(modifier), source_of_revenue, 0.738
+
+T(head), damage, 0.87
+T(head), ache, 0.87
+T(head), arouse, 0.819
+T(head), perceive, 0.807
+T(head), indispose, 0.799
+T(head), loud_noises, 0.796
+T(head), punch, 0.773
+T(head), running_with_scissors, 0.77
+
+
+Result: {"bills": 0.827, "fund_govenment_services": 0.816, "percentage_of_income": 0.804, "debt": 0.804, "damage": 0.87, "ache": 0.87, "arouse": 0.819, "perceive": 0.807, "@scenario_probability": 0.00013147657865638176}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.00013147657865638176]

@@ -1,0 +1,8 @@
+contest: 0.859
+compete: 0.858
+significant_in_genetics: 0.829
+competition_in: 0.82
+group: 0.804
+act: 0.801
+cars: 0.801
+move: 0.788

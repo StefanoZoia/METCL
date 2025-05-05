@@ -1,0 +1,22 @@
+Title: salivated-earning
+
+Head Concept Name: salivated
+Modifier Concept Name: earning
+
+
+
+
+
+T(modifier), get, 0.775
+T(modifier), -spend, 0.681
+T(modifier), -pay, 0.679
+T(modifier), dialect, 0.674
+T(modifier), get_paid, 0.611
+T(modifier), get_contract, 0.58
+
+T(head), covet, 0.761
+T(head), act_involuntarily, 0.717
+
+
+Result: {"get": 0.775, "-spend": 0.681, "-pay": 0.679, "dialect": 0.674, "get_paid": 0.611, "get_contract": 0.58, "covet": 0.761, "@scenario_probability": 1.8433965966155959}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1.8433965966155959]

@@ -1,0 +1,30 @@
+Title: brick-nation
+
+Head Concept Name: brick
+Modifier Concept Name: nation
+
+
+
+
+
+T(modifier), united_states, 0.857
+T(modifier), people, 0.836
+T(modifier), confederation, 0.831
+T(modifier), ready_troops, 0.808
+T(modifier), weather_storm_of_war, 0.789
+T(modifier), arm_citizens, 0.788
+T(modifier), -state, 0.787
+T(modifier), legal, 0.744
+
+T(head), building_material, 0.882
+T(head), construct, 0.873
+T(head), heavy, 0.846
+T(head), ceramic, 0.83
+T(head), brick_wall, 0.827
+T(head), break_window_pane, 0.814
+T(head), break_window, 0.814
+T(head), good_person, 0.804
+
+
+Result: {"united_states": 0.857, "people": 0.836, "confederation": 0.831, "building_material": 0.882, "construct": 0.873, "heavy": 0.846, "ceramic": 0.83, "brick_wall": 0.827, "@scenario_probability": 8.453683622800002e-05}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 8.453683622800002e-05]

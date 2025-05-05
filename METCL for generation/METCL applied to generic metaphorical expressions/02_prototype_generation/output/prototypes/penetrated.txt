@@ -1,0 +1,4 @@
+enter: 0.7758
+understand: 0.7479
+insert: 0.738
+advance: 0.7353

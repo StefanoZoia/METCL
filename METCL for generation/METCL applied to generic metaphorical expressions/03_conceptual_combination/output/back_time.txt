@@ -1,0 +1,30 @@
+Title: back-time
+
+Head Concept Name: back
+Modifier Concept Name: time
+
+
+
+
+
+T(modifier), time_period, 0.88
+T(modifier), moment, 0.878
+T(modifier), linear, 0.874
+T(modifier), running, 0.871
+T(modifier), finite, 0.851
+T(modifier), age, 0.843
+T(modifier), endless, 0.84
+T(modifier), absolute, 0.836
+
+T(head), -front, 0.851
+T(head), support, 0.834
+T(head), -forth, 0.834
+T(head), car_seat, 0.826
+T(head), -forward, 0.825
+T(head), chair, 0.821
+T(head), football, 0.818
+T(head), position, 0.808
+
+
+Result: {"time_period": 0.88, "moment": 0.878, "linear": 0.874, "running": 0.871, "finite": 0.851, "age": 0.843, "endless": 0.84, "-front": 0.851, "@scenario_probability": 2.5962453118464956e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2.5962453118464956e-05]

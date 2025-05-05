@@ -1,0 +1,8 @@
+fallen_angel: 0.914
+-very_nice: 0.864
+smite_mortals: 0.847
+laveyan_satanism: 0.845
+christian_myth: 0.814
+religion: 0.783
+theistic_satanism: 0.783
+-lord: 0.757

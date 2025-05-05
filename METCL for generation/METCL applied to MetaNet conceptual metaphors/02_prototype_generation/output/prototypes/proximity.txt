@@ -1,0 +1,4 @@
+nearness: 0.927
+vicinity: 0.899
+gestalt_law_of_organization: 0.798
+-distance: 0.777

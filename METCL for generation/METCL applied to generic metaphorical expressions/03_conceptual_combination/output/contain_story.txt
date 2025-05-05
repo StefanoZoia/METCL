@@ -1,0 +1,29 @@
+Title: contain-story
+
+Head Concept Name: contain
+Modifier Concept Name: story
+
+
+
+
+
+T(modifier), telling, 0.911
+T(modifier), narrative, 0.873
+T(modifier), reading, 0.869
+T(modifier), interesting, 0.866
+T(modifier), fiction, 0.863
+T(modifier), entertainment, 0.846
+T(modifier), newspaper, 0.842
+T(modifier), illustrate_point, 0.83
+
+T(head), be, 0.843
+T(head), arithmetic, 0.814
+T(head), -release, 0.773
+T(head), mathematics, 0.761
+T(head), -let, 0.683
+T(head), -let_go, 0.682
+T(head), -go, 0.67
+
+
+Result: {"telling": 0.911, "narrative": 0.873, "reading": 0.869, "interesting": 0.866, "fiction": 0.863, "entertainment": 0.846, "newspaper": 0.842, "be": 0.843, "@scenario_probability": 0.001770015460677711}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0.001770015460677711]

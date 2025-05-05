@@ -1,0 +1,8 @@
+-aforementioned: 0.852
+-previous: 0.808
+-abovementioned: 0.807
+-aforesaid: 0.801
+multitude: 0.795
+-beforesaid: 0.773
+leader: 0.762
+-leading: 0.754

@@ -1,0 +1,5 @@
+freedom: 0.889
+-dependence: 0.858
+victory: 0.843
+precious: 0.838
+missouri: 0.808

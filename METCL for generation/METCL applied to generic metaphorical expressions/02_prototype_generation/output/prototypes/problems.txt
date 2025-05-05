@@ -1,0 +1,6 @@
+quandry: 0.889
+cause_headache: 0.884
+unsolvable: 0.884
+easy_to_solve: 0.828
+appear_difficult: 0.802
+opportunities_for_growth: 0.777

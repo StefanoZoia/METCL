@@ -1,0 +1,8 @@
+doorway: 0.918
+open: 0.899
+opened_or_closed: 0.897
+open_or_closed: 0.877
+-window: 0.867
+doorknob: 0.863
+front_door: 0.863
+entree: 0.849

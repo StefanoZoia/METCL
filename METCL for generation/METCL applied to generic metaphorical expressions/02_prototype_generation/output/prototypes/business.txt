@@ -1,0 +1,8 @@
+business: 0.946
+enterprise: 0.886
+business_activity: 0.879
+opening_early: 0.867
+making_money: 0.846
+selling_product: 0.846
+sector: 0.844
+business_district: 0.839

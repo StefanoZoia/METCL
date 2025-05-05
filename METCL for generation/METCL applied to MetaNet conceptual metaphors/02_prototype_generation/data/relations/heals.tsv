@@ -1,0 +1,6 @@
+/c/en/heals	RelatedTo	/c/en/heal	1.0	0.947
+/c/en/heals	FormOf	/c/en/heal	1.0	0.947
+/c/en/heals	FormOf	/c/en/heal	1.0	0.947
+/c/en/doctor	RelatedTo	/c/en/heals	0.2709999999999999	0.181
+/c/en/stitch	RelatedTo	/c/en/heals	0.2240000000000002	0.182
+/c/en/scar	RelatedTo	/c/en/heals	0.13600000000000012	0.344

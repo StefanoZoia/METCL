@@ -1,0 +1,8 @@
+emotion: 0.85
+positive_stimulus: 0.834
+dishwashing_soap: 0.833
+-sadness: 0.821
+dog: 0.811
+enter_room: 0.808
+trip_on_stairs: 0.804
+-sorrow: 0.803

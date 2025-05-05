@@ -1,0 +1,8 @@
+-ballistic: 0.764
+leader: 0.7505999999999999
+teach_follower: 0.7434
+direct: 0.7371
+orient: 0.7281000000000001
+structure: 0.7263000000000001
+point_out_scenic_features: 0.7263000000000001
+point_in_right_direction: 0.7263000000000001

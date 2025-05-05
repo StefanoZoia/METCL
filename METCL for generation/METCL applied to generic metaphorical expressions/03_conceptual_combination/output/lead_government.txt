@@ -1,0 +1,30 @@
+Title: lead-government
+
+Head Concept Name: lead
+Modifier Concept Name: government
+
+
+
+
+
+T(modifier), corrupt, 0.897
+T(modifier), govern_country, 0.896
+T(modifier), polity, 0.874
+T(modifier), country, 0.839
+T(modifier), force_citizens_to_comply, 0.833
+T(modifier), rule_people, 0.832
+T(modifier), -fun, 0.829
+T(modifier), jealous_of_power, 0.827
+
+T(head), toxic, 0.89
+T(head), very_heavy, 0.858
+T(head), precede, 0.854
+T(head), advantage, 0.849
+T(head), leadership, 0.841
+T(head), dangerous_to_eat, 0.836
+T(head), heavy, 0.835
+T(head), compete, 0.834
+
+
+Result: {"corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "toxic": 0.89, "very_heavy": 0.858, "precede": 0.854, "advantage": 0.849, "leadership": 0.841, "@scenario_probability": 1.9632719391150302e-05}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 1.9632719391150302e-05]

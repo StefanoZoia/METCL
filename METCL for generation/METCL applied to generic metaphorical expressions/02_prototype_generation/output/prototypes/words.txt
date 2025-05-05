@@ -1,0 +1,8 @@
+speech: 0.869
+communicate_with: 0.861
+sentence: 0.858
+language: 0.854
+hurt_feelings: 0.853
+less_important_than_meaning: 0.85
+hurtful: 0.85
+mean_things: 0.847

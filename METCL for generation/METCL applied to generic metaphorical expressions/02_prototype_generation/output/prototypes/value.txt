@@ -1,0 +1,8 @@
+worth: 0.899
+determine: 0.831
+duration: 0.831
+measure: 0.821
+numerical_quantity: 0.814
+color_property: 0.809
+music: 0.801
+treasure_to: 0.782

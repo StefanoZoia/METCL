@@ -1,0 +1,8 @@
+data: 0.884
+information_measure: 0.873
+knowledge: 0.834
+internet: 0.833
+message: 0.833
+change: 0.833
+discovery: 0.831
+communications: 0.83

@@ -1,0 +1,30 @@
+Title: follow-government
+
+Head Concept Name: follow
+Modifier Concept Name: government
+
+
+
+
+
+T(modifier), corrupt, 0.897
+T(modifier), govern_country, 0.896
+T(modifier), polity, 0.874
+T(modifier), country, 0.839
+T(modifier), force_citizens_to_comply, 0.833
+T(modifier), rule_people, 0.832
+T(modifier), -fun, 0.829
+T(modifier), jealous_of_power, 0.827
+
+T(head), follow, 0.946
+T(head), -unfollow, 0.849
+T(head), imitate, 0.838
+T(head), result, 0.832
+T(head), -lead, 0.815
+T(head), be, 0.814
+T(head), understand, 0.812
+T(head), travel, 0.809
+
+
+Result: {"corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "country": 0.839, "force_citizens_to_comply": 0.833, "follow": 0.946, "-unfollow": 0.849, "imitate": 0.838, "@scenario_probability": 3.408775179541214e-05}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 3.408775179541214e-05]

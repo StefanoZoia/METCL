@@ -1,0 +1,25 @@
+Title: rights-trespassing
+
+Head Concept Name: rights
+Modifier Concept Name: trespassing
+
+
+
+
+
+T(modifier), violating_obligation, 0.82
+T(modifier), going, 0.761
+T(modifier), illegal_action, 0.749
+
+T(head), opposite_of_left, 0.77
+T(head), right_wrong, 0.769
+T(head), -left, 0.764
+T(head), entering_into_contract, 0.761
+T(head), -wrong, 0.754
+T(head), hand, 0.751
+T(head), common, 0.748
+T(head), turn, 0.747
+
+
+Result: {"violating_obligation": 0.82, "going": 0.761, "opposite_of_left": 0.77, "right_wrong": 0.769, "-left": 0.764, "entering_into_contract": 0.761, "-wrong": 0.754, "hand": 0.751, "@scenario_probability": 0.19467028100827832}
+Scenario: [1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.19467028100827832]

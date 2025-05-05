@@ -1,0 +1,11 @@
+/c/en/microimprinted	RelatedTo	/c/en/imprinted	1.0	0.052
+/c/en/nonimprinted	DerivedFrom	/c/en/imprinted	1.0	-0.032
+/c/en/imprinted	RelatedTo	/c/en/impressed	1.0	0.296
+/c/en/imprinted	RelatedTo	/c/en/stamped	1.0	0.624
+/c/en/imprinted	DerivedFrom	/c/en/imprint	1.0	0.713
+/c/en/unimprinted	DerivedFrom	/c/en/imprinted	1.0	0.117
+/c/en/imprinted	HasContext	/c/en/genetics	1.0	0.207
+/c/en/imprinted	RelatedTo	/c/en/imprinting	1.0	0.774
+/c/en/imprinted	FormOf	/c/en/imprint	1.0	0.713
+/c/en/nonimprinted	RelatedTo	/c/en/imprinted	1.0	-0.032
+/c/en/imprinted	RelatedTo	/c/en/imprint	1.0	0.713

@@ -1,0 +1,8 @@
+press: 0.7722
+constriction: 0.765
+compression: 0.7497
+movement: 0.7218000000000001
+loss: 0.7137
+lover: 0.7128000000000001
+epigraphy: 0.6975
+baseball: 0.6912

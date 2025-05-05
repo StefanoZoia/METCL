@@ -1,0 +1,8 @@
+corrupt: 0.8073
+govern_country: 0.8064
+right_wrongs: 0.791
+polity: 0.7866
+permission: 0.7785
+control: 0.7632
+country: 0.7551
+force_citizens_to_comply: 0.7497

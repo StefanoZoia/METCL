@@ -1,0 +1,8 @@
+govern_group: 0.844
+chair_meeting: 0.84
+sign_agreement: 0.836
+present_awards: 0.829
+lead_followers: 0.823
+exploit_followers: 0.794
+all_followers: 0.754
+-wheelers: 0.745

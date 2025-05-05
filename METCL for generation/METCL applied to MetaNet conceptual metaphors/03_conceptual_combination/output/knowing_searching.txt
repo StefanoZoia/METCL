@@ -1,0 +1,26 @@
+Title: knowing-searching
+
+Head Concept Name: knowing
+Modifier Concept Name: searching
+
+
+
+
+
+T(modifier), seeking, 0.869
+T(modifier), finding_lost_item, 0.816
+T(modifier), reading_newspaper, 0.721
+T(modifier), soul, 0.696
+
+T(head), remembering, 0.822
+T(head), believing, 0.807
+T(head), higher_cognitive_process, 0.796
+T(head), -ignorance, 0.786
+T(head), determining_truth, 0.767
+T(head), learning, 0.763
+T(head), intentional_mental_state, 0.759
+T(head), reading, 0.747
+
+
+Result: {"seeking": 0.869, "finding_lost_item": 0.816, "remembering": 0.822, "believing": 0.807, "higher_cognitive_process": 0.796, "-ignorance": 0.786, "determining_truth": 0.767, "learning": 0.763, "@scenario_probability": 0.08906891332301307}
+Scenario: [1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.08906891332301307]

@@ -1,0 +1,8 @@
+sport: 0.86
+fun: 0.835
+bicycle: 0.799
+riding_bicycle: 0.747
+riding_bike: 0.747
+car: 0.746
+toy_car: 0.745
+taking_car_for_drive: 0.727

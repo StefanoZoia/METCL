@@ -1,0 +1,11 @@
+/c/en/sands	Synonym	/c/en/littoral	2.0	0.431
+/c/en/sands	RelatedTo	/c/en/sand	2.0	0.857
+/c/en/crab	AtLocation	/c/en/sands	1.0	0.224
+/c/en/sands	FormOf	/c/en/sand	1.0	0.857
+/c/en/sands	RelatedTo	/c/en/sand	1.0	0.857
+/c/en/sands	FormOf	/c/en/sand	1.0	0.857
+/c/en/sands	RelatedTo	/c/en/hourglass	1.0	0.432
+/c/en/sands	RelatedTo	/c/en/desert	1.0	0.425
+/c/en/sands_of_time	DerivedFrom	/c/en/sands	1.0	0.716
+/c/en/sands	FormOf	/c/en/sand	1.0	0.857
+/c/en/sands	RelatedTo	/c/en/time	1.0	0.102

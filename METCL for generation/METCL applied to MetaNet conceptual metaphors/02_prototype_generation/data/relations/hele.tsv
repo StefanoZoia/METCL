@@ -1,0 +1,17 @@
+/c/en/heled	FormOf	/c/en/hele	1.0	0.34
+/c/en/unhele	DerivedFrom	/c/en/hele	1.0	-0.024
+/c/en/heling	FormOf	/c/en/hele	1.0	0.045
+/c/en/hele	RelatedTo	/c/en/roof	1.0	0.135
+/c/en/holen	FormOf	/c/en/hele	1.0	0.123
+/c/en/heles	FormOf	/c/en/hele	1.0	0.34
+/c/en/overhele	DerivedFrom	/c/en/hele	1.0	-0.055
+/c/en/hele	RelatedTo	/c/en/conceal	1.0	0.485
+/c/en/hele	RelatedTo	/c/en/secret	1.0	0.278
+/c/en/hele	RelatedTo	/c/en/cover	1.0	0.242
+/c/en/forhele	DerivedFrom	/c/en/hele	1.0	0.024
+/c/en/hele	RelatedTo	/c/en/hide	1.0	0.417
+/c/en/hole	FormOf	/c/en/hele	1.0	0.155
+/c/en/behelm	EtymologicallyRelatedTo	/c/en/hele	0.25	0.047
+/c/en/holster	EtymologicallyRelatedTo	/c/en/hele	0.25	0.139
+/c/en/hell	EtymologicallyRelatedTo	/c/en/hele	0.25	0.017
+/c/en/hele	EtymologicallyRelatedTo	/c/en/heal	0.25	0.167

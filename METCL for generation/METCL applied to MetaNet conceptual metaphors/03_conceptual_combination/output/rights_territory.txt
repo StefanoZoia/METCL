@@ -1,0 +1,28 @@
+Title: rights-territory
+
+Head Concept Name: rights
+Modifier Concept Name: territory
+
+
+
+
+
+T(modifier), area, 0.858
+T(modifier), geographical_area, 0.843
+T(modifier), canada, 0.774
+T(modifier), games, 0.741
+T(modifier), ecology, 0.741
+T(modifier), sports, 0.738
+
+T(head), opposite_of_left, 0.77
+T(head), right_wrong, 0.769
+T(head), -left, 0.764
+T(head), entering_into_contract, 0.761
+T(head), -wrong, 0.754
+T(head), hand, 0.751
+T(head), common, 0.748
+T(head), turn, 0.747
+
+
+Result: {"area": 0.858, "geographical_area": 0.843, "canada": 0.774, "opposite_of_left": 0.77, "right_wrong": 0.769, "-left": 0.764, "entering_into_contract": 0.761, "-wrong": 0.754, "@scenario_probability": 0.004054557631683765}
+Scenario: [1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.004054557631683765]

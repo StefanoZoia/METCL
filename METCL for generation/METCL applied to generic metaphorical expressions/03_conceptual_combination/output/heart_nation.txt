@@ -1,0 +1,30 @@
+Title: heart-nation
+
+Head Concept Name: heart
+Modifier Concept Name: nation
+
+
+
+
+
+T(modifier), united_states, 0.857
+T(modifier), people, 0.836
+T(modifier), confederation, 0.831
+T(modifier), ready_troops, 0.808
+T(modifier), weather_storm_of_war, 0.789
+T(modifier), arm_citizens, 0.788
+T(modifier), -state, 0.787
+T(modifier), legal, 0.744
+
+T(head), circulatory_system, 0.883
+T(head), beat, 0.881
+T(head), love, 0.879
+T(head), pumping_blood, 0.869
+T(head), internal_organ, 0.863
+T(head), pumps_blood_around_body_by_contracton_and_relaxation_of_muscles, 0.861
+T(head), staying_alive, 0.857
+T(head), blood, 0.857
+
+
+Result: {"united_states": 0.857, "circulatory_system": 0.883, "beat": 0.881, "love": 0.879, "pumping_blood": 0.869, "internal_organ": 0.863, "pumps_blood_around_body_by_contracton_and_relaxation_of_muscles": 0.861, "blood": 0.857, "@scenario_probability": 6.0190306984706784e-05}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 6.0190306984706784e-05]

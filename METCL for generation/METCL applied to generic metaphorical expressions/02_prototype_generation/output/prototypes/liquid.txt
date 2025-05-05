@@ -1,0 +1,8 @@
+liquid: 0.915
+fluid: 0.896
+flow: 0.878
+-gas: 0.861
+container: 0.85
+substance: 0.847
+clear: 0.838
+melting_solid: 0.838

@@ -1,0 +1,8 @@
+gritty: 0.8226
+sandcastles: 0.8208000000000001
+seashore: 0.8082
+hourglasses: 0.8028000000000001
+sandboxes: 0.7992
+sandbox: 0.7866
+desert: 0.7749
+black: 0.7595999999999999

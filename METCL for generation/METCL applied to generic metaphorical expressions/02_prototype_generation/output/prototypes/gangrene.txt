@@ -1,0 +1,5 @@
+pathology: 0.809
+illness: 0.772
+disease: 0.768
+leg: 0.76
+medical_condition: 0.712

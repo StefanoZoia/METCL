@@ -1,0 +1,7 @@
+care: 0.856
+management: 0.835
+remedy: 0.813
+artistic_style: 0.81
+reduce_symptoms_associated_with_anxiety_disorders: 0.778
+controlling: 0.77
+film: 0.763

@@ -1,0 +1,8 @@
+see: 0.946
+look: 0.877
+diocese: 0.829
+verify: 0.822
+bet: 0.819
+accompany: 0.814
+card_game: 0.793
+-hear: 0.79

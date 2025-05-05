@@ -1,0 +1,4 @@
+crime: 0.864
+criminal_offence: 0.773
+crime_in: 0.742
+-giving: 0.701

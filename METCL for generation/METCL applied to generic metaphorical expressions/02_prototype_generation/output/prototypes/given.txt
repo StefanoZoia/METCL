@@ -1,0 +1,8 @@
+assumption: 0.842
+hypothesis: 0.8019000000000001
+offer: 0.7812
+-take: 0.7713
+make: 0.7569
+have: 0.7515
+acquisition: 0.7479
+pass: 0.7479

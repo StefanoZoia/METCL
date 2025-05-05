@@ -1,0 +1,30 @@
+Title: pillars-democracy
+
+Head Concept Name: pillars
+Modifier Concept Name: democracy
+
+
+
+
+
+T(modifier), equality_for_everyone, 0.854
+T(modifier), open_media, 0.853
+T(modifier), political_orientation, 0.852
+T(modifier), political_system, 0.843
+T(modifier), good_thing, 0.84
+T(modifier), government_of_people, 0.816
+T(modifier), -dictatorship, 0.809
+T(modifier), government, 0.793
+
+T(head), supporter, 0.755
+T(head), principle, 0.746
+T(head), stone, 0.706
+T(head), architecture, 0.699
+T(head), automotive, 0.696
+T(head), support_column, 0.682
+T(head), rock_formation, 0.677
+T(head), land_topographical_feature, 0.67
+
+
+Result: {"equality_for_everyone": 0.854, "open_media": 0.853, "political_orientation": 0.852, "political_system": 0.843, "good_thing": 0.84, "government_of_people": 0.816, "-dictatorship": 0.809, "supporter": 0.755, "@scenario_probability": 0.0010502049070666168}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0.0010502049070666168]

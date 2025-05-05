@@ -1,0 +1,8 @@
+tooth: 0.7758
+gear: 0.7704
+join: 0.7398
+subordinate: 0.7281000000000001
+roll_out: 0.7101000000000001
+mining: 0.7020000000000001
+historical: 0.6687
+carpentry: 0.6597

@@ -1,0 +1,27 @@
+Title: communication-spelling
+
+Head Concept Name: communication
+Modifier Concept Name: spelling
+
+
+
+
+
+T(modifier), orthography, 0.919
+T(modifier), letter, 0.795
+T(modifier), skill, 0.758
+T(modifier), writing, 0.752
+T(modifier), effect_of_focusing_on_letters, 0.653
+
+T(head), sender_and_receiver, 0.866
+T(head), connection, 0.85
+T(head), act, 0.815
+T(head), e_mail, 0.81
+T(head), cellphone, 0.804
+T(head), satelite, 0.804
+T(head), phone, 0.801
+T(head), abstraction, 0.799
+
+
+Result: {"orthography": 0.919, "sender_and_receiver": 0.866, "connection": 0.85, "act": 0.815, "e_mail": 0.81, "cellphone": 0.804, "satelite": 0.804, "phone": 0.801, "@scenario_probability": 0.019842025817968272}
+Scenario: [1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.019842025817968272]

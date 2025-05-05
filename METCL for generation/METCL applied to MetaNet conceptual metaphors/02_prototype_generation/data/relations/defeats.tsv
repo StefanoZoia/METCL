@@ -1,0 +1,5 @@
+/c/en/defeats	FormOf	/c/en/defeat	1.0	0.937
+/c/en/defeats	RelatedTo	/c/en/defeat	1.0	0.937
+/c/en/playing_baseball	Causes	/c/en/defeats	1.0	0.081
+/c/en/defeats	RelatedTo	/c/en/defeat	1.0	0.937
+/c/en/defeats	FormOf	/c/en/defeat	1.0	0.937

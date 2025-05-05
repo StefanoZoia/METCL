@@ -1,0 +1,8 @@
+decieve_other_people: 0.882
+false: 0.871
+committing_perjury: 0.832
+unreliable_information: 0.831
+confuse: 0.818
+common_among_people: 0.817
+happening_without_being_recognized: 0.81
+destroy_reputation: 0.806

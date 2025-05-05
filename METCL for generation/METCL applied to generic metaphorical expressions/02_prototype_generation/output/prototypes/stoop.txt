@@ -1,0 +1,8 @@
+porch: 0.863
+slope: 0.841
+pounce: 0.824
+inclination: 0.818
+hold: 0.815
+front_door: 0.779
+us: 0.75
+dialect: 0.741

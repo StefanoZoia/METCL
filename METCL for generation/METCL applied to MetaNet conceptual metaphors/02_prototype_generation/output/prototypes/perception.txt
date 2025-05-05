@@ -1,0 +1,4 @@
+cognition: 0.884
+conceptualization: 0.846
+basic_cognitive_process: 0.809
+sight: 0.765

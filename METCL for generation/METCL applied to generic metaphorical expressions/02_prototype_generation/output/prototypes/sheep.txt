@@ -1,0 +1,8 @@
+graze: 0.893
+bovid: 0.886
+shearing: 0.88
+animals: 0.862
+farm: 0.848
+farm_animals: 0.848
+meadow: 0.839
+-goat: 0.837

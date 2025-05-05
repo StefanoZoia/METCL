@@ -1,0 +1,30 @@
+Title: heavy-taxes
+
+Head Concept Name: heavy
+Modifier Concept Name: taxes
+
+
+
+
+
+T(modifier), bills, 0.827
+T(modifier), fund_govenment_services, 0.816
+T(modifier), percentage_of_income, 0.804
+T(modifier), debt, 0.804
+T(modifier), going_up, 0.784
+T(modifier), money, 0.777
+T(modifier), -pay, 0.777
+T(modifier), source_of_revenue, 0.738
+
+T(head), -light, 0.826
+T(head), metal, 0.804
+T(head), paperweight, 0.801
+T(head), actor, 0.799
+T(head), -weight, 0.794
+T(head), rock, 0.778
+T(head), character, 0.777
+T(head), -lightweight, 0.776
+
+
+Result: {"bills": 0.827, "fund_govenment_services": 0.816, "percentage_of_income": 0.804, "debt": 0.804, "-light": 0.826, "metal": 0.804, "paperweight": 0.801, "actor": 0.799, "@scenario_probability": 0.00011919581351082598}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.00011919581351082598]

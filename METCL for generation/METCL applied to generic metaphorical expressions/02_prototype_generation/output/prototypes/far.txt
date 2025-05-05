@@ -1,0 +1,8 @@
+-away: 0.798
+-close: 0.797
+-closer: 0.776
+orbit: 0.762
+dialect: 0.752
+uk: 0.748
+-here: 0.738
+computing: 0.736

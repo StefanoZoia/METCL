@@ -1,0 +1,8 @@
+sociability: 0.863
+spacing: 0.829
+-reticence: 0.792
+-solidity: 0.783
+-shutness: 0.78
+computing: 0.751
+scalar_quantity: 0.742
+systems_theory: 0.741

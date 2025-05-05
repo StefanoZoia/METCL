@@ -1,0 +1,8 @@
+sender_and_receiver: 0.866
+connection: 0.85
+act: 0.815
+e_mail: 0.81
+cellphone: 0.804
+satelite: 0.804
+phone: 0.801
+abstraction: 0.799

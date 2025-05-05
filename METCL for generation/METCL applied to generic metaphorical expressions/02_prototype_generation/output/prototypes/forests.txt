@@ -1,0 +1,5 @@
+countryside: 0.867
+cool: 0.832
+state_park: 0.828
+rivers: 0.764
+not: 0.759

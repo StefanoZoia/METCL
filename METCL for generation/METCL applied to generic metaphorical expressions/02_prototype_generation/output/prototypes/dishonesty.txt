@@ -1,0 +1,8 @@
+-honesty: 0.884
+unrighteousness: 0.87
+wrongdoing: 0.861
+destroy_trust: 0.816
+sell_soul: 0.788
+lying: 0.784
+-integrity: 0.763
+-honest: 0.731

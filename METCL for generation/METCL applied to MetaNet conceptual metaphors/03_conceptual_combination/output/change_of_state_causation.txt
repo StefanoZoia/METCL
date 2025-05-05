@@ -1,0 +1,30 @@
+Title: change_of_state-causation
+
+Head Concept Name: change_of_state
+Modifier Concept Name: causation
+
+
+
+
+
+T(modifier), origin, 0.755
+T(modifier), relation, 0.751
+T(modifier), make, 0.749
+T(modifier), justification, 0.747
+T(modifier), -effect, 0.74
+T(modifier), act, 0.73
+T(modifier), suffer_setback, 0.721
+T(modifier), succeed_effect, 0.715
+
+T(head), change, 0.933
+T(head), difference, 0.826
+T(head), replace, 0.774
+T(head), unpleasant, 0.752
+T(head), exciting, 0.752
+T(head), jar, 0.733
+T(head), dress, 0.733
+T(head), consequence, 0.733
+
+
+Result: {"origin": 0.755, "relation": 0.751, "make": 0.749, "change": 0.933, "difference": 0.826, "replace": 0.774, "unpleasant": 0.752, "exciting": 0.752, "@scenario_probability": 0.00038507694700109287}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.00038507694700109287]

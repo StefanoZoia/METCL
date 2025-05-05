@@ -1,0 +1,8 @@
+sleep: 0.776
+sleeping: 0.773
+go_home: 0.757
+have_rest: 0.756
+aave: 0.751
+slang: 0.743
+yawn: 0.74
+sit_on_chair: 0.738

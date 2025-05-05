@@ -1,0 +1,4 @@
+path: 0.859
+stairway: 0.805
+entryways: 0.795
+front_door: 0.784

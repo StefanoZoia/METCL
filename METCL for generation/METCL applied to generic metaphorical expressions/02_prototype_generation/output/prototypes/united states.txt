@@ -1,0 +1,8 @@
+rio_grande: 0.865
+rhode_island: 0.847
+yosemite: 0.846
+west_virginia: 0.845
+united_states: 0.844
+new_hampshire: 0.844
+south_dakota: 0.84
+oregon: 0.84

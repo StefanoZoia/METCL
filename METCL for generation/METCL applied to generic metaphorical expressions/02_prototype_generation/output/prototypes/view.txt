@@ -1,0 +1,8 @@
+look: 0.851
+relaxing: 0.831
+appearance: 0.824
+visual_percept: 0.819
+purpose: 0.81
+range: 0.809
+analyze: 0.805
+-sight: 0.781

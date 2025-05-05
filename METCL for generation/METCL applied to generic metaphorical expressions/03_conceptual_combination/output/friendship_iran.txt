@@ -1,0 +1,30 @@
+Title: friendship-iran
+
+Head Concept Name: friendship
+Modifier Concept Name: iran
+
+
+
+
+
+T(modifier), qum, 0.907
+T(modifier), rasht, 0.891
+T(modifier), abadan, 0.885
+T(modifier), teheran, 0.881
+T(modifier), tabriz, 0.875
+T(modifier), isfahan, 0.868
+T(modifier), middle_east, 0.868
+T(modifier), mashhad, 0.865
+
+T(head), relationship, 0.887
+T(head), trust, 0.871
+T(head), friend's_house, 0.87
+T(head), communication, 0.865
+T(head), offered_and_must_honored, 0.832
+T(head), -enmity, 0.829
+T(head), two_people, 0.824
+T(head), important, 0.821
+
+
+Result: {"qum": 0.907, "rasht": 0.891, "abadan": 0.885, "teheran": 0.881, "tabriz": 0.875, "relationship": 0.887, "trust": 0.871, "friend's_house": 0.87, "@scenario_probability": 1.0650248495254587e-05}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 1.0650248495254587e-05]

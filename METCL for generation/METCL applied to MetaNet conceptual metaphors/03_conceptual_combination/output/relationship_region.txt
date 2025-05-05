@@ -1,0 +1,28 @@
+Title: relationship-region
+
+Head Concept Name: relationship
+Modifier Concept Name: region
+
+
+
+
+
+T(modifier), location, 0.838
+T(modifier), state, 0.8
+T(modifier), site, 0.774
+T(modifier), tangible_thing, 0.753
+T(modifier), historical, 0.748
+T(modifier), anatomy, 0.747
+
+T(head), relation, 0.898
+T(head), ending_in_heartbreak, 0.838
+T(head), state, 0.811
+T(head), -affair, 0.799
+T(head), last_for_year, 0.793
+T(head), last_for_long_time, 0.793
+T(head), music, 0.757
+T(head), mathematics, 0.749
+
+
+Result: {"location": 0.838, "state": 0.811, "relation": 0.898, "ending_in_heartbreak": 0.838, "-affair": 0.799, "last_for_year": 0.793, "last_for_long_time": 0.793, "@scenario_probability": 0.004462464955285123}
+Scenario: [1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.004462464955285123]

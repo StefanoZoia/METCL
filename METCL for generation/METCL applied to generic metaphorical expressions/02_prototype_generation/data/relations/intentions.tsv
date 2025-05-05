@@ -1,0 +1,8 @@
+/c/en/as_you_sow_so_shall_you_reap	RelatedTo	/c/en/intentions	1.0	-0.0
+/c/en/intentions	FormOf	/c/en/intention	1.0	0.772
+/c/en/faith	RelatedTo	/c/en/intentions	1.0	0.169
+/c/en/manifesto	RelatedTo	/c/en/intentions	1.0	0.249
+/c/en/intentions	RelatedTo	/c/en/intention	1.0	0.772
+/c/en/blue_light_bandit	RelatedTo	/c/en/intentions	1.0	-0.061
+/c/en/cruel	RelatedTo	/c/en/intentions	0.27200000000000024	0.059
+/c/en/evil	RelatedTo	/c/en/intentions	0.1509999999999998	0.007

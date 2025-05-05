@@ -1,0 +1,8 @@
+corrupt: 0.906
+talk_to_crowd: 0.853
+lie: 0.847
+duck_issues: 0.845
+duck_issue: 0.845
+leader: 0.844
+government_related_entity: 0.841
+give_speech: 0.84

@@ -1,0 +1,8 @@
+primary_colour: 0.862
+environmentalist: 0.858
+color: 0.855
+-blue: 0.85
+colour: 0.844
+golf_course: 0.843
+peppers: 0.833
+-red: 0.828

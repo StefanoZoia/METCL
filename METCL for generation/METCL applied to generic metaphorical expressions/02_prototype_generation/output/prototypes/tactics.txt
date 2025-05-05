@@ -1,0 +1,7 @@
+military: 0.823
+military_science: 0.799
+company: 0.726
+manga: 0.719
+japan: 0.707
+playing_game: 0.691
+visual_novel: 0.691

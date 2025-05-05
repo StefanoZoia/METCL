@@ -1,0 +1,8 @@
+-agree: 0.872
+-concur: 0.862
+be: 0.783
+-consent: 0.778
+debate: 0.769
+-accept: 0.724
+architects: 0.721
+-pact: 0.718

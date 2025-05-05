@@ -1,0 +1,25 @@
+Title: taxation-motion
+
+Head Concept Name: taxation
+Modifier Concept Name: motion
+
+
+
+
+
+T(modifier), proposal, 0.848
+T(modifier), energy, 0.818
+T(modifier), subject, 0.8
+T(modifier), state, 0.793
+T(modifier), -moving, 0.785
+T(modifier), locomotive, 0.772
+T(modifier), -standstill, 0.766
+T(modifier), law, 0.765
+
+T(head), imposition, 0.862
+T(head), process_results_in_taxes, 0.731
+T(head), activity_of_government, 0.721
+
+
+Result: {"proposal": 0.848, "energy": 0.818, "subject": 0.8, "state": 0.793, "-moving": 0.785, "locomotive": 0.772, "-standstill": 0.766, "imposition": 0.862, "@scenario_probability": 0.3105701188997983}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0.3105701188997983]

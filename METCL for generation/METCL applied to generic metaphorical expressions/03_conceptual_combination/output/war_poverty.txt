@@ -1,0 +1,30 @@
+Title: war-poverty
+
+Head Concept Name: war
+Modifier Concept Name: poverty
+
+
+
+
+
+T(modifier), financial_condition, 0.865
+T(modifier), undesirable, 0.833
+T(modifier), -wealth, 0.792
+T(modifier), drive_crime, 0.789
+T(modifier), situation, 0.763
+T(modifier), curse, 0.75
+T(modifier), get_money_from, 0.748
+T(modifier), mumbai, 0.747
+
+T(head), war, 0.946
+T(head), conflict, 0.888
+T(head), bad_thing, 0.88
+T(head), fight, 0.865
+T(head), fighting_between_countries, 0.859
+T(head), battle, 0.858
+T(head), -peace, 0.853
+T(head), campaign, 0.849
+
+
+Result: {"financial_condition": 0.865, "war": 0.946, "conflict": 0.888, "bad_thing": 0.88, "fight": 0.865, "fighting_between_countries": 0.859, "battle": 0.858, "-peace": 0.853, "@scenario_probability": 0.00014537746694581134}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.00014537746694581134]

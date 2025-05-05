@@ -1,0 +1,7 @@
+negotiation: 0.865
+bridge_differences: 0.853
+reaching_tentative_agreement: 0.765
+game: 0.717
+handling_proposals: 0.704
+book: 0.696
+meeting_people: 0.654

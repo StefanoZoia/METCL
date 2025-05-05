@@ -1,0 +1,30 @@
+Title: machine-person
+
+Head Concept Name: machine
+Modifier Concept Name: person
+
+
+
+
+
+T(modifier), wave_to_friend, 0.94
+T(modifier), wave_goodbye, 0.94
+T(modifier), wave_to_another_person, 0.94
+T(modifier), wave_at_another_person, 0.94
+T(modifier), wave_hello_or_goodbye, 0.909
+T(modifier), wait_patiently, 0.908
+T(modifier), thank_god, 0.895
+T(modifier), god, 0.876
+
+T(head), wash_dishes, 0.908
+T(head), wash_clothes, 0.908
+T(head), wash_car, 0.908
+T(head), wash_dirty_clothes, 0.908
+T(head), vacuum, 0.878
+T(head), dispense_snacks, 0.878
+T(head), dispense_popcorn, 0.878
+T(head), dispense_cigarettes, 0.878
+
+
+Result: {"wave_to_friend": 0.94, "wave_goodbye": 0.94, "wave_to_another_person": 0.94, "wave_at_another_person": 0.94, "wave_hello_or_goodbye": 0.909, "wash_dishes": 0.908, "wash_car": 0.908, "wash_dirty_clothes": 0.908, "@scenario_probability": 1.2970562323103701e-06}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 1.2970562323103701e-06]

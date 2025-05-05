@@ -1,0 +1,28 @@
+Title: burst-anger
+
+Head Concept Name: burst
+Modifier Concept Name: anger
+
+
+
+
+
+T(modifier), anger, 0.946
+T(modifier), emotional_arousal, 0.895
+T(modifier), emotion, 0.874
+T(modifier), frustration, 0.864
+T(modifier), frustration_at_inability_to_control, 0.856
+T(modifier), arouse, 0.838
+T(modifier), unpleasant, 0.815
+T(modifier), feel, 0.809
+
+T(head), break, 0.865
+T(head), jump, 0.835
+T(head), emerge, 0.824
+T(head), activity, 0.812
+T(head), bubble, 0.779
+T(head), village, 0.728
+
+
+Result: {"anger": 0.946, "emotional_arousal": 0.895, "emotion": 0.874, "frustration": 0.864, "frustration_at_inability_to_control": 0.856, "arouse": 0.838, "break": 0.865, "jump": 0.835, "@scenario_probability": 0.002328072514490031}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0.002328072514490031]

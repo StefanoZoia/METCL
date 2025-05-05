@@ -1,0 +1,2 @@
+/c/en/climbing	Causes	/c/en/moving_upwards	1.0	0.825
+/c/en/jump	HasSubevent	/c/en/moving_upwards	1.0	0.272

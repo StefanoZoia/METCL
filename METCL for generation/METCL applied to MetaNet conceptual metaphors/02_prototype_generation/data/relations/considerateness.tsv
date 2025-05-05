@@ -1,0 +1,11 @@
+/c/en/considerateness	Synonym	/c/en/consideration	2.0	0.423
+/c/en/considerateness	DerivedFrom	/c/en/considerate	1.0	0.882
+/c/en/inconsiderateness	Antonym	/c/en/considerateness	1.0	0.536
+/c/en/considerate	RelatedTo	/c/en/considerateness	1.0	0.882
+/c/en/considerateness	Antonym	/c/en/inconsiderateness	1.0	0.536
+/c/en/considered	DerivedFrom	/c/en/considerateness	1.0	0.288
+/c/en/consideration	DerivedFrom	/c/en/considerateness	1.0	0.423
+/c/en/considering	DerivedFrom	/c/en/considerateness	1.0	0.141
+/c/en/consideratenesses	FormOf	/c/en/considerateness	1.0	1.0
+/c/en/considerate	DerivedFrom	/c/en/considerateness	1.0	0.882
+/c/en/considerateness	RelatedTo	/c/en/considerate	1.0	0.882

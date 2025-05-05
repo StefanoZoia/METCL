@@ -1,0 +1,4 @@
+-defensible: 0.869
+-indefensible: 0.7821
+-supportable: 0.7722
+-abideable: 0.6876

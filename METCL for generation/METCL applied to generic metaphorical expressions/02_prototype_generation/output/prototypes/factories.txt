@@ -1,0 +1,5 @@
+produce_many_different_things: 0.852
+produce_lot: 0.852
+produce_parts: 0.852
+bag_snacks: 0.805
+bottle_coke: 0.803

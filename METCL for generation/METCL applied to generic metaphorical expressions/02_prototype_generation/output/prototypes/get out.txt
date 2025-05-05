@@ -1,0 +1,5 @@
+go_somewhere: 0.855
+go_to_store: 0.781
+stop_standing_in: 0.771
+walk_dog: 0.767
+people: 0.69

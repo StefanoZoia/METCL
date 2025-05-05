@@ -1,0 +1,8 @@
+move: 0.892
+transaction: 0.834
+change_hands: 0.833
+travel: 0.817
+learning: 0.81
+person: 0.798
+delegate: 0.797
+ticket: 0.794

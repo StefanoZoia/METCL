@@ -1,0 +1,8 @@
+disproven: 0.94
+thinking: 0.888
+scientist: 0.885
+hypothesis: 0.878
+belief: 0.865
+explanation: 0.847
+theorem: 0.803
+formal_system: 0.766

@@ -1,0 +1,25 @@
+Title: business-living_entities
+
+Head Concept Name: business
+Modifier Concept Name: living_entities
+
+
+
+
+
+T(modifier), eat, 0.807
+T(modifier), procreate, 0.79
+T(modifier), diving, 0.779
+
+T(head), enterprise, 0.886
+T(head), business_activity, 0.879
+T(head), opening_early, 0.867
+T(head), making_money, 0.846
+T(head), selling_product, 0.846
+T(head), sector, 0.844
+T(head), business_district, 0.839
+T(head), market_new_product, 0.831
+
+
+Result: {"eat": 0.807, "enterprise": 0.886, "business_activity": 0.879, "opening_early": 0.867, "making_money": 0.846, "selling_product": 0.846, "sector": 0.844, "business_district": 0.839, "@scenario_probability": 0.21660009148633252}
+Scenario: [1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.21660009148633252]

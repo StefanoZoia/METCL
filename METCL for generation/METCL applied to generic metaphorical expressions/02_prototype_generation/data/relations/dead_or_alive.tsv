@@ -1,0 +1,4 @@
+/c/en/dead_or_alive	DerivedFrom	/c/en/alive	1.0	0.051
+/c/en/dead_or_alive	RelatedTo	/c/en/alive	1.0	0.051
+/c/en/wanted_dead_or_alive	DerivedFrom	/c/en/dead_or_alive	1.0	-0.033
+/c/en/dead_or_alive	RelatedTo	/c/en/dead	1.0	0.219

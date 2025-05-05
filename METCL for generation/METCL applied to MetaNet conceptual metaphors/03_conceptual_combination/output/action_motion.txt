@@ -1,0 +1,30 @@
+Title: action-motion
+
+Head Concept Name: action
+Modifier Concept Name: motion
+
+
+
+
+
+T(modifier), proposal, 0.848
+T(modifier), energy, 0.818
+T(modifier), subject, 0.8
+T(modifier), state, 0.793
+T(modifier), -moving, 0.785
+T(modifier), locomotive, 0.772
+T(modifier), -standstill, 0.766
+T(modifier), law, 0.765
+
+T(head), act, 0.864
+T(head), mechanism, 0.839
+T(head), -inaction, 0.835
+T(head), past_or_present, 0.833
+T(head), work, 0.825
+T(head), plot, 0.824
+T(head), cause_change, 0.812
+T(head), cause_effect, 0.812
+
+
+Result: {"proposal": 0.848, "energy": 0.818, "act": 0.864, "mechanism": 0.839, "-inaction": 0.835, "past_or_present": 0.833, "work": 0.825, "plot": 0.824, "@scenario_probability": 9.378007216952977e-05}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 9.378007216952977e-05]

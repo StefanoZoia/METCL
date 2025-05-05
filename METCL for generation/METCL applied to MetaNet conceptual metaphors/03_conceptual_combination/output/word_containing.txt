@@ -1,0 +1,24 @@
+Title: word-containing
+
+Head Concept Name: word
+Modifier Concept Name: containing
+
+
+
+
+
+T(modifier), container, 0.791
+T(modifier), vessel, 0.69
+
+T(head), phrase, 0.86
+T(head), mean_more_than_one_thing, 0.853
+T(head), mean_things, 0.853
+T(head), language, 0.848
+T(head), mean, 0.827
+T(head), dictionary, 0.826
+T(head), kilobyte, 0.823
+T(head), statement, 0.822
+
+
+Result: {"container": 0.791, "phrase": 0.86, "mean_more_than_one_thing": 0.853, "mean_things": 0.853, "language": 0.848, "mean": 0.827, "dictionary": 0.826, "kilobyte": 0.823, "@scenario_probability": 1.302074811376509}
+Scenario: [1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1.302074811376509]

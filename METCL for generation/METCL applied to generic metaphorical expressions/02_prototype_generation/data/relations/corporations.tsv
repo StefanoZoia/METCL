@@ -1,0 +1,10 @@
+/c/en/public_law	RelatedTo	/c/en/corporations	1.0	0.039
+/c/en/comprador_bourgeoisie	RelatedTo	/c/en/corporations	1.0	0.2
+/c/en/corporations	CapableOf	/c/en/value_thought	1.0	0.218
+/c/en/corporations	DefinedAs	/c/en/plural_of_corporation	1.0	-0.044
+/c/en/private_law	RelatedTo	/c/en/corporations	1.0	0.121
+/c/en/proprietarianism	RelatedTo	/c/en/corporations	1.0	0.273
+/c/en/corporations	IsA	/c/en/companies	1.0	0.749
+/c/en/more_than_one_corporation	IsA	/c/en/corporations	1.0	0.017
+/c/en/corporations	FormOf	/c/en/corporation	1.0	0.647
+/c/en/corporations	CapableOf	/c/en/lie_to_customers	1.0	0.04

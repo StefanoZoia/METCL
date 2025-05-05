@@ -1,0 +1,8 @@
+deep: 0.904
+wet: 0.887
+very_deep: 0.865
+wide: 0.858
+saline_based: 0.845
+dry_up: 0.836
+include_seas: 0.808
+salt_water: 0.79

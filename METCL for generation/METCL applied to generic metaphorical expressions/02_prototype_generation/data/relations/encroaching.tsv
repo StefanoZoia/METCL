@@ -1,0 +1,9 @@
+/c/en/intrusive	SimilarTo	/c/en/encroaching	2.0	0.618
+/c/en/encroaching	SimilarTo	/c/en/intrusive	2.0	0.618
+/c/en/trespassing	Synonym	/c/en/encroaching	2.0	0.557
+/c/en/invasive	Synonym	/c/en/encroaching	2.0	0.528
+/c/en/encroachingly	DerivedFrom	/c/en/encroaching	1.0	1.0
+/c/en/encroaching	RelatedTo	/c/en/encroach	1.0	0.752
+/c/en/encroaching	RelatedTo	/c/en/encroach	1.0	0.752
+/c/en/encroachingly	RelatedTo	/c/en/encroaching	1.0	1.0
+/c/en/encroaching	FormOf	/c/en/encroach	1.0	0.752

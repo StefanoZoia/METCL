@@ -1,0 +1,8 @@
+burn: 0.925
+provide_comfort: 0.921
+burn_things: 0.92
+burn_houses: 0.92
+burn_cloth: 0.92
+burn_tires: 0.92
+burn_flesh: 0.92
+burn_buildings: 0.903

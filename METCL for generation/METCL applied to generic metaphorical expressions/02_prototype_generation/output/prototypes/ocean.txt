@@ -1,0 +1,8 @@
+sailing: 0.888
+sail: 0.887
+swimming: 0.885
+beach: 0.881
+diving: 0.878
+fish: 0.877
+swim_in: 0.873
+place_to_swim: 0.866

@@ -1,0 +1,26 @@
+Title: ideology-commodity
+
+Head Concept Name: ideology
+Modifier Concept Name: commodity
+
+
+
+
+
+T(modifier), object, 0.83
+T(modifier), artifact, 0.826
+T(modifier), economics, 0.802
+T(modifier), marketing, 0.767
+
+T(head), person, 0.879
+T(head), how_to_live_life, 0.844
+T(head), theorization, 0.83
+T(head), change_society, 0.807
+T(head), ideals, 0.792
+T(head), system_of_abstract_thought, 0.759
+T(head), organization, 0.757
+T(head), way_of_looking_at_things, 0.747
+
+
+Result: {"object": 0.83, "artifact": 0.826, "economics": 0.802, "person": 0.879, "how_to_live_life": 0.844, "theorization": 0.83, "change_society": 0.807, "ideals": 0.792, "@scenario_probability": 0.07470340486658349}
+Scenario: [1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.07470340486658349]

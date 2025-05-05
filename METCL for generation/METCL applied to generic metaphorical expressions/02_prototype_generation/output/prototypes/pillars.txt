@@ -1,0 +1,8 @@
+supporter: 0.7551
+principle: 0.7461
+stone: 0.7056
+architecture: 0.6993
+automotive: 0.6957
+support_column: 0.6822
+rock_formation: 0.6768000000000001
+land_topographical_feature: 0.6696

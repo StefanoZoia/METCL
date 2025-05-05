@@ -1,0 +1,8 @@
+-away: 0.836
+location: 0.813
+-that: 0.787
+abstract: 0.759
+paper_dog: 0.744
+-far: 0.738
+british: 0.735
+historical: 0.729

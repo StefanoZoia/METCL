@@ -1,0 +1,8 @@
+shrink: 0.946
+decrease: 0.864
+-expand: 0.823
+-grow: 0.815
+-enlarge: 0.808
+-stretch: 0.789
+-increase: 0.769
+business: 0.756

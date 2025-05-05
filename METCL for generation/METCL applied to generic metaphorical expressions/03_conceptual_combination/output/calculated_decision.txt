@@ -1,0 +1,30 @@
+Title: calculated-decision
+
+Head Concept Name: calculated
+Modifier Concept Name: decision
+
+
+
+
+
+T(modifier), judgment, 0.886
+T(modifier), choice, 0.873
+T(modifier), result, 0.82
+T(modifier), boxing, 0.802
+T(modifier), fork_in_road, 0.798
+T(modifier), baseball, 0.748
+T(modifier), play, 0.708
+T(modifier), hear_testimony, 0.67
+
+T(head), mathematics, 0.743
+T(head), calculator, 0.739
+T(head), intend, 0.733
+T(head), judge, 0.733
+T(head), reason, 0.71
+T(head), computer, 0.698
+T(head), -casual, 0.683
+T(head), machine, 0.676
+
+
+Result: {"judgment": 0.886, "choice": 0.873, "result": 0.82, "boxing": 0.802, "fork_in_road": 0.798, "baseball": 0.748, "mathematics": 0.743, "calculator": 0.739, "@scenario_probability": 0.0010301547157941248}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.0010301547157941248]

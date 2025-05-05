@@ -1,0 +1,26 @@
+Title: impoverished-process
+
+Head Concept Name: impoverished
+Modifier Concept Name: process
+
+
+
+
+
+T(modifier), require_tools, 0.817
+T(modifier), affect, 0.809
+T(modifier), manage, 0.809
+T(modifier), psychology, 0.802
+T(modifier), look_hung, 0.799
+T(modifier), physical_entity, 0.795
+T(modifier), body_part, 0.794
+T(modifier), manufacturing, 0.794
+
+T(head), -wealthy, 0.787
+T(head), -rich, 0.759
+T(head), -luxurious, 0.735
+T(head), -luxury, 0.561
+
+
+Result: {"require_tools": 0.817, "affect": 0.809, "manage": 0.809, "psychology": 0.802, "look_hung": 0.799, "physical_entity": 0.795, "manufacturing": 0.794, "-wealthy": 0.787, "@scenario_probability": 0.09830990307386198}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0.09830990307386198]

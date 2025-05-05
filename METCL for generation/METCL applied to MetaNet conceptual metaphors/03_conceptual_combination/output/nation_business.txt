@@ -1,0 +1,30 @@
+Title: nation-business
+
+Head Concept Name: nation
+Modifier Concept Name: business
+
+
+
+
+
+T(modifier), enterprise, 0.886
+T(modifier), business_activity, 0.879
+T(modifier), opening_early, 0.867
+T(modifier), making_money, 0.846
+T(modifier), selling_product, 0.846
+T(modifier), sector, 0.844
+T(modifier), business_district, 0.839
+T(modifier), market_new_product, 0.831
+
+T(head), united_states, 0.857
+T(head), people, 0.836
+T(head), confederation, 0.831
+T(head), ready_troops, 0.808
+T(head), weather_storm_of_war, 0.789
+T(head), arm_citizens, 0.788
+T(head), -state, 0.787
+T(head), legal, 0.744
+
+
+Result: {"enterprise": 0.886, "business_activity": 0.879, "opening_early": 0.867, "making_money": 0.846, "selling_product": 0.846, "sector": 0.844, "business_district": 0.839, "united_states": 0.857, "@scenario_probability": 6.433155080879205e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 6.433155080879205e-05]

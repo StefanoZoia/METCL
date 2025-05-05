@@ -1,0 +1,26 @@
+Title: cancer-attacking
+
+Head Concept Name: cancer
+Modifier Concept Name: attacking
+
+
+
+
+
+T(modifier), advancing_into_battle, 0.767
+T(modifier), metal_rod, 0.758
+T(modifier), action_on_object, 0.746
+T(modifier), weapon, 0.679
+
+T(head), malignant_tumor, 0.923
+T(head), disease, 0.874
+T(head), bad, 0.869
+T(head), oncology, 0.863
+T(head), neoplasm_condition, 0.855
+T(head), hurry_death, 0.848
+T(head), result_in_death, 0.837
+T(head), kill, 0.835
+
+
+Result: {"advancing_into_battle": 0.767, "malignant_tumor": 0.923, "disease": 0.874, "bad": 0.869, "oncology": 0.863, "neoplasm_condition": 0.855, "hurry_death": 0.848, "result_in_death": 0.837, "@scenario_probability": 0.09167787832167024}
+Scenario: [1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.09167787832167024]

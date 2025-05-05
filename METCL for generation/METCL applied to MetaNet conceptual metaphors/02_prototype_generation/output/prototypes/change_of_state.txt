@@ -1,0 +1,8 @@
+change: 0.933
+difference: 0.8262
+replace: 0.774
+unpleasant: 0.7524
+exciting: 0.7524
+jar: 0.7325999999999999
+dress: 0.7325999999999999
+consequence: 0.7325999999999999

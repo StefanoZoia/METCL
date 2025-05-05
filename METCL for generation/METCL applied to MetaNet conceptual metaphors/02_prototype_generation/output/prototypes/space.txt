@@ -1,0 +1,8 @@
+seperation: 0.914
+empty: 0.902
+occupying: 0.892
+seperating_words_in_sentance: 0.88
+cold: 0.873
+storage: 0.855
+separating_words: 0.853
+infinite: 0.853

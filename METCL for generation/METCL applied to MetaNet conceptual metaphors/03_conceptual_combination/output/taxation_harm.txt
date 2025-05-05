@@ -1,0 +1,25 @@
+Title: taxation-harm
+
+Head Concept Name: taxation
+Modifier Concept Name: harm
+
+
+
+
+
+T(modifier), injure, 0.902
+T(modifier), -protect, 0.774
+T(modifier), -favor, 0.768
+T(modifier), fire, 0.753
+T(modifier), -heal, 0.73
+T(modifier), -help, 0.722
+T(modifier), killing, 0.707
+T(modifier), too_much_of, 0.689
+
+T(head), imposition, 0.862
+T(head), process_results_in_taxes, 0.731
+T(head), activity_of_government, 0.721
+
+
+Result: {"injure": 0.902, "-protect": 0.774, "-favor": 0.768, "fire": 0.753, "-heal": 0.73, "-help": 0.722, "imposition": 0.862, "process_results_in_taxes": 0.731, "@scenario_probability": 0.3408949813375445}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0.3408949813375445]

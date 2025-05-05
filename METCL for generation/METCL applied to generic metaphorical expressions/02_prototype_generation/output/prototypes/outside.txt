@@ -1,0 +1,8 @@
+-inside: 0.918
+-within: 0.837
+surface: 0.819
+baseball: 0.805
+region: 0.8
+uk: 0.771
+countryside: 0.762
+slang: 0.754

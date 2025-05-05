@@ -1,0 +1,13 @@
+/c/en/partition	RelatedTo	/c/en/territories	1.0	0.267
+/c/en/roman_empire	RelatedTo	/c/en/territories	1.0	0.219
+/c/en/annexation	RelatedTo	/c/en/territories	1.0	0.251
+/c/en/continental_united_states	RelatedTo	/c/en/territories	1.0	0.213
+/c/en/state_of_palestine	RelatedTo	/c/en/territories	1.0	-0.001
+/c/en/british_overseas_territory	RelatedTo	/c/en/territories	1.0	0.299
+/c/en/northern_canada	Synonym	/c/en/territories	1.0	0.197
+/c/en/safe_conduct	RelatedTo	/c/en/territories	1.0	0.104
+/c/en/territories	FormOf	/c/en/territory	1.0	0.79
+/c/en/palestinian_arabic	RelatedTo	/c/en/territories	1.0	0.305
+/c/en/british_crown_dependency	RelatedTo	/c/en/territories	1.0	0.203
+/c/en/confederation	RelatedTo	/c/en/territories	1.0	0.149
+/c/en/territories	RelatedTo	/c/en/territory	1.0	0.79

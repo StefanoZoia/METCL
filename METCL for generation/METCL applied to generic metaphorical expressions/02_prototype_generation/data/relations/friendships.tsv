@@ -1,0 +1,7 @@
+/c/en/socialising	Causes	/c/en/friendships	1.0	0.446
+/c/en/entertaining_people	Causes	/c/en/friendships	1.0	0.07
+/c/en/friendships	FormOf	/c/en/friendship	1.0	0.871
+/c/en/friendships	RelatedTo	/c/en/friendship	1.0	0.871
+/c/en/friendships	FormOf	/c/en/friendship	1.0	0.871
+/c/en/understanding_better	Causes	/c/en/friendships	1.0	0.242
+/c/en/friendships	CapableOf	/c/en/open_doors_for_career	1.0	0.129

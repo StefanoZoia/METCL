@@ -1,0 +1,8 @@
+waste_bin: 0.863
+trash: 0.853
+material: 0.843
+enfeeble: 0.821
+devolve: 0.82
+garbage: 0.814
+-recycle: 0.808
+emaciate: 0.804

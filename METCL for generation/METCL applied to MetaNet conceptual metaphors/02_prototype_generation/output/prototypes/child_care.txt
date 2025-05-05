@@ -1,0 +1,2 @@
+caring_for_people: 0.814
+consist_of_babysitting: 0.785

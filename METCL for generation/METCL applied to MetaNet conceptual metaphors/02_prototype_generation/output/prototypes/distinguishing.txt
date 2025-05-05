@@ -1,0 +1,8 @@
+identify: 0.7956
+compare: 0.7947000000000001
+discrimination: 0.7686
+qualify: 0.7488
+mathematical_process: 0.7281000000000001
+-confuse: 0.7146
+-liken: 0.6507
+-common: 0.6201

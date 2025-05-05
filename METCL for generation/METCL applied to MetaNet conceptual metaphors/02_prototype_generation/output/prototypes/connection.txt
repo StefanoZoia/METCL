@@ -1,0 +1,8 @@
+connect_things: 0.927
+relation: 0.886
+getting_job: 0.852
+link: 0.845
+networks: 0.843
+attach_one_thing_to_another: 0.838
+acquaintance: 0.836
+bridging_gap: 0.826

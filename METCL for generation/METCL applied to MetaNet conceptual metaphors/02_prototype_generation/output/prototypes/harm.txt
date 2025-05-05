@@ -1,0 +1,8 @@
+injure: 0.902
+-protect: 0.774
+-favor: 0.768
+fire: 0.753
+-heal: 0.73
+-help: 0.722
+killing: 0.707
+too_much_of: 0.689

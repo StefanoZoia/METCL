@@ -1,0 +1,6 @@
+genetics: 0.787
+stamp: 0.7821
+identification: 0.7569
+influence: 0.7505999999999999
+device: 0.7299000000000001
+visual_information_source: 0.6705

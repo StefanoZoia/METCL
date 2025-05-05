@@ -1,0 +1,26 @@
+Title: withered-woman
+
+Head Concept Name: withered
+Modifier Concept Name: woman
+
+
+
+
+
+T(modifier), -men, 0.856
+T(modifier), adult, 0.84
+T(modifier), female, 0.83
+T(modifier), -male, 0.782
+T(modifier), female_person, 0.772
+T(modifier), -lass, 0.762
+T(modifier), adult_female_body, 0.76
+T(modifier), -girl, 0.756
+
+T(head), vegetation, 0.822
+T(head), -flower, 0.665
+T(head), uk, 0.66
+T(head), comics_character, 0.637
+
+
+Result: {"-men": 0.856, "adult": 0.84, "female": 0.83, "-male": 0.782, "female_person": 0.772, "-lass": 0.762, "adult_female_body": 0.76, "vegetation": 0.822, "@scenario_probability": 0.17302774710738}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0.17302774710738]

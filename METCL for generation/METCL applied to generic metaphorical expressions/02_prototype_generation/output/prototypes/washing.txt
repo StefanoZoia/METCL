@@ -1,0 +1,8 @@
+laundry: 0.874
+cleaning: 0.862
+removing_grease_from_dishes: 0.842
+washing_machine: 0.809
+wash_cloth: 0.806
+bathing: 0.8
+bathroom: 0.793
+soap: 0.79

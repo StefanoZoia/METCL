@@ -1,0 +1,5 @@
+/c/en/chastely	Synonym	/c/en/virtuously	2.0	0.772
+/c/en/morally	Synonym	/c/en/virtuously	2.0	0.468
+/c/en/right_mindedly	RelatedTo	/c/en/virtuously	1.0	0.136
+/c/en/virtuously	DerivedFrom	/c/en/virtuous	1.0	0.582
+/c/en/virtuously	RelatedTo	/c/en/virtuous	1.0	0.582

@@ -1,0 +1,8 @@
+narcotic: 0.866
+craving: 0.864
+bad: 0.831
+physiological_state: 0.817
+smoke: 0.798
+award: 0.793
+roman_law: 0.79
+smoking: 0.766

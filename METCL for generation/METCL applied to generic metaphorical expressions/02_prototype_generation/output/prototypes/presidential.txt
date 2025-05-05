@@ -1,0 +1,8 @@
+gubernatorial: 0.899
+presiding_officer: 0.8316
+elected_official: 0.8181
+govern_country: 0.8001
+govern_nation: 0.8001
+running_country: 0.7947000000000001
+head_company: 0.7821
+leader: 0.7776

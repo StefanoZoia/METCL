@@ -1,0 +1,5 @@
+/c/en/canals	FormOf	/c/en/canal	2.0	0.928
+/c/en/canals	ReceivesAction	/c/en/sailed_to_reach_other_ports	1.0	0.116
+/c/en/canals	UsedFor	/c/en/transport_goods_long_distances	1.0	0.146
+/c/en/canals	FormOf	/c/en/canal	1.0	0.928
+/c/en/gondola	RelatedTo	/c/en/canals	0.42399999999999993	0.247

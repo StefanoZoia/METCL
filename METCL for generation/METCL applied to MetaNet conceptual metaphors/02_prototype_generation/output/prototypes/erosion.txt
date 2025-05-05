@@ -1,0 +1,8 @@
+decline: 0.836
+geology: 0.836
+geological_process: 0.835
+environmental_condition: 0.815
+-accretion: 0.803
+-deposition: 0.79
+image_processing: 0.767
+dentistry: 0.762

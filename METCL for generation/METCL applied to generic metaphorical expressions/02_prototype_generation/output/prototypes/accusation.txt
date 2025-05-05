@@ -1,0 +1,4 @@
+assertion: 0.885
+charge: 0.878
+legal: 0.736
+film: 0.712

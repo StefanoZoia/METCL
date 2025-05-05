@@ -1,0 +1,8 @@
+gameroom: 0.891
+programmer: 0.888
+played: 0.871
+play: 0.868
+game_equipment: 0.866
+entertainment: 0.864
+arcade: 0.86
+toy_store: 0.859

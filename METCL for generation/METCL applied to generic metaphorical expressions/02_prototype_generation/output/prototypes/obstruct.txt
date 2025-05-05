@@ -1,0 +1,4 @@
+impede: 0.92
+prevent: 0.867
+hide: 0.817
+curtain: 0.759

@@ -1,0 +1,30 @@
+Title: nation-body
+
+Head Concept Name: nation
+Modifier Concept Name: body
+
+
+
+
+
+T(modifier), torso, 0.852
+T(modifier), coffin, 0.843
+T(modifier), body_substance, 0.837
+T(modifier), funeral, 0.835
+T(modifier), system, 0.83
+T(modifier), structure, 0.829
+T(modifier), message, 0.827
+T(modifier), mass, 0.818
+
+T(head), united_states, 0.857
+T(head), people, 0.836
+T(head), confederation, 0.831
+T(head), ready_troops, 0.808
+T(head), weather_storm_of_war, 0.789
+T(head), arm_citizens, 0.788
+T(head), -state, 0.787
+T(head), legal, 0.744
+
+
+Result: {"torso": 0.852, "coffin": 0.843, "body_substance": 0.837, "funeral": 0.835, "system": 0.83, "united_states": 0.857, "people": 0.836, "confederation": 0.831, "@scenario_probability": 6.254578297533553e-05}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 6.254578297533553e-05]

@@ -1,0 +1,8 @@
+death: 0.816
+one_form_of_suffication: 0.814
+ocean: 0.794
+-swim: 0.793
+yelling: 0.744
+disease: 0.71
+gasp_for_air: 0.689
+gain_more_land: 0.667

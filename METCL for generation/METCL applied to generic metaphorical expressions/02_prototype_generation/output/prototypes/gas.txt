@@ -1,0 +1,8 @@
+gas: 0.915
+fuel: 0.893
+clothes_dryers: 0.892
+heating: 0.886
+gas_line: 0.881
+short_for_gasoline: 0.877
+cooking: 0.868
+gas_station: 0.864

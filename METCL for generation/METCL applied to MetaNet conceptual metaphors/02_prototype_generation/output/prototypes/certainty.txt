@@ -1,0 +1,5 @@
+-uncertainty: 0.888
+quality: 0.827
+cognitive_state: 0.798
+-impossibility: 0.789
+-chance: 0.736

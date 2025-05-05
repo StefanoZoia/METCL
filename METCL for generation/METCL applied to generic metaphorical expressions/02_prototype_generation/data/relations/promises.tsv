@@ -1,0 +1,10 @@
+/c/en/commissive_mood	RelatedTo	/c/en/promises	1.0	-0.0
+/c/en/promises	FormOf	/c/en/promise	1.0	0.942
+/c/en/promises	RelatedTo	/c/en/promise	1.0	0.942
+/c/en/promises	FormOf	/c/en/promise	1.0	0.942
+/c/en/promises	RelatedTo	/c/en/promise	1.0	0.942
+/c/en/promises	FormOf	/c/en/promise	1.0	0.942
+/c/en/promises	Synonym	/c/en/promises	0.5	1.0
+/c/en/promises	IsA	/c/en/band	0.5	0.063
+/c/en/promises	genre	/c/en/disco	0.5	0.069
+/c/en/resolution	RelatedTo	/c/en/promises	0.15300000000000002	0.112

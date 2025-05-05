@@ -1,0 +1,12 @@
+/c/en/damaged	SimilarTo	/c/en/knocked_out	2.0	0.445
+/c/en/unconscious	SimilarTo	/c/en/knocked_out	2.0	0.461
+/c/en/knocked_out	SimilarTo	/c/en/unconscious	2.0	0.461
+/c/en/knocked_out	SimilarTo	/c/en/damaged	2.0	0.445
+/c/en/stunned	Synonym	/c/en/knocked_out	2.0	0.513
+/c/en/kayoed	Synonym	/c/en/knocked_out	2.0	0.303
+/c/en/ko'd	Synonym	/c/en/knocked_out	2.0	0.03
+/c/en/out	Synonym	/c/en/knocked_out	2.0	0.193
+/c/en/gorked	RelatedTo	/c/en/knocked_out	1.0	0.179
+/c/en/glass_jaw	RelatedTo	/c/en/knocked_out	1.0	0.009
+/c/en/take_count	RelatedTo	/c/en/knocked_out	1.0	0.077
+/c/en/knocked_out	FormOf	/c/en/knock_out	1.0	0.509

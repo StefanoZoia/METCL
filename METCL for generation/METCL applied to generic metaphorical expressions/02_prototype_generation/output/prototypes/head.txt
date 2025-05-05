@@ -1,0 +1,8 @@
+head_butting: 0.864
+go_to_bathroom: 0.86
+bang_on_wall: 0.853
+unclear: 0.849
+think: 0.848
+hat: 0.842
+top: 0.835
+direct: 0.834

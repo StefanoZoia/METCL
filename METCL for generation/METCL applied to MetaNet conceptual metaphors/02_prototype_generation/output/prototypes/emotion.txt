@@ -1,0 +1,8 @@
+feeling: 0.898
+pleasant: 0.853
+mind: 0.834
+way_of: 0.797
+cloud_ones_judgement: 0.796
+mental_quantity: 0.793
+human: 0.778
+thought: 0.766

@@ -1,0 +1,9 @@
+/c/en/united_states_government_printing_office	PartOf	/c/en/legislative_branch	2.0	0.119
+/c/en/legislative_branch	IsA	/c/en/branch	2.0	-0.019
+/c/en/legislative_branch	SimilarTo	/c/en/judicial_branch	1.0	0.525
+/c/en/executive_branch	SimilarTo	/c/en/legislative_branch	1.0	0.228
+/c/en/legislative_branch	Synonym	/c/en/legislature	1.0	0.93
+/c/en/legislative_branches	FormOf	/c/en/legislative_branch	1.0	1.0
+/c/en/judicial_branch	SimilarTo	/c/en/legislative_branch	1.0	0.525
+/c/en/legislative_branch	SimilarTo	/c/en/executive_branch	1.0	0.228
+/c/en/legislative_branch	PartOf	/c/en/government	1.0	0.317

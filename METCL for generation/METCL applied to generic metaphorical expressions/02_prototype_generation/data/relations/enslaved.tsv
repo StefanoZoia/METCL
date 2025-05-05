@@ -1,0 +1,13 @@
+/c/en/enslavedness	DerivedFrom	/c/en/enslaved	1.0	1.0
+/c/en/enslaved	RelatedTo	/c/en/enslave	1.0	0.609
+/c/en/bondage	RelatedTo	/c/en/enslaved	1.0	0.417
+/c/en/freedom	RelatedTo	/c/en/enslaved	1.0	0.279
+/c/en/unenslaved	RelatedTo	/c/en/enslaved	1.0	0.101
+/c/en/unenslaved	DerivedFrom	/c/en/enslaved	1.0	0.101
+/c/en/ringwraith	RelatedTo	/c/en/enslaved	1.0	-0.094
+/c/en/enslaved	FormOf	/c/en/enslave	1.0	0.609
+/c/en/thrall	RelatedTo	/c/en/enslaved	1.0	0.535
+/c/en/enslaven	RelatedTo	/c/en/enslaved	1.0	0.791
+/c/en/free	DistinctFrom	/c/en/enslaved	0.6150000000000002	0.296
+/c/en/free	Antonym	/c/en/enslaved	0.47299999999999986	0.296
+/c/en/independent	Antonym	/c/en/enslaved	0.13600000000000012	0.155

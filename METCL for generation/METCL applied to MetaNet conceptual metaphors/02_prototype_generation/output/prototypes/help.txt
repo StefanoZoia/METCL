@@ -1,0 +1,8 @@
+lend_hand: 0.973
+assist: 0.934
+aid: 0.932
+helping_people_makes_one_feel_good: 0.92
+volunteer: 0.911
+offer: 0.899
+ask_what_need: 0.893
+find_out_what_need: 0.874

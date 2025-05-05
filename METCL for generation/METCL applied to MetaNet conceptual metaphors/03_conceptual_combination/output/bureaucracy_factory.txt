@@ -1,0 +1,30 @@
+Title: bureaucracy-factory
+
+Head Concept Name: bureaucracy
+Modifier Concept Name: factory
+
+
+
+
+
+T(modifier), manufacture_things, 0.917
+T(modifier), manufacture_goods, 0.883
+T(modifier), produce_cars, 0.882
+T(modifier), plant, 0.873
+T(modifier), industrial_area, 0.869
+T(modifier), bottle_wine, 0.848
+T(modifier), bottle_medicine, 0.848
+T(modifier), bottle_water, 0.848
+
+T(head), government, 0.866
+T(head), bureaucrats, 0.853
+T(head), government_officials, 0.834
+T(head), organization, 0.814
+T(head), system_of_running_bureaus, 0.783
+T(head), organizational_theory, 0.762
+T(head), university, 0.75
+T(head), agent_non_geographical, 0.749
+
+
+Result: {"manufacture_things": 0.917, "manufacture_goods": 0.883, "produce_cars": 0.882, "plant": 0.873, "industrial_area": 0.869, "bottle_water": 0.848, "government": 0.866, "bureaucrats": 0.853, "@scenario_probability": 7.846103797329169e-05}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 7.846103797329169e-05]

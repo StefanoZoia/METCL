@@ -1,0 +1,30 @@
+Title: problem-war
+
+Head Concept Name: problem
+Modifier Concept Name: war
+
+
+
+
+
+T(modifier), conflict, 0.888
+T(modifier), bad_thing, 0.88
+T(modifier), fight, 0.865
+T(modifier), fighting_between_countries, 0.859
+T(modifier), battle, 0.858
+T(modifier), -peace, 0.853
+T(modifier), campaign, 0.849
+T(modifier), commiting_genocide, 0.847
+
+T(head), president_bush, 0.91
+T(head), quandry, 0.896
+T(head), difficulty, 0.884
+T(head), question, 0.863
+T(head), slow_work, 0.847
+T(head), -solution, 0.834
+T(head), -answer, 0.768
+T(head), cogitate, 0.763
+
+
+Result: {"conflict": 0.888, "bad_thing": 0.88, "fight": 0.865, "fighting_between_countries": 0.859, "president_bush": 0.91, "quandry": 0.896, "difficulty": 0.884, "question": 0.863, "@scenario_probability": 2.4323567856492393e-05}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 2.4323567856492393e-05]

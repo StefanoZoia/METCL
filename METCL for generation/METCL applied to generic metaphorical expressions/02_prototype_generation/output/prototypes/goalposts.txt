@@ -1,0 +1,7 @@
+bowling: 0.809
+goal: 0.8055
+crossbar: 0.7731
+post: 0.7623
+upright: 0.7146
+sports: 0.7038000000000001
+american_football: 0.6696

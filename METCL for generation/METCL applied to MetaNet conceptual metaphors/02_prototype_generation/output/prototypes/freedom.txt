@@ -1,0 +1,8 @@
+-unfreedom: 0.875
+relative: 0.836
+good: 0.827
+universal_right: 0.826
+-liberty: 0.824
+allow_discourse: 0.821
+belief: 0.81
+state: 0.805

@@ -1,0 +1,8 @@
+honor_strong_person: 0.9
+good_thing: 0.847
+preparedness: 0.837
+social_group: 0.82
+orderliness: 0.819
+administration: 0.813
+activity: 0.813
+structure: 0.793

@@ -1,0 +1,11 @@
+/c/en/worn_out	Synonym	/c/en/played_out	3.4641016151377544	0.212
+/c/en/played_out	SimilarTo	/c/en/tired	2.0	0.007
+/c/en/gone	Synonym	/c/en/played_out	2.0	0.187
+/c/en/washed_out	Synonym	/c/en/played_out	2.0	0.096
+/c/en/exhausted	Synonym	/c/en/played_out	2.0	-0.037
+/c/en/fatigued	Synonym	/c/en/played_out	2.0	-0.022
+/c/en/tired	SimilarTo	/c/en/played_out	2.0	0.007
+/c/en/dog_tired	Synonym	/c/en/played_out	2.0	0.019
+/c/en/worn	SimilarTo	/c/en/played_out	2.0	0.212
+/c/en/played_out	SimilarTo	/c/en/worn	2.0	0.212
+/c/en/spent	Synonym	/c/en/played_out	2.0	0.203

@@ -1,0 +1,23 @@
+Title: steps-independence
+
+Head Concept Name: steps
+Modifier Concept Name: independence
+
+
+
+
+
+T(modifier), freedom, 0.889
+T(modifier), -dependence, 0.858
+T(modifier), victory, 0.843
+T(modifier), precious, 0.838
+T(modifier), missouri, 0.808
+
+T(head), path, 0.859
+T(head), stairway, 0.805
+T(head), entryways, 0.795
+T(head), front_door, 0.784
+
+
+Result: {"freedom": 0.889, "-dependence": 0.858, "victory": 0.843, "precious": 0.838, "missouri": 0.808, "path": 0.859, "stairway": 0.805, "entryways": 0.795, "@scenario_probability": 5.169897430165204}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 1, 0, 5.169897430165204]

@@ -1,0 +1,6 @@
+/c/en/infecting	FormOf	/c/en/infect	1.0	0.854
+/c/en/infecting	RelatedTo	/c/en/infect	1.0	0.854
+/c/en/infecting	IsA	/c/en/corrupting	1.0	0.508
+/c/en/noninfecting	DerivedFrom	/c/en/infecting	1.0	0.473
+/c/en/flea	RelatedTo	/c/en/infecting	0.1499999999999999	0.16
+/c/en/disinfectant	Antonym	/c/en/infecting	0.10400000000000009	0.293

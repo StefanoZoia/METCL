@@ -1,0 +1,26 @@
+Title: machines-institution
+
+Head Concept Name: machines
+Modifier Concept Name: institution
+
+
+
+
+
+T(modifier), establishment, 0.878
+T(modifier), organization, 0.851
+T(modifier), custom, 0.806
+T(modifier), department, 0.744
+
+T(head), box_fruit, 0.854
+T(head), bottle_wine, 0.852
+T(head), fail_to_work, 0.844
+T(head), expensive, 0.842
+T(head), take_people_away_from_planet_earth, 0.831
+T(head), fly, 0.816
+T(head), serve_humanity, 0.814
+T(head), perform_work_humans_cannot_perform, 0.81
+
+
+Result: {"establishment": 0.878, "organization": 0.851, "box_fruit": 0.854, "bottle_wine": 0.852, "fail_to_work": 0.844, "expensive": 0.842, "take_people_away_from_planet_earth": 0.831, "fly": 0.816, "@scenario_probability": 0.04598069194674714}
+Scenario: [1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.04598069194674714]

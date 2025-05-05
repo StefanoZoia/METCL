@@ -1,0 +1,30 @@
+Title: debt-organism
+
+Head Concept Name: debt
+Modifier Concept Name: organism
+
+
+
+
+
+T(modifier), system, 0.823
+T(modifier), living_thing, 0.816
+T(modifier), organs, 0.808
+T(modifier), biology, 0.808
+T(modifier), ecosystem, 0.791
+T(modifier), need, 0.787
+T(modifier), cells, 0.75
+T(modifier), cell, 0.738
+
+T(head), indebtedness, 0.926
+T(head), liabilities, 0.907
+T(head), obligation, 0.873
+T(head), -credit, 0.823
+T(head), manageable_but_only_very_carefully, 0.812
+T(head), -payment, 0.775
+T(head), legal, 0.769
+T(head), -lend, 0.765
+
+
+Result: {"system": 0.823, "living_thing": 0.816, "biology": 0.808, "indebtedness": 0.926, "liabilities": 0.907, "obligation": 0.873, "-credit": 0.823, "manageable_but_only_very_carefully": 0.812, "@scenario_probability": 0.00018181115055271115}
+Scenario: [1, 1, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.00018181115055271115]

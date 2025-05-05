@@ -1,0 +1,8 @@
+-men: 0.856
+adult: 0.84
+female: 0.83
+-male: 0.782
+female_person: 0.772
+-lass: 0.762
+adult_female_body: 0.76
+-girl: 0.756

@@ -1,0 +1,26 @@
+Title: drove-country
+
+Head Concept Name: drove
+Modifier Concept Name: country
+
+
+
+
+
+T(modifier), a, 0.848
+T(modifier), world, 0.842
+T(modifier), america, 0.834
+T(modifier), region, 0.822
+T(modifier), honor_soldier, 0.81
+T(modifier), go_to_war_with_another_country, 0.8
+T(modifier), globe_map, 0.797
+T(modifier), asia, 0.797
+
+T(head), crowd, 0.836
+T(head), chisel, 0.81
+T(head), animal_group, 0.804
+T(head), collective, 0.762
+
+
+Result: {"a": 0.848, "world": 0.842, "america": 0.834, "region": 0.822, "honor_soldier": 0.81, "crowd": 0.836, "chisel": 0.81, "animal_group": 0.804, "@scenario_probability": 0.04234256905010188}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0.04234256905010188]

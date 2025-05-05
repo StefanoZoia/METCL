@@ -1,0 +1,30 @@
+Title: ideology-organisms
+
+Head Concept Name: ideology
+Modifier Concept Name: organisms
+
+
+
+
+
+T(modifier), die, 0.872
+T(modifier), system, 0.741
+T(modifier), living_thing, 0.734
+T(modifier), organs, 0.727
+T(modifier), biology, 0.727
+T(modifier), ecosystem, 0.712
+T(modifier), need, 0.708
+T(modifier), cells, 0.675
+
+T(head), person, 0.879
+T(head), how_to_live_life, 0.844
+T(head), theorization, 0.83
+T(head), change_society, 0.807
+T(head), ideals, 0.792
+T(head), system_of_abstract_thought, 0.759
+T(head), organization, 0.757
+T(head), way_of_looking_at_things, 0.747
+
+
+Result: {"die": 0.872, "person": 0.879, "how_to_live_life": 0.844, "theorization": 0.83, "change_society": 0.807, "ideals": 0.792, "system_of_abstract_thought": 0.759, "organization": 0.757, "@scenario_probability": 0.0007000808318505667}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.0007000808318505667]

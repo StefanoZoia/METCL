@@ -1,0 +1,28 @@
+Title: target-criticisms
+
+Head Concept Name: target
+Modifier Concept Name: criticisms
+
+
+
+
+
+T(modifier), critical_appraisal, 0.823
+T(modifier), disapproval, 0.773
+T(modifier), writing, 0.728
+T(modifier), -eulogy, 0.71
+T(modifier), -compliment, 0.689
+T(modifier), attending_classical_concert, 0.619
+
+T(head), aim, 0.89
+T(head), bull's_eye, 0.874
+T(head), aim_at, 0.844
+T(head), reference_point, 0.803
+T(head), object, 0.798
+T(head), topographic_point, 0.795
+T(head), sports_equipment, 0.783
+T(head), arrow, 0.78
+
+
+Result: {"critical_appraisal": 0.823, "aim": 0.89, "bull's_eye": 0.874, "aim_at": 0.844, "reference_point": 0.803, "object": 0.798, "topographic_point": 0.795, "sports_equipment": 0.783, "@scenario_probability": 0.010059858061054883}
+Scenario: [1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.010059858061054883]

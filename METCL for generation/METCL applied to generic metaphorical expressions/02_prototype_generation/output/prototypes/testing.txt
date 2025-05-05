@@ -1,0 +1,8 @@
+examination: 0.889
+experiment: 0.877
+evaluating: 0.825
+investigating: 0.791
+performance_testing: 0.769
+having_examination: 0.764
+unnatural_thing: 0.743
+california_test: 0.739

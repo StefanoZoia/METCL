@@ -1,0 +1,30 @@
+Title: leadership-bully
+
+Head Concept Name: leadership
+Modifier Concept Name: bully
+
+
+
+
+
+T(modifier), attacker, 0.819
+T(modifier), corner, 0.812
+T(modifier), push_around, 0.806
+T(modifier), call_names, 0.804
+T(modifier), hood, 0.799
+T(modifier), school, 0.795
+T(modifier), person, 0.791
+T(modifier), needle_weakling, 0.79
+
+T(head), ability, 0.836
+T(head), central_to_process_of_change, 0.826
+T(head), activity, 0.803
+T(head), status, 0.803
+T(head), body, 0.794
+T(head), situational, 0.784
+T(head), mayor, 0.782
+T(head), being_in_charge_of_project, 0.762
+
+
+Result: {"attacker": 0.819, "corner": 0.812, "push_around": 0.806, "call_names": 0.804, "ability": 0.836, "central_to_process_of_change": 0.826, "activity": 0.803, "status": 0.803, "@scenario_probability": 8.011583406493843e-05}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 8.011583406493843e-05]

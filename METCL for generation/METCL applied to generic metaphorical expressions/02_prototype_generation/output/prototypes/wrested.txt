@@ -1,0 +1,4 @@
+seize: 0.7785
+dialectal: 0.6768000000000001
+agriculture: 0.6705
+music: 0.6705

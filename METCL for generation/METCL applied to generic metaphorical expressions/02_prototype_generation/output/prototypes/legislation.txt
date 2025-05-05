@@ -1,0 +1,7 @@
+legislation: 0.946
+law: 0.888
+statute_book: 0.888
+government: 0.838
+civil_law: 0.833
+stop_pollution: 0.802
+-jury: 0.582

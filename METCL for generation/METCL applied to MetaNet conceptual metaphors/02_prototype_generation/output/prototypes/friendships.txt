@@ -1,0 +1,8 @@
+open_doors_for_career: 0.82
+relationship: 0.7983
+trust: 0.7839
+friend's_house: 0.783
+communication: 0.7785
+offered_and_must_honored: 0.7488
+-enmity: 0.7461
+two_people: 0.7415999999999999

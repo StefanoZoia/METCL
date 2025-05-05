@@ -1,0 +1,28 @@
+Title: communication-pointing
+
+Head Concept Name: communication
+Modifier Concept Name: pointing
+
+
+
+
+
+T(modifier), gesturing, 0.856
+T(modifier), finger, 0.766
+T(modifier), stylus, 0.75
+T(modifier), art, 0.742
+T(modifier), ballpoint_pen, 0.727
+T(modifier), laser, 0.723
+
+T(head), sender_and_receiver, 0.866
+T(head), connection, 0.85
+T(head), act, 0.815
+T(head), e_mail, 0.81
+T(head), cellphone, 0.804
+T(head), satelite, 0.804
+T(head), phone, 0.801
+T(head), abstraction, 0.799
+
+
+Result: {"gesturing": 0.856, "sender_and_receiver": 0.866, "connection": 0.85, "act": 0.815, "e_mail": 0.81, "cellphone": 0.804, "satelite": 0.804, "phone": 0.801, "@scenario_probability": 0.004940966042856101}
+Scenario: [1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.004940966042856101]

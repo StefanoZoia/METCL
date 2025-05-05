@@ -1,0 +1,8 @@
+-unarticulated: 0.864
+-inarticulate: 0.7677
+connect: 0.7424999999999999
+state: 0.7334999999999999
+anatomy: 0.6876
+zoology: 0.6849000000000001
+music: 0.6651
+hands: 0.6003000000000001

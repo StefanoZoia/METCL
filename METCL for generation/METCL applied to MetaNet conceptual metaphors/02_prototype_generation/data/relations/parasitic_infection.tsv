@@ -1,0 +1,5 @@
+/c/en/cryptosporidiosis	IsA	/c/en/parasitic_infection	1.0	0.857
+/c/en/parasitic_infection	IsA	/c/en/infection	1.0	0.824
+/c/en/parasitic_infection	IsA	/c/en/parasitic_ailment	1.0	0.86
+/c/en/ricketsiosis	IsA	/c/en/parasitic_infection	1.0	0.226
+/c/en/bacillary_angiomatosis	IsA	/c/en/parasitic_infection	1.0	0.428

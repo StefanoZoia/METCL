@@ -1,0 +1,8 @@
+sink: 0.946
+brushing_teeth: 0.906
+drain_off_water: 0.892
+rinse_dishes: 0.878
+kitchen: 0.866
+bathroom_and_kitchen: 0.861
+soak_dishes: 0.86
+plumbing_fixture: 0.855

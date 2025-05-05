@@ -1,0 +1,29 @@
+Title: filled-framework
+
+Head Concept Name: filled
+Modifier Concept Name: framework
+
+
+
+
+
+T(modifier), structure, 0.852
+T(modifier), supporting_structure, 0.804
+T(modifier), brace, 0.775
+T(modifier), backing, 0.762
+T(modifier), software_engineering, 0.751
+T(modifier), software, 0.744
+T(modifier), man_made_structure, 0.734
+
+T(head), fill, 0.851
+T(head), -empty, 0.796
+T(head), hire, 0.746
+T(head), enough, 0.742
+T(head), repair, 0.733
+T(head), change, 0.729
+T(head), change_state, 0.724
+T(head), bladder, 0.723
+
+
+Result: {"structure": 0.852, "supporting_structure": 0.804, "brace": 0.775, "backing": 0.762, "software_engineering": 0.751, "fill": 0.851, "-empty": 0.796, "hire": 0.746, "@scenario_probability": 0.001492053586526994}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0.001492053586526994]

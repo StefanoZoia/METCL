@@ -1,0 +1,3 @@
+dangerous_to_free_mass_media: 0.813
+blindness: 0.762
+prevention_of_communication: 0.748

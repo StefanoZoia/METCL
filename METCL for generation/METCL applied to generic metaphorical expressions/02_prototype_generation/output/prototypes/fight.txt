@@ -1,0 +1,8 @@
+compete: 0.888
+conflict: 0.868
+controversy: 0.853
+starting_outside: 0.823
+fighter: 0.814
+try: 0.805
+arena: 0.796
+bleed: 0.772

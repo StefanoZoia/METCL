@@ -1,0 +1,8 @@
+twist: 0.85
+handicraft: 0.836
+create_from_raw_material: 0.83
+warp: 0.82
+travel: 0.811
+design: 0.809
+woof: 0.801
+chine_cotton: 0.661

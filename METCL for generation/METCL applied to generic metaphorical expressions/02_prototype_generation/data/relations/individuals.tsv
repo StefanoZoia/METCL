@@ -1,0 +1,12 @@
+/c/en/heteroplasty	RelatedTo	/c/en/individuals	1.0	-0.011
+/c/en/people	IsA	/c/en/individuals	1.0	0.615
+/c/en/geoslavery	RelatedTo	/c/en/individuals	1.0	-0.043
+/c/en/individuals	RelatedTo	/c/en/individual	1.0	0.663
+/c/en/singing	UsedFor	/c/en/individuals	1.0	0.103
+/c/en/individuals	FormOf	/c/en/individual	1.0	0.663
+/c/en/water_parade	RelatedTo	/c/en/individuals	1.0	0.042
+/c/en/change_management	RelatedTo	/c/en/individuals	1.0	0.08
+/c/en/overpopulate	RelatedTo	/c/en/individuals	1.0	0.144
+/c/en/people	RelatedTo	/c/en/individuals	0.3580000000000001	0.615
+/c/en/group	Antonym	/c/en/individuals	0.20999999999999996	0.204
+/c/en/person	RelatedTo	/c/en/individuals	0.18699999999999983	0.49

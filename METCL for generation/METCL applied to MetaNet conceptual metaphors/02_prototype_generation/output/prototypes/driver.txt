@@ -1,0 +1,8 @@
+shift_gears: 0.888
+golfer: 0.848
+bus_passengers: 0.841
+starting_car: 0.835
+worker: 0.832
+utility_program: 0.824
+drive_car_in_reverse: 0.823
+drive_car: 0.823

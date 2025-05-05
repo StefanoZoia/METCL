@@ -1,0 +1,30 @@
+Title: advocacy-harm
+
+Head Concept Name: advocacy
+Modifier Concept Name: harm
+
+
+
+
+
+T(modifier), injure, 0.902
+T(modifier), -protect, 0.774
+T(modifier), -favor, 0.768
+T(modifier), fire, 0.753
+T(modifier), -heal, 0.73
+T(modifier), -help, 0.722
+T(modifier), killing, 0.707
+T(modifier), too_much_of, 0.689
+
+T(head), support, 0.85
+T(head), supporting_structure, 0.746
+T(head), give, 0.745
+T(head), resource, 0.737
+T(head), dramaturgy, 0.735
+T(head), act, 0.731
+T(head), device, 0.726
+T(head), military, 0.725
+
+
+Result: {"injure": 0.902, "-protect": 0.774, "-favor": 0.768, "fire": 0.753, "support": 0.85, "supporting_structure": 0.746, "give": 0.745, "resource": 0.737, "@scenario_probability": 0.0005164201604691156}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.0005164201604691156]

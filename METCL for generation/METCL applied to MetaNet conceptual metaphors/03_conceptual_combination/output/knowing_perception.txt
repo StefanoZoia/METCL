@@ -1,0 +1,26 @@
+Title: knowing-perception
+
+Head Concept Name: knowing
+Modifier Concept Name: perception
+
+
+
+
+
+T(modifier), cognition, 0.884
+T(modifier), conceptualization, 0.846
+T(modifier), basic_cognitive_process, 0.809
+T(modifier), sight, 0.765
+
+T(head), remembering, 0.822
+T(head), believing, 0.807
+T(head), higher_cognitive_process, 0.796
+T(head), -ignorance, 0.786
+T(head), determining_truth, 0.767
+T(head), learning, 0.763
+T(head), intentional_mental_state, 0.759
+T(head), reading, 0.747
+
+
+Result: {"cognition": 0.884, "conceptualization": 0.846, "basic_cognitive_process": 0.809, "remembering": 0.822, "believing": 0.807, "higher_cognitive_process": 0.796, "-ignorance": 0.786, "determining_truth": 0.767, "@scenario_probability": 0.06540353944490401}
+Scenario: [1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.06540353944490401]

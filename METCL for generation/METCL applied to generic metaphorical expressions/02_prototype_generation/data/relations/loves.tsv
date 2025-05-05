@@ -1,0 +1,15 @@
+/c/en/pogonophile	RelatedTo	/c/en/loves	1.0	0.163
+/c/en/loves	FormOf	/c/en/love	1.0	0.742
+/c/en/retrophile	RelatedTo	/c/en/loves	1.0	0.024
+/c/en/loves	FormOf	/c/en/love	1.0	0.742
+/c/en/loves	RelatedTo	/c/en/love	1.0	0.742
+/c/en/loves	FormOf	/c/en/love	1.0	0.742
+/c/en/logophile	RelatedTo	/c/en/loves	1.0	-0.04
+/c/en/loves	FormOf	/c/en/love	1.0	0.742
+/c/en/linguaphile	RelatedTo	/c/en/loves	1.0	0.053
+/c/en/squirrel	RelatedTo	/c/en/loves	0.488	0.131
+/c/en/company	RelatedTo	/c/en/loves	0.351	0.124
+/c/en/bear	RelatedTo	/c/en/loves	0.3250000000000002	0.028
+/c/en/misery	RelatedTo	/c/en/loves	0.16400000000000015	0.095
+/c/en/petal	RelatedTo	/c/en/loves	0.1499999999999999	0.076
+/c/en/sugar	RelatedTo	/c/en/loves	0.10099999999999998	0.078

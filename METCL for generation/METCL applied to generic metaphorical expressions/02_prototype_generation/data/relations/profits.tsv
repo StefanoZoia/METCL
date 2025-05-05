@@ -1,0 +1,12 @@
+/c/en/profits	Synonym	/c/en/net_income	2.0	0.782
+/c/en/profits	Synonym	/c/en/winnings	2.0	0.554
+/c/en/profits	CapableOf	/c/en/equal_expenses	2.0	0.062
+/c/en/profits	FormOf	/c/en/profit	1.0	0.876
+/c/en/earnings	RelatedTo	/c/en/profits	1.0	0.771
+/c/en/proceeds	RelatedTo	/c/en/profits	1.0	0.548
+/c/en/company	Desires	/c/en/profits	1.0	0.252
+/c/en/derivation	RelatedTo	/c/en/profits	1.0	0.163
+/c/en/profits	FormOf	/c/en/profit	1.0	0.876
+/c/en/cash_in	MotivatedByGoal	/c/en/profits	1.0	0.315
+/c/en/profits	FormOf	/c/en/profit	1.0	0.876
+/c/en/company	RelatedTo	/c/en/profits	0.17899999999999983	0.252

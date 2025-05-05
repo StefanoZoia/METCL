@@ -1,0 +1,15 @@
+/c/en/homelessness	IsA	/c/en/social_and_economic_problem	2.0	0.079
+/c/en/homelessness	IsA	/c/en/condition	2.0	-0.028
+/c/en/vagrancy	IsA	/c/en/homelessness	2.0	0.551
+/c/en/houselessness	RelatedTo	/c/en/homelessness	1.0	0.667
+/c/en/skid_row	RelatedTo	/c/en/homelessness	1.0	0.433
+/c/en/antihomelessness	DerivedFrom	/c/en/homelessness	1.0	0.111
+/c/en/homelessness	DerivedFrom	/c/en/homeless	1.0	0.855
+/c/en/buying_shirt	HasSubevent	/c/en/homelessness	1.0	-0.042
+/c/en/homelessness	RelatedTo	/c/en/homeless	1.0	0.855
+/c/en/homelessness	DerivedFrom	/c/en/homeless	1.0	0.855
+/c/en/sleepout	RelatedTo	/c/en/homelessness	1.0	0.448
+/c/en/homelessnesses	FormOf	/c/en/homelessness	1.0	1.0
+/c/en/down_and_out	RelatedTo	/c/en/homelessness	1.0	0.122
+/c/en/homelessness	Synonym	/c/en/homelessness	0.5	1.0
+/c/en/nomad	RelatedTo	/c/en/homelessness	0.1499999999999999	0.125

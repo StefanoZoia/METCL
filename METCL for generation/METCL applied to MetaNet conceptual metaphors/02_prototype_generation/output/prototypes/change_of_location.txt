@@ -1,0 +1,8 @@
+movement: 0.822
+sonata: 0.7551
+happening: 0.7488
+change: 0.738
+clock: 0.7290000000000001
+animation_in_it's_purest_form: 0.7083
+movement_or_shape_change: 0.7074
+dancing: 0.7056

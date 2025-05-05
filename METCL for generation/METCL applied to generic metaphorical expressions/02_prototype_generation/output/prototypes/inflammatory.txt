@@ -1,0 +1,2 @@
+-antiinflammatory: 0.795
+-level_headed: 0.6669

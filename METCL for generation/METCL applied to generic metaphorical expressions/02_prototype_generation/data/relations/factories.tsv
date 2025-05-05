@@ -1,0 +1,14 @@
+/c/en/manufacture	RelatedTo	/c/en/factories	1.0300000000000002	0.54
+/c/en/factories	FormOf	/c/en/factory	1.0	0.855
+/c/en/factories	CapableOf	/c/en/bag_snacks	1.0	0.052
+/c/en/hand_sanitizer	CreatedBy	/c/en/factories	1.0	0.164
+/c/en/factories	CapableOf	/c/en/produce_many_different_things	1.0	0.315
+/c/en/factories	CapableOf	/c/en/bottle_coke	1.0	0.037
+/c/en/factories	FormOf	/c/en/factory	1.0	0.855
+/c/en/factories	CapableOf	/c/en/produce_lot	1.0	0.315
+/c/en/factories	CapableOf	/c/en/produce_parts	1.0	0.315
+/c/en/factories	RelatedTo	/c/en/factory	1.0	0.855
+/c/en/buildiings	IsA	/c/en/factories	1.0	0.233
+/c/en/production	RelatedTo	/c/en/factories	0.5910000000000002	0.437
+/c/en/machine	RelatedTo	/c/en/factories	0.585	0.21
+/c/en/metal	RelatedTo	/c/en/factories	0.15799999999999992	0.023

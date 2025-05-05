@@ -1,0 +1,30 @@
+Title: argument-separation
+
+Head Concept Name: argument
+Modifier Concept Name: separation
+
+
+
+
+
+T(modifier), sorting, 0.837
+T(modifier), space, 0.827
+T(modifier), state, 0.815
+T(modifier), change, 0.794
+T(modifier), change_of_integrity, 0.794
+T(modifier), -annexation, 0.792
+T(modifier), result, 0.785
+T(modifier), group_action, 0.783
+
+T(head), evidence, 0.851
+T(head), variable, 0.826
+T(head), prove_to_valid, 0.824
+T(head), prove_point, 0.824
+T(head), summary, 0.822
+T(head), logic, 0.808
+T(head), result_in_bad_feelings, 0.795
+T(head), result_in_cruel_accusations, 0.795
+
+
+Result: {"sorting": 0.837, "space": 0.827, "state": 0.815, "evidence": 0.851, "variable": 0.826, "prove_to_valid": 0.824, "prove_point": 0.824, "summary": 0.822, "@scenario_probability": 7.35409684797694e-05}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 7.35409684797694e-05]

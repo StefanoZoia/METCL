@@ -1,0 +1,8 @@
+accomplishment: 0.795
+doling_out: 0.769
+action: 0.763
+action_performed_by_animals: 0.761
+locomotion_process: 0.755
+change_of_location: 0.748
+-come: 0.745
+spatially_localized_situation: 0.744

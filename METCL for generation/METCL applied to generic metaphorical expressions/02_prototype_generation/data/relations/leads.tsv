@@ -1,0 +1,12 @@
+/c/en/leads	FormOf	/c/en/lead	1.0	0.901
+/c/en/leads	RelatedTo	/c/en/lead	1.0	0.901
+/c/en/pecker	RelatedTo	/c/en/leads	1.0	0.007
+/c/en/lead_in	RelatedTo	/c/en/leads	1.0	0.491
+/c/en/leads	RelatedTo	/c/en/lead	1.0	0.901
+/c/en/leads	FormOf	/c/en/lead	1.0	0.901
+/c/en/leads	RelatedTo	/c/en/lead	1.0	0.901
+/c/en/leads	FormOf	/c/en/lead	1.0	0.901
+/c/en/leads	FormOf	/c/en/lead	1.0	0.901
+/c/en/leads	RelatedTo	/c/en/lead	1.0	0.901
+/c/en/leadsman	EtymologicallyRelatedTo	/c/en/leads	0.25	1.0
+/c/en/captain	RelatedTo	/c/en/leads	0.1429999999999998	0.118

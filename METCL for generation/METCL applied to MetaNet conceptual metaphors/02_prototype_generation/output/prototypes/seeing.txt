@@ -1,0 +1,8 @@
+eyes_open: 0.881
+light: 0.839
+one_of_senses: 0.836
+lot_of_background_knowledge: 0.827
+sense: 0.818
+monocle: 0.792
+-eye: 0.776
+-blind: 0.755

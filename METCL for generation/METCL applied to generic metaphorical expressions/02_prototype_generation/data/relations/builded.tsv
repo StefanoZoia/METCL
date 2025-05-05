@@ -1,0 +1,7 @@
+/c/en/builded	HasContext	/c/en/archaic	1.0	0.157
+/c/en/builded	FormOf	/c/en/build	1.0	0.747
+/c/en/built	Synonym	/c/en/builded	1.0	0.728
+/c/en/builded	FormOf	/c/en/build	1.0	0.747
+/c/en/builded	RelatedTo	/c/en/build	1.0	0.747
+/c/en/unbuilded	DerivedFrom	/c/en/builded	1.0	0.595
+/c/en/builded	HasContext	/c/en/nonstandard	1.0	0.103

@@ -1,0 +1,12 @@
+/c/en/entities	HasA	/c/en/shape	2.0	0.281
+/c/en/hybrid	RelatedTo	/c/en/entities	1.0	0.193
+/c/en/entities	FormOf	/c/en/entity	1.0	0.723
+/c/en/object_oriented	RelatedTo	/c/en/entities	1.0	0.178
+/c/en/chronic_bronchitis	RelatedTo	/c/en/entities	1.0	0.29
+/c/en/entities	RelatedTo	/c/en/entity	1.0	0.723
+/c/en/mixed_bag	RelatedTo	/c/en/entities	1.0	0.185
+/c/en/shared	RelatedTo	/c/en/entities	1.0	0.154
+/c/en/whitelist	RelatedTo	/c/en/entities	1.0	0.225
+/c/en/stichomythia	RelatedTo	/c/en/entities	1.0	0.004
+/c/en/conjugate_acid_base_pair	RelatedTo	/c/en/entities	1.0	0.015
+/c/en/packet_switching	RelatedTo	/c/en/entities	1.0	0.211

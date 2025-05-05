@@ -1,0 +1,11 @@
+/c/en/jumping_out_of_window	UsedFor	/c/en/escaping	2.82842712474619	0.15
+/c/en/running	UsedFor	/c/en/escaping	1.0	0.262
+/c/en/escaping	IsA	/c/en/departure	1.0	0.082
+/c/en/escaping	UsedFor	/c/en/avoiding_undesirable_consequences	1.0	0.519
+/c/en/escapology	RelatedTo	/c/en/escaping	1.0	0.561
+/c/en/escaping	RelatedTo	/c/en/escape	1.0	0.804
+/c/en/escaping	FormOf	/c/en/escape	1.0	0.804
+/c/en/escaping	FormOf	/c/en/escape	1.0	0.804
+/c/en/leak	RelatedTo	/c/en/escaping	0.28200000000000003	0.145
+/c/en/run	RelatedTo	/c/en/escaping	0.17700000000000005	0.109
+/c/en/gush	RelatedTo	/c/en/escaping	0.10599999999999987	0.049

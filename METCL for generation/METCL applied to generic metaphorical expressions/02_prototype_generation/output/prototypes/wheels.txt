@@ -1,0 +1,8 @@
+round: 0.887
+car: 0.886
+cars: 0.854
+wagon: 0.842
+rolling_objects: 0.831
+vehicles: 0.8
+bicycles: 0.799
+tricycle: 0.782

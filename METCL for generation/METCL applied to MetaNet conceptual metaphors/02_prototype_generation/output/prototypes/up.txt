@@ -1,0 +1,8 @@
+-down: 0.872
+opposite_of_down: 0.835
+direction: 0.827
+-same_as_down: 0.825
+-drop: 0.816
+computer: 0.811
+-downward: 0.808
+us: 0.782

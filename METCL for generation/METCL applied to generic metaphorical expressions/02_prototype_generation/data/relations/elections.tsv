@@ -1,0 +1,16 @@
+/c/en/elections	IsA	/c/en/events	2.0	0.21
+/c/en/elections	CapableOf	/c/en/divide_opinions	1.0	0.023
+/c/en/elections	CapableOf	/c/en/last_forever	1.0	0.048
+/c/en/elections	FormOf	/c/en/election	1.0	0.916
+/c/en/elections	RelatedTo	/c/en/election	1.0	0.916
+/c/en/elections	CausesDesire	/c/en/watch_evening_news	1.0	-0.005
+/c/en/vote_by_mail	RelatedTo	/c/en/elections	1.0	0.723
+/c/en/elections	HasProperty	/c/en/national_or_local	1.0	-0.025
+/c/en/throw_dirt_on	HasContext	/c/en/elections	1.0	0.005
+/c/en/elections	DefinedAs	/c/en/plural_form_of_election	1.0	-0.057
+/c/en/candidate	RelatedTo	/c/en/elections	0.685	0.529
+/c/en/vote	RelatedTo	/c/en/elections	0.39800000000000013	0.614
+/c/en/ballot	RelatedTo	/c/en/elections	0.383	0.693
+/c/en/voter	RelatedTo	/c/en/elections	0.2869999999999999	0.672
+/c/en/politician	RelatedTo	/c/en/elections	0.19200000000000017	0.396
+/c/en/political	RelatedTo	/c/en/elections	0.18400000000000016	0.382

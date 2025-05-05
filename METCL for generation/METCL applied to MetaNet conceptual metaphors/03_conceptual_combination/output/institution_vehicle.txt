@@ -1,0 +1,26 @@
+Title: institution-vehicle
+
+Head Concept Name: institution
+Modifier Concept Name: vehicle
+
+
+
+
+
+T(modifier), travel, 0.868
+T(modifier), seat_nine, 0.852
+T(modifier), conveyance, 0.845
+T(modifier), receive_damage, 0.839
+T(modifier), driving, 0.837
+T(modifier), freeway, 0.834
+T(modifier), mobility, 0.829
+T(modifier), substance, 0.822
+
+T(head), establishment, 0.878
+T(head), organization, 0.851
+T(head), custom, 0.806
+T(head), department, 0.744
+
+
+Result: {"travel": 0.868, "seat_nine": 0.852, "conveyance": 0.845, "receive_damage": 0.839, "driving": 0.837, "freeway": 0.834, "establishment": 0.878, "organization": 0.851, "@scenario_probability": 0.04133818288398817}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0.04133818288398817]

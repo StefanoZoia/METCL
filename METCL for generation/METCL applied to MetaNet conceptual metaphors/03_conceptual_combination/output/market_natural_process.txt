@@ -1,0 +1,30 @@
+Title: market-natural_process
+
+Head Concept Name: market
+Modifier Concept Name: natural_process
+
+
+
+
+
+T(modifier), process, 0.787
+T(modifier), require_tools, 0.735
+T(modifier), affect, 0.728
+T(modifier), manage, 0.728
+T(modifier), psychology, 0.722
+T(modifier), look_hung, 0.719
+T(modifier), physical_entity, 0.716
+T(modifier), body_part, 0.715
+
+T(head), trading, 0.868
+T(head), selling_food, 0.864
+T(head), selling_produce, 0.864
+T(head), buy_fresh_vegetables, 0.86
+T(head), industry, 0.855
+T(head), trade, 0.855
+T(head), sell_new_line, 0.844
+T(head), shop, 0.84
+
+
+Result: {"process": 0.787, "trading": 0.868, "selling_food": 0.864, "selling_produce": 0.864, "buy_fresh_vegetables": 0.86, "industry": 0.855, "trade": 0.855, "sell_new_line": 0.844, "@scenario_probability": 0.0005366770827147784}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.0005366770827147784]

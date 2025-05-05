@@ -1,0 +1,13 @@
+/c/en/squashy	RelatedTo	/c/en/squashed	1.0	0.316
+/c/en/squashed	RelatedTo	/c/en/squeezed	1.0	0.467
+/c/en/tomatoes	ReceivesAction	/c/en/squashed	1.0	0.221
+/c/en/squashed	RelatedTo	/c/en/squash	1.0	0.48
+/c/en/squashed	RelatedTo	/c/en/suppressed	1.0	0.441
+/c/en/unsquashed	DerivedFrom	/c/en/squashed	1.0	0.195
+/c/en/insect	NotDesires	/c/en/squashed	1.0	0.175
+/c/en/squashed	FormOf	/c/en/squash	1.0	0.48
+/c/en/squashed	RelatedTo	/c/en/silenced	1.0	0.413
+/c/en/squashed	FormOf	/c/en/squash	1.0	0.48
+/c/en/mash	RelatedTo	/c/en/squashed	0.17300000000000004	0.178
+/c/en/smash	RelatedTo	/c/en/squashed	0.12300000000000022	0.244
+/c/en/paper	RelatedTo	/c/en/squashed	0.10199999999999987	0.002

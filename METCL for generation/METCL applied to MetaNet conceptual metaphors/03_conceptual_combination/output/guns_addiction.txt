@@ -1,0 +1,30 @@
+Title: guns-addiction
+
+Head Concept Name: guns
+Modifier Concept Name: addiction
+
+
+
+
+
+T(modifier), narcotic, 0.866
+T(modifier), craving, 0.864
+T(modifier), bad, 0.831
+T(modifier), physiological_state, 0.817
+T(modifier), smoke, 0.798
+T(modifier), award, 0.793
+T(modifier), roman_law, 0.79
+T(modifier), smoking, 0.766
+
+T(head), firearm_shoots_bullets, 0.838
+T(head), shooting_things, 0.824
+T(head), shoot, 0.814
+T(head), weapon, 0.813
+T(head), shot, 0.807
+T(head), gun_shop, 0.805
+T(head), holster, 0.8
+T(head), shoot_bullets, 0.795
+
+
+Result: {"narcotic": 0.866, "craving": 0.864, "bad": 0.831, "physiological_state": 0.817, "firearm_shoots_bullets": 0.838, "shooting_things": 0.824, "shoot": 0.814, "weapon": 0.813, "@scenario_probability": 7.359927558997209e-05}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 7.359927558997209e-05]

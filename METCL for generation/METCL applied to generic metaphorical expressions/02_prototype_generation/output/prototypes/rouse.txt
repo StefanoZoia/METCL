@@ -1,0 +1,6 @@
+slang: 0.76
+when_followed_by_on: 0.752
+military: 0.74
+canada: 0.735
+nautical: 0.731
+british: 0.726

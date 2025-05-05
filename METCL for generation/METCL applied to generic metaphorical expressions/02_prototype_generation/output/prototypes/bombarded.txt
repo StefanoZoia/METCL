@@ -1,0 +1,5 @@
+attack: 0.7812
+irradiate: 0.7497
+bomb: 0.7461
+physics: 0.7290000000000001
+music: 0.6732

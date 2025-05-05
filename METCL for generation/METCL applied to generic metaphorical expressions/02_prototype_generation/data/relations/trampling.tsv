@@ -1,0 +1,8 @@
+/c/en/trampling	Synonym	/c/en/trample	2.0	0.84
+/c/en/trampling	IsA	/c/en/getting_hurt	1.0	0.067
+/c/en/trampling	FormOf	/c/en/trample	1.0	0.84
+/c/en/trampling	RelatedTo	/c/en/trample	1.0	0.84
+/c/en/tramplings	FormOf	/c/en/trampling	1.0	1.0
+/c/en/trample	RelatedTo	/c/en/trampling	1.0	0.84
+/c/en/tramplingly	DerivedFrom	/c/en/trampling	1.0	1.0
+/c/en/trampling	Causes	/c/en/destroying_sensitive_vegetation	1.0	0.402

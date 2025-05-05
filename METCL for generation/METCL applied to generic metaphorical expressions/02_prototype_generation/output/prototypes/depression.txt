@@ -1,0 +1,8 @@
+depressing: 0.922
+treatable: 0.87
+sadness: 0.863
+lead_person_to_attempt_suicide: 0.86
+crisis: 0.854
+suicide: 0.846
+mental_illness: 0.846
+concave_shape: 0.826

@@ -1,0 +1,8 @@
+/c/en/mountain	RelatedTo	/c/en/peaks	2.41909073827337	0.668
+/c/en/peaks	FormOf	/c/en/peak	2.0	0.891
+/c/en/col	RelatedTo	/c/en/peaks	1.0	0.295
+/c/en/peaks	RelatedTo	/c/en/peak	1.0	0.891
+/c/en/peaks	FormOf	/c/en/peak	1.0	0.891
+/c/en/peaks	FormOf	/c/en/peak	1.0	0.891
+/c/en/both_tents_and_mountains	HasA	/c/en/peaks	1.0	0.035
+/c/en/peaks	RelatedTo	/c/en/peak	1.0	0.891

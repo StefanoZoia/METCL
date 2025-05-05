@@ -1,0 +1,8 @@
+temperature_unit: 0.84
+university: 0.825
+sextant: 0.811
+state: 0.806
+credential: 0.806
+property: 0.802
+raising_one's_salary: 0.795
+exponent: 0.792

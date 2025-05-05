@@ -1,0 +1,30 @@
+Title: gun_control-insanity
+
+Head Concept Name: gun_control
+Modifier Concept Name: insanity
+
+
+
+
+
+T(modifier), mental_illness, 0.877
+T(modifier), -sanity, 0.847
+T(modifier), advance_into_battle, 0.776
+T(modifier), -equilibrium, 0.771
+T(modifier), wage_war, 0.744
+T(modifier), kill_people, 0.743
+T(modifier), kill, 0.74
+T(modifier), run_in_marathon, 0.729
+
+T(head), regulation, 0.866
+T(head), rule, 0.795
+T(head), control, 0.751
+T(head), dominance, 0.746
+T(head), embryology, 0.741
+T(head), organic_process, 0.72
+T(head), genetics, 0.696
+T(head), european_union_law, 0.692
+
+
+Result: {"mental_illness": 0.877, "-sanity": 0.847, "advance_into_battle": 0.776, "-equilibrium": 0.771, "regulation": 0.866, "rule": 0.795, "control": 0.751, "dominance": 0.746, "@scenario_probability": 0.0005395860474078918}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.0005395860474078918]

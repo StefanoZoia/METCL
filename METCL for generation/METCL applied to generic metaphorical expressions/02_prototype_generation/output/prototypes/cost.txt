@@ -1,0 +1,8 @@
+outgo: 0.866
+necessitate: 0.828
+be: 0.823
+-free: 0.778
+heraldry: 0.762
+-benefit: 0.754
+-revenue: 0.749
+-markup: 0.745

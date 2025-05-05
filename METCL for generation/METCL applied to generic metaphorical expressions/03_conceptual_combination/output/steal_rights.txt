@@ -1,0 +1,30 @@
+Title: steal-rights
+
+Head Concept Name: steal
+Modifier Concept Name: rights
+
+
+
+
+
+T(modifier), opposite_of_left, 0.77
+T(modifier), right_wrong, 0.769
+T(modifier), -left, 0.764
+T(modifier), entering_into_contract, 0.761
+T(modifier), -wrong, 0.754
+T(modifier), hand, 0.751
+T(modifier), common, 0.748
+T(modifier), turn, 0.747
+
+T(head), have_no_money, 0.839
+T(head), gain, 0.825
+T(head), take, 0.819
+T(head), move, 0.81
+T(head), baseball, 0.804
+T(head), want_money, 0.804
+T(head), midgets, 0.79
+T(head), get, 0.779
+
+
+Result: {"opposite_of_left": 0.77, "have_no_money": 0.839, "gain": 0.825, "take": 0.819, "move": 0.81, "baseball": 0.804, "want_money": 0.804, "midgets": 0.79, "@scenario_probability": 0.00020304131507260266}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.00020304131507260266]

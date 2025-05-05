@@ -1,0 +1,30 @@
+Title: activity-heat
+
+Head Concept Name: activity
+Modifier Concept Name: heat
+
+
+
+
+
+T(modifier), form_of_energy, 0.911
+T(modifier), temperature, 0.884
+T(modifier), oven, 0.864
+T(modifier), -cold, 0.861
+T(modifier), heater, 0.845
+T(modifier), cooking, 0.842
+T(modifier), energy, 0.836
+T(modifier), emotionality, 0.821
+
+T(head), action, 0.858
+T(head), energy, 0.853
+T(head), capability, 0.829
+T(head), -inactivity, 0.826
+T(head), act, 0.82
+T(head), chemistry, 0.797
+T(head), -passivity, 0.79
+T(head), do, 0.777
+
+
+Result: {"form_of_energy": 0.911, "temperature": 0.884, "oven": 0.864, "-cold": 0.861, "heater": 0.845, "cooking": 0.842, "action": 0.858, "energy": 0.853, "@scenario_probability": 4.662593929220751e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 4.662593929220751e-05]

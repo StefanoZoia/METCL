@@ -1,0 +1,30 @@
+Title: understanding-digestion
+
+Head Concept Name: understanding
+Modifier Concept Name: digestion
+
+
+
+
+
+T(modifier), destroy_evidence, 0.848
+T(modifier), chemical_process, 0.834
+T(modifier), improved_if_masticate_food, 0.818
+T(modifier), learning, 0.812
+T(modifier), organic_process, 0.799
+T(modifier), intestine, 0.79
+T(modifier), eating, 0.755
+T(modifier), medicine, 0.751
+
+T(head), knowing, 0.879
+T(head), analysing, 0.824
+T(head), -misunderstanding, 0.809
+T(head), mental_illness, 0.808
+T(head), thinking, 0.801
+T(head), come_in_sudden_flashes, 0.8
+T(head), bridge_cultural_differences, 0.789
+T(head), bridge_cultures, 0.789
+
+
+Result: {"destroy_evidence": 0.848, "chemical_process": 0.834, "improved_if_masticate_food": 0.818, "learning": 0.812, "knowing": 0.879, "analysing": 0.824, "-misunderstanding": 0.809, "mental_illness": 0.808, "@scenario_probability": 0.00010147895147417951}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.00010147895147417951]

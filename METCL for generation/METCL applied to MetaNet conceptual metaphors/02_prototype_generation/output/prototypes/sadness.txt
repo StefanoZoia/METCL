@@ -1,0 +1,8 @@
+unhappiness: 0.905
+emotion: 0.884
+feeling: 0.856
+-mirth: 0.853
+emotional_and_physical_pain: 0.842
+uncomfortable: 0.837
+-happiness: 0.823
+-joy: 0.821

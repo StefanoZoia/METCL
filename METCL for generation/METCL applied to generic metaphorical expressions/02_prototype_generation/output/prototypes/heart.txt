@@ -1,0 +1,8 @@
+circulatory_system: 0.883
+beat: 0.881
+love: 0.879
+pumping_blood: 0.869
+internal_organ: 0.863
+pumps_blood_around_body_by_contracton_and_relaxation_of_muscles: 0.861
+staying_alive: 0.857
+blood: 0.857

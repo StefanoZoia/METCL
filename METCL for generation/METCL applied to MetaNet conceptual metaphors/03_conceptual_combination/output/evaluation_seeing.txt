@@ -1,0 +1,30 @@
+Title: evaluation-seeing
+
+Head Concept Name: evaluation
+Modifier Concept Name: seeing
+
+
+
+
+
+T(modifier), eyes_open, 0.881
+T(modifier), light, 0.839
+T(modifier), one_of_senses, 0.836
+T(modifier), lot_of_background_knowledge, 0.827
+T(modifier), sense, 0.818
+T(modifier), monocle, 0.792
+T(modifier), -eye, 0.776
+T(modifier), -blind, 0.755
+
+T(head), appraisal, 0.914
+T(head), judgment, 0.854
+T(head), computing, 0.756
+T(head), programming, 0.752
+T(head), judging, 0.751
+T(head), mathematics, 0.735
+T(head), taking_care_of_proposals, 0.673
+T(head), handling_proposals, 0.662
+
+
+Result: {"eyes_open": 0.881, "light": 0.839, "one_of_senses": 0.836, "lot_of_background_knowledge": 0.827, "sense": 0.818, "monocle": 0.792, "appraisal": 0.914, "judgment": 0.854, "@scenario_probability": 0.0006258892491133977}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.0006258892491133977]

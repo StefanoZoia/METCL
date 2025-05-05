@@ -1,0 +1,5 @@
+blessing: 0.827
+proceeding: 0.825
+law: 0.816
+computing: 0.774
+theology: 0.725

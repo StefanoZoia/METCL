@@ -1,0 +1,13 @@
+/c/en/walked	FormOf	/c/en/walk	1.0	0.748
+/c/en/unwalked	DerivedFrom	/c/en/walked	1.0	0.128
+/c/en/dog	Desires	/c/en/walked	1.0	0.165
+/c/en/sleptwalked	DerivedFrom	/c/en/walked	1.0	0.314
+/c/en/walked	FormOf	/c/en/walk	1.0	0.748
+/c/en/untrod	RelatedTo	/c/en/walked	1.0	0.232
+/c/en/walkable	RelatedTo	/c/en/walked	1.0	0.48
+/c/en/walked	RelatedTo	/c/en/walk	1.0	0.748
+/c/en/floor	RelatedTo	/c/en/walked	0.6459999999999999	0.18
+/c/en/grass	RelatedTo	/c/en/walked	0.40600000000000014	0.087
+/c/en/ground	RelatedTo	/c/en/walked	0.39700000000000024	0.094
+/c/en/step	RelatedTo	/c/en/walked	0.22299999999999986	0.368
+/c/en/leg	RelatedTo	/c/en/walked	0.10199999999999987	0.148

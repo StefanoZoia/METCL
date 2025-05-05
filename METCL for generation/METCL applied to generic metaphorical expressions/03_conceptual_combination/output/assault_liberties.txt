@@ -1,0 +1,27 @@
+Title: assault-liberties
+
+Head Concept Name: assault
+Modifier Concept Name: liberties
+
+
+
+
+
+T(modifier), matter_more_than_life, 0.719
+T(modifier), -tyranny, 0.69
+T(modifier), -slavery, 0.67
+T(modifier), rocket, 0.669
+T(modifier), -bondage, 0.621
+
+T(head), attack, 0.907
+T(head), battle, 0.837
+T(head), military, 0.823
+T(head), tort, 0.797
+T(head), crime, 0.775
+T(head), criminal, 0.772
+T(head), fencing, 0.748
+T(head), legal, 0.746
+
+
+Result: {"matter_more_than_life": 0.719, "attack": 0.907, "battle": 0.837, "military": 0.823, "tort": 0.797, "crime": 0.775, "criminal": 0.772, "fencing": 0.748, "@scenario_probability": 0.05222962970719706}
+Scenario: [1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.05222962970719706]

@@ -1,0 +1,2 @@
+/c/en/traveling	HasPrerequisite	/c/en/mode_of_transportation	2.82842712474619	-0.047
+/c/en/boat	IsA	/c/en/mode_of_transportation	1.0	-0.001

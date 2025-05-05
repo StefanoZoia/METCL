@@ -1,0 +1,8 @@
+attendance: 0.849
+arrival: 0.836
+pretense: 0.832
+representation: 0.826
+happening: 0.818
+quality: 0.816
+-disappearance: 0.811
+philosophy: 0.755

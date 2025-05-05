@@ -1,0 +1,8 @@
+-in: 0.85
+-into: 0.83
+baseball: 0.821
+disclose: 0.808
+failure: 0.782
+-closeted: 0.764
+-inside: 0.764
+nonstandard: 0.755

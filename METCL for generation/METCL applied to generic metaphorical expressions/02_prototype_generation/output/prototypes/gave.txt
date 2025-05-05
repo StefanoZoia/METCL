@@ -1,0 +1,8 @@
+offer: 0.7812
+-take: 0.7713
+make: 0.7569
+have: 0.7515
+pass: 0.7479
+submit: 0.7479
+administer: 0.7415999999999999
+distribute: 0.7407

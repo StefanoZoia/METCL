@@ -1,0 +1,8 @@
+resource: 0.881
+asset: 0.7668
+assets: 0.7542
+inventiveness: 0.7415999999999999
+tangible_thing: 0.7002
+localized_spatial_thing: 0.6831
+group_of_things: 0.6633
+album: 0.6453

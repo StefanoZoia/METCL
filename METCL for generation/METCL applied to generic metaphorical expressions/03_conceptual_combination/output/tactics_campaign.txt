@@ -1,0 +1,29 @@
+Title: tactics-campaign
+
+Head Concept Name: tactics
+Modifier Concept Name: campaign
+
+
+
+
+
+T(modifier), war, 0.887
+T(modifier), expedition, 0.868
+T(modifier), operation, 0.845
+T(modifier), race, 0.833
+T(modifier), venture, 0.829
+T(modifier), raise_awareness_about_issue, 0.821
+T(modifier), africa, 0.803
+T(modifier), project, 0.801
+
+T(head), military, 0.823
+T(head), military_science, 0.799
+T(head), company, 0.726
+T(head), manga, 0.719
+T(head), japan, 0.707
+T(head), playing_game, 0.691
+T(head), visual_novel, 0.691
+
+
+Result: {"war": 0.887, "expedition": 0.868, "operation": 0.845, "race": 0.833, "venture": 0.829, "raise_awareness_about_issue": 0.821, "africa": 0.803, "military": 0.823, "@scenario_probability": 0.0021001422851377356}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0.0021001422851377356]

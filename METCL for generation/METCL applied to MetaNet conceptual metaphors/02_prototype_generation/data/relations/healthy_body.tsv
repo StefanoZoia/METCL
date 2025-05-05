@@ -1,0 +1,6 @@
+/c/en/getting_exercise	UsedFor	/c/en/healthy_body	1.0	0.221
+/c/en/skiing	Causes	/c/en/healthy_body	1.0	0.1
+/c/en/healthy_body	CausesDesire	/c/en/exercise	1.0	0.51
+/c/en/healthy_body	HasProperty	/c/en/less_likely_to_develop_illness	1.0	0.013
+/c/en/most_of_fruits	UsedFor	/c/en/healthy_body	1.0	-0.033
+/c/en/playing_sports	HasPrerequisite	/c/en/healthy_body	1.0	0.086

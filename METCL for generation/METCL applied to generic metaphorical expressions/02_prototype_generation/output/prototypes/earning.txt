@@ -1,0 +1,6 @@
+get: 0.7749
+-spend: 0.6813
+-pay: 0.6786
+dialect: 0.6741
+get_paid: 0.6111000000000001
+get_contract: 0.5796

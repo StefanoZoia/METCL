@@ -1,0 +1,8 @@
+mental_illness: 0.877
+-sanity: 0.847
+advance_into_battle: 0.776
+-equilibrium: 0.771
+wage_war: 0.744
+kill_people: 0.743
+kill: 0.74
+run_in_marathon: 0.729

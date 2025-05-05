@@ -1,0 +1,8 @@
+adjust: 0.828
+ill_nature: 0.824
+feeling: 0.816
+elasticity: 0.816
+modify: 0.815
+-calm: 0.763
+sugar_manufacture: 0.76
+becoming: 0.76

@@ -1,0 +1,8 @@
+ocean: 0.841
+rise: 0.831
+curve: 0.826
+movement: 0.824
+motion: 0.818
+weather: 0.813
+flags: 0.804
+dress: 0.799

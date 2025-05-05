@@ -1,0 +1,8 @@
+homicide: 0.891
+murder: 0.89
+inevitable: 0.887
+suicide: 0.886
+tragic: 0.872
+dying_of_blo: 0.857
+cyanide: 0.853
+rebirth: 0.844

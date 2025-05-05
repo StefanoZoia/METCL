@@ -1,0 +1,27 @@
+Title: gun_control-zealotry
+
+Head Concept Name: gun_control
+Modifier Concept Name: zealotry
+
+
+
+
+
+T(modifier), ardor, 0.83
+T(modifier), intolerance, 0.783
+T(modifier), israelite, 0.738
+T(modifier), -apathy, 0.711
+T(modifier), historical, 0.664
+
+T(head), regulation, 0.866
+T(head), rule, 0.795
+T(head), control, 0.751
+T(head), dominance, 0.746
+T(head), embryology, 0.741
+T(head), organic_process, 0.72
+T(head), genetics, 0.696
+T(head), european_union_law, 0.692
+
+
+Result: {"ardor": 0.83, "intolerance": 0.783, "israelite": 0.738, "regulation": 0.866, "rule": 0.795, "control": 0.751, "dominance": 0.746, "embryology": 0.741, "@scenario_probability": 0.03489776879152671}
+Scenario: [1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.03489776879152671]

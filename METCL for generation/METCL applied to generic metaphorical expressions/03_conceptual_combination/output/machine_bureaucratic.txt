@@ -1,0 +1,30 @@
+Title: machine-bureaucratic
+
+Head Concept Name: machine
+Modifier Concept Name: bureaucratic
+
+
+
+
+
+T(modifier), government, 0.779
+T(modifier), official, 0.773
+T(modifier), bureaucrats, 0.768
+T(modifier), government_officials, 0.751
+T(modifier), organization, 0.733
+T(modifier), administrator, 0.724
+T(modifier), system_of_running_bureaus, 0.705
+T(modifier), organizational_theory, 0.686
+
+T(head), wash_dishes, 0.908
+T(head), wash_clothes, 0.908
+T(head), wash_car, 0.908
+T(head), wash_dirty_clothes, 0.908
+T(head), vacuum, 0.878
+T(head), dispense_snacks, 0.878
+T(head), dispense_popcorn, 0.878
+T(head), dispense_cigarettes, 0.878
+
+
+Result: {"government": 0.779, "wash_dishes": 0.908, "wash_clothes": 0.908, "wash_car": 0.908, "wash_dirty_clothes": 0.908, "dispense_snacks": 0.878, "dispense_popcorn": 0.878, "dispense_cigarettes": 0.878, "@scenario_probability": 0.0003913897310389102}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 1, 1, 1, 0.0003913897310389102]

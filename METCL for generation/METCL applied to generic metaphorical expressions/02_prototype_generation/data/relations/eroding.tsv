@@ -1,0 +1,6 @@
+/c/en/eroding	Synonym	/c/en/erosion	2.0	0.743
+/c/en/public_domain	IsA	/c/en/eroding	1.0	0.02
+/c/en/eroding	RelatedTo	/c/en/erode	1.0	0.804
+/c/en/wearing	RelatedTo	/c/en/eroding	1.0	0.238
+/c/en/eroding	FormOf	/c/en/erode	1.0	0.804
+/c/en/noneroding	DerivedFrom	/c/en/eroding	1.0	-0.008

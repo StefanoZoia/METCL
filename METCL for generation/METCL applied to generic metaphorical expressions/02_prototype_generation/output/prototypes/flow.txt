@@ -1,0 +1,8 @@
+flood: 0.85
+-ebb: 0.84
+motion: 0.819
+rate: 0.813
+exist: 0.811
+change_of_location: 0.808
+move: 0.808
+run: 0.805

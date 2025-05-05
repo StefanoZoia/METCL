@@ -1,0 +1,26 @@
+Title: obstruct-bill
+
+Head Concept Name: obstruct
+Modifier Concept Name: bill
+
+
+
+
+
+T(modifier), -wanted, 0.864
+T(modifier), birds_to_eat_with, 0.86
+T(modifier), congress, 0.851
+T(modifier), wallet, 0.829
+T(modifier), singing_in_choir, 0.825
+T(modifier), pay_on_time, 0.822
+T(modifier), legal_document, 0.816
+T(modifier), brim, 0.816
+
+T(head), impede, 0.92
+T(head), prevent, 0.867
+T(head), hide, 0.817
+T(head), curtain, 0.759
+
+
+Result: {"-wanted": 0.864, "birds_to_eat_with": 0.86, "congress": 0.851, "wallet": 0.829, "singing_in_choir": 0.825, "pay_on_time": 0.822, "impede": 0.92, "prevent": 0.867, "@scenario_probability": 0.04233823543270463}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0.04233823543270463]

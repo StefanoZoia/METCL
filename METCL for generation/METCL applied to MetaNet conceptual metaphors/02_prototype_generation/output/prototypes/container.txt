@@ -1,0 +1,8 @@
+container_garden: 0.894
+containing: 0.877
+holding: 0.867
+storing_goods: 0.846
+cupboard: 0.841
+refrigerator: 0.838
+pantry: 0.835
+store_many_different_items: 0.833

@@ -1,0 +1,9 @@
+/c/en/reactance	RelatedTo	/c/en/regulations	1.0	0.019
+/c/en/regulations	FormOf	/c/en/regulation	1.0	0.773
+/c/en/standardise	RelatedTo	/c/en/regulations	1.0	0.309
+/c/en/nonconforming	RelatedTo	/c/en/regulations	1.0	0.323
+/c/en/grievance	RelatedTo	/c/en/regulations	1.0	0.084
+/c/en/security	RelatedTo	/c/en/regulations	1.0	0.091
+/c/en/clandestinely	RelatedTo	/c/en/regulations	1.0	-0.028
+/c/en/rule	RelatedTo	/c/en/regulations	0.8319999999999999	0.621
+/c/en/plan	RelatedTo	/c/en/regulations	0.1549999999999998	0.117

@@ -1,0 +1,8 @@
+duty: 0.851
+indirect_tax: 0.7866
+practice: 0.7461
+work: 0.7434
+social_control: 0.7272000000000001
+-duty_free: 0.7209000000000001
+trade: 0.7200000000000001
+survival: 0.7182000000000001

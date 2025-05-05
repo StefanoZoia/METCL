@@ -1,0 +1,30 @@
+Title: full-morning
+
+Head Concept Name: full
+Modifier Concept Name: morning
+
+
+
+
+
+T(modifier), -afternoon, 0.889
+T(modifier), -night, 0.88
+T(modifier), -evening, 0.85
+T(modifier), time_period, 0.824
+T(modifier), -nighttime, 0.797
+T(modifier), -late, 0.793
+T(modifier), early_morning_hour, 0.792
+T(modifier), -dusk, 0.788
+
+T(head), -empty, 0.829
+T(head), -partial, 0.82
+T(head), postnominal, 0.81
+T(head), change, 0.793
+T(head), beat, 0.78
+T(head), -bare, 0.772
+T(head), poker, 0.767
+T(head), freestyle_skiing, 0.766
+
+
+Result: {"-afternoon": 0.889, "-night": 0.88, "-evening": 0.85, "time_period": 0.824, "-nighttime": 0.797, "-empty": 0.829, "-partial": 0.82, "postnominal": 0.81, "@scenario_probability": 0.0001242543170947767}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0.0001242543170947767]

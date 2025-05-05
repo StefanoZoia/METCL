@@ -1,0 +1,8 @@
+pay_attention: 0.945
+pay_attention_to_person_speaking: 0.914
+shutup: 0.909
+shut_up: 0.897
+stop_talking: 0.89
+hear_carefully: 0.889
+hear_sound: 0.889
+concentrate: 0.888

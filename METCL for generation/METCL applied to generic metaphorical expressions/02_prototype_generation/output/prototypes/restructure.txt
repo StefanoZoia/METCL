@@ -1,0 +1,2 @@
+structure: 0.86
+finance: 0.788

@@ -1,0 +1,6 @@
+/c/en/inflaming	Synonym	/c/en/inflammation	2.0	0.485
+/c/en/inflammatory	Synonym	/c/en/inflaming	1.0	0.54
+/c/en/inflamingly	RelatedTo	/c/en/inflaming	1.0	1.0
+/c/en/inflaming	FormOf	/c/en/inflame	1.0	0.737
+/c/en/inflamingly	DerivedFrom	/c/en/inflaming	1.0	1.0
+/c/en/inflaming	RelatedTo	/c/en/inflame	1.0	0.737

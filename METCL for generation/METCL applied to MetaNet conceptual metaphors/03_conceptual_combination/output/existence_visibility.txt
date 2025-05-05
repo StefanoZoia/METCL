@@ -1,0 +1,28 @@
+Title: existence-visibility
+
+Head Concept Name: existence
+Modifier Concept Name: visibility
+
+
+
+
+
+T(modifier), -invisibility, 0.864
+T(modifier), clearness, 0.855
+T(modifier), salience, 0.845
+T(modifier), perceptibility, 0.835
+T(modifier), -hiddenness, 0.808
+T(modifier), -latency, 0.796
+T(modifier), weather_quantity, 0.767
+T(modifier), programming, 0.764
+
+T(head), -inexistence, 0.869
+T(head), -nonexistence, 0.859
+T(head), awful_or_absurd, 0.825
+T(head), -nothingness, 0.804
+T(head), -defunction, 0.794
+T(head), -absence, 0.791
+
+
+Result: {"-invisibility": 0.864, "clearness": 0.855, "salience": 0.845, "perceptibility": 0.835, "-hiddenness": 0.808, "-inexistence": 0.869, "-nonexistence": 0.859, "awful_or_absurd": 0.825, "@scenario_probability": 0.0024550987235460856}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0.0024550987235460856]

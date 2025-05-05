@@ -1,0 +1,2 @@
+/c/en/nutritious_food	HasProperty	/c/en/important_for_strong_bodies	1.0	0.04
+/c/en/raw_fish	IsA	/c/en/nutritious_food	1.0	0.156

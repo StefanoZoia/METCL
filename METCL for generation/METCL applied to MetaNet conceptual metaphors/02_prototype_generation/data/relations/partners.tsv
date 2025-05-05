@@ -1,0 +1,7 @@
+/c/en/husbands_and_wives	IsA	/c/en/partners	1.0	0.3
+/c/en/partners	FormOf	/c/en/partner	1.0	0.905
+/c/en/partners	FormOf	/c/en/partner	1.0	0.905
+/c/en/terry_and_anne	IsA	/c/en/partners	1.0	-0.091
+/c/en/partners	RelatedTo	/c/en/partner	1.0	0.905
+/c/en/partners	RelatedTo	/c/en/partner	1.0	0.905
+/c/en/dance	RelatedTo	/c/en/partners	0.5779999999999998	0.111

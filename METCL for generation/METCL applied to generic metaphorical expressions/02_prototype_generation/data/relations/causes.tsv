@@ -1,0 +1,13 @@
+/c/en/misjoinder	RelatedTo	/c/en/causes	1.0	0.017
+/c/en/causes	FormOf	/c/en/cause	1.0	0.803
+/c/en/barbarisation	RelatedTo	/c/en/causes	1.0	-0.115
+/c/en/causes	RelatedTo	/c/en/cause	1.0	0.803
+/c/en/causes	FormOf	/c/en/cause	1.0	0.803
+/c/en/multicausative	RelatedTo	/c/en/causes	1.0	-0.024
+/c/en/rebarbarization	RelatedTo	/c/en/causes	1.0	-0.041
+/c/en/climatology	RelatedTo	/c/en/causes	1.0	0.121
+/c/en/causes	RelatedTo	/c/en/cause	1.0	0.803
+/c/en/first_cause	RelatedTo	/c/en/causes	1.0	-0.028
+/c/en/bacteria	RelatedTo	/c/en/causes	0.17799999999999994	0.079
+/c/en/disease	RelatedTo	/c/en/causes	0.13200000000000012	0.233
+/c/en/problem	RelatedTo	/c/en/causes	0.10999999999999988	0.182

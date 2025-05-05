@@ -1,0 +1,4 @@
+treatment: 0.759
+event_involving_physical_contact: 0.754
+archaic: 0.738
+action_performed_by_animals: 0.731

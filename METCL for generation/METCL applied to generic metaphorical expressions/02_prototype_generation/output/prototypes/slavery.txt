@@ -1,0 +1,8 @@
+bad: 0.889
+considered_by_to_immoral: 0.824
+labor: 0.804
+practice: 0.799
+-freedom: 0.778
+coercion_and_immoral: 0.754
+coercion: 0.754
+-liberty: 0.745

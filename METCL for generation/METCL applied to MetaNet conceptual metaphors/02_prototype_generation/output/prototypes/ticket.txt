@@ -1,0 +1,8 @@
+speeding: 0.903
+going_places: 0.895
+ticket_booth: 0.885
+ticket_dispenser: 0.885
+admission_to_movie_event: 0.867
+riding_train: 0.855
+ticket_window: 0.846
+entry_to_venue: 0.838

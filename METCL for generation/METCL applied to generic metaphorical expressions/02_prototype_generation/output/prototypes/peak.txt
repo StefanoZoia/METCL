@@ -1,0 +1,7 @@
+top_of_mountain: 0.819
+topographic_point: 0.818
+ski_area: 0.813
+mle: 0.767
+geography: 0.746
+nautical: 0.742
+mathematics: 0.722

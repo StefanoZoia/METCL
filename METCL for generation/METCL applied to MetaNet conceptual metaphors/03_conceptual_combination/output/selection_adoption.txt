@@ -1,0 +1,21 @@
+Title: selection-adoption
+
+Head Concept Name: selection
+Modifier Concept Name: adoption
+
+
+
+
+
+T(modifier), blessing, 0.827
+T(modifier), proceeding, 0.825
+T(modifier), law, 0.816
+T(modifier), computing, 0.774
+T(modifier), theology, 0.725
+
+T(head), assortment, 0.883
+T(head), databases, 0.761
+
+
+Result: {"blessing": 0.827, "proceeding": 0.825, "law": 0.816, "computing": 0.774, "theology": 0.725, "assortment": 0.883, "@scenario_probability": 6.593062437880181}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 6.593062437880181]

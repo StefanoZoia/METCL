@@ -1,0 +1,30 @@
+Title: social_class-scale
+
+Head Concept Name: social_class
+Modifier Concept Name: scale
+
+
+
+
+
+T(modifier), measuring_weight, 0.899
+T(modifier), measure_weight, 0.891
+T(modifier), size, 0.868
+T(modifier), weighing_people, 0.863
+T(modifier), weighing, 0.863
+T(modifier), weighing_purchases, 0.863
+T(modifier), weighing_trucks, 0.863
+T(modifier), weighing_objects, 0.863
+
+T(head), -antisocial, 0.795
+T(head), social_occasion, 0.79
+T(head), -asocial, 0.773
+T(head), -unsocial, 0.768
+T(head), school, 0.759
+T(head), animal, 0.742
+T(head), sociology, 0.739
+T(head), learning, 0.735
+
+
+Result: {"measuring_weight": 0.899, "measure_weight": 0.891, "size": 0.868, "weighing": 0.863, "weighing_purchases": 0.863, "weighing_trucks": 0.863, "weighing_objects": 0.863, "-antisocial": 0.795, "@scenario_probability": 0.0001997764383817748}
+Scenario: [1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0.0001997764383817748]

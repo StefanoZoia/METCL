@@ -1,0 +1,30 @@
+Title: problem-fluid
+
+Head Concept Name: problem
+Modifier Concept Name: fluid
+
+
+
+
+
+T(modifier), gas_or_liquid, 0.844
+T(modifier), container, 0.837
+T(modifier), substance, 0.835
+T(modifier), typically_in_plural, 0.746
+T(modifier), specifically, 0.746
+T(modifier), medicine, 0.744
+T(modifier), urinating, 0.729
+T(modifier), drinks, 0.715
+
+T(head), president_bush, 0.91
+T(head), quandry, 0.896
+T(head), difficulty, 0.884
+T(head), question, 0.863
+T(head), slow_work, 0.847
+T(head), -solution, 0.834
+T(head), -answer, 0.768
+T(head), cogitate, 0.763
+
+
+Result: {"gas_or_liquid": 0.844, "container": 0.837, "substance": 0.835, "president_bush": 0.91, "quandry": 0.896, "difficulty": 0.884, "question": 0.863, "slow_work": 0.847, "@scenario_probability": 0.00036183970571087014}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.00036183970571087014]

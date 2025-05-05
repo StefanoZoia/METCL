@@ -1,0 +1,24 @@
+Title: understanding-grasping
+
+Head Concept Name: understanding
+Modifier Concept Name: grasping
+
+
+
+
+
+T(modifier), understanding, 0.854
+T(modifier), control, 0.823
+
+T(head), knowing, 0.879
+T(head), analysing, 0.824
+T(head), -misunderstanding, 0.809
+T(head), mental_illness, 0.808
+T(head), thinking, 0.801
+T(head), come_in_sudden_flashes, 0.8
+T(head), bridge_cultural_differences, 0.789
+T(head), bridge_cultures, 0.789
+
+
+Result: {"understanding": 0.854, "control": 0.823, "knowing": 0.879, "analysing": 0.824, "-misunderstanding": 0.809, "mental_illness": 0.808, "thinking": 0.801, "come_in_sudden_flashes": 0.8, "@scenario_probability": 0.949338488809649}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0.949338488809649]

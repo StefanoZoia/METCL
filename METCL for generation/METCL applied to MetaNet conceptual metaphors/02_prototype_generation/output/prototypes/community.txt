@@ -1,0 +1,8 @@
+value_good_morals: 0.851
+broken: 0.845
+judge_leader: 0.843
+trade_services_for_money: 0.839
+commit_genocide: 0.838
+church: 0.837
+people: 0.832
+group: 0.832

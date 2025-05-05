@@ -1,0 +1,8 @@
+/c/en/carouser	Synonym	/c/en/wassailer	2.0	0.223
+/c/en/carouser	Synonym	/c/en/guzzler	1.0	0.076
+/c/en/carouser	RelatedTo	/c/en/carouse	1.0	0.656
+/c/en/carouser	DerivedFrom	/c/en/carouse	1.0	0.656
+/c/en/carouser	RelatedTo	/c/en/reveller	1.0	0.254
+/c/en/guzzler	Synonym	/c/en/carouser	1.0	0.076
+/c/en/carousers	RelatedTo	/c/en/carouser	1.0	1.0
+/c/en/carousers	FormOf	/c/en/carouser	1.0	1.0

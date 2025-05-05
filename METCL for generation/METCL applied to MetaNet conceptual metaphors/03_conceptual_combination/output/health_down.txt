@@ -1,0 +1,30 @@
+Title: health-down
+
+Head Concept Name: health
+Modifier Concept Name: down
+
+
+
+
+
+T(modifier), -up, 0.872
+T(modifier), direction, 0.822
+T(modifier), strike, 0.82
+T(modifier), turn, 0.812
+T(modifier), highland, 0.806
+T(modifier), -upward, 0.802
+T(modifier), -across, 0.802
+T(modifier), hair, 0.799
+
+T(head), wellbeing, 0.903
+T(head), condition, 0.839
+T(head), good, 0.835
+T(head), important, 0.825
+T(head), eating_vegetables, 0.824
+T(head), eating_apple, 0.824
+T(head), -sickness, 0.809
+T(head), everyone, 0.801
+
+
+Result: {"-up": 0.872, "direction": 0.822, "wellbeing": 0.903, "condition": 0.839, "good": 0.835, "important": 0.825, "eating_vegetables": 0.824, "eating_apple": 0.824, "@scenario_probability": 4.994336807931273e-05}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 4.994336807931273e-05]

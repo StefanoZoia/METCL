@@ -1,0 +1,8 @@
+/c/en/find_lost_item	HasPrerequisite	/c/en/looking_for	3.4641016151377544	0.461
+/c/en/looking_for	Synonym	/c/en/looking	2.0	0.686
+/c/en/looking_for	FormOf	/c/en/look_for	1.0	0.825
+/c/en/finding_lost_item	HasPrerequisite	/c/en/looking_for	1.0	0.309
+/c/en/getting	HasSubevent	/c/en/looking_for	1.0	0.323
+/c/en/find	RelatedTo	/c/en/looking_for	0.44099999999999984	0.475
+/c/en/search	RelatedTo	/c/en/looking_for	0.17499999999999982	0.64
+/c/en/hunt	RelatedTo	/c/en/looking_for	0.10400000000000009	0.329

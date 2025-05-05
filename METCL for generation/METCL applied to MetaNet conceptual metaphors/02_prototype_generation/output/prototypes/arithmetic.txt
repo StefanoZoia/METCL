@@ -1,0 +1,8 @@
+math: 0.903
+mathematics: 0.895
+helpful_in_designing_buildings: 0.816
+pure_mathematics: 0.808
+computer: 0.762
+calculator: 0.752
+using_calculator: 0.674
+-reading: 0.655

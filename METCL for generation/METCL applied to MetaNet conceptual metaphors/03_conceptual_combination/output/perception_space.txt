@@ -1,0 +1,26 @@
+Title: perception-space
+
+Head Concept Name: perception
+Modifier Concept Name: space
+
+
+
+
+
+T(modifier), seperation, 0.914
+T(modifier), empty, 0.902
+T(modifier), occupying, 0.892
+T(modifier), seperating_words_in_sentance, 0.88
+T(modifier), cold, 0.873
+T(modifier), storage, 0.855
+T(modifier), separating_words, 0.853
+T(modifier), infinite, 0.853
+
+T(head), cognition, 0.884
+T(head), conceptualization, 0.846
+T(head), basic_cognitive_process, 0.809
+T(head), sight, 0.765
+
+
+Result: {"seperation": 0.914, "empty": 0.902, "occupying": 0.892, "seperating_words_in_sentance": 0.88, "cold": 0.873, "storage": 0.855, "infinite": 0.853, "cognition": 0.884, "@scenario_probability": 0.03701018018896765}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0.03701018018896765]

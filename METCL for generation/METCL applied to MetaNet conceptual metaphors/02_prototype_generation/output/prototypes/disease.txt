@@ -1,0 +1,8 @@
+infectious: 0.909
+illness: 0.904
+deadly: 0.862
+ending_in_death: 0.843
+make_sick: 0.837
+-wanted_by_most_people: 0.831
+syndrome: 0.822
+rot_human_bodies: 0.819

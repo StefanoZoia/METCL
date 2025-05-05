@@ -1,0 +1,8 @@
+succeed_to_office: 0.738
+demand_recount: 0.7290000000000001
+-elected_person: 0.7146
+-elected: 0.7146
+win_election: 0.7101000000000001
+force_issue: 0.6966
+television_episode: 0.6381
+prepare_for_vote: 0.6048

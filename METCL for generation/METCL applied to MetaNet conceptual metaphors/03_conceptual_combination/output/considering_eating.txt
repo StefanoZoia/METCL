@@ -1,0 +1,30 @@
+Title: considering-eating
+
+Head Concept Name: considering
+Modifier Concept Name: eating
+
+
+
+
+
+T(modifier), chewing, 0.949
+T(modifier), food, 0.927
+T(modifier), ending_hunger, 0.902
+T(modifier), satisfying, 0.9
+T(modifier), staying_alive, 0.873
+T(modifier), satisfying_hunger, 0.866
+T(modifier), appetite, 0.865
+T(modifier), fod, 0.862
+
+T(head), think_about, 0.802
+T(head), -inconsiderate, 0.791
+T(head), -inconsiderateness, 0.762
+T(head), assumption, 0.758
+T(head), see, 0.744
+T(head), hash_out, 0.72
+T(head), -neglect, 0.705
+T(head), parliamentary_procedure, 0.699
+
+
+Result: {"chewing": 0.949, "food": 0.927, "ending_hunger": 0.902, "satisfying": 0.9, "staying_alive": 0.873, "satisfying_hunger": 0.866, "appetite": 0.865, "think_about": 0.802, "@scenario_probability": 0.0003960242761121448}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0.0003960242761121448]

@@ -1,0 +1,30 @@
+Title: nation-boat
+
+Head Concept Name: nation
+Modifier Concept Name: boat
+
+
+
+
+
+T(modifier), sailing, 0.93
+T(modifier), watersports, 0.928
+T(modifier), capsize, 0.917
+T(modifier), rowing, 0.912
+T(modifier), ship_cargo, 0.908
+T(modifier), floating_on_water, 0.904
+T(modifier), sailing_against_wind, 0.903
+T(modifier), fishing, 0.899
+
+T(head), united_states, 0.857
+T(head), people, 0.836
+T(head), confederation, 0.831
+T(head), ready_troops, 0.808
+T(head), weather_storm_of_war, 0.789
+T(head), arm_citizens, 0.788
+T(head), -state, 0.787
+T(head), legal, 0.744
+
+
+Result: {"sailing": 0.93, "watersports": 0.928, "capsize": 0.917, "rowing": 0.912, "ship_cargo": 0.908, "floating_on_water": 0.904, "sailing_against_wind": 0.903, "united_states": 0.857, "@scenario_probability": 6.01047769933051e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 6.01047769933051e-05]

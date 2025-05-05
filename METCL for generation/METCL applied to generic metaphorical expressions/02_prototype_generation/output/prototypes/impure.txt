@@ -1,0 +1,8 @@
+-pure: 0.869
+-clean: 0.7992
+-perfect: 0.7452
+-flawless: 0.7334999999999999
+religion: 0.7299000000000001
+-infallible: 0.7209000000000001
+-utopian: 0.7119000000000001
+grammar: 0.7092

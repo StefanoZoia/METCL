@@ -1,0 +1,4 @@
+spend: 0.867
+absorb: 0.855
+destroy: 0.84
+-produce: 0.74

@@ -1,0 +1,23 @@
+Title: goes-hibernation
+
+Head Concept Name: goes
+Modifier Concept Name: hibernation
+
+
+
+
+
+T(modifier), dormancy, 0.901
+T(modifier), torpor, 0.889
+T(modifier), -aestivation, 0.846
+T(modifier), retirement, 0.827
+T(modifier), space, 0.766
+T(modifier), biology, 0.759
+T(modifier), computing, 0.752
+
+T(head), zeeland, 0.735
+T(head), city, 0.718
+
+
+Result: {"dormancy": 0.901, "torpor": 0.889, "-aestivation": 0.846, "retirement": 0.827, "space": 0.766, "biology": 0.759, "computing": 0.752, "zeeland": 0.735, "@scenario_probability": 5.078404127664631}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 1, 0, 5.078404127664631]

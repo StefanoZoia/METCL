@@ -1,0 +1,8 @@
+union: 0.872
+coalition: 0.8235
+collective_bargaining_unit: 0.7803
+organization: 0.7803
+protect_against_employer's_economic_power: 0.7794
+protect_against_employer_manipulations: 0.7794
+protect_yourself: 0.7794
+demand_higher_wages: 0.7686

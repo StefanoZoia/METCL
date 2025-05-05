@@ -1,0 +1,30 @@
+Title: organization-machine
+
+Head Concept Name: organization
+Modifier Concept Name: machine
+
+
+
+
+
+T(modifier), wash_dishes, 0.908
+T(modifier), wash_clothes, 0.908
+T(modifier), wash_car, 0.908
+T(modifier), wash_dirty_clothes, 0.908
+T(modifier), vacuum, 0.878
+T(modifier), dispense_snacks, 0.878
+T(modifier), dispense_popcorn, 0.878
+T(modifier), dispense_cigarettes, 0.878
+
+T(head), honor_strong_person, 0.9
+T(head), good_thing, 0.847
+T(head), preparedness, 0.837
+T(head), social_group, 0.82
+T(head), orderliness, 0.819
+T(head), administration, 0.813
+T(head), activity, 0.813
+T(head), structure, 0.793
+
+
+Result: {"wash_dishes": 0.908, "wash_clothes": 0.908, "wash_car": 0.908, "wash_dirty_clothes": 0.908, "dispense_snacks": 0.878, "dispense_popcorn": 0.878, "dispense_cigarettes": 0.878, "honor_strong_person": 0.9, "@scenario_probability": 2.9710704891823803e-05}
+Scenario: [1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 2.9710704891823803e-05]

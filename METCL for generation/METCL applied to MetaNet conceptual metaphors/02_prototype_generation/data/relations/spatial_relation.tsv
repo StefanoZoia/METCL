@@ -1,0 +1,8 @@
+/c/en/spatial_relation	Synonym	/c/en/position	2.0	-0.041
+/c/en/comparative_altitude_predicate	IsA	/c/en/spatial_relation	1.0	0.035
+/c/en/locational_predicate	IsA	/c/en/spatial_relation	1.0	-0.014
+/c/en/spatial_relation	IsA	/c/en/predicate	1.0	-0.115
+/c/en/alignment_predicate	IsA	/c/en/spatial_relation	1.0	0.009
+/c/en/spatial_cotemporal_predicate	IsA	/c/en/spatial_relation	1.0	1.0
+/c/en/connection_predicate	IsA	/c/en/spatial_relation	1.0	0.017
+/c/en/spatial_ordering_predicate	IsA	/c/en/spatial_relation	1.0	1.0

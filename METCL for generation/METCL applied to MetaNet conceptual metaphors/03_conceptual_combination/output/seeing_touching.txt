@@ -1,0 +1,26 @@
+Title: seeing-touching
+
+Head Concept Name: seeing
+Modifier Concept Name: touching
+
+
+
+
+
+T(modifier), treatment, 0.759
+T(modifier), event_involving_physical_contact, 0.754
+T(modifier), archaic, 0.738
+T(modifier), action_performed_by_animals, 0.731
+
+T(head), eyes_open, 0.881
+T(head), light, 0.839
+T(head), one_of_senses, 0.836
+T(head), lot_of_background_knowledge, 0.827
+T(head), sense, 0.818
+T(head), monocle, 0.792
+T(head), -eye, 0.776
+T(head), -blind, 0.755
+
+
+Result: {"treatment": 0.759, "eyes_open": 0.881, "light": 0.839, "one_of_senses": 0.836, "lot_of_background_knowledge": 0.827, "sense": 0.818, "monocle": 0.792, "-eye": 0.776, "@scenario_probability": 0.08282975970407745}
+Scenario: [1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.08282975970407745]

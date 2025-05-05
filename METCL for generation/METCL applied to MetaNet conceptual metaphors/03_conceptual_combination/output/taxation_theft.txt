@@ -1,0 +1,21 @@
+Title: taxation-theft
+
+Head Concept Name: taxation
+Modifier Concept Name: theft
+
+
+
+
+
+T(modifier), crime, 0.864
+T(modifier), criminal_offence, 0.773
+T(modifier), crime_in, 0.742
+T(modifier), -giving, 0.701
+
+T(head), imposition, 0.862
+T(head), process_results_in_taxes, 0.731
+T(head), activity_of_government, 0.721
+
+
+Result: {"crime": 0.864, "criminal_offence": 0.773, "crime_in": 0.742, "-giving": 0.701, "imposition": 0.862, "process_results_in_taxes": 0.731, "@scenario_probability": 6.107226199532507}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 6.107226199532507]

@@ -1,0 +1,25 @@
+Title: similarity-proximity
+
+Head Concept Name: similarity
+Modifier Concept Name: proximity
+
+
+
+
+
+T(modifier), nearness, 0.927
+T(modifier), vicinity, 0.899
+T(modifier), gestalt_law_of_organization, 0.798
+T(modifier), -distance, 0.777
+
+T(head), sameness, 0.892
+T(head), -dissimilarity, 0.865
+T(head), gestalt_law_of_organization, 0.823
+T(head), -difference, 0.812
+T(head), -distinguishment, 0.799
+T(head), philosophy, 0.738
+T(head), maths, 0.737
+
+
+Result: {"nearness": 0.927, "vicinity": 0.899, "gestalt_law_of_organization": 0.823, "sameness": 0.892, "-dissimilarity": 0.865, "-difference": 0.812, "-distinguishment": 0.799, "@scenario_probability": 0.4210055544948853}
+Scenario: [1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0.4210055544948853]

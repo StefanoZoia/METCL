@@ -1,0 +1,8 @@
+reverence: 0.877
+religion: 0.853
+love: 0.837
+chapel: 0.827
+church: 0.822
+temple: 0.816
+attend: 0.815
+activity: 0.814

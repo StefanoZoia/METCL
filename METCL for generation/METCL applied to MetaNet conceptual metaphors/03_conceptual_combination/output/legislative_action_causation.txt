@@ -1,0 +1,24 @@
+Title: legislative_action-causation
+
+Head Concept Name: legislative_action
+Modifier Concept Name: causation
+
+
+
+
+
+T(modifier), origin, 0.755
+T(modifier), relation, 0.751
+T(modifier), make, 0.749
+T(modifier), justification, 0.747
+T(modifier), -effect, 0.74
+T(modifier), act, 0.73
+T(modifier), suffer_setback, 0.721
+T(modifier), succeed_effect, 0.715
+
+T(head), legal_proceeding, 0.752
+T(head), group_activity, 0.747
+
+
+Result: {"origin": 0.755, "relation": 0.751, "make": 0.749, "justification": 0.747, "-effect": 0.74, "act": 0.73, "suffer_setback": 0.721, "legal_proceeding": 0.752, "@scenario_probability": 0.6699808268834383}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0.6699808268834383]

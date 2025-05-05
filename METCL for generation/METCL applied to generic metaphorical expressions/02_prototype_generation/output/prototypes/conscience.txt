@@ -1,0 +1,6 @@
+morality: 0.886
+ethical_motive: 0.866
+shame: 0.83
+piece_of_mental_information: 0.727
+answer_bonus: 0.682
+help: 0.668

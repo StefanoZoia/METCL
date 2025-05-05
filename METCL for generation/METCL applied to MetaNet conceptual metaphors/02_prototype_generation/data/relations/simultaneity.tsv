@@ -1,0 +1,16 @@
+/c/en/concurrence	IsA	/c/en/simultaneity	2.0	0.328
+/c/en/simultaneity	IsA	/c/en/timing	2.0	0.308
+/c/en/simultaneousness	Synonym	/c/en/simultaneity	2.0	0.602
+/c/en/simultaneity	RelatedTo	/c/en/simultaneous	1.0	0.614
+/c/en/simultaneity	RelatedTo	/c/en/simultaneously	1.0	0.49
+/c/en/simultaneously	RelatedTo	/c/en/simultaneity	1.0	0.49
+/c/en/lip_sync	RelatedTo	/c/en/simultaneity	1.0	0.169
+/c/en/simultaneity	HasContext	/c/en/music	1.0	0.001
+/c/en/simultaneities	FormOf	/c/en/simultaneity	1.0	1.0
+/c/en/pitch_simultaneity	RelatedTo	/c/en/simultaneity	1.0	-0.056
+/c/en/simultaneity	RelatedTo	/c/en/pitch_simultaneity	1.0	-0.056
+/c/en/simultaneousness	RelatedTo	/c/en/simultaneity	1.0	0.602
+/c/en/simultaneity	DerivedFrom	/c/en/simultaneous	1.0	0.614
+/c/en/chord	RelatedTo	/c/en/simultaneity	1.0	0.076
+/c/en/simultaneity	RelatedTo	/c/en/simultaneousness	1.0	0.602
+/c/en/simultaneity	RelatedTo	/c/en/simultaneous	1.0	0.614

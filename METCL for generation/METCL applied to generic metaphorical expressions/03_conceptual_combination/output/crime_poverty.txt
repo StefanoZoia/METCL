@@ -1,0 +1,30 @@
+Title: crime-poverty
+
+Head Concept Name: crime
+Modifier Concept Name: poverty
+
+
+
+
+
+T(modifier), financial_condition, 0.865
+T(modifier), undesirable, 0.833
+T(modifier), -wealth, 0.792
+T(modifier), drive_crime, 0.789
+T(modifier), situation, 0.763
+T(modifier), curse, 0.75
+T(modifier), get_money_from, 0.748
+T(modifier), mumbai, 0.747
+
+T(head), crime, 0.946
+T(head), criminal_law, 0.865
+T(head), increasing, 0.848
+T(head), hate_crime, 0.843
+T(head), transgression, 0.841
+T(head), result_in_punishment, 0.836
+T(head), -good, 0.828
+T(head), activity, 0.806
+
+
+Result: {"financial_condition": 0.865, "undesirable": 0.833, "crime": 0.946, "criminal_law": 0.865, "increasing": 0.848, "hate_crime": 0.843, "transgression": 0.841, "result_in_punishment": 0.836, "@scenario_probability": 0.0001639379260471409}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.0001639379260471409]

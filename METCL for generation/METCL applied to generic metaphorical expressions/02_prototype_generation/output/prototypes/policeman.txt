@@ -1,0 +1,8 @@
+police_station: 0.904
+-policewoman: 0.899
+police_officer: 0.882
+lawman: 0.878
+stop_traffic: 0.86
+roadblock: 0.853
+notice_jaywalker: 0.844
+arrest_criminals: 0.82

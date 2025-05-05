@@ -1,0 +1,10 @@
+/c/en/presidential	IsA	/c/en/gubernatorial	2.0	0.631
+/c/en/gubernatorial	RelatedTo	/c/en/govern	2.0	0.353
+/c/en/gubernatorial	RelatedTo	/c/en/governor	2.0	0.805
+/c/en/landeshauptmann	RelatedTo	/c/en/gubernatorial	1.0	0.096
+/c/en/nongubernatorial	DerivedFrom	/c/en/gubernatorial	1.0	0.1
+/c/en/nongubernatorial	RelatedTo	/c/en/gubernatorial	1.0	0.1
+/c/en/governor	RelatedTo	/c/en/gubernatorial	1.0	0.805
+/c/en/gubernatorially	RelatedTo	/c/en/gubernatorial	1.0	1.0
+/c/en/act_of_parliament	RelatedTo	/c/en/gubernatorial	1.0	-0.085
+/c/en/gubernatorially	DerivedFrom	/c/en/gubernatorial	1.0	1.0

@@ -1,0 +1,2 @@
+alcoholic_drink: 0.866
+bar: 0.831

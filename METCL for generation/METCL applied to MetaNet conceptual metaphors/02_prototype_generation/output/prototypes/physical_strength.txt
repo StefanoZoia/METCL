@@ -1,0 +1,2 @@
+climbing_mountain: 0.691
+humans: 0.678

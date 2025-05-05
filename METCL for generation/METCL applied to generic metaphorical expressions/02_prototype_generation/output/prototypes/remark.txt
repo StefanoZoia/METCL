@@ -1,0 +1,4 @@
+statement: 0.87
+notice: 0.852
+cause_response: 0.826
+engraving: 0.761

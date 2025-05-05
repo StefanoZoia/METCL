@@ -1,0 +1,30 @@
+Title: mind-containment
+
+Head Concept Name: mind
+Modifier Concept Name: containment
+
+
+
+
+
+T(modifier), restraint, 0.856
+T(modifier), policy, 0.832
+T(modifier), system, 0.819
+T(modifier), -détente, 0.798
+T(modifier), physics, 0.793
+T(modifier), -rollback, 0.778
+T(modifier), -regime_change, 0.777
+T(modifier), mathematics, 0.74
+
+T(head), thinking, 0.906
+T(head), subjective, 0.894
+T(head), cognition, 0.856
+T(head), think_about, 0.842
+T(head), remember, 0.842
+T(head), intelligence, 0.836
+T(head), recall, 0.827
+T(head), perceive_external_envrnment_and_recollect_data, 0.823
+
+
+Result: {"restraint": 0.856, "policy": 0.832, "thinking": 0.906, "subjective": 0.894, "cognition": 0.856, "think_about": 0.842, "remember": 0.842, "intelligence": 0.836, "@scenario_probability": 8.730073041029896e-05}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 8.730073041029896e-05]

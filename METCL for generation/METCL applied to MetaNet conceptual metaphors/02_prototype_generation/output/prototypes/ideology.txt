@@ -1,0 +1,8 @@
+person: 0.879
+how_to_live_life: 0.844
+theorization: 0.83
+change_society: 0.807
+ideals: 0.792
+system_of_abstract_thought: 0.759
+organization: 0.757
+way_of_looking_at_things: 0.747

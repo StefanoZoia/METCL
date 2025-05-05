@@ -1,0 +1,10 @@
+/c/en/factors	FormOf	/c/en/factor	2.0	0.855
+/c/en/all_things_being_equal	RelatedTo	/c/en/factors	1.0	0.018
+/c/en/adjugate	RelatedTo	/c/en/factors	1.0	0.229
+/c/en/atopy	RelatedTo	/c/en/factors	1.0	0.191
+/c/en/nonparturition	RelatedTo	/c/en/factors	1.0	0.124
+/c/en/bright_line_rule	RelatedTo	/c/en/factors	1.0	0.042
+/c/en/factors	FormOf	/c/en/factor	1.0	0.855
+/c/en/factors	FormOf	/c/en/factor	1.0	0.855
+/c/en/factors	RelatedTo	/c/en/factor	1.0	0.855
+/c/en/factors	RelatedTo	/c/en/factor	1.0	0.855

@@ -1,0 +1,4 @@
+/c/en/bombarded	RelatedTo	/c/en/bombard	1.0	0.917
+/c/en/bombardment	RelatedTo	/c/en/bombarded	1.0	0.849
+/c/en/bombarded	FormOf	/c/en/bombard	1.0	0.917
+/c/en/microbombarded	DerivedFrom	/c/en/bombarded	1.0	-0.018

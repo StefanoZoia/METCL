@@ -1,0 +1,30 @@
+Title: evil-darkness
+
+Head Concept Name: evil
+Modifier Concept Name: darkness
+
+
+
+
+
+T(modifier), -lightness, 0.853
+T(modifier), scary, 0.847
+T(modifier), -daylight, 0.827
+T(modifier), impossible_to_see_in, 0.826
+T(modifier), -light, 0.823
+T(modifier), complexion, 0.818
+T(modifier), scene, 0.812
+T(modifier), movies, 0.808
+
+T(head), bad, 0.868
+T(head), very_very_bad, 0.825
+T(head), providing_opposition_to_good, 0.797
+T(head), torture, 0.778
+T(head), -good, 0.766
+T(head), computing, 0.746
+T(head), programming, 0.733
+T(head), slang, 0.731
+
+
+Result: {"-lightness": 0.853, "scary": 0.847, "-daylight": 0.827, "impossible_to_see_in": 0.826, "-light": 0.823, "complexion": 0.818, "bad": 0.868, "very_very_bad": 0.825, "@scenario_probability": 0.00016522129305266353}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.00016522129305266353]

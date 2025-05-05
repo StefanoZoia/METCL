@@ -1,0 +1,30 @@
+Title: company-object
+
+Head Concept Name: company
+Modifier Concept Name: object
+
+
+
+
+
+T(modifier), thing, 0.843
+T(modifier), disapprove, 0.832
+T(modifier), become_broken, 0.817
+T(modifier), object_oriented_programming, 0.814
+T(modifier), content, 0.81
+T(modifier), belong_to_person, 0.809
+T(modifier), disappear_from_sight, 0.806
+T(modifier), computer_science, 0.803
+
+T(head), market_new_product, 0.857
+T(head), organization, 0.856
+T(head), market_product, 0.854
+T(head), commit_crime, 0.84
+T(head), army_unit, 0.835
+T(head), unit, 0.833
+T(head), buy_another_company, 0.826
+T(head), military, 0.819
+
+
+Result: {"thing": 0.843, "disapprove": 0.832, "market_new_product": 0.857, "organization": 0.856, "market_product": 0.854, "commit_crime": 0.84, "army_unit": 0.835, "unit": 0.833, "@scenario_probability": 3.8169889487729166e-05}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 3.8169889487729166e-05]

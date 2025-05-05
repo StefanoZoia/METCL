@@ -1,0 +1,6 @@
+influenza: 0.908
+virus: 0.891
+contagious_disease: 0.875
+make_feel_terrible: 0.796
+uk: 0.74
+abbreviation_for_influenza: 0.729

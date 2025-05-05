@@ -1,0 +1,3 @@
+/c/en/from_bad_to_worse	Antonym	/c/en/better_and_better	1.0	-0.02
+/c/en/from_bad_to_worse	Synonym	/c/en/worse_and_worse	1.0	-0.028
+/c/en/worse_and_worse	Synonym	/c/en/from_bad_to_worse	1.0	-0.028

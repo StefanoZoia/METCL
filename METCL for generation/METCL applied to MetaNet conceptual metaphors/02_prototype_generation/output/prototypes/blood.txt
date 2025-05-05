@@ -1,0 +1,8 @@
+bodily_fluid: 0.909
+circulatory_fluid: 0.893
+coursing_through_veins: 0.874
+course_through_veins: 0.85
+liquid: 0.848
+vein: 0.846
+capillaries: 0.837
+coursing_through_horse's_veins: 0.833

@@ -1,0 +1,4 @@
+/c/en/foes	FormOf	/c/en/foe	1.0	0.934
+/c/en/foes	RelatedTo	/c/en/foe	1.0	0.934
+/c/en/foes	FormOf	/c/en/foe	1.0	0.934
+/c/en/enemy	RelatedTo	/c/en/foes	0.1280000000000001	0.702

@@ -1,0 +1,2 @@
+metallurgy: 0.743
+terrorists: 0.733

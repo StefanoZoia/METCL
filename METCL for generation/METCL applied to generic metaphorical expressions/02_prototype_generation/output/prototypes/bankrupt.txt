@@ -1,0 +1,2 @@
+impoverish: 0.83
+failure: 0.821

@@ -1,0 +1,8 @@
+-antisocial: 0.883
+social_occasion: 0.878
+-asocial: 0.859
+-unsocial: 0.853
+animal: 0.825
+internet: 0.795
+zoology: 0.752
+-introverted: 0.748

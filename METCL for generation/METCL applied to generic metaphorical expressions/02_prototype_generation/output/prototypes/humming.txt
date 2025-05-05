@@ -1,0 +1,3 @@
+singing: 0.883
+voice: 0.726
+harmonica: 0.719

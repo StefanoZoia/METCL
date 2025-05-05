@@ -1,0 +1,25 @@
+Title: taxation-dues
+
+Head Concept Name: taxation
+Modifier Concept Name: dues
+
+
+
+
+
+T(modifier), bonus, 0.783
+T(modifier), payment, 0.767
+T(modifier), fixed_charge, 0.766
+T(modifier), prize, 0.756
+T(modifier), value, 0.747
+T(modifier), agreement, 0.743
+T(modifier), contribution, 0.742
+T(modifier), insurance, 0.738
+
+T(head), imposition, 0.862
+T(head), process_results_in_taxes, 0.731
+T(head), activity_of_government, 0.721
+
+
+Result: {"bonus": 0.783, "payment": 0.767, "fixed_charge": 0.766, "prize": 0.756, "value": 0.747, "agreement": 0.743, "contribution": 0.742, "imposition": 0.862, "@scenario_probability": 0.2427649881242819}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0.2427649881242819]

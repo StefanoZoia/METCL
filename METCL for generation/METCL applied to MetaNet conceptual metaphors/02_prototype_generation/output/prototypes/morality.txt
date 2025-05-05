@@ -1,0 +1,6 @@
+-amorality: 0.859
+quality: 0.828
+needless: 0.821
+belief_system: 0.818
+-baseness: 0.772
+archaic: 0.748

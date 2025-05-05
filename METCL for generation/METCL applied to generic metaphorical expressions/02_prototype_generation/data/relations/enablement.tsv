@@ -1,0 +1,7 @@
+/c/en/enablement	DerivedFrom	/c/en/enable	1.0	0.712
+/c/en/enablement	DistinctFrom	/c/en/disablement	1.0	0.272
+/c/en/enablements	FormOf	/c/en/enablement	1.0	1.0
+/c/en/capacitation	RelatedTo	/c/en/enablement	1.0	0.35
+/c/en/enablement	DerivedFrom	/c/en/enable	1.0	0.712
+/c/en/enablement	RelatedTo	/c/en/enable	1.0	0.712
+/c/en/enablements	FormOf	/c/en/enablement	1.0	1.0

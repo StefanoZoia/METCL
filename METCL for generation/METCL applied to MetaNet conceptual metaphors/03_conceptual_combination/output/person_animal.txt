@@ -1,0 +1,30 @@
+Title: person-animal
+
+Head Concept Name: person
+Modifier Concept Name: animal
+
+
+
+
+
+T(modifier), petting, 0.9
+T(modifier), zoo, 0.877
+T(modifier), alive, 0.872
+T(modifier), food, 0.87
+T(modifier), animal_or_body_part, 0.868
+T(modifier), pet_store, 0.855
+T(modifier), fur, 0.853
+T(modifier), feel_pain, 0.848
+
+T(head), wave_to_friend, 0.94
+T(head), wave_goodbye, 0.94
+T(head), wave_to_another_person, 0.94
+T(head), wave_at_another_person, 0.94
+T(head), wave_hello_or_goodbye, 0.909
+T(head), wait_patiently, 0.908
+T(head), thank_god, 0.895
+T(head), god, 0.876
+
+
+Result: {"petting": 0.9, "wave_to_friend": 0.94, "wave_goodbye": 0.94, "wave_to_another_person": 0.94, "wave_at_another_person": 0.94, "wave_hello_or_goodbye": 0.909, "wait_patiently": 0.908, "thank_god": 0.895, "@scenario_probability": 5.633906894427565e-06}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 5.633906894427565e-06]

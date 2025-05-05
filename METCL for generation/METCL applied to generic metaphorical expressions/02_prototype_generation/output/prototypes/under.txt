@@ -1,0 +1,8 @@
+-over: 0.855
+-above: 0.83
+-below: 0.786
+-onto: 0.757
+medicine: 0.739
+-top: 0.715
+-bank: 0.682
+-neck: 0.668

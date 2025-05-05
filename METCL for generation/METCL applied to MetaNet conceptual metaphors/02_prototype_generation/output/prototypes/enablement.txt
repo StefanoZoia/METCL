@@ -1,0 +1,5 @@
+-disable: 0.7839
+-disablement: 0.745
+change: 0.7092
+computing: 0.6876
+electronics: 0.6642

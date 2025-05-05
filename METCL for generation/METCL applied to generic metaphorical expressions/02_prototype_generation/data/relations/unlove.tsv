@@ -1,0 +1,15 @@
+/c/en/unlove	RelatedTo	/c/en/omission	1.0	0.119
+/c/en/lovelessness	Synonym	/c/en/unlove	1.0	0.811
+/c/en/unlove	RelatedTo	/c/en/love	1.0	0.688
+/c/en/fall_out_of_love	RelatedTo	/c/en/unlove	1.0	0.149
+/c/en/unlove	RelatedTo	/c/en/lovelessness	1.0	0.811
+/c/en/unlove	RelatedTo	/c/en/love	1.0	0.688
+/c/en/unloves	FormOf	/c/en/unlove	1.0	0.715
+/c/en/unloving	FormOf	/c/en/unlove	1.0	0.471
+/c/en/unlove	RelatedTo	/c/en/love	1.0	0.688
+/c/en/unlove	DerivedFrom	/c/en/love	1.0	0.688
+/c/en/unlove	RelatedTo	/c/en/neglect	1.0	0.216
+/c/en/unlove	RelatedTo	/c/en/disenamour	1.0	0.118
+/c/en/unloved	FormOf	/c/en/unlove	1.0	0.439
+/c/en/unlove	RelatedTo	/c/en/enmity	1.0	0.313
+/c/en/unlove	RelatedTo	/c/en/hate	1.0	0.463

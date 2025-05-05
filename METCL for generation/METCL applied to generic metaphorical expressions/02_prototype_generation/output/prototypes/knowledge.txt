@@ -1,0 +1,8 @@
+information: 0.874
+power: 0.866
+-ignorance: 0.849
+good_thing: 0.846
+encyclopedia: 0.846
+thought: 0.844
+powerful: 0.842
+understanding: 0.83

@@ -1,0 +1,8 @@
+broker: 0.849
+representative: 0.845
+substance: 0.817
+official: 0.816
+book_ticket: 0.815
+book_nightclub_act: 0.815
+causal_agent: 0.804
+businessperson: 0.802

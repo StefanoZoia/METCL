@@ -1,0 +1,8 @@
+path: 0.863
+position: 0.836
+inclination: 0.835
+message: 0.814
+archaic: 0.748
+unit_vector_interval: 0.742
+terrestrial_direction: 0.735
+sign: 0.687

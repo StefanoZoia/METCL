@@ -1,0 +1,25 @@
+Title: addicts-welfare
+
+Head Concept Name: addicts
+Modifier Concept Name: welfare
+
+
+
+
+
+T(modifier), effect_recipients_by_making_lazy, 0.807
+T(modifier), government_paid_service, 0.764
+T(modifier), -wofare, 0.753
+T(modifier), -woefare, 0.752
+T(modifier), us, 0.725
+T(modifier), funded_by_tax, 0.692
+
+T(head), drug_user, 0.791
+T(head), enthusiast, 0.777
+T(head), use, 0.763
+T(head), habituate, 0.76
+T(head), need_drugs, 0.758
+
+
+Result: {"effect_recipients_by_making_lazy": 0.807, "government_paid_service": 0.764, "-wofare": 0.753, "-woefare": 0.752, "drug_user": 0.791, "enthusiast": 0.777, "use": 0.763, "habituate": 0.76, "@scenario_probability": 0.25504341736711533}
+Scenario: [1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0.25504341736711533]

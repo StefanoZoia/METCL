@@ -1,0 +1,10 @@
+/c/en/shore_up	Synonym	/c/en/prop_up	2.0	0.072
+/c/en/sure_up	RelatedTo	/c/en/shore_up	1.0	0.12
+/c/en/undergird	Synonym	/c/en/shore_up	1.0	0.077
+/c/en/shore_up	RelatedTo	/c/en/reinforce	1.0	0.078
+/c/en/prop_up	Synonym	/c/en/shore_up	1.0	0.072
+/c/en/prop	RelatedTo	/c/en/shore_up	1.0	0.051
+/c/en/riprap	RelatedTo	/c/en/shore_up	1.0	0.361
+/c/en/shore_up	DerivedFrom	/c/en/shore	1.0	0.879
+/c/en/shore_up	RelatedTo	/c/en/strengthen	1.0	0.127
+/c/en/shore_up	Synonym	/c/en/prop_up	1.0	0.072

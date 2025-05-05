@@ -1,0 +1,8 @@
+sleep: 0.92
+bed: 0.918
+snoring: 0.905
+relaxing: 0.894
+resting: 0.889
+nightmares: 0.885
+recovering: 0.88
+dreams: 0.865

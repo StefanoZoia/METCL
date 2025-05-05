@@ -1,0 +1,6 @@
+perform: 0.861
+manage: 0.836
+bring: 0.826
+music: 0.8
+telephone_line: 0.767
+archaic: 0.753

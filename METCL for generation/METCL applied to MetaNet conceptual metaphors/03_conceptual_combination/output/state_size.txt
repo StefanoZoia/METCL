@@ -1,0 +1,30 @@
+Title: state-size
+
+Head Concept Name: state
+Modifier Concept Name: size
+
+
+
+
+
+T(modifier), how_big_or_small, 0.898
+T(modifier), magnitude, 0.883
+T(modifier), -bigness, 0.826
+T(modifier), important, 0.825
+T(modifier), change_magnitude, 0.816
+T(modifier), situation, 0.81
+T(modifier), classify, 0.808
+T(modifier), coat, 0.805
+
+T(head), government, 0.855
+T(head), political_unit, 0.819
+T(head), attribute, 0.817
+T(head), emotional_state, 0.807
+T(head), levy_taxes, 0.805
+T(head), point_within_system, 0.794
+T(head), -nation, 0.787
+T(head), counties, 0.762
+
+
+Result: {"how_big_or_small": 0.898, "magnitude": 0.883, "-bigness": 0.826, "important": 0.825, "change_magnitude": 0.816, "government": 0.855, "political_unit": 0.819, "attribute": 0.817, "@scenario_probability": 7.052423925917919e-05}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 7.052423925917919e-05]

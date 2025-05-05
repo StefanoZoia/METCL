@@ -1,0 +1,8 @@
+head: 0.7695
+facial: 0.7686
+appearance: 0.7524
+front: 0.7515
+facial_vein: 0.7488
+slang: 0.743
+surface: 0.7424999999999999
+chin: 0.7415999999999999

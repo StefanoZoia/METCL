@@ -1,0 +1,8 @@
+-out: 0.85
+proscribed: 0.806
+eye_dialect: 0.803
+legal: 0.751
+grammar: 0.749
+-e: 0.748
+-ex: 0.744
+place: 0.743

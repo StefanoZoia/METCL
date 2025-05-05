@@ -1,0 +1,27 @@
+Title: sands-days
+
+Head Concept Name: sands
+Modifier Concept Name: days
+
+
+
+
+
+T(modifier), life, 0.828
+T(modifier), rain_cats_and_dogs, 0.813
+T(modifier), -month, 0.783
+T(modifier), shorter_in_winter, 0.782
+T(modifier), units_of_time, 0.767
+
+T(head), gritty, 0.823
+T(head), sandcastles, 0.821
+T(head), seashore, 0.808
+T(head), hourglasses, 0.803
+T(head), sandboxes, 0.799
+T(head), sandbox, 0.787
+T(head), desert, 0.775
+T(head), black, 0.76
+
+
+Result: {"life": 0.828, "rain_cats_and_dogs": 0.813, "gritty": 0.823, "sandcastles": 0.821, "seashore": 0.808, "hourglasses": 0.803, "sandboxes": 0.799, "sandbox": 0.787, "@scenario_probability": 0.011045317410095061}
+Scenario: [1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.011045317410095061]

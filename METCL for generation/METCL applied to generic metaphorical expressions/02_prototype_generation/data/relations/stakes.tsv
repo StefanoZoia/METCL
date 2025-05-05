@@ -1,0 +1,12 @@
+/c/en/stakes	FormOf	/c/en/stake	2.0	0.822
+/c/en/stakes	Synonym	/c/en/stake	2.0	0.822
+/c/en/stakes	FormOf	/c/en/stake	1.0	0.822
+/c/en/deep_stack	RelatedTo	/c/en/stakes	1.0	0.042
+/c/en/up_ante	RelatedTo	/c/en/stakes	1.0	0.041
+/c/en/short_stack	RelatedTo	/c/en/stakes	1.0	-0.011
+/c/en/stakes	RelatedTo	/c/en/stake	1.0	0.822
+/c/en/stakes	RelatedTo	/c/en/stake	1.0	0.822
+/c/en/stakes	FormOf	/c/en/stake	1.0	0.822
+/c/en/raise_stakes	RelatedTo	/c/en/stakes	1.0	0.165
+/c/en/cross	RelatedTo	/c/en/stakes	0.17099999999999982	0.008
+/c/en/tent	RelatedTo	/c/en/stakes	0.14900000000000002	0.131

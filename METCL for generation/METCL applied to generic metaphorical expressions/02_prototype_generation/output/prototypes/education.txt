@@ -1,0 +1,8 @@
+education: 0.946
+upbringing: 0.88
+learning: 0.876
+further_career: 0.865
+change_subjective_consciousness: 0.845
+never_ending_and_exciting: 0.835
+university: 0.83
+profession: 0.829

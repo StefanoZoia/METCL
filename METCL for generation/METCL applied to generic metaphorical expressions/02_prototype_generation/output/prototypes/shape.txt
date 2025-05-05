@@ -1,0 +1,8 @@
+geometric_figure: 0.837
+create_from_raw_material: 0.816
+concretism: 0.803
+entities: 0.801
+iron_manufacture: 0.766
+-size: 0.763
+-formless: 0.762
+programming: 0.752

@@ -1,0 +1,7 @@
+/c/en/claims	RelatedTo	/c/en/claim	1.0	0.917
+/c/en/all_it's_cracked_up_to_be	RelatedTo	/c/en/claims	1.0	0.035
+/c/en/claims	FormOf	/c/en/claim	1.0	0.917
+/c/en/speculative_damages	RelatedTo	/c/en/claims	1.0	-0.014
+/c/en/claims	FormOf	/c/en/claim	1.0	0.917
+/c/en/claims	RelatedTo	/c/en/claim	1.0	0.917
+/c/en/claims	FormOf	/c/en/claim	1.0	0.917

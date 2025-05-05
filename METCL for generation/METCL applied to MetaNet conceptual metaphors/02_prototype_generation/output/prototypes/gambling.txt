@@ -1,0 +1,8 @@
+casino: 0.919
+risky: 0.849
+addicitve: 0.843
+diversion: 0.818
+stupid: 0.818
+bankruptcy: 0.815
+vice: 0.808
+addiction_for_people: 0.801

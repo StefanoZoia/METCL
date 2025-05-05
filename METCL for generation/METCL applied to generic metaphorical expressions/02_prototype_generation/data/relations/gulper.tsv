@@ -1,0 +1,9 @@
+/c/en/guzzler	Synonym	/c/en/gulper	2.0	0.725
+/c/en/gulper	IsA	/c/en/drinker	2.0	0.553
+/c/en/gulpers	RelatedTo	/c/en/gulper	1.0	1.0
+/c/en/gulper	RelatedTo	/c/en/gulp	1.0	0.496
+/c/en/gulpers	FormOf	/c/en/gulper	1.0	1.0
+/c/en/gulper	RelatedTo	/c/en/gulper_eel	1.0	1.0
+/c/en/gulper_eel	DerivedFrom	/c/en/gulper	1.0	1.0
+/c/en/gulper	DerivedFrom	/c/en/gulp	1.0	0.496
+/c/en/gulper_shark	DerivedFrom	/c/en/gulper	1.0	1.0

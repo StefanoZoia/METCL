@@ -1,0 +1,8 @@
+slide: 0.847
+descend: 0.813
+happening: 0.791
+crushing_village: 0.764
+natural_hazard: 0.735
+top_of_mountain: 0.734
+roller_coaster: 0.729
+television_episode: 0.705

@@ -1,0 +1,25 @@
+Title: social_group-building
+
+Head Concept Name: social_group
+Modifier Concept Name: building
+
+
+
+
+
+T(modifier), building_materials, 0.913
+T(modifier), architect, 0.875
+T(modifier), tradesmen, 0.871
+T(modifier), shelter, 0.864
+T(modifier), man_made, 0.855
+T(modifier), housing, 0.852
+T(modifier), weather_storm, 0.848
+T(modifier), work, 0.841
+
+T(head), group, 0.822
+T(head), group_of_things, 0.775
+T(head), group_of_social_beings, 0.775
+
+
+Result: {"building_materials": 0.913, "architect": 0.875, "tradesmen": 0.871, "shelter": 0.864, "man_made": 0.855, "housing": 0.852, "weather_storm": 0.848, "group": 0.822, "@scenario_probability": 0.2457232596751665}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0.2457232596751665]

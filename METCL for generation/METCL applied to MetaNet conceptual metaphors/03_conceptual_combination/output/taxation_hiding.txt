@@ -1,0 +1,25 @@
+Title: taxation-hiding
+
+Head Concept Name: taxation
+Modifier Concept Name: hiding
+
+
+
+
+
+T(modifier), privacy, 0.826
+T(modifier), cave, 0.799
+T(modifier), surprise, 0.765
+T(modifier), underground_area, 0.753
+T(modifier), action_on_object, 0.739
+T(modifier), action_performed_by_animals, 0.739
+T(modifier), drawer, 0.738
+T(modifier), sitting_quietly, 0.658
+
+T(head), imposition, 0.862
+T(head), process_results_in_taxes, 0.731
+T(head), activity_of_government, 0.721
+
+
+Result: {"privacy": 0.826, "cave": 0.799, "surprise": 0.765, "underground_area": 0.753, "action_on_object": 0.739, "action_performed_by_animals": 0.739, "drawer": 0.738, "imposition": 0.862, "@scenario_probability": 0.3390145452244383}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0.3390145452244383]

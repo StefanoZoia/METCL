@@ -1,0 +1,5 @@
+/c/en/moral_order	RelatedTo	/c/en/mores	1.0	0.183
+/c/en/moral_orders	FormOf	/c/en/moral_order	1.0	1.0
+/c/en/moral_orders	RelatedTo	/c/en/moral_order	1.0	1.0
+/c/en/moral_order	RelatedTo	/c/en/convention	1.0	0.146
+/c/en/moral_order	RelatedTo	/c/en/societal	1.0	0.106

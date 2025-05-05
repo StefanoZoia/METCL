@@ -1,0 +1,3 @@
+-level_headed: 0.741
+internet_slang: 0.666
+british: 0.6651

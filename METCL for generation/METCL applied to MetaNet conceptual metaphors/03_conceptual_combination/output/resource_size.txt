@@ -1,0 +1,30 @@
+Title: resource-size
+
+Head Concept Name: resource
+Modifier Concept Name: size
+
+
+
+
+
+T(modifier), how_big_or_small, 0.898
+T(modifier), magnitude, 0.883
+T(modifier), -bigness, 0.826
+T(modifier), important, 0.825
+T(modifier), change_magnitude, 0.816
+T(modifier), situation, 0.81
+T(modifier), classify, 0.808
+T(modifier), coat, 0.805
+
+T(head), asset, 0.852
+T(head), assets, 0.838
+T(head), inventiveness, 0.824
+T(head), tangible_thing, 0.778
+T(head), localized_spatial_thing, 0.759
+T(head), group_of_things, 0.737
+T(head), album, 0.717
+T(head), book, 0.709
+
+
+Result: {"how_big_or_small": 0.898, "magnitude": 0.883, "-bigness": 0.826, "important": 0.825, "change_magnitude": 0.816, "asset": 0.852, "assets": 0.838, "inventiveness": 0.824, "@scenario_probability": 0.0002138290226902656}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0.0002138290226902656]

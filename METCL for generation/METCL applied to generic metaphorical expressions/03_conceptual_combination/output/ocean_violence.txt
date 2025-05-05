@@ -1,0 +1,30 @@
+Title: ocean-violence
+
+Head Concept Name: ocean
+Modifier Concept Name: violence
+
+
+
+
+
+T(modifier), aggression, 0.87
+T(modifier), anger_pacifists, 0.869
+T(modifier), turbulence, 0.844
+T(modifier), terrorism, 0.843
+T(modifier), dangerous, 0.839
+T(modifier), war, 0.838
+T(modifier), includes_death, 0.834
+T(modifier), wars, 0.801
+
+T(head), sailing, 0.888
+T(head), sail, 0.887
+T(head), swimming, 0.885
+T(head), beach, 0.881
+T(head), diving, 0.878
+T(head), fish, 0.877
+T(head), swim_in, 0.873
+T(head), place_to_swim, 0.866
+
+
+Result: {"aggression": 0.87, "sailing": 0.888, "sail": 0.887, "swimming": 0.885, "beach": 0.881, "diving": 0.878, "fish": 0.877, "swim_in": 0.873, "@scenario_probability": 1.3304108256907474e-05}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1.3304108256907474e-05]

@@ -1,0 +1,4 @@
+intellectual: 0.874
+arrive_at_conclusion: 0.786
+thinking: 0.783
+-doer: 0.766

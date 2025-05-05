@@ -1,0 +1,28 @@
+Title: existence-process
+
+Head Concept Name: existence
+Modifier Concept Name: process
+
+
+
+
+
+T(modifier), require_tools, 0.817
+T(modifier), affect, 0.809
+T(modifier), manage, 0.809
+T(modifier), psychology, 0.802
+T(modifier), look_hung, 0.799
+T(modifier), physical_entity, 0.795
+T(modifier), body_part, 0.794
+T(modifier), manufacturing, 0.794
+
+T(head), -inexistence, 0.869
+T(head), -nonexistence, 0.859
+T(head), awful_or_absurd, 0.825
+T(head), -nothingness, 0.804
+T(head), -defunction, 0.794
+T(head), -absence, 0.791
+
+
+Result: {"require_tools": 0.817, "affect": 0.809, "manage": 0.809, "psychology": 0.802, "-inexistence": 0.869, "-nonexistence": 0.859, "awful_or_absurd": 0.825, "-nothingness": 0.804, "@scenario_probability": 0.0015985060021236213}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0.0015985060021236213]

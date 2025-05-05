@@ -1,0 +1,8 @@
+-use_metric_system_of_measurement: 0.811
+us: 0.792
+populations: 0.791
+bring_on_other_states: 0.791
+channel_islands: 0.781
+historical: 0.759
+sontrolled_by_government: 0.751
+much_bigger_than_humans: 0.739

@@ -1,0 +1,8 @@
+vote: 0.899
+choice: 0.856
+predestination: 0.838
+result_in_new_leader: 0.799
+require_run_off: 0.784
+status: 0.778
+theology: 0.75
+opportunity_to_vote: 0.748

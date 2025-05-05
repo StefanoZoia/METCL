@@ -1,0 +1,24 @@
+Title: immorality-degeneration
+
+Head Concept Name: immorality
+Modifier Concept Name: degeneration
+
+
+
+
+
+T(modifier), transformation, 0.827
+T(modifier), process, 0.815
+
+T(head), quality, 0.825
+T(head), reliable, 0.778
+T(head), relative_while_quantity_fixed, 0.761
+T(head), attribute, 0.744
+T(head), more_important_than_quantity, 0.742
+T(head), very_very_bad, 0.742
+T(head), better_than_quantity, 0.732
+T(head), providing_opposition_to_good, 0.717
+
+
+Result: {"transformation": 0.827, "process": 0.815, "quality": 0.825, "reliable": 0.778, "relative_while_quantity_fixed": 0.761, "attribute": 0.744, "more_important_than_quantity": 0.742, "very_very_bad": 0.742, "@scenario_probability": 1.0227825181378911}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1.0227825181378911]

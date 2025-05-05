@@ -1,0 +1,5 @@
+/c/en/passions	FormOf	/c/en/passion	1.0	0.775
+/c/en/saturnalia	RelatedTo	/c/en/passions	1.0	0.116
+/c/en/passions	RelatedTo	/c/en/passion	1.0	0.775
+/c/en/temperance	RelatedTo	/c/en/passions	1.0	0.214
+/c/en/passions	FormOf	/c/en/passion	1.0	0.775

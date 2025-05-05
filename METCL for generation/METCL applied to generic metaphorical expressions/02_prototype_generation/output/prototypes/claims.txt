@@ -1,0 +1,8 @@
+assertion: 0.7884
+affirm: 0.774
+request: 0.7542
+demand: 0.7505999999999999
+right: 0.7272000000000001
+patent: 0.7173
+necessitate: 0.7155
+legal: 0.7020000000000001

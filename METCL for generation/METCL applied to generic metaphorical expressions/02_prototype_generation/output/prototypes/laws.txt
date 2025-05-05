@@ -1,0 +1,7 @@
+rules: 0.905
+rules_for_conduct: 0.889
+regulate_behavior: 0.844
+different_from_state_to_state: 0.834
+guides: 0.802
+read_by_humans: 0.672
+made_to_broken: 0.655

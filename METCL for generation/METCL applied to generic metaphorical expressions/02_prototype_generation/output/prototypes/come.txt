@@ -1,0 +1,8 @@
+arrive: 0.886
+happen: 0.859
+be: 0.856
+originate: 0.855
+exist: 0.834
+-go: 0.829
+become: 0.828
+result: 0.818

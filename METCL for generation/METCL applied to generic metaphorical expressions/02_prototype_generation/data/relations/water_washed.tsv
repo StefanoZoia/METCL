@@ -1,0 +1,5 @@
+/c/en/washed	Synonym	/c/en/water_washed	2.0	0.007
+/c/en/water_washed	SimilarTo	/c/en/clean	2.0	0.094
+/c/en/clean	SimilarTo	/c/en/water_washed	2.0	0.094
+/c/en/inhospitable	SimilarTo	/c/en/water_washed	2.0	-0.069
+/c/en/water_washed	SimilarTo	/c/en/inhospitable	2.0	-0.069

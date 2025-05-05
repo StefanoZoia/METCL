@@ -1,0 +1,16 @@
+/c/en/mother_nature	RelatedTo	/c/en/demeter	1.0	0.247
+/c/en/mother	RelatedTo	/c/en/mother_nature	1.0	0.315
+/c/en/mother_nature	RelatedTo	/c/en/fertility	1.0	0.285
+/c/en/jack_frost	RelatedTo	/c/en/mother_nature	1.0	0.025
+/c/en/mother_nature	RelatedTo	/c/en/woman	1.0	0.154
+/c/en/mother_earth	RelatedTo	/c/en/mother_nature	1.0	0.673
+/c/en/mother_nature	RelatedTo	/c/en/fecundity	1.0	0.312
+/c/en/mother_nature	RelatedTo	/c/en/nature	1.0	0.486
+/c/en/mother_nature	RelatedTo	/c/en/mother_earth	1.0	0.673
+/c/en/mother_nature	DerivedFrom	/c/en/nature	1.0	0.486
+/c/en/mother_nature	RelatedTo	/c/en/gaia	1.0	0.333
+/c/en/mother_nature	RelatedTo	/c/en/personification	1.0	0.182
+/c/en/old_man_winter	RelatedTo	/c/en/mother_nature	1.0	0.05
+/c/en/ullr	RelatedTo	/c/en/mother_nature	1.0	0.449
+/c/en/mother_nature	RelatedTo	/c/en/rhea	1.0	0.198
+/c/en/mother_nature	RelatedTo	/c/en/goddess	1.0	0.378

@@ -1,0 +1,30 @@
+Title: parent-country
+
+Head Concept Name: parent
+Modifier Concept Name: country
+
+
+
+
+
+T(modifier), a, 0.848
+T(modifier), world, 0.842
+T(modifier), america, 0.834
+T(modifier), region, 0.822
+T(modifier), honor_soldier, 0.81
+T(modifier), go_to_war_with_another_country, 0.8
+T(modifier), globe_map, 0.797
+T(modifier), asia, 0.797
+
+T(head), homeschool, 0.909
+T(head), school_own_children, 0.865
+T(head), school_child, 0.865
+T(head), feed_child, 0.854
+T(head), wave_to_children, 0.851
+T(head), name_child, 0.843
+T(head), name_baby, 0.843
+T(head), name_children, 0.843
+
+
+Result: {"a": 0.848, "homeschool": 0.909, "school_own_children": 0.865, "school_child": 0.865, "feed_child": 0.854, "wave_to_children": 0.851, "name_baby": 0.843, "name_children": 0.843, "@scenario_probability": 3.418967973015418e-05}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 1, 1, 3.418967973015418e-05]

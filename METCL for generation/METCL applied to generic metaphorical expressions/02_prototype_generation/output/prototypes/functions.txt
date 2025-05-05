@@ -1,0 +1,8 @@
+duty: 0.7542
+utility: 0.7479
+outsourced: 0.7371
+relation: 0.7299000000000001
+-dysfunction: 0.7245
+mechanism: 0.7236
+recursive_function: 0.7236
+social_gathering: 0.7209000000000001

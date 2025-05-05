@@ -1,0 +1,25 @@
+Title: immorality-impurity
+
+Head Concept Name: immorality
+Modifier Concept Name: impurity
+
+
+
+
+
+T(modifier), -purity, 0.877
+T(modifier), waste, 0.829
+T(modifier), condition, 0.805
+
+T(head), quality, 0.825
+T(head), reliable, 0.778
+T(head), relative_while_quantity_fixed, 0.761
+T(head), attribute, 0.744
+T(head), more_important_than_quantity, 0.742
+T(head), very_very_bad, 0.742
+T(head), better_than_quantity, 0.732
+T(head), providing_opposition_to_good, 0.717
+
+
+Result: {"-purity": 0.877, "waste": 0.829, "condition": 0.805, "quality": 0.825, "reliable": 0.778, "relative_while_quantity_fixed": 0.761, "attribute": 0.744, "very_very_bad": 0.742, "@scenario_probability": 0.30880617988882125}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0.30880617988882125]

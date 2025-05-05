@@ -1,0 +1,6 @@
+cinema: 0.883
+telecommunication: 0.819
+juggling: 0.789
+botany: 0.755
+medicine: 0.733
+computing: 0.73

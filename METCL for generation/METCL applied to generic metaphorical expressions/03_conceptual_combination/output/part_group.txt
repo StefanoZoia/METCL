@@ -1,0 +1,30 @@
+Title: part-group
+
+Head Concept Name: part
+Modifier Concept Name: group
+
+
+
+
+
+T(modifier), group_theory, 0.836
+T(modifier), like_club_but_without_officers, 0.828
+T(modifier), honor_individual, 0.825
+T(modifier), set, 0.822
+T(modifier), classify, 0.821
+T(modifier), semigroup, 0.82
+T(modifier), molecule, 0.816
+T(modifier), include_individuals, 0.801
+
+T(head), unit, 0.829
+T(head), object, 0.824
+T(head), concept, 0.81
+T(head), meronymy, 0.809
+T(head), hair, 0.804
+T(head), section, 0.804
+T(head), -entire, 0.797
+T(head), line, 0.793
+
+
+Result: {"group_theory": 0.836, "like_club_but_without_officers": 0.828, "honor_individual": 0.825, "set": 0.822, "classify": 0.821, "semigroup": 0.82, "unit": 0.829, "object": 0.824, "@scenario_probability": 4.630602754440366e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 4.630602754440366e-05]

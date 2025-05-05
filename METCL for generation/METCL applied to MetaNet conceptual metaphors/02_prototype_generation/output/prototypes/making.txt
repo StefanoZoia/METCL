@@ -1,0 +1,6 @@
+creating_artifact: 0.857
+component: 0.799
+metal_rod: 0.746
+tool: 0.687
+-fight: 0.685
+-wash: 0.658

@@ -1,0 +1,8 @@
+possibility: 0.882
+situation: 0.785
+fork_in_road: 0.774
+nonstandard: 0.747
+jumping_at_chance: 0.742
+euro_english: 0.735
+-door: 0.705
+artificial_satellite: 0.698

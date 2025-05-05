@@ -1,0 +1,8 @@
+prosperity: 0.87
+-failure: 0.867
+attainment: 0.856
+effort: 0.855
+winning: 0.855
+extra_effort: 0.823
+reward: 0.822
+in_eyes_of_beholder: 0.816

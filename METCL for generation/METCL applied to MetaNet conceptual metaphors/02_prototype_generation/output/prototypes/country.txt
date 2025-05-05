@@ -1,0 +1,8 @@
+a: 0.848
+world: 0.842
+america: 0.834
+region: 0.822
+honor_soldier: 0.81
+go_to_war_with_another_country: 0.8
+globe_map: 0.797
+asia: 0.797

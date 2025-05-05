@@ -1,0 +1,8 @@
+-cold: 0.926
+warm_colder_than: 0.844
+burn_hand: 0.82
+-cool: 0.814
+mean_sexy: 0.811
+stove: 0.806
+steam: 0.793
+boiling_water: 0.788

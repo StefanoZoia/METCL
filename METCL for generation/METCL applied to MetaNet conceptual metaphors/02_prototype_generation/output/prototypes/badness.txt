@@ -1,0 +1,3 @@
+intensity: 0.836
+moral_quality: 0.77
+evaluative_quantity: 0.747

@@ -1,0 +1,8 @@
+/c/en/financial_instrument_trading	IsA	/c/en/financial_transaction	1.0	0.565
+/c/en/getting_money_from	HasPrerequisite	/c/en/financial_transaction	1.0	0.047
+/c/en/financial_transaction	IsA	/c/en/buying	1.0	0.015
+/c/en/exchange	RelatedTo	/c/en/financial_transaction	0.2599999999999998	0.101
+/c/en/pay	RelatedTo	/c/en/financial_transaction	0.2589999999999999	-0.093
+/c/en/payment	RelatedTo	/c/en/financial_transaction	0.22299999999999986	0.059
+/c/en/buy	RelatedTo	/c/en/financial_transaction	0.18900000000000006	-0.024
+/c/en/bribe	RelatedTo	/c/en/financial_transaction	0.18400000000000016	-0.069

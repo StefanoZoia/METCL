@@ -1,0 +1,8 @@
+phrase: 0.86
+mean_more_than_one_thing: 0.853
+mean_things: 0.853
+language: 0.848
+mean: 0.827
+dictionary: 0.826
+kilobyte: 0.823
+statement: 0.822

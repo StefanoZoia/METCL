@@ -1,0 +1,8 @@
+-reward: 0.859
+jail_time: 0.846
+prison: 0.814
+jail: 0.811
+deterrent_against_doing_wrong_things: 0.805
+social_control: 0.803
+sending_criminal_to_prison: 0.777
+activity_applied_to_criminals: 0.752

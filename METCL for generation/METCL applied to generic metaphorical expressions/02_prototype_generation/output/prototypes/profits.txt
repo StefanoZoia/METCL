@@ -1,0 +1,2 @@
+equal_expenses: 0.851
+cash_in: 0.756

@@ -1,0 +1,30 @@
+Title: got-control
+
+Head Concept Name: got
+Modifier Concept Name: control
+
+
+
+
+
+T(modifier), mechanism, 0.833
+T(modifier), test, 0.822
+T(modifier), physiology, 0.814
+T(modifier), bodily_process, 0.809
+T(modifier), activity, 0.809
+T(modifier), relation, 0.806
+T(modifier), see, 0.796
+T(modifier), power, 0.794
+
+T(head), aave, 0.765
+T(head), pharmacology, 0.763
+T(head), nz, 0.752
+T(head), euphemistic, 0.752
+T(head), -fell, 0.752
+T(head), slang, 0.751
+T(head), southern_us, 0.744
+T(head), australian, 0.743
+
+
+Result: {"mechanism": 0.833, "test": 0.822, "physiology": 0.814, "bodily_process": 0.809, "activity": 0.809, "relation": 0.806, "see": 0.796, "aave": 0.765, "@scenario_probability": 0.00021841922226189622}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0.00021841922226189622]

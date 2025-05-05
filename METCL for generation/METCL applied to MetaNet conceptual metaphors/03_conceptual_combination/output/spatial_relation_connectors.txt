@@ -1,0 +1,26 @@
+Title: spatial_relation-connectors
+
+Head Concept Name: spatial_relation
+Modifier Concept Name: connectors
+
+
+
+
+
+T(modifier), cable, 0.745
+T(modifier), instrumentality, 0.688
+T(modifier), computing, 0.674
+T(modifier), non_powered_device, 0.661
+
+T(head), attitude, 0.764
+T(head), logic, 0.763
+T(head), assert, 0.752
+T(head), phrase, 0.752
+T(head), orientation, 0.751
+T(head), verb, 0.743
+T(head), point, 0.742
+T(head), assumption, 0.737
+
+
+Result: {"cable": 0.745, "attitude": 0.764, "logic": 0.763, "assert": 0.752, "phrase": 0.752, "orientation": 0.751, "verb": 0.743, "point": 0.742, "@scenario_probability": 0.09220832804014875}
+Scenario: [1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.09220832804014875]

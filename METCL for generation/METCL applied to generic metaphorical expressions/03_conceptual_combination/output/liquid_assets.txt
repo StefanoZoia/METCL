@@ -1,0 +1,28 @@
+Title: liquid-assets
+
+Head Concept Name: liquid
+Modifier Concept Name: assets
+
+
+
+
+
+T(modifier), possession, 0.838
+T(modifier), equal_liabilities, 0.805
+T(modifier), finance, 0.803
+T(modifier), legal, 0.771
+T(modifier), company, 0.707
+T(modifier), house, 0.671
+
+T(head), liquid, 0.915
+T(head), fluid, 0.896
+T(head), flow, 0.878
+T(head), -gas, 0.861
+T(head), container, 0.85
+T(head), substance, 0.847
+T(head), clear, 0.838
+T(head), melting_solid, 0.838
+
+
+Result: {"possession": 0.838, "liquid": 0.915, "fluid": 0.896, "flow": 0.878, "-gas": 0.861, "container": 0.85, "substance": 0.847, "melting_solid": 0.838, "@scenario_probability": 0.004304592028564209}
+Scenario: [1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 0.004304592028564209]

@@ -1,0 +1,24 @@
+Title: communication-showing
+
+Head Concept Name: communication
+Modifier Concept Name: showing
+
+
+
+
+
+T(modifier), theater_hall, 0.702
+T(modifier), pregnant_lady, 0.683
+
+T(head), sender_and_receiver, 0.866
+T(head), connection, 0.85
+T(head), act, 0.815
+T(head), e_mail, 0.81
+T(head), cellphone, 0.804
+T(head), satelite, 0.804
+T(head), phone, 0.801
+T(head), abstraction, 0.799
+
+
+Result: {"theater_hall": 0.702, "sender_and_receiver": 0.866, "connection": 0.85, "act": 0.815, "e_mail": 0.81, "cellphone": 0.804, "satelite": 0.804, "phone": 0.801, "@scenario_probability": 1.125424824901014}
+Scenario: [1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1.125424824901014]

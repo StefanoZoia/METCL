@@ -1,0 +1,8 @@
+meteorology: 0.763
+computer_science: 0.733
+keeping_things_orderly_and_tidy: 0.696
+finding_lost_item: 0.691
+getting_job: 0.677
+getting_fit: 0.677
+seeing_idea_become_reality: 0.675
+heart: 0.672

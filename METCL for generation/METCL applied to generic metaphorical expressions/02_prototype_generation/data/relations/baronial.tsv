@@ -1,0 +1,11 @@
+/c/en/baronial	SimilarTo	/c/en/impressive	2.0	0.409
+/c/en/stately	Synonym	/c/en/baronial	2.0	0.532
+/c/en/imposing	Synonym	/c/en/baronial	2.0	0.338
+/c/en/noble	Synonym	/c/en/baronial	2.0	0.348
+/c/en/impressive	SimilarTo	/c/en/baronial	2.0	0.409
+/c/en/baronially	DerivedFrom	/c/en/baronial	1.0	1.0
+/c/en/ducal	RelatedTo	/c/en/baronial	1.0	0.481
+/c/en/baronially	RelatedTo	/c/en/baronial	1.0	1.0
+/c/en/baronial	RelatedTo	/c/en/baron	1.0	0.397
+/c/en/baron	RelatedTo	/c/en/baronial	1.0	0.397
+/c/en/scottish_baronial	DerivedFrom	/c/en/baronial	1.0	0.263

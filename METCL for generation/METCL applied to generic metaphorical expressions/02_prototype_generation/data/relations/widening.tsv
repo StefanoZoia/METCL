@@ -1,0 +1,15 @@
+/c/en/widening	IsA	/c/en/increase	2.0	0.304
+/c/en/widening	IsA	/c/en/change_of_shape	2.0	0.078
+/c/en/broadening	Synonym	/c/en/widening	2.0	0.814
+/c/en/widening	Synonym	/c/en/turnout	2.0	0.145
+/c/en/broadening	Synonym	/c/en/widening	2.0	0.814
+/c/en/widenings	RelatedTo	/c/en/widening	1.0	1.0
+/c/en/widening	RelatedTo	/c/en/grow	1.0	0.202
+/c/en/widening	FormOf	/c/en/widen	1.0	0.777
+/c/en/widening	FormOf	/c/en/widen	1.0	0.777
+/c/en/bout	RelatedTo	/c/en/widening	1.0	0.054
+/c/en/widening	RelatedTo	/c/en/wider	1.0	0.607
+/c/en/widenings	FormOf	/c/en/widening	1.0	1.0
+/c/en/vasodilation	RelatedTo	/c/en/widening	1.0	0.29
+/c/en/widening	DerivedFrom	/c/en/widen	1.0	0.777
+/c/en/widening	RelatedTo	/c/en/widen	1.0	0.777

@@ -1,0 +1,8 @@
+noise: 0.863
+sing: 0.847
+sound: 0.842
+make_noise: 0.802
+be: 0.8
+niš: 0.752
+british: 0.746
+uk: 0.736

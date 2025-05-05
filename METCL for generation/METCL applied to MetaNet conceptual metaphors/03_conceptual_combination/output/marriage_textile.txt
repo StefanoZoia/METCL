@@ -1,0 +1,30 @@
+Title: marriage-textile
+
+Head Concept Name: marriage
+Modifier Concept Name: textile
+
+
+
+
+
+T(modifier), woven_fabric, 0.892
+T(modifier), clothing, 0.859
+T(modifier), factory, 0.855
+T(modifier), carpets, 0.852
+T(modifier), clothing_and_upholstery, 0.849
+T(modifier), make_clothing, 0.848
+T(modifier), fabric_store, 0.832
+T(modifier), textile_factory, 0.823
+
+T(head), wedding, 0.927
+T(head), marital_status, 0.911
+T(head), -divorce, 0.893
+T(head), cohabitation_situation, 0.842
+T(head), union, 0.834
+T(head), family, 0.828
+T(head), ritual, 0.821
+T(head), law, 0.816
+
+
+Result: {"woven_fabric": 0.892, "clothing": 0.859, "factory": 0.855, "carpets": 0.852, "clothing_and_upholstery": 0.849, "wedding": 0.927, "marital_status": 0.911, "-divorce": 0.893, "@scenario_probability": 2.40000197929113e-05}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 2.40000197929113e-05]

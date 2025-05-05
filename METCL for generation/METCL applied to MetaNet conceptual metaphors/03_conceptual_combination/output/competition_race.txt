@@ -1,0 +1,30 @@
+Title: competition-race
+
+Head Concept Name: competition
+Modifier Concept Name: race
+
+
+
+
+
+T(modifier), contest, 0.859
+T(modifier), compete, 0.858
+T(modifier), significant_in_genetics, 0.829
+T(modifier), competition_in, 0.82
+T(modifier), group, 0.804
+T(modifier), act, 0.801
+T(modifier), cars, 0.801
+T(modifier), move, 0.788
+
+T(head), competing, 0.881
+T(head), natural, 0.825
+T(head), business_relation, 0.803
+T(head), group_action, 0.802
+T(head), conflict, 0.788
+T(head), -cooperation, 0.78
+T(head), riding_bicycle, 0.776
+T(head), sports, 0.77
+
+
+Result: {"contest": 0.859, "compete": 0.858, "significant_in_genetics": 0.829, "competition_in": 0.82, "group": 0.804, "competing": 0.881, "natural": 0.825, "business_relation": 0.803, "@scenario_probability": 9.390568515082819e-05}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 9.390568515082819e-05]

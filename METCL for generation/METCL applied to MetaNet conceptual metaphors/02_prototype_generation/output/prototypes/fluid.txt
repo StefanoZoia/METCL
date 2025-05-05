@@ -1,0 +1,8 @@
+gas_or_liquid: 0.844
+container: 0.837
+substance: 0.835
+typically_in_plural: 0.746
+specifically: 0.746
+medicine: 0.744
+urinating: 0.729
+drinks: 0.715

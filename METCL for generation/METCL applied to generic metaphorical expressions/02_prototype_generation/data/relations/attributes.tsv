@@ -1,0 +1,14 @@
+/c/en/attributes	IsA	/c/en/properties	2.0	0.447
+/c/en/priest_king	RelatedTo	/c/en/attributes	1.0	0.073
+/c/en/attributes	RelatedTo	/c/en/attribute	1.0	0.809
+/c/en/aretalogy	RelatedTo	/c/en/attributes	1.0	0.047
+/c/en/prose_poem	RelatedTo	/c/en/attributes	1.0	0.094
+/c/en/workout_warrior	RelatedTo	/c/en/attributes	1.0	0.041
+/c/en/blasphemy	RelatedTo	/c/en/attributes	1.0	-0.024
+/c/en/personify	RelatedTo	/c/en/attributes	1.0	0.333
+/c/en/attributes	RelatedTo	/c/en/attribute	1.0	0.809
+/c/en/attributes	FormOf	/c/en/attribute	1.0	0.809
+/c/en/attributes	FormOf	/c/en/attribute	1.0	0.809
+/c/en/attributes	IsA	/c/en/qualities	1.0	0.63
+/c/en/qualifier	RelatedTo	/c/en/attributes	1.0	0.217
+/c/en/quality	RelatedTo	/c/en/attributes	0.12699999999999978	0.241

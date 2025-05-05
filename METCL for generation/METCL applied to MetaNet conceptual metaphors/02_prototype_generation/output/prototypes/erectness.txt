@@ -1,0 +1,8 @@
+stance: 0.814
+position: 0.7965
+-flaccid: 0.7209000000000001
+heraldry: 0.7029000000000001
+climbing: 0.6876
+scotland: 0.6741
+specifically: 0.6543
+-soft: 0.5346

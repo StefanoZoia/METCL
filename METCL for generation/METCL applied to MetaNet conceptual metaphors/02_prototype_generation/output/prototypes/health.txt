@@ -1,0 +1,8 @@
+wellbeing: 0.903
+condition: 0.839
+good: 0.835
+important: 0.825
+eating_vegetables: 0.824
+eating_apple: 0.824
+-sickness: 0.809
+everyone: 0.801

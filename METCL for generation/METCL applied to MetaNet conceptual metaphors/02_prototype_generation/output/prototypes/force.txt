@@ -1,0 +1,8 @@
+influence: 0.85
+thrust: 0.846
+act: 0.819
+intensity: 0.819
+organization: 0.813
+social_group: 0.81
+physical_phenomenon: 0.803
+mass: 0.774

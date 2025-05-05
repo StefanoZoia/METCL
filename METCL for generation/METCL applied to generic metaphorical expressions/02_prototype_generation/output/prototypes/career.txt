@@ -1,0 +1,8 @@
+occupation: 0.866
+travel: 0.81
+progress: 0.802
+falconry: 0.729
+-term: 0.705
+-short: 0.696
+-short_term: 0.696
+going_to_work: 0.642

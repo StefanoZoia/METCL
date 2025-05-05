@@ -1,0 +1,10 @@
+/c/en/kills	FormOf	/c/en/kill	2.0	0.895
+/c/en/kills	FormOf	/c/en/kill	1.0	0.895
+/c/en/vokills	DerivedFrom	/c/en/kills	1.0	0.078
+/c/en/kills	FormOf	/c/en/kill	1.0	0.895
+/c/en/kills	FormOf	/c/en/kill	1.0	0.895
+/c/en/kills	IsA	/c/en/band	0.5	0.102
+/c/en/kills	genre	/c/en/garage_rock	0.5	0.057
+/c/en/kills	genre	/c/en/indie_rock	0.5	0.188
+/c/en/kills	Synonym	/c/en/kills	0.5	1.0
+/c/en/bullet	RelatedTo	/c/en/kills	0.1080000000000001	0.23

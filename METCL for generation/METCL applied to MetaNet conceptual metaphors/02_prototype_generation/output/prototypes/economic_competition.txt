@@ -1,0 +1,8 @@
+competing: 0.7929
+natural: 0.7424999999999999
+business_relation: 0.7227
+group_action: 0.7218000000000001
+conflict: 0.7092
+-cooperation: 0.7020000000000001
+riding_bicycle: 0.6984
+sports: 0.6930000000000001

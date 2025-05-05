@@ -1,0 +1,8 @@
+lawn: 0.883
+green: 0.88
+undesirable: 0.861
+grow_in_lawns_and_gardens: 0.858
+weed_garden: 0.85
+difficult_to_eliminate: 0.824
+plants: 0.819
+-grass: 0.815

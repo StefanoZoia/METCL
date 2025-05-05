@@ -1,0 +1,25 @@
+Title: attribute-entity
+
+Head Concept Name: attribute
+Modifier Concept Name: entity
+
+
+
+
+
+T(modifier), databases, 0.775
+T(modifier), television_episode, 0.747
+T(modifier), south_park, 0.726
+
+T(head), describing, 0.892
+T(head), describe, 0.879
+T(head), describe_characteristic_of, 0.845
+T(head), identifying_specific_characteristics, 0.824
+T(head), abstraction, 0.813
+T(head), identification, 0.81
+T(head), work_better, 0.805
+T(head), description, 0.793
+
+
+Result: {"databases": 0.775, "describing": 0.892, "describe": 0.879, "describe_characteristic_of": 0.845, "identifying_specific_characteristics": 0.824, "abstraction": 0.813, "identification": 0.81, "work_better": 0.805, "@scenario_probability": 0.3218490465423811}
+Scenario: [1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.3218490465423811]

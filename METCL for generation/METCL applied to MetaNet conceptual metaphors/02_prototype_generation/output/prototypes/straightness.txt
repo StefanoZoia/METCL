@@ -1,0 +1,5 @@
+-gayness: 0.872
+curvature: 0.842
+shape: 0.824
+-homosexuality: 0.812
+tangible_thing: 0.736

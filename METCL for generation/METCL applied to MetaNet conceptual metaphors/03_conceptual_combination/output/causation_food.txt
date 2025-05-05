@@ -1,0 +1,30 @@
+Title: causation-food
+
+Head Concept Name: causation
+Modifier Concept Name: food
+
+
+
+
+
+T(modifier), nourishment, 0.92
+T(modifier), eating, 0.908
+T(modifier), sustenance, 0.906
+T(modifier), nourishing, 0.875
+T(modifier), resturant, 0.872
+T(modifier), energy, 0.871
+T(modifier), necessary_to_live, 0.865
+T(modifier), feed_animals, 0.863
+
+T(head), origin, 0.755
+T(head), relation, 0.751
+T(head), make, 0.749
+T(head), justification, 0.747
+T(head), -effect, 0.74
+T(head), act, 0.73
+T(head), suffer_setback, 0.721
+T(head), succeed_effect, 0.715
+
+
+Result: {"nourishment": 0.92, "eating": 0.908, "sustenance": 0.906, "nourishing": 0.875, "resturant": 0.872, "energy": 0.871, "necessary_to_live": 0.865, "origin": 0.755, "@scenario_probability": 0.00039719882759068877}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0.00039719882759068877]

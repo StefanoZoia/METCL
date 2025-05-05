@@ -1,0 +1,16 @@
+/c/en/glimmering	Synonym	/c/en/inkling	2.0	0.32
+/c/en/intimation	Synonym	/c/en/inkling	2.0	0.583
+/c/en/glimmer	Synonym	/c/en/inkling	2.0	0.385
+/c/en/inkling	IsA	/c/en/suggestion	2.0	0.316
+/c/en/glimpse	RelatedTo	/c/en/inkling	1.0	0.371
+/c/en/inklings	FormOf	/c/en/inkling	1.0	0.836
+/c/en/inkling	RelatedTo	/c/en/desire	1.0	0.19
+/c/en/inkling	FormOf	/c/en/inkle	1.0	0.436
+/c/en/inkling	RelatedTo	/c/en/suspicion	1.0	0.459
+/c/en/inkling	RelatedTo	/c/en/inkle	1.0	0.436
+/c/en/inkling	RelatedTo	/c/en/hint	1.0	0.563
+/c/en/inklings	RelatedTo	/c/en/inkling	1.0	0.836
+/c/en/inkling	IsA	/c/en/partially_mental_event	1.0	-0.089
+/c/en/inkling	HasContext	/c/en/dialect	1.0	0.043
+/c/en/inkling	RelatedTo	/c/en/inclination	1.0	0.255
+/c/en/inkling	DerivedFrom	/c/en/inkle	1.0	0.436

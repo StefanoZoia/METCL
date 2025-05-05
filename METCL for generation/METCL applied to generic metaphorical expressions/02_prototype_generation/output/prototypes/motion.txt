@@ -1,0 +1,8 @@
+proposal: 0.848
+energy: 0.818
+subject: 0.8
+state: 0.793
+-moving: 0.785
+locomotive: 0.772
+-standstill: 0.766
+law: 0.765

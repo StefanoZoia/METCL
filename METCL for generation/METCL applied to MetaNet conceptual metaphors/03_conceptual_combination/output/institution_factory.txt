@@ -1,0 +1,26 @@
+Title: institution-factory
+
+Head Concept Name: institution
+Modifier Concept Name: factory
+
+
+
+
+
+T(modifier), manufacture_things, 0.917
+T(modifier), manufacture_goods, 0.883
+T(modifier), produce_cars, 0.882
+T(modifier), plant, 0.873
+T(modifier), industrial_area, 0.869
+T(modifier), bottle_wine, 0.848
+T(modifier), bottle_medicine, 0.848
+T(modifier), bottle_water, 0.848
+
+T(head), establishment, 0.878
+T(head), organization, 0.851
+T(head), custom, 0.806
+T(head), department, 0.744
+
+
+Result: {"manufacture_things": 0.917, "manufacture_goods": 0.883, "produce_cars": 0.882, "plant": 0.873, "industrial_area": 0.869, "bottle_water": 0.848, "establishment": 0.878, "organization": 0.851, "@scenario_probability": 0.03938958851096202}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 0, 0, 0.03938958851096202]

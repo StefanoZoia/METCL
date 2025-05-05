@@ -1,0 +1,8 @@
+cognitive_state: 0.818
+result_in_taking_risks: 0.801
+-ignorance: 0.797
+emotion: 0.788
+examine_thing: 0.784
+what: 0.781
+find_information: 0.775
+learn: 0.757

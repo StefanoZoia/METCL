@@ -1,0 +1,30 @@
+Title: violence-fluid
+
+Head Concept Name: violence
+Modifier Concept Name: fluid
+
+
+
+
+
+T(modifier), gas_or_liquid, 0.844
+T(modifier), container, 0.837
+T(modifier), substance, 0.835
+T(modifier), typically_in_plural, 0.746
+T(modifier), specifically, 0.746
+T(modifier), medicine, 0.744
+T(modifier), urinating, 0.729
+T(modifier), drinks, 0.715
+
+T(head), aggression, 0.87
+T(head), anger_pacifists, 0.869
+T(head), turbulence, 0.844
+T(head), terrorism, 0.843
+T(head), dangerous, 0.839
+T(head), war, 0.838
+T(head), includes_death, 0.834
+T(head), wars, 0.801
+
+
+Result: {"gas_or_liquid": 0.844, "container": 0.837, "aggression": 0.87, "anger_pacifists": 0.869, "turbulence": 0.844, "terrorism": 0.843, "dangerous": 0.839, "war": 0.838, "@scenario_probability": 0.0001857588836752443}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.0001857588836752443]

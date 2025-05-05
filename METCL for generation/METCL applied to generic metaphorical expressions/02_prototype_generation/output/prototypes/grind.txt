@@ -1,0 +1,8 @@
+crush: 0.855
+dance: 0.814
+break_up: 0.812
+degree: 0.805
+make: 0.793
+mean_to_rub_against: 0.79
+shape: 0.788
+metalworking: 0.769

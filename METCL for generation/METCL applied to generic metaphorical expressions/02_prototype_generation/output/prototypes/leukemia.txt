@@ -1,0 +1,3 @@
+cancer: 0.906
+disease: 0.81
+one_impairment_person_might: 0.675

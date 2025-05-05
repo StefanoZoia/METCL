@@ -1,0 +1,8 @@
+/c/en/stardom	IsA	/c/en/high_status	2.0	-0.046
+/c/en/precedence	IsA	/c/en/high_status	2.0	0.032
+/c/en/high_status	IsA	/c/en/status	2.0	0.008
+/c/en/eminence	IsA	/c/en/high_status	2.0	-0.015
+/c/en/center_stage	IsA	/c/en/high_status	2.0	0.021
+/c/en/championship	IsA	/c/en/high_status	2.0	0.052
+/c/en/seniority	IsA	/c/en/high_status	2.0	0.012
+/c/en/royal	RelatedTo	/c/en/high_status	0.17600000000000016	0.035

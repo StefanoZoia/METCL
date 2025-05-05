@@ -1,0 +1,6 @@
+drug_user: 0.7911
+enthusiast: 0.7767000000000001
+use: 0.7632
+habituate: 0.7605
+need_drugs: 0.7578
+smoke: 0.725

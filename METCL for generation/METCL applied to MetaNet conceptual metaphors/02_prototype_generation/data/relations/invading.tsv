@@ -1,0 +1,10 @@
+/c/en/invading	Synonym	/c/en/incursive	2.0	0.453
+/c/en/noninvading	RelatedTo	/c/en/invading	1.0	0.204
+/c/en/invading	IsA	/c/en/inhabiting	1.0	0.442
+/c/en/board	RelatedTo	/c/en/invading	1.0	-0.067
+/c/en/conquering_nation	HasSubevent	/c/en/invading	1.0	0.558
+/c/en/hashshashin	RelatedTo	/c/en/invading	1.0	-0.002
+/c/en/noninvading	DerivedFrom	/c/en/invading	1.0	0.204
+/c/en/invading	IsA	/c/en/physical_event	1.0	0.014
+/c/en/invading	FormOf	/c/en/invade	1.0	0.759
+/c/en/army	RelatedTo	/c/en/invading	0.10599999999999987	0.171

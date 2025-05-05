@@ -1,0 +1,26 @@
+Title: knowing-touching
+
+Head Concept Name: knowing
+Modifier Concept Name: touching
+
+
+
+
+
+T(modifier), treatment, 0.759
+T(modifier), event_involving_physical_contact, 0.754
+T(modifier), archaic, 0.738
+T(modifier), action_performed_by_animals, 0.731
+
+T(head), remembering, 0.822
+T(head), believing, 0.807
+T(head), higher_cognitive_process, 0.796
+T(head), -ignorance, 0.786
+T(head), determining_truth, 0.767
+T(head), learning, 0.763
+T(head), intentional_mental_state, 0.759
+T(head), reading, 0.747
+
+
+Result: {"treatment": 0.759, "remembering": 0.822, "believing": 0.807, "higher_cognitive_process": 0.796, "-ignorance": 0.786, "determining_truth": 0.767, "learning": 0.763, "intentional_mental_state": 0.759, "@scenario_probability": 0.061375298782538036}
+Scenario: [1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.061375298782538036]

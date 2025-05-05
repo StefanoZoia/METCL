@@ -1,0 +1,30 @@
+Title: circle-friends
+
+Head Concept Name: circle
+Modifier Concept Name: friends
+
+
+
+
+
+T(modifier), friend's_house, 0.916
+T(modifier), talking_about, 0.898
+T(modifier), borrow_money, 0.85
+T(modifier), meet_over_lunch, 0.844
+T(modifier), fraternity_house, 0.844
+T(modifier), meet_for_lunch, 0.844
+T(modifier), meet_for_coffee, 0.844
+T(modifier), lend_tools, 0.841
+
+T(head), round, 0.928
+T(head), ellipse, 0.873
+T(head), shape, 0.843
+T(head), -square, 0.84
+T(head), rotating_mechanism, 0.836
+T(head), travel, 0.815
+T(head), seating, 0.814
+T(head), theater, 0.814
+
+
+Result: {"friend's_house": 0.916, "talking_about": 0.898, "borrow_money": 0.85, "fraternity_house": 0.844, "meet_for_lunch": 0.844, "meet_for_coffee": 0.844, "round": 0.928, "ellipse": 0.873, "@scenario_probability": 2.227220003333307e-05}
+Scenario: [1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 2.227220003333307e-05]

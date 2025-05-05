@@ -1,0 +1,4 @@
+-wealthy: 0.787
+-rich: 0.759
+-luxurious: 0.735
+-luxury: 0.561

@@ -1,0 +1,8 @@
+experience: 0.946
+perceive: 0.859
+happening: 0.82
+content: 0.813
+change: 0.809
+avoid_mistakes: 0.808
+-inexperience: 0.804
+education: 0.802

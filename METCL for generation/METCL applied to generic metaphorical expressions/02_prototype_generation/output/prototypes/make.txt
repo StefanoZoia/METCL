@@ -1,0 +1,8 @@
+create_from_raw_material: 0.857
+perpetrate: 0.84
+constitute: 0.834
+cause: 0.832
+guarantee: 0.826
+reach: 0.826
+develop: 0.824
+change: 0.822

@@ -1,0 +1,8 @@
+money: 0.908
+bribe: 0.877
+payment: 0.872
+buy_things_with: 0.868
+currency: 0.866
+giving_away: 0.866
+bank: 0.851
+pay: 0.848
