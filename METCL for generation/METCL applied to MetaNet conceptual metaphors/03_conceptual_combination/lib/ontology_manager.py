@@ -130,7 +130,8 @@ class OntologyManager:
                 sync_reasoner(self.my_world, debug = 0)
         except subprocess.CalledProcessError as inst:
             return False
-        except:
+        except Exception as e:
+            print(f"Unexpeced error during reasoning")
             return False
         # if no exceptions are raised, the ontology is consistent
         return True    

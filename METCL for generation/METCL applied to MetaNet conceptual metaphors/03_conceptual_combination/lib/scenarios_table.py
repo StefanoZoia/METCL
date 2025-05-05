@@ -104,8 +104,6 @@ class Table:
     # checks that the scenario is consistent
     def _is_consistent(self, scenario):
         onto = om.OntologyManager(self.data.typical_attrs, self.data.attrs, scenario)
-        if not onto.is_consistent():
-            print(f"inconsistent {scenario}")
         return onto.is_consistent()
     
     # checks that no selected properties from the modifier

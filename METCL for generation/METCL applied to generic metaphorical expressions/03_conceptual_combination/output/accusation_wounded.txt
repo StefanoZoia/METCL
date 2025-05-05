@@ -18,3 +18,5 @@ T(head), film, 0.712
 
 Result: {"people": 0.813, "physics": 0.748, "assertion": 0.885, "charge": 0.878, "legal": 0.736, "@scenario_probability": 10.016136446570497}
 Scenario: [1, 1, 1, 1, 1, 0, 10.016136446570497]
+Result: {"people": 0.813, "physics": 0.748, "assertion": 0.885, "charge": 0.878, "legal": 0.736, "@scenario_probability": 10.016136446570497}
+Scenario: [1, 1, 1, 1, 1, 0, 10.016136446570497]
