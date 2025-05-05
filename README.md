@@ -2,7 +2,7 @@
 
 ### Description
 
-This repository contains the data and the code described in the paper "The Delta of Thought: Channeling Rivers of Commonsense Knowledge in the Sea of Metaphorical Interpretations" by Lieto, Pozzato and Zoia, to appear in Proceedings of the 34th International Joint Conference on Artificial Intelligence (IJCAI 2025), 16-22 August, Montreal, Canada. 
+This repository contains the data and the code described in the paper ["The Delta of Thought: Channeling Rivers of Commonsense Knowledge in the Sea of Metaphorical Interpretations"](https://github.com/StefanoZoia/METCL/blob/main/IJCAI__25_Lieto_Pozzato_Zoia.pdf) by Lieto, Pozzato and Zoia, to appear in Proceedings of the 34th International Joint Conference on Artificial Intelligence (IJCAI 2025), 16-22 August, Montreal, Canada. 
 
 ### Directory structure
 
