@@ -1,4 +1,4 @@
-CoCoS system applied to Metaphors
+METCL system applied to Metaphors
 
 A Python tool for dynamic generation of knowledge in Description Logics of
 Typicality tested in the contexts of RaiPlay, WikiArt Emotions, and ArsMeteo
