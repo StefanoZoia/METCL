@@ -22,7 +22,7 @@ In the second main folder of the repository "Results of the automatic evaluation
 
 ### Install requirements to run METCL
 
-1. Inside the METCL for generation folder, create a python venv with `python -m venv .venv`
+1. Create a python venv with `python -m venv .venv`
 2. If the venv is not already active, activate it with `.venv/Scripts/activate`
 3. Install the required dependencies with `pip install -r requirements.txt`
 4. Running the conceptual combination module requires Java to be installed on your computer. If you get an "Unexpected error during reasoning", please check your Java installation.

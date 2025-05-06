@@ -32,21 +32,27 @@ mnex_metcl = None
 with open("data/mn_examples_classified_dict.json", "r", encoding="utf-8") as jsonfile:
     mnex_metcl = dict(json.load(jsonfile))
 
-# extend mn classes
-for combination in mnex_metcl.values():
-    if combination not in mn_classes:
-        mn_classes.append(combination)
+classified = dict()
 
+#####################
+# Parameter Setting #
+#####################
+
+RESULTS_PATH = "prompt-fewshot-out/EXTENDED-mnex-ministral-3b.csv"
+EXTENDED = True
 
 # read output
 
-classified = dict()
-
-with open("prompt-zs-out/EXTENDED-mnex-deepseek-r1.csv", encoding="utf-8") as file:
+with open(RESULTS_PATH, encoding="utf-8") as file:
     reader = csv.reader(file, delimiter=",")
     for row in reader:
         classified[row[0]] = row[1]
 
+# extend mn classes
+if EXTENDED:
+    for combination in mnex_metcl.values():
+        if combination not in mn_classes:
+            mn_classes.append(combination)
 
 # check that each example has been elaborated and compute stats
 
@@ -68,7 +74,7 @@ for sentence in mn_examples:
                 llm.add(sentence)
                 if classified[sentence] in mn_example_class[sentence]:
                     count_hit += 1
-                elif sentence in mnex_metcl and classified[sentence] == mnex_metcl[sentence]:
+                elif EXTENDED and sentence in mnex_metcl and classified[sentence] == mnex_metcl[sentence]:
                     count_metcl_hit += 1
                 else:
                     count_miss += 1

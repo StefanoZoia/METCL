@@ -90,7 +90,7 @@ TEMPLATE = FEW_SHOT_TEMPLATE
 OUT_PATH = "prompt-fs-out/electra-large"
 
 DATASET = "MN" #"MN" or "NN450"
-ENRICH = False    #if True, adds the combined concepts as possible classes
+EXTEND = False    #if True, adds the combined concepts as possible classes
 BATCH_START = 0
 BATCH_END = 853
 
@@ -101,8 +101,8 @@ TOKEN = "your huggingface token"
 # Setup #
 #########
 
-# if ENRICH is specified, add the generated combined concepts as classes
-if ENRICH:
+# if EXTEND is True, add the generated combined concepts as classes
+if EXTEND:
     if DATASET == "MN":
         for combination in mnex_metcl.values():
             if combination not in mn_classes:

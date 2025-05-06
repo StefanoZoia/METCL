@@ -88,7 +88,7 @@ H_TEMPLATE = DEFAULT_TEMPLATE
 OUT_PATH = "zeroshot-out/nn450-llama-3-8b-instruct"
 
 DATASET = "nn450" #"MN" or "NN450"
-ENRICH = False    #if True, adds the combined concepts as possible classes
+EXTEND = False    #if True, adds the combined concepts as possible classes
 
 BATCH_START = 0
 BATCH_END = 450
@@ -97,8 +97,8 @@ BATCH_END = 450
 # Setup #
 #########
 
-# if ENRICH is specified, add the generated combined concepts as classes
-if ENRICH:
+# if EXTEND is True, add the generated combined concepts as classes
+if EXTEND:
     if DATASET == "MN":
         for combination in mnex_metcl.values():
             if combination not in mn_classes:

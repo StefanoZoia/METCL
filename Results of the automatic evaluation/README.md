@@ -1,8 +1,8 @@
-DESCRIPTION
+### DESCRIPTION
 
 This folder contains the code and the results of the automatic evaluation for the classification task briefly described below.
 
-METAPHOR CLASSIFICATION TASK
+### METAPHOR CLASSIFICATION TASK
 
 Given a metaphorical sentence and the annotation of the source and target concepts inside the sentence, 
 find the conceptual metaphor in MetaNet (or MetaNet Extended) that best fits the sentence, or return the residual class (OTHER) 
@@ -11,18 +11,18 @@ if none of the conceptual metaphors fit.
 In this directory, you find the code to run the metaphor classification with the LLMs freely available on HuggingFace.
 The experiments with GPT4o, DeepSeek-R1 and Qwen2.5-Max were executed by manually prompting the models.
 
-CONTENTS OF THIS DIRECTORY
+### CONTENTS OF THIS DIRECTORY
 
-data - contains the datasets, the annotations and the results of METCL generation used to perform the metaphor classification task
-zero_shot_classify.py - runs the classification task using the zero-shot classification pipeline from HuggingFace
-zeroshot-out - contains the output of the classification using the zero-shot classification pipeline from HuggingFace
-prompt_classify.py - runs the classification task using the text generation pipeline from HuggingFace
-prompt-zeroshot-out - contains the output of the classification using the text generation pipeline from HuggingFace in a zero shot setting
-prompt-fewshot-out - contains the output of the classification using the text generation pipeline from HuggingFace in a few shot setting
-nn-450-stats.py - computes the performance measures of a classification of the sentences in the NN450 dataset
-mn-examples-stats.py - computes the performance measures of a classification of the sentences in the MetaNet dataset
+- data - contains the datasets, the annotations and the results of METCL generation used to perform the metaphor classification task
+- zero_shot_classify.py - runs the classification task using the zero-shot classification pipeline from HuggingFace
+- zeroshot-out - contains the output of the classification using the zero-shot classification pipeline from HuggingFace
+- prompt_classify.py - runs the classification task using the text generation pipeline from HuggingFace
+- prompt-zeroshot-out - contains the output of the classification using the text generation pipeline from HuggingFace in a zero shot setting
+- prompt-fewshot-out - contains the output of the classification using the text generation pipeline from HuggingFace in a few shot setting
+- nn-450-stats.py - computes the performance measures of a classification of the sentences in the NN450 dataset
+- mn-examples-stats.py - computes the performance measures of a classification of the sentences in the MetaNet dataset
 
-HOW TO RUN THE LLM CLASSIFICATION
+### HOW TO RUN THE LLM CLASSIFICATION
 
 You can decide to run the classification in a zero-shot setting using the "zero_shot_classify.py" script, or in a few-shot setting
 using the "prompt_classify.py" script.
@@ -33,7 +33,7 @@ under the "Parameters Setting" comment. The parameters defined there specify:
 - H_TEMPLATE: the instruction given to the model. Leave unchanged if you want to repeat the experiment.
 - OUT_PATH: the relative path for the output file
 - DATASET: if you want to classify the sentences from NN450 or from MetaNet
-- ENRICH: True if you want to use the classes from MetaNet Extended, False if you want to use the original MetaNet classes
+- EXTEND: True if you want to use the classes from MetaNet Extended, False if you want to use the original MetaNet classes
 - BATCH_START and BATCH_END: the indexes of the sentences to classify. The default values are 0 and 450 for NN450; 0 and 853 for MetaNet examples.
 
 Run using the command:
@@ -48,6 +48,17 @@ The other parameters are used as in the zero-shot setting, except for:
 In this case, run using the command:
 python prompt_classify.py
 
+### HOW TO COMPUTE THE PERFORMANCE MEASURES
 
+The results of the classification task are computed by
+- the nn-450-stats.py script (for the classification of the NN450 dataset sentences)
+- the mn-examples-stats.py script (for the classification of the MetaNet examples)
 
+Both files need two parameters to be set: you can find them under the "Parameters Setting" comment:
+- RESULTS_PATH: The path to the csv file containing the output of the classification
+- EXTENDED: True if the classification used the classes from MetaNet Extended, False if it used the original MetaNet classes
 
+The command to compute the performance measures, depending on the dataset, is:
+python nn-450-stats.py
+or
+python mn-examples-stats.py
