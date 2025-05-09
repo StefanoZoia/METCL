@@ -118,5 +118,6 @@ class Table:
                 row[i] = 1 - row[i]
         
         # if the resulting ontology is not consistent, there is a conflict
+        # Note that the rigid properties are not considered in this check
         onto = om.OntologyManager(self.data.typical_attrs, [], row)
         return onto.is_consistent()

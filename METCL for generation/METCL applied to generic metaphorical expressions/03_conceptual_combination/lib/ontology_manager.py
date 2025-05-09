@@ -131,7 +131,8 @@ class OntologyManager:
         except subprocess.CalledProcessError as inst:
             return False
         except Exception as e:
-            print("Unexpected error during reasoning:", e)
+            print(f"Unexpeced error during reasoning: {e}")
+            return False
         # if no exceptions are raised, the ontology is consistent
         return True    
 
