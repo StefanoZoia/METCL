@@ -73,7 +73,7 @@ Generation of the prototypes of metaphorical concepts by conceptual combination.
 
 ### Input
 
-1. The representation of rigid and typical properties of the concepts involved in the combinatio (we not consider all the proprerties as typical)
+1. The representation of rigid and typical properties of the concepts involved in the combination (we now consider all the proprerties as typical)
 2. The tsv representation of the metaphors
 
 ### Output
