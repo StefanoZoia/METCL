@@ -10,6 +10,12 @@ from datetime import timedelta
 import torch
 from transformers import pipeline, AutoTokenizer
 
+# read demo
+
+demo_sentences = list()
+with open("data/demo.txt", encoding="utf-8") as demofile:
+    demo_sentences = demofile.readlines()
+
 # read nn-450 sentences
 
 nn450_sentences = list()
@@ -84,15 +90,15 @@ Class:"""
 # Parameters Setting #
 ######################
 
-MODEL = "smeoni/nbme-electra-large-generator"
+MODEL = "tiiuae/falcon-7b-instruct"
 TEMPLATE = FEW_SHOT_TEMPLATE
 
-OUT_PATH = "prompt-fs-out/electra-large"
+OUT_PATH = "prompt-fewshot-out/demo"
 
-DATASET = "MN" #"MN" or "NN450"
-EXTEND = False    #if True, adds the combined concepts as possible classes
+DATASET = "DEMO" #"MN" or "NN450"
+EXTEND = True    #if True, adds the combined concepts as possible classes
 BATCH_START = 0
-BATCH_END = 853
+BATCH_END = 1
 
 TOKEN = "your huggingface token"
 
@@ -111,6 +117,8 @@ if EXTEND:
         for combination in nn450_metcl.values():
             if combination not in mn_classes:
                 mn_classes.append(combination)
+    elif DATASET == "DEMO":
+        pass
     else:
         raise Exception(f"Invalid dataset specified: {DATASET}")
 
@@ -130,6 +138,8 @@ if DATASET == "MN":
     sentences_list = mn_examples
 elif DATASET == "NN450":
     sentences_list = nn450_sentences
+elif DATASET == "DEMO":
+    sentences_list = demo_sentences
 else:
     raise Exception(f"Invalid dataset specified: {DATASET}")
 batch = sentences_list[BATCH_START:BATCH_END]
@@ -210,7 +220,7 @@ def partial_classification(prompt_template, example, classes):
 def classification_step(prompt_template, example, classes, max_classes):
     selected_classes = list()
 
-    # split the classes
+    # split the classestiiuae/falcon-7b-instructtiiuae/falcon-7b-instruct
     classes_splits = [classes[i:i+max_classes] for i in range(0, len(classes), max_classes)]
 
     for split in classes_splits:
@@ -257,7 +267,7 @@ for i, sentence in enumerate(batch):
             writer = csv.writer(csvfile, quoting=csv.QUOTE_MINIMAL)
             if DATASET == "MN":
                 writer.writerow([sentence, result, mn_example_class[sentence]])
-            elif DATASET == "NN450":
+            elif DATASET == "NN450" or DATASET == "DEMO":
                 writer.writerow([sentence, result])
             else:
                 raise Exception("Invalid dataset")
@@ -266,7 +276,7 @@ for i, sentence in enumerate(batch):
             writer = csv.writer(csvfile, quoting=csv.QUOTE_MINIMAL)
             if DATASET == "MN":
                 writer.writerow([sentence, "NONE", mn_example_class[sentence]])
-            elif DATASET == "NN450":
+            elif DATASET == "NN450" or DATASET == "DEMO":
                 writer.writerow([sentence, "NONE"])
             else:
                 raise Exception("Invalid dataset")

@@ -1,0 +1,30 @@
+Title: rage-burning
+
+Head Concept Name: rage
+Modifier Concept Name: burning
+
+
+
+
+
+T(modifier), execution, 0.808
+T(modifier), change_of_integrity, 0.808
+T(modifier), torture, 0.803
+T(modifier), lighter, 0.796
+T(modifier), decomposition, 0.775
+T(modifier), candle, 0.77
+T(modifier), energy_conversion_process, 0.751
+T(modifier), cigarette, 0.748
+
+T(head), anger, 0.916
+T(head), violence, 0.848
+T(head), desire, 0.834
+T(head), hard_to_control, 0.83
+T(head), be, 0.803
+T(head), kill, 0.749
+T(head), rock_band, 0.749
+T(head), fighting_war, 0.72
+
+
+Result: {"execution": 0.808, "change_of_integrity": 0.808, "torture": 0.803, "anger": 0.916, "violence": 0.848, "desire": 0.834, "hard_to_control": 0.83, "be": 0.803, "@scenario_probability": 0.00026450577882520165}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.00026450577882520165]

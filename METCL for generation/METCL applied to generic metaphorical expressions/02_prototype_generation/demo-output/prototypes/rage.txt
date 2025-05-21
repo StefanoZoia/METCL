@@ -1,0 +1,8 @@
+anger: 0.916
+violence: 0.848
+desire: 0.834
+hard_to_control: 0.83
+be: 0.803
+kill: 0.749
+rock_band: 0.749
+fighting_war: 0.72

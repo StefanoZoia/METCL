@@ -3,11 +3,11 @@
 ######################################
 
 # path to the file containing the corpus
-CORPUS_FILE = '../01_dataset_building/output/metanet_corpus.tsv'
+CORPUS_FILE = '../01_dataset_building/demo/demo.tsv'
 # CORPUS_FILE = '../01_dataset_building/output/nn450_corpus.tsv'
 
 # path to the output file of cn_rel_getter - input for prototyper
-INTERMEDIATE_FILE = 'data/cn-represented.tsv'
+INTERMEDIATE_FILE = 'data/demo-cn-represented.tsv'
 
 # Language code for the data to be processed
 lang_code = 'en'
@@ -18,10 +18,10 @@ lang_code = 'en'
 ###################################
 
 # path to the output file containing only the prototyped rows of the original corpus
-OUT_FILE = 'output/prototyped.tsv'
+OUT_FILE = 'demo-output/prototyped.tsv'
 
 # path to directory where prototypes of concepts will be saved
-PROTOTYPE_DIR = 'output/prototypes'
+PROTOTYPE_DIR = 'demo-output/prototypes'
 
 # minimum and maximum number of typical properties in a prototype
 MIN_PROP = 2
